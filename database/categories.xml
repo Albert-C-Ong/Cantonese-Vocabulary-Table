@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+  
+  <category>
+    <name>Adjectives</name>
+    <chinese>形容詞</chinese>
+  </category>
+  
+    <subcategories parent="adjectives">
+
+      <subcategory>
+        <name>Climate</name>
+        <chinese>氣候</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Emotions</name>
+        <chinese>情感</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Flavors</name>
+        <chinese>滋味</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Personality</name>
+        <chinese>性格</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Sexuality</name>
+        <chinese>性</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Textures</name>
+        <chinese>質地</chinese>
+      </subcategory>
+
+    </subcategories>
+  
+  <category>
+    <name>Adverbs</name>
+    <chinese>副詞</chinese>
+  </category>
+  
+  <category>
+    <name>Nouns</name>
+    <chinese>名詞</chinese>
+  </category>
+  
+    <subcategories parent="nouns">
+
+      <subcategory>
+        <name>Age Groups</name>
+        <chinese>年齡組</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Animals</name>
+        <chinese>動物</chinese>
+      </subcategory>
+        
+        <subcategories parent="animals">
+          <subcategory>
+            <name>Seafood</name>
+            <chinese>海鮮</chinese>
+          </subcategory>
+        </subcategories>
+
+      <subcategory>
+        <name>Astronomy</name>
+        <chinese>天文</chinese>
+      </subcategory>
+      
+        <subcategories parent="astronomy">
+          <subcategory>
+            <name>Planets</name>
+            <chinese>星球</chinese>
+          </subcategory>
+
+          <subcategory>
+            <name>Galilean Moons</name>
+            <chinese>伽利略衛星</chinese>
+          </subcategory>
+        </subcategories>
+      
+      <subcategory incomplete="true">
+        <name>Bathroom</name>
+        <chinese>廁所</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Body Parts</name>
+        <chinese>身體</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Buildings</name>
+        <chinese>建築</chinese>
+      </subcategory>
+      
+        <subcategories parent="buildings">
+          <subcategory incomplete="true">
+            <name>Rooms</name>
+            <chinese>房</chinese>
+          </subcategory>
+        </subcategories>
+      
+      <subcategory>
+        <name>Business</name>
+        <chinese>生意</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Classifiers</name>
+        <chinese>量詞</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Clothing</name>
+        <chinese>衣服</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Colors</name>
+        <chinese>顏色</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Competition</name>
+        <chinese>比賽</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Containers</name>
+        <chinese>容器</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Countries and Regions</name>
+        <chinese>國家及區域</chinese>
+      </subcategory>
+      
+        <subcategories parent="countries-and-regions">
+          <subcategory incomplete="true">
+            <name>Cities</name>
+            <chinese>城市</chinese>
+          </subcategory>
+
+          <subcategory incomplete="true">
+            <name>States</name>
+            <chinese>州</chinese>
+          </subcategory>
+        </subcategories>
+      
+      <subcategory incomplete="true">
+        <name>Culture</name>
+        <chinese>文化</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Directions</name>
+        <chinese>方向</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Discrimination</name>
+        <chinese>歧視</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Drugs</name>
+        <chinese>毒品</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Family and Friends</name>
+        <chinese>家庭及朋友</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Fantasy</name>
+        <chinese>奇幻</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Food</name>
+        <chinese>飯</chinese>
+      </subcategory>
+      
+        <subcategories parent="food">
+          
+          <subcategory>
+            <name>Dairy</name>
+            <chinese>奶品</chinese>
+          </subcategory>
+
+          <subcategory>
+            <name>Desserts</name>
+            <chinese>甜品</chinese>
+          </subcategory>
+
+          <subcategory incomplete="true">
+            <name>Dimsum</name>
+            <chinese>點心</chinese>
+          </subcategory>
+
+          <subcategory>
+            <name>Drinks</name>
+            <chinese>嘢飲</chinese>
+          </subcategory>
+
+          <subcategory>
+            <name>Fruits</name>
+            <chinese>水果</chinese>
+          </subcategory>
+
+          <subcategory incomplete="true">
+            <name>Grain</name>
+            <chinese>(穀物</chinese>
+          </subcategory>
+
+          <subcategory>
+            <name>Vegetables</name>
+            <chinese>蔬菜</chinese>
+          </subcategory>
+          
+        </subcategories>
+      
+      <subcategory>
+        <name>Furniture</name>
+        <chinese>家具</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Games</name>
+        <chinese>遊戲</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Geography</name>
+        <chinese>地理</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Grammar</name>
+        <chinese>文法</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Healthcare</name>
+        <chinese>保建</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Holidays</name>
+        <chinese>假日</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Kitchenware</name>
+        <chinese>廚房用具</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Languages</name>
+        <chinese>語言</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Materials</name>
+        <chinese>材料</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Mathematics</name>
+        <chinese>數學</chinese>
+      </subcategory>
+      
+        <subcategories parent="mathematics">
+          
+          <subcategory>
+            <name>Three-dimensional Shapes</name>
+            <chinese>三維形狀</chinese>
+          </subcategory>
+
+          <subcategory>
+            <name>Two-dimensional Shapes</name>
+            <chinese>二維形狀</chinese>
+          </subcategory>
+          
+        </subcategories>
+      
+      <subcategory>
+        <name>Measurements</name>
+        <chinese>量度</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Media</name>
+        <chinese>媒體</chinese>
+      </subcategory>
+      
+        <subcategories parent="media">
+          
+          <subcategory>
+            <name>Anime</name>
+            <chinese>動漫</chinese>
+          </subcategory>
+
+          <subcategory incomplete="true">
+            <name>Literature</name>
+            <chinese>文學</chinese>
+          </subcategory>
+
+          <subcategory >
+            <name>Movies</name>
+            <chinese>電影</chinese>
+          </subcategory>
+          
+        </subcategories>
+      
+      <subcategory incomplete="true">
+        <name>Music</name>
+        <chinese>音樂</chinese>
+      </subcategory>
+      
+        <subcategories parent="media">
+
+          <subcategory incomplete="true">
+            <name>Instruments</name>
+            <chinese>樂器</chinese>
+          </subcategory>
+          
+          <subcategory incomplete="true">
+            <name>Genres</name>
+            <chinese>類型</chinese>
+          </subcategory>
+
+        </subcategories>
+      
+      <subcategory incomplete="true">
+        <name>Instruments</name>
+        <chinese>樂器</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Numbers</name>
+        <chinese>號碼</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Nutrition</name>
+        <chinese>營養</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Philosophy</name>
+        <chinese>哲學</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Politics</name>
+        <chinese>政治</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Professions</name>
+        <chinese>職業</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Romance</name>
+        <chinese>愛情</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Royalty</name>
+        <chinese>王權</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Religion</name>
+        <chinese>宗教</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>School</name>
+        <chinese>學校</chinese>
+      </subcategory>
+      
+        <subcategories parent="school">
+
+          <subcategory>
+            <name>Subjects</name>
+            <chinese>科目</chinese>
+          </subcategory>
+          
+        </subcategories>
+      
+      <subcategory>
+        <name>Sex</name>
+        <chinese>性事</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Sports</name>
+        <chinese>運動</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Technology</name>
+        <chinese>技術</chinese>
+      </subcategory>
+      
+        <subcategories parent="technology">
+          
+          <subcategory>
+            <name>Appliances</name>
+            <chinese>電器</chinese>
+          </subcategory>
+          
+        </subcategories>
+      
+      <subcategory>
+        <name>Time</name>
+        <chinese>時間</chinese>
+      </subcategory>
+      
+        <subcategories parent="time">
+          
+          <subcategory>
+            <name>Seasons</name>
+            <chinese>季</chinese>
+          </subcategory>
+          
+        </subcategories>
+      
+      <subcategory>
+        <name>Transportation</name>
+        <chinese>交通</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Videogames</name>
+        <chinese>??</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>War</name>
+        <chinese>戰爭</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Weaponry</name>
+        <chinese>兵器</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Weather</name>
+        <chinese>天氣</chinese>
+      </subcategory>
+    </subcategories>
+
+  <category>
+    <name>Pronouns</name>
+    <chinese>代詞</chinese>
+  </category>
+  
+  <category>
+    <name>Verbs</name>
+    <chinese>動詞</chinese>
+  </category>
+  
+    <subcategories parent="verbs">
+      
+      <subcategory>
+        <name>Activities</name>
+        <chinese>活動</chinese>
+      </subcategory>
+      
+        <subcategories parent="activities">
+          
+          <subcategory>
+            <name>Travel</name>
+            <chinese>旅行</chinese>
+          </subcategory>
+          
+        </subcategories>
+      
+      <subcategory>
+        <name>Affection</name>
+        <chinese>戀情</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Arithmetic</name>
+        <chinese>算術</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Cooking</name>
+        <chinese>煮飯</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Commerce</name>
+        <chinese>商業</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Communication</name>
+        <chinese>通訊</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Crime</name>
+        <chinese>罪行</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Emotions</name>
+        <chinese>請感</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Exercise</name>
+        <chinese>運動</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Hygiene</name>
+        <chinese>衛生</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Illness</name>
+        <chinese>(病</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>School</name>
+        <chinese>學校</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Socialization</name>
+        <chinese>周旋</chinese>
+      </subcategory>
+      
+      <subcategory>
+        <name>Work</name>
+        <chinese>工</chinese>
+      </subcategory>
+      
+    </subcategories>
+  
+  <category >
+    <name>Other</name>
+    <chinese>其他</chinese>
+  </category>
+  
+    <subcategories parent="other">    
+      <subcategory>
+        <name>Common Phrases</name>
+        <chinese>普遍短語</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Questions</name>
+        <chinese>問題</chinese>
+      </subcategory>
+
+      <subcategory>
+        <name>Onomatopoeia</name>
+        <chinese>象聲詞</chinese>
+      </subcategory>
+
+      <subcategory incomplete="true">
+        <name>Profanity</name>
+        <chinese>髒話</chinese>
+      </subcategory>
+
+      <subcategory incomplete="true">
+        <name>Slang</name>
+        <chinese>俗語</chinese>
+      </subcategory>
+    </subcategories>
+</categories>
