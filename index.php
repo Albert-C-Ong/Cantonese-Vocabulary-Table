@@ -1,8 +1,10 @@
 <?php
 /* Written by Albert Ong
  *
- * Revision: 2019.12.11
+ * Revision: 2019.12.21
  */ 
+
+include "word_class.php"; 
 
 function countCategories($categories) {
   
@@ -25,7 +27,7 @@ function countCategories($categories) {
 
 
 
-function printCategories($categories, $head = true, $dividing_indices = array(), $count = 0) {
+function printCategories($categories, $head = true, $subhead = false, $dividing_indices = array(), $count = 0) {
   
   if ($head) {
     
@@ -48,9 +50,13 @@ function printCategories($categories, $head = true, $dividing_indices = array(),
     
     if ($tag_name == "subcategories") {
       
-       // echo "<ul>\n"; 
-       $count = printCategories($category, false, $dividing_indices, $count);   
-       // echo "</ul>\n"; 
+       $next_subhead = true; 
+      
+       if ($subhead == true) {
+         $next_subhead = false;
+       }
+      
+       $count = printCategories($category, false, $next_subhead, $dividing_indices, $count);   
     }
     
     else {
@@ -64,16 +70,25 @@ function printCategories($categories, $head = true, $dividing_indices = array(),
       if ($incomplete != '') {
         $incomplete_text = "(incomplete)";
       }
-
-      echo "<li>$name ($chinese) $incomplete_text</li>\n"; 
+      
+      
+      if (!$head && !$subhead) {
+        echo "<ul><ul><li>$name ($chinese) $incomplete_text</li></ul></ul>\n"; 
+      }
+      
+      else if (!$head) {
+        echo "<ul><li>$name ($chinese) $incomplete_text</li></ul>\n"; 
+      }
+      
+      else {
+        echo "<li>$name ($chinese) $incomplete_text</li>\n"; 
+      }
       
       $count += 1; 
       
       if (in_array($count, $dividing_indices)) {
         echo "</ul></td>\n<td><ul>"; 
-      }
-      
-      
+      } 
     }
   }
   
@@ -84,7 +99,69 @@ function printCategories($categories, $head = true, $dividing_indices = array(),
   
   return $count; 
 }
+
+
+function printWords($words) {
+
+  $buckets = array(); 
+  
+  foreach ($words -> children() as $word) {
+    
+    $chinese = $word -> chinese;
+    $jyutping = $word -> jyutping;
+    $pinyin = $word -> pinyin;
+    $english = $word -> english;
+    
+    $category = $word["category"]; 
+    $subcategory = $word["subcategory"]; 
+    $subcategory2 = $word["subcategory2"]; 
+    
+    $word_obj = new Word($chinese, $jyutping, $pinyin, $english, $category, $subcategory, $subcategory2); 
+    
+    $categories = $word_obj -> getCategories(); 
+    
+    
+    if (array_key_exists($categories, $buckets)) {
+      array_push($buckets[$categories], $word_obj); 
+    }
+    else {
+      $buckets[$categories] = array($word_obj);
+    }
+  }
+  
+  foreach ($buckets as $category => $bucket) {
+    
+    usort($bucket, "cmp_word"); 
+    
+    echo 
+    "<h1>$category</h1>
+      <table>
+      <tr>
+        <th>Trad. Chinese <br>正體中文</th>
+        <th>Jyutping <br>粵拼</th>
+        <th>Pinyin <br>拼音 </th>
+        <th>English <br>英文</th>
+      </tr>"; 
+    
+    foreach ($bucket as $word) {
+      
+      $chinese = $word -> chinese;
+      $jyutping = $word -> jyutping;
+      $pinyin = $word -> pinyin;
+      $english = $word -> english;
+
+      $categories = $word -> getCategories(); 
+
+      echo "<tr> 
+              <td>$chinese</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
+            </tr> "; 
+    }
+  
+    echo "</table>";
+  }
+}
 ?>
+
 
 <html>
 
@@ -104,10 +181,18 @@ function printCategories($categories, $head = true, $dividing_indices = array(),
         <?php
           $categories_file = simplexml_load_file("database/categories.xml") or die("Error: Cannot create object");
 
-          printCategories($categories_file); 
+          printCategories($categories_file);
         ?>
     </tr>
   </table>
+  
+  <?php
+  $words_file = simplexml_load_file("database/words.xml") or die("Error: Cannot create object");
+      
+  printWords($words_file); 
+    
+  ?>
+  
 </body>
 
 </html>
