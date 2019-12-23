@@ -26,8 +26,14 @@ function countCategories($categories) {
 }
 
 
-
-function printCategories($categories, $head = true, $subhead = false, $dividing_indices = array(), $count = 0) {
+function printCategories($categories, 
+                         $head = true, 
+                         $subhead = false, 
+                         $dividing_indices = array(), 
+                         $count = 0, 
+                         $parent = "") {
+  
+  global $link_to_header; 
   
   if ($head) {
     
@@ -47,7 +53,7 @@ function printCategories($categories, $head = true, $subhead = false, $dividing_
   foreach ($categories -> children() as $category) {
     
     $tag_name = $category -> getName(); 
-    
+     
     if ($tag_name == "subcategories") {
       
        $next_subhead = true; 
@@ -56,32 +62,54 @@ function printCategories($categories, $head = true, $subhead = false, $dividing_
          $next_subhead = false;
        }
       
-       $count = printCategories($category, false, $next_subhead, $dividing_indices, $count);   
+       $subcat_parent = $category["parent"]; 
+      
+       if ($parent == "") {
+         $next_parent = "$subcat_parent";
+       }
+      else {
+        $next_parent = "$parent-$subcat_parent";;
+      }
+      
+       $count = printCategories($category, false, $next_subhead, $dividing_indices, $count, $next_parent);   
     }
     
     else {
       $name = $category -> name;
+      $name_lower = strtolower($name); 
+      
       $chinese = $category -> chinese; 
 
-      $parent = $category["parent"]; 
       $incomplete = $category["incomplete"]; 
 
       $incomplete_text = ""; 
+      
       if ($incomplete != '') {
         $incomplete_text = "(incomplete)";
       }
       
       
+      if ($parent == "") {
+        $category_link = strtolower($name);
+      }
+      else {
+        $category_link = strtolower("$parent-$name");
+      }
+      
+      $category_link = str_replace(" ", "-", $category_link);
+
+      $link_to_header[$category_link] = "$name ($chinese)"; 
+      
       if (!$head && !$subhead) {
-        echo "<ul><ul><li>$name ($chinese) $incomplete_text</li></ul></ul>\n"; 
+        echo "<ul><ul><li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li></ul></ul>\n"; 
       }
       
       else if (!$head) {
-        echo "<ul><li>$name ($chinese) $incomplete_text</li></ul>\n"; 
+        echo "<ul><li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li></ul>\n"; 
       }
       
       else {
-        echo "<li>$name ($chinese) $incomplete_text</li>\n"; 
+        echo "<li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li>\n"; 
       }
       
       $count += 1; 
@@ -101,13 +129,14 @@ function printCategories($categories, $head = true, $subhead = false, $dividing_
 }
 
 
-function printWords($words) {
-
+function printWords($words, $link_to_header) {
+  
   $buckets = array(); 
   
   foreach ($words -> children() as $word) {
     
     $chinese = $word -> chinese;
+    
     $jyutping = $word -> jyutping;
     $pinyin = $word -> pinyin;
     $english = $word -> english;
@@ -134,7 +163,7 @@ function printWords($words) {
     usort($bucket, "cmp_word"); 
     
     echo 
-    "<h1>$category</h1>
+    "<h1 id='$category'>$link_to_header[$category]</h1>
       <table>
       <tr>
         <th>Trad. Chinese <br>正體中文</th>
@@ -146,14 +175,22 @@ function printWords($words) {
     foreach ($bucket as $word) {
       
       $chinese = $word -> chinese;
+      $variant= $word -> variant;
       $jyutping = $word -> jyutping;
       $pinyin = $word -> pinyin;
       $english = $word -> english;
 
       $categories = $word -> getCategories(); 
 
+      
+//      $mark = ""; 
+//
+//      if (strpos($chinese, '<br>') !== false) {
+//        $mark = strlen(explode("<br>", $chinese)[0]) . "!";
+//      }
+      
       echo "<tr> 
-              <td>$chinese</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
+              <td>$chinese<br>$variant</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
             </tr> "; 
     }
   
@@ -188,9 +225,8 @@ function printWords($words) {
   
   <?php
   $words_file = simplexml_load_file("database/words.xml") or die("Error: Cannot create object");
-      
-  printWords($words_file); 
-    
+  
+  printWords($words_file, $link_to_header);     
   ?>
   
 </body>

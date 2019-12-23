@@ -165,7 +165,7 @@
     <english>fat</english>
   </word>
   <word category='adjectives'>
-    <chinese>裸&#xA;倮</chinese>
+    <chinese>裸&lt;br&gt;倮</chinese>
     <jyutping>lo2</jyutping>
     <pinyin>luǒ</pinyin>
     <english>naked, nude</english>
@@ -576,7 +576,7 @@
     <chinese>廣大</chinese>
     <jyutping>gwong2 daai6</jyutping>
     <pinyin>guǎng dà</pinyin>
-    <english>(of an area) large, vast&#xD;(of people) numerous, diverse</english>
+    <english>(of an area) large, vast&lt;br&gt;(of people) numerous, diverse</english>
   </word>
   <word category='adjectives'>
     <chinese>低級</chinese>
@@ -855,7 +855,7 @@
     <english>brave</english>
   </word>
   <word category='adjectives' subcategory='personality'>
-    <chinese>嬾&#xD;懶</chinese>
+    <chinese>嬾&lt;br&gt;懶</chinese>
     <jyutping>laan5</jyutping>
     <pinyin>lǎn</pinyin>
     <english>lazy</english>
@@ -882,13 +882,13 @@
     <chinese>自大</chinese>
     <jyutping>zi6 daai6</jyutping>
     <pinyin>zì dà</pinyin>
-    <english>arrogant&#xD;(lit. self big)</english>
+    <english>arrogant&lt;br&gt;(lit. self big)</english>
   </word>
   <word category='adjectives' subcategory='personality'>
     <chinese>自信</chinese>
     <jyutping>zi6 seon3</jyutping>
     <pinyin>zì xìn</pinyin>
-    <english>confident&#xD;(lit. self trust)</english>
+    <english>confident&lt;br&gt;(lit. self trust)</english>
   </word>
   <word category='adjectives' subcategory='personality'>
     <chinese>黐線</chinese>
@@ -912,13 +912,13 @@
     <chinese>外向</chinese>
     <jyutping>ngoi6 hoeng3</jyutping>
     <pinyin>wài xiàng</pinyin>
-    <english>extroverted&#xD;(lit. out facing)</english>
+    <english>extroverted&lt;br&gt;(lit. out facing)</english>
   </word>
   <word category='adjectives' subcategory='personality'>
     <chinese>内向</chinese>
     <jyutping>noi6 hoeng3</jyutping>
     <pinyin>nèi xiàng</pinyin>
-    <english>interverted&#xD;(lit. inward facing)</english>
+    <english>interverted&lt;br&gt;(lit. inward facing)</english>
   </word>
   <word category='adjectives' subcategory='personality'>
     <chinese>冷靜</chinese>
@@ -999,7 +999,7 @@
     <english>rough, coarse</english>
   </word>
   <word category='adjectives' subcategory='textures'>
-    <chinese>濕&#xD;溼</chinese>
+    <chinese>濕&lt;br&gt;溼</chinese>
     <jyutping>sap1</jyutping>
     <pinyin>shī</pinyin>
     <english>wet, moist</english>
@@ -1128,7 +1128,7 @@
     <chinese>從來</chinese>
     <jyutping>cung4 lai4</jyutping>
     <pinyin>cóng lái</pinyin>
-    <english>always, never&#xD;(depending on context)</english>
+    <english>always, never&lt;br&gt;(depending on context)</english>
   </word>
   <word category='adverbs'>
     <chinese>從不</chinese>
@@ -1188,7 +1188,7 @@
     <chinese>現在</chinese>
     <jyutping>jin6 zoi6</jyutping>
     <pinyin>xiàn ​zài</pinyin>
-    <english>not, at present, at the moment&#xD;(written)</english>
+    <english>not, at present, at the moment&lt;br&gt;(written)</english>
   </word>
   <word category='adverbs'>
     <chinese>眼前</chinese>
@@ -1221,7 +1221,7 @@
     <english>probably, possibly, might, perhaps</english>
   </word>
   <word category='adverbs'>
-    <chinese>淨係&#xD;净係</chinese>
+    <chinese>淨係&lt;br&gt;净係</chinese>
     <jyutping>zing6 hai6</jyutping>
     <pinyin>jìng xì</pinyin>
     <english>only</english>
@@ -1278,13 +1278,13 @@
     <chinese>平日</chinese>
     <jyutping>ping4 jat4</jyutping>
     <pinyin>píng rì</pinyin>
-    <english>usually, ordinarily&#xD;(lit. ordinary day)</english>
+    <english>usually, ordinarily&lt;br&gt;(lit. ordinary day)</english>
   </word>
   <word category='adverbs'>
     <chinese>平時</chinese>
     <jyutping>ping4 si4</jyutping>
     <pinyin>píng shí</pinyin>
-    <english>normally, usually, ordinarily&#xD;(lit. ordinary time)</english>
+    <english>normally, usually, ordinarily&lt;br&gt;(lit. ordinary time)</english>
   </word>
   <word category='adverbs'>
     <chinese>經常</chinese>
@@ -1293,7 +1293,7 @@
     <english>often, frequently, regularly</english>
   </word>
   <word category='adverbs'>
-    <chinese>陣間&#xD;陣閒</chinese>
+    <chinese>陣間&lt;br&gt;陣閒</chinese>
     <jyutping>zan6 gaan3</jyutping>
     <pinyin>zhèn jiān</pinyin>
     <english>soon, later, in a while</english>
@@ -1344,7 +1344,7 @@
     <chinese>左右</chinese>
     <jyutping>zo2 jau6</jyutping>
     <pinyin>zuǒ yòu</pinyin>
-    <english>about, approximately&#xD;(lit. left right)</english>
+    <english>about, approximately&lt;br&gt;(lit. left right)</english>
   </word>
   <word category='adverbs'>
     <chinese>一直</chinese>
@@ -1389,7 +1389,7 @@
     <english>furthermore, moreover, in addition</english>
   </word>
   <word category='adverbs'>
-    <chinese>之間&#xD;之閒</chinese>
+    <chinese>之間&lt;br&gt;之閒</chinese>
     <jyutping>zi1 gaan1</jyutping>
     <pinyin>zhī​ jiān</pinyin>
     <english>between, among</english>
@@ -1482,7 +1482,988 @@
     <chinese>按照字面</chinese>
     <jyutping>on3 ziu3 zi6 min6</jyutping>
     <pinyin>àn​ zhào ​zì​ miàn</pinyin>
-    <english>literally&#xD;(according to the wording)</english>
+    <english>literally&lt;br&gt;(according to the wording)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>種</chinese>
+    <jyutping>zung2</jyutping>
+    <pinyin>zhǒng</pinyin>
+    <english>type, kind</english>
+  </word>
+  <word category='nouns'>
+    <chinese>座</chinese>
+    <jyutping>zo6</jyutping>
+    <pinyin>zuò</pinyin>
+    <english>seat, stand, pedestal</english>
+  </word>
+  <word category='nouns'>
+    <chinese>宙</chinese>
+    <jyutping>zau6</jyutping>
+    <pinyin>zhòu</pinyin>
+    <english>eternity</english>
+  </word>
+  <word category='nouns'>
+    <chinese>料</chinese>
+    <jyutping>liu2</jyutping>
+    <pinyin>liào</pinyin>
+    <english>stuff, material</english>
+  </word>
+  <word category='nouns'>
+    <chinese>論</chinese>
+    <jyutping>leon4</jyutping>
+    <pinyin>lún</pinyin>
+    <english>wheel, disk</english>
+  </word>
+  <word category='nouns'>
+    <chinese>疉</chinese>
+    <jyutping>daap6</jyutping>
+    <pinyin>dié</pinyin>
+    <english>pile, later</english>
+  </word>
+  <word category='nouns'>
+    <chinese></chinese>
+  </word>
+  <word category='nouns'>
+    <chinese>嘢</chinese>
+    <jyutping>je5</jyutping>
+    <pinyin>yě</pinyin>
+    <english>thing, matter, stuff</english>
+  </word>
+  <word category='nouns'>
+    <chinese>半</chinese>
+    <jyutping>bun3</jyutping>
+    <pinyin>bàn</pinyin>
+    <english>half, semi</english>
+  </word>
+  <word category='nouns'>
+    <chinese>型</chinese>
+    <jyutping>jing4</jyutping>
+    <pinyin>xíng</pinyin>
+    <english>type, style, model</english>
+  </word>
+  <word category='nouns'>
+    <chinese>款</chinese>
+    <jyutping>fun2</jyutping>
+    <pinyin>kuǎn</pinyin>
+    <english>model, type, appearance</english>
+  </word>
+  <word category='nouns'>
+    <chinese>部</chinese>
+    <jyutping>bou6</jyutping>
+    <pinyin>bù</pinyin>
+    <english>section, part, department</english>
+  </word>
+  <word category='nouns'>
+    <chinese>位</chinese>
+    <jyutping>wai2</jyutping>
+    <pinyin>wèi</pinyin>
+    <english>position, location, place</english>
+  </word>
+  <word category='nouns'>
+    <chinese>另</chinese>
+    <jyutping>ling6</jyutping>
+    <pinyin>lìng</pinyin>
+    <english>another, other, separate</english>
+  </word>
+  <word category='nouns'>
+    <chinese>樣</chinese>
+    <jyutping>joeng6</jyutping>
+    <pinyin>yàng</pinyin>
+    <english>appearance, form, shape</english>
+  </word>
+  <word category='nouns'>
+    <chinese>剩</chinese>
+    <jyutping>zing6</jyutping>
+    <pinyin>shèng</pinyin>
+    <english>extra, leftover, remainder</english>
+  </word>
+  <word category='nouns'>
+    <chinese>釘</chinese>
+    <jyutping>ding1</jyutping>
+    <pinyin>dīng</pinyin>
+    <english>nail</english>
+  </word>
+  <word category='nouns'>
+    <chinese>步</chinese>
+    <jyutping>bou6</jyutping>
+    <pinyin>bù</pinyin>
+    <english>step, pace</english>
+  </word>
+  <word category='nouns'>
+    <chinese>假期</chinese>
+    <jyutping>gaa2 kei4</jyutping>
+    <pinyin>jià qī</pinyin>
+    <english>vacation</english>
+  </word>
+  <word category='nouns'>
+    <chinese>禮物</chinese>
+    <jyutping>lai5 mat6</jyutping>
+    <pinyin>lǐ wù</pinyin>
+    <english>gift, present</english>
+  </word>
+  <word category='nouns'>
+    <chinese>世界</chinese>
+    <jyutping>sai3 gaai6</jyutping>
+    <pinyin>shì jiè</pinyin>
+    <english>world</english>
+  </word>
+  <word category='nouns'>
+    <chinese>字典</chinese>
+    <jyutping>zi6 din2</jyutping>
+    <pinyin>zì diǎn</pinyin>
+    <english>dictionary</english>
+  </word>
+  <word category='nouns'>
+    <chinese>聲音</chinese>
+    <jyutping>sing1 jam1</jyutping>
+    <pinyin>shēng yīn</pinyin>
+    <english>voice, sound</english>
+  </word>
+  <word category='nouns'>
+    <chinese>笑容</chinese>
+    <jyutping>siu3 jung4</jyutping>
+    <pinyin>xiào róng</pinyin>
+    <english>smile </english>
+  </word>
+  <word category='nouns'>
+    <chinese>冇嘢</chinese>
+    <jyutping>mou5 je5</jyutping>
+    <pinyin>mǎo yě</pinyin>
+    <english>nothing</english>
+  </word>
+  <word category='nouns'>
+    <chinese>全部</chinese>
+    <jyutping>cyun4 bou6</jyutping>
+    <pinyin>quán bù</pinyin>
+    <english>everything, complete</english>
+  </word>
+  <word category='nouns'>
+    <chinese>乜都</chinese>
+    <jyutping>mat1 dou1</jyutping>
+    <pinyin>miē dōu</pinyin>
+    <english>everything, anything</english>
+  </word>
+  <word category='nouns'>
+    <chinese>謙遜</chinese>
+    <jyutping>him1 seon3</jyutping>
+    <pinyin>qiān xùn</pinyin>
+    <english>modesty</english>
+  </word>
+  <word category='nouns'>
+    <chinese>可憐</chinese>
+    <jyutping>ho2 lin4</jyutping>
+    <pinyin>kě lián</pinyin>
+    <english>pitiful, sympathy</english>
+  </word>
+  <word category='nouns'>
+    <chinese>鬼佬</chinese>
+    <jyutping>gwai2 lou2</jyutping>
+    <pinyin>guǐ lǎo</pinyin>
+    <english>foreigner, westerner</english>
+  </word>
+  <word category='nouns'>
+    <chinese>問題</chinese>
+    <jyutping>man6 tai4</jyutping>
+    <pinyin>wèn tí</pinyin>
+    <english>problem, issue, question</english>
+  </word>
+  <word category='nouns'>
+    <chinese>研究</chinese>
+    <jyutping>jin4 gau3</jyutping>
+    <pinyin>yán jiū</pinyin>
+    <english>research</english>
+  </word>
+  <word category='nouns'>
+    <chinese>規矩</chinese>
+    <jyutping>kwai1 geoi2</jyutping>
+    <pinyin>guī ju</pinyin>
+    <english>rules, practices</english>
+  </word>
+  <word category='nouns'>
+    <chinese>表面</chinese>
+    <jyutping>biu2 min6</jyutping>
+    <pinyin>biǎo miàn</pinyin>
+    <english>surface, appearance</english>
+  </word>
+  <word category='nouns'>
+    <chinese>古跡</chinese>
+    <jyutping>gu2 zek</jyutping>
+    <pinyin>gǔ jì</pinyin>
+    <english>historical site</english>
+  </word>
+  <word category='nouns'>
+    <chinese>風格</chinese>
+    <jyutping>fung1 gaak3</jyutping>
+    <pinyin>fēng gé</pinyin>
+    <english>style</english>
+  </word>
+  <word category='nouns'>
+    <chinese>口音</chinese>
+    <jyutping>hau2 jam1</jyutping>
+    <pinyin>kǒu yīn</pinyin>
+    <english>accent</english>
+  </word>
+  <word category='nouns'>
+    <chinese>印象</chinese>
+    <jyutping>jan3 zoeng6</jyutping>
+    <pinyin>yìn xiàng</pinyin>
+    <english>impression</english>
+  </word>
+  <word category='nouns'>
+    <chinese>原因</chinese>
+    <jyutping>jyun4 jan1</jyutping>
+    <pinyin>yuán yīn</pinyin>
+    <english>reason, cause</english>
+  </word>
+  <word category='nouns'>
+    <chinese>前途</chinese>
+    <jyutping>cin4 lou4</jyutping>
+    <pinyin>qián tú</pinyin>
+    <english>future, prospects</english>
+  </word>
+  <word category='nouns'>
+    <chinese>衰人</chinese>
+    <jyutping>seoi1 jan4</jyutping>
+    <pinyin>shuāi rén</pinyin>
+    <english>loser, jerk</english>
+  </word>
+  <word category='nouns'>
+    <chinese>答案</chinese>
+    <jyutping>daap3 on3</jyutping>
+    <pinyin>dá àn</pinyin>
+    <english>answer, solution</english>
+  </word>
+  <word category='nouns'>
+    <chinese>睡袋</chinese>
+    <jyutping>seoi6 doi6</jyutping>
+    <pinyin>shuì​ dài</pinyin>
+    <english>sleeping bag</english>
+  </word>
+  <word category='nouns'>
+    <chinese>銀仔</chinese>
+    <jyutping>ngan2 zai2</jyutping>
+    <pinyin>yín zǐ</pinyin>
+    <english>coin</english>
+  </word>
+  <word category='nouns'>
+    <chinese>垃圾</chinese>
+    <jyutping>laap6 saap3</jyutping>
+    <pinyin>lā ​jī</pinyin>
+    <english>garbage, trash, junk</english>
+  </word>
+  <word category='nouns'>
+    <chinese>力量</chinese>
+    <jyutping>lik6 loeng6</jyutping>
+    <pinyin>lì​ liang</pinyin>
+    <english>power, force, strength</english>
+  </word>
+  <word category='nouns'>
+    <chinese>悖論</chinese>
+    <jyutping>bui6 leon6</jyutping>
+    <pinyin>bèi​ lùn</pinyin>
+    <english>paradox (logic)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>爆炸</chinese>
+    <jyutping>baau3 zaa3</jyutping>
+    <pinyin>bào​ zhà</pinyin>
+    <english>explosion垃圾傾偈</english>
+  </word>
+  <word category='nouns'>
+    <chinese>喪禮</chinese>
+    <jyutping>song1 lai5</jyutping>
+    <pinyin>sāng ​lǐ</pinyin>
+    <english>funeral&lt;br&gt;(lit. mourning ceremony)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>一對</chinese>
+    <jyutping>jat1 deoi3</jyutping>
+    <pinyin>yī​ duì</pinyin>
+    <english>a pair (of objects)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>日誌&lt;br&gt;日志</chinese>
+    <jyutping>jat6 zi3</jyutping>
+    <pinyin>rì ​zhì </pinyin>
+    <english>journal, diary&lt;br&gt;(lit. day record)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>件事</chinese>
+    <jyutping>gin6 si6</jyutping>
+    <pinyin>jiàn shì​</pinyin>
+    <english>event, incident, occurrence</english>
+  </word>
+  <word category='nouns'>
+    <chinese>週年&lt;br&gt;周年</chinese>
+    <jyutping>zau1 nin4</jyutping>
+    <pinyin>zhōu​ nián</pinyin>
+    <english>anniversary</english>
+  </word>
+  <word category='nouns'>
+    <chinese>設計</chinese>
+    <jyutping>cit3 gai2</jyutping>
+    <pinyin>shè jì</pinyin>
+    <english>plan, design</english>
+  </word>
+  <word category='nouns'>
+    <chinese>先生</chinese>
+    <jyutping>sin1 saang1</jyutping>
+    <pinyin>xiān​ sheng</pinyin>
+    <english>Mister (Mr.), sir</english>
+  </word>
+  <word category='nouns'>
+    <chinese>山景</chinese>
+    <jyutping>saan1 ging2</jyutping>
+    <pinyin>shān jǐng</pinyin>
+    <english>mountain view, mountain scenery</english>
+  </word>
+  <word category='nouns'>
+    <chinese>精神</chinese>
+    <jyutping>zing1 san4</jyutping>
+    <pinyin>jīng ​shén</pinyin>
+    <english>spirit, mind, vitality</english>
+  </word>
+  <word category='nouns'>
+    <chinese>勇氣</chinese>
+    <jyutping>jung5 hei3</jyutping>
+    <pinyin>yǒng​ qì</pinyin>
+    <english>courage, valor</english>
+  </word>
+  <word category='nouns'>
+    <chinese>膽識</chinese>
+    <jyutping>daam2 sik1</jyutping>
+    <pinyin>dǎn​ shí</pinyin>
+    <english>courage (courage)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>膽量</chinese>
+    <jyutping>daam2 loeng6</jyutping>
+    <pinyin>dǎn liàng</pinyin>
+    <english>courage, boldness, guts&lt;br&gt;>(written)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>圖案</chinese>
+    <jyutping>tou4 on3</jyutping>
+    <pinyin>tú àn</pinyin>
+    <english>design, pattern, sketch</english>
+  </word>
+  <word category='nouns'>
+    <chinese>行程</chinese>
+    <jyutping>hang4 cing4</jyutping>
+    <pinyin>xíng chéng</pinyin>
+    <english>journey, trip</english>
+  </word>
+  <word category='nouns'>
+    <chinese>展覽</chinese>
+    <jyutping>zin2 laam5</jyutping>
+    <pinyin>zhǎn lǎn</pinyin>
+    <english>exhibit, exhibition, show</english>
+  </word>
+  <word category='nouns'>
+    <chinese>關口&lt;br&gt;関口</chinese>
+    <jyutping>gwaan1 hau2</jyutping>
+    <pinyin>guān ​kǒu</pinyin>
+    <english>gateway, juncture</english>
+  </word>
+  <word category='nouns'>
+    <chinese>街坊</chinese>
+    <jyutping>gaai1 fong1</jyutping>
+    <pinyin>jiē fāng</pinyin>
+    <english>neighbour, neighbourhood</english>
+  </word>
+  <word category='nouns'>
+    <chinese>人生</chinese>
+    <jyutping>jan4 saang1</jyutping>
+    <pinyin>rén ​shēng</pinyin>
+    <english>life (one's time on earth)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>目標</chinese>
+    <jyutping>muk6 biu1</jyutping>
+    <pinyin>mù​ biāo</pinyin>
+    <english>target, goal , objective</english>
+  </word>
+  <word category='nouns'>
+    <chinese>目的</chinese>
+    <jyutping>muk6 di1</jyutping>
+    <pinyin>mù​ dì</pinyin>
+    <english>purpose, aim , goal</english>
+  </word>
+  <word category='nouns'>
+    <chinese>家當&lt;br&gt;傢當</chinese>
+    <jyutping>gaa1 dong3</jyutping>
+    <pinyin>jiā dàng</pinyin>
+    <english>family belongings, property</english>
+  </word>
+  <word category='nouns'>
+    <chinese>鹹魚&lt;br&gt;咸魚</chinese>
+    <jyutping>haam4 jyu4</jyutping>
+    <pinyin>xián yú</pinyin>
+    <english>salted fish&lt;br&gt;zombie (slang)</english>
+  </word>
+  <word category='nouns'>
+    <chinese>事情</chinese>
+    <jyutping>si6 cing4</jyutping>
+    <pinyin>shì​ qing</pinyin>
+    <english>affair, business, matter, thing</english>
+  </word>
+  <word category='nouns'>
+    <chinese>實測</chinese>
+    <jyutping>sat6 caak1</jyutping>
+    <pinyin>shí cè</pinyin>
+    <english>real measurement, on-the-spot survey</english>
+  </word>
+  <word category='nouns'>
+    <chinese>忠粉</chinese>
+    <jyutping>zung1 fan2</jyutping>
+    <pinyin>zhōng fěn</pinyin>
+    <english>(slang) loyal fan</english>
+  </word>
+  <word category='nouns'>
+    <chinese>災難</chinese>
+    <jyutping>zoi1 naan6</jyutping>
+    <pinyin>zāi nàn</pinyin>
+    <english>disaster, calamity, catastrophe</english>
+  </word>
+  <word category='nouns'>
+    <chinese>逃犯</chinese>
+    <jyutping>tou4 faan6</jyutping>
+    <pinyin>táo fàn</pinyin>
+    <english>outlaw, fugitive</english>
+  </word>
+  <word category='nouns'>
+    <chinese>市民</chinese>
+    <jyutping>si5 man4</jyutping>
+    <pinyin>shì mín</pinyin>
+    <english>city resident, townsperson</english>
+  </word>
+  <word category='nouns'>
+    <chinese>去想</chinese>
+    <jyutping>heoi2 hoeng3</jyutping>
+    <pinyin>qù xiàng</pinyin>
+    <english>the position of something, whereabouts</english>
+  </word>
+  <word category='nouns'>
+    <chinese>意見</chinese>
+    <jyutping>ji3 gin3</jyutping>
+    <pinyin>yì jiàn</pinyin>
+    <english>idea, opinion, suggestion, objection, complaint</english>
+  </word>
+  <word category='nouns'>
+    <chinese>人口</chinese>
+    <jyutping>jan4 hau2</jyutping>
+    <pinyin>rén kǒu</pinyin>
+    <english>population</english>
+  </word>
+  <word category='nouns'>
+    <chinese>步曲</chinese>
+    <jyutping>bou6 kuk1</jyutping>
+    <pinyin>bù qǔ</pinyin>
+    <english>plan</english>
+  </word>
+  <word category='nouns'>
+    <chinese>分別</chinese>
+    <jyutping>fan1 bit6</jyutping>
+    <pinyin>fēn bié</pinyin>
+    <english>difference</english>
+  </word>
+  <word category='nouns'>
+    <chinese>方法</chinese>
+    <jyutping>fong1 faat3</jyutping>
+    <pinyin>fāng fǎ</pinyin>
+    <english>method, way, manner</english>
+  </word>
+  <word category='nouns'>
+    <chinese>感受</chinese>
+    <jyutping>gam2 sau6</jyutping>
+    <pinyin>gǎn shòu</pinyin>
+    <english>experience, feeling, impression</english>
+  </word>
+  <word category='nouns'>
+    <chinese>生活</chinese>
+    <jyutping>sang1 wut6</jyutping>
+    <pinyin>shēng huó</pinyin>
+    <english>life, activity, livelihood</english>
+  </word>
+  <word category='nouns'>
+    <chinese>磁鐵&lt;br&gt;磁鐡</chinese>
+    <jyutping>ci4 tit3</jyutping>
+    <pinyin>cí tiě</pinyin>
+    <english>magnet</english>
+  </word>
+  <word category='nouns'>
+    <chinese>動力</chinese>
+    <jyutping>dung6 lik6</jyutping>
+    <pinyin>dòng lì</pinyin>
+    <english>motivation, force, impetus</english>
+  </word>
+  <word category='nouns'>
+    <chinese>周圍</chinese>
+    <jyutping>zau1 wai4</jyutping>
+    <pinyin>zhōu wéi</pinyin>
+    <english>surroundings, vincinity, environment</english>
+  </word>
+  <word category='nouns'>
+    <chinese>危機</chinese>
+    <jyutping>ngai4 gei1</jyutping>
+    <pinyin>wēi jī</pinyin>
+    <english>crisis</english>
+  </word>
+  <word category='nouns'>
+    <chinese>一些</chinese>
+    <jyutping>jat1 se1</jyutping>
+    <pinyin>yī xiē</pinyin>
+    <english>some, a few, a little</english>
+  </word>
+  <word category='nouns'>
+    <chinese>點滴</chinese>
+    <jyutping>dim2 dik1</jyutping>
+    <pinyin>diǎn dī</pinyin>
+    <english>bit, tidbit, a little bit</english>
+  </word>
+  <word category='nouns'>
+    <chinese>感悟</chinese>
+    <jyutping>gam2 ng6</jyutping>
+    <pinyin>gǎn wù</pinyin>
+    <english>realization, appreciation</english>
+  </word>
+  <word category='nouns'>
+    <chinese>成果</chinese>
+    <jyutping>sing4 gwo2</jyutping>
+    <pinyin>chéng guǒ</pinyin>
+    <english>acheivement, result, gain</english>
+  </word>
+  <word category='nouns'>
+    <chinese>東西</chinese>
+    <jyutping>dung1 sai1</jyutping>
+    <pinyin>dōng xi</pinyin>
+    <english>thing, stuff, something</english>
+  </word>
+  <word category='nouns'>
+    <chinese>冇乜嘢</chinese>
+    <jyutping>mou5 mat1 je5</jyutping>
+    <pinyin>mǎo miē yě</pinyin>
+    <english>nothing, have nothing</english>
+  </word>
+  <word category='nouns'>
+    <chinese>安全性</chinese>
+    <jyutping>ngon1 cyun4 sing3</jyutping>
+    <pinyin>ān quán xìng</pinyin>
+    <english>safety, security</english>
+  </word>
+  <word category='nouns'>
+    <chinese>大部分</chinese>
+    <jyutping>daai6 bou6 fan6</jyutping>
+    <pinyin>dà bù fèn</pinyin>
+    <english>majority, greater part</english>
+  </word>
+  <word category='nouns'>
+    <chinese>游泳池</chinese>
+    <jyutping>jau4 wing6 ci4</jyutping>
+    <pinyin>yóu​ yǒng​ chí</pinyin>
+    <english>swimming pool</english>
+  </word>
+  <word category='nouns'>
+    <chinese>掌上壓</chinese>
+    <jyutping>zoeng2 soeng6 aat3</jyutping>
+    <pinyin>zhǎng shǎng yā</pinyin>
+    <english>push-up</english>
+  </word>
+  <word category='nouns'>
+    <chinese>中年危機</chinese>
+    <jyutping>zung1 nin4 ngai4 gei1</jyutping>
+    <pinyin>zhōng nián wēi jī</pinyin>
+    <english>mid-life crisis</english>
+  </word>
+  <word category='nouns'>
+    <chinese>國家公園</chinese>
+    <jyutping>gwok3 gaa1 gung1 jyun4</jyutping>
+    <pinyin>guó jiā gōng yuán</pinyin>
+    <english>national park</english>
+  </word>
+  <word category='nouns' subcategory='age-groups'>
+    <chinese>大人</chinese>
+    <jyutping>daai6 jan4</jyutping>
+    <pinyin>dà​ ren</pinyin>
+    <english>adult, grown-up</english>
+  </word>
+  <word category='nouns' subcategory='age-groups'>
+    <chinese>細路</chinese>
+    <jyutping>sai3 lou6</jyutping>
+    <pinyin>xì lù</pinyin>
+    <english>children</english>
+  </word>
+  <word category='nouns' subcategory='age-groups'>
+    <chinese>嬰孩</chinese>
+    <jyutping>jing1 haai4</jyutping>
+    <pinyin>yīng​ hái</pinyin>
+    <english>baby, infant</english>
+  </word>
+  <word category='nouns' subcategory='age-groups'>
+    <chinese>老人家</chinese>
+    <jyutping>lou5 jan4 gaa1</jyutping>
+    <pinyin>lǎo​ rén ​jiā</pinyin>
+    <english>elderly</english>
+  </word>
+  <word category='nouns' subcategory='age-groups'>
+    <chinese>青少年</chinese>
+    <jyutping>cing1 siu2 nin4</jyutping>
+    <pinyin>qīng ​shào ​nián</pinyin>
+    <english>youth, teenagers&lt;br&gt;(lit. young few years)</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>馬</chinese>
+    <jyutping>maa5</jyutping>
+    <pinyin>mǎ</pinyin>
+    <english>horse</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>狗</chinese>
+    <jyutping>gau2</jyutping>
+    <pinyin>gǒu</pinyin>
+    <english>dog</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>貓</chinese>
+    <jyutping>maau1</jyutping>
+    <pinyin>māo</pinyin>
+    <english>cat</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>象</chinese>
+    <jyutping>zoeng6</jyutping>
+    <pinyin>xiàng</pinyin>
+    <english>elephant</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>牛</chinese>
+    <jyutping>ngau4</jyutping>
+    <pinyin>niú</pinyin>
+    <english>cow</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>雞</chinese>
+    <jyutping>gai1</jyutping>
+    <pinyin>jī</pinyin>
+    <english>chicken</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>狼</chinese>
+    <jyutping>long4</jyutping>
+    <pinyin>láng</pinyin>
+    <english>wolf</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>蛇</chinese>
+    <jyutping>se4</jyutping>
+    <pinyin>shé</pinyin>
+    <english>snake</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>豬</chinese>
+    <jyutping>zhū</jyutping>
+    <pinyin>zyu1</pinyin>
+    <english>pig</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>鳥</chinese>
+    <jyutping>liu5</jyutping>
+    <pinyin>niǎo</pinyin>
+    <english>bird</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>動物</chinese>
+    <jyutping>dung6 mat6</jyutping>
+    <pinyin>dòng wù</pinyin>
+    <english>animal</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>雀子</chinese>
+    <jyutping>zoek3 zi2</jyutping>
+    <pinyin>qiāo ​zi</pinyin>
+    <english>bird (coll.)</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>老虎</chinese>
+    <jyutping>lou5 fu2</jyutping>
+    <pinyin>lǎo hǔ</pinyin>
+    <english>tiger</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>老鼠</chinese>
+    <jyutping>lou5 syu2</jyutping>
+    <pinyin>lǎo shǔ</pinyin>
+    <english>mouse</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>山羊</chinese>
+    <jyutping>saan1 joeng4</jyutping>
+    <pinyin>shān yáng</pinyin>
+    <english>goat, mountain goat</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>綿羊</chinese>
+    <jyutping>lou5 syu2</jyutping>
+    <pinyin>mián yáng</pinyin>
+    <english>sheep</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>馬騮</chinese>
+    <jyutping>maa5 lau1</jyutping>
+    <pinyin>mǎ liú</pinyin>
+    <english>monkey</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>獅子</chinese>
+    <jyutping>si1 zi2</jyutping>
+    <pinyin>shī zi</pinyin>
+    <english>lion</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>火雞</chinese>
+    <jyutping>fo2 gai1</jyutping>
+    <pinyin>huǒ jī</pinyin>
+    <english>turkey</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>龍蝦</chinese>
+    <jyutping>lung4 haa1</jyutping>
+    <pinyin>lóng xiā</pinyin>
+    <english>lobster</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>兔子</chinese>
+    <jyutping>tou3 zi2</jyutping>
+    <pinyin>tù zi</pinyin>
+    <english>rabbit</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>晰蜴</chinese>
+    <jyutping>sik1 jik6</jyutping>
+    <pinyin>xī yì</pinyin>
+    <english>lizard</english>
+  </word>
+  <word category='nouns' subcategory='animals'>
+    <chinese>長頸鹿</chinese>
+    <jyutping>coeng4 geng2 luk2</jyutping>
+    <pinyin>cháng jǐng lù</pinyin>
+    <english>giraffe</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>魚</chinese>
+    <jyutping>jyu2</jyutping>
+    <pinyin>yú</pinyin>
+    <english>fish</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>蝦</chinese>
+    <jyutping>haa1</jyutping>
+    <pinyin>xiā</pinyin>
+    <english>shrimp</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>蠔</chinese>
+    <jyutping>háo</jyutping>
+    <pinyin>hou4</pinyin>
+    <english>oyster</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>魚蛋</chinese>
+    <jyutping>jyu4 daan2</jyutping>
+    <pinyin>yú dàn</pinyin>
+    <english>fish ball&lt;br&gt;(lit. fish egg)</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>海鮮</chinese>
+    <jyutping>hoi2 sin1</jyutping>
+    <pinyin>hǎi xiān</pinyin>
+    <english>seafood</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>鯊魚</chinese>
+    <jyutping>saa1 jyu4</jyutping>
+    <pinyin>shā yú</pinyin>
+    <english>shark</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>魷魚</chinese>
+    <jyutping>yóu yú</jyutping>
+    <pinyin>yóu yú</pinyin>
+    <english>squid</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>螃蟹</chinese>
+    <jyutping>pong4 haai5</jyutping>
+    <pinyin>páng xiè</pinyin>
+    <english>crab</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>八爪魚</chinese>
+    <jyutping>baat3 zaau2 jyu4</jyutping>
+    <pinyin>bā zhuǎ yú</pinyin>
+    <english>octopus&lt;br&gt;(lit. eight footed fish)</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>三文魚</chinese>
+    <jyutping>saam1 man4 jyu2</jyutping>
+    <pinyin>sān wén yú</pinyin>
+    <english>salmon</english>
+  </word>
+  <word category='nouns' subcategory='animals' subcategory2='seafood'>
+    <chinese>吞拿魚</chinese>
+    <jyutping>tan1 naa4 jyu2</jyutping>
+    <pinyin>tūn ná yú</pinyin>
+    <english>tuna</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>天文</chinese>
+    <jyutping>tin1 man4</jyutping>
+    <pinyin>tiān​ wén</pinyin>
+    <english>astronomy</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>重力</chinese>
+    <jyutping>cung5 lik6</jyutping>
+    <pinyin>zhòng ​lì</pinyin>
+    <english>gravity&lt;br&gt;(lit. weight power)</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>月相</chinese>
+    <jyutping>jyut6 soeng1</jyutping>
+    <pinyin>yuè ​xiàng</pinyin>
+    <english>phases of moon, lunar phase</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>全食</chinese>
+    <jyutping>cyun4 sik6</jyutping>
+    <pinyin>quán ​shí</pinyin>
+    <english>total eclipse</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>偏食</chinese>
+    <jyutping>pin1 sik6</jyutping>
+    <pinyin>piān ​shí</pinyin>
+    <english>partial eclipse</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>日食</chinese>
+    <jyutping>jat6 sik6</jyutping>
+    <pinyin>rì​ shí</pinyin>
+    <english>solar eclipse</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>月食</chinese>
+    <jyutping>jyut sik6</jyutping>
+    <pinyin>yuè ​shí</pinyin>
+    <english>lunar eclipse</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>衛星</chinese>
+    <jyutping>wai6 sing1</jyutping>
+    <pinyin>wèi xīng</pinyin>
+    <english>satellite, moon</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>星系</chinese>
+    <jyutping>sing1 hai6</jyutping>
+    <pinyin>xīng xì</pinyin>
+    <english>galaxy, stellar system</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>星云&lt;br&gt;星雲</chinese>
+    <jyutping>sing1 wan4</jyutping>
+    <pinyin>xīng ​yún</pinyin>
+    <english>nebular&lt;br&gt;(lit. star cloud)</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>黑洞</chinese>
+    <jyutping>hak1 dung6</jyutping>
+    <pinyin>hēi ​dòng</pinyin>
+    <english>black hole</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>彗星&lt;br&gt;慧星</chinese>
+    <jyutping>seoi6 sing1</jyutping>
+    <pinyin>huì​ xīng</pinyin>
+    <english>comet</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>小行星</chinese>
+    <jyutping>siu2 hang4 sing1</jyutping>
+    <pinyin>xiǎo ​xíng ​xīng</pinyin>
+    <english>asteroid</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>外星人</chinese>
+    <jyutping>ngoi6 sing1 jan4</jyutping>
+    <pinyin>wài​ xīng​ rén</pinyin>
+    <english>space alien, extraterrestrial</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>外星球&lt;br&gt;外星毬</chinese>
+    <jyutping>ngoi6 sing1 kau4</jyutping>
+    <pinyin>wài​ xīng​ qiú</pinyin>
+    <english>exoplanet&lt;br&gt;(lit. foreign planet)</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>望遠鏡</chinese>
+    <jyutping>mong6 jyun5 geng3</jyutping>
+    <pinyin>wàng ​yuǎn ​jìng</pinyin>
+    <english>telescope, binoculars</english>
+  </word>
+  <word category='nouns' subcategory='astronomy'>
+    <chinese>大爆炸</chinese>
+    <jyutping>daai6 baau3 zaa3</jyutping>
+    <pinyin>dà ​bào​ zhà</pinyin>
+    <english>the Big Bang&lt;br&gt;(lit. big explosion)</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>水星</chinese>
+    <jyutping>seoi2 sing1</jyutping>
+    <pinyin>xhuǐ xīng</pinyin>
+    <english>Mercury</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>金星</chinese>
+    <jyutping>gam1 sing1</jyutping>
+    <pinyin>jīn xīng</pinyin>
+    <english>Venus</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>地球</chinese>
+    <jyutping>dei6 kau4</jyutping>
+    <pinyin>dì qiú</pinyin>
+    <english>Earth</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>火星</chinese>
+    <jyutping>fo2 sing1</jyutping>
+    <pinyin>huǒ xīng</pinyin>
+    <english>Mars</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>木星</chinese>
+    <jyutping>muk6 sing1</jyutping>
+    <pinyin>mù xīng</pinyin>
+    <english>Jupiter</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>土星</chinese>
+    <jyutping>tou2 sing1</jyutping>
+    <pinyin>tǔ xīng</pinyin>
+    <english>Saturn</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>天王星</chinese>
+    <jyutping>tin1 wong4 sing1</jyutping>
+    <pinyin>tiān wáng xīng</pinyin>
+    <english>Uranus</english>
+  </word>
+  <word category='nouns' subcategory='astronomy' subcategory2='planets'>
+    <chinese>海王星</chinese>
+    <jyutping>hoi2 wong4 sing1</jyutping>
+    <pinyin>hǎi wáng xīng</pinyin>
+    <english>Neptune</english>
   </word>
 </words>
 

@@ -59,6 +59,11 @@ class Word {
 function cmp_word($a, $b) {
 
   $a_ch = $a -> chinese;
+  $b_ch = $b -> chinese; 
+  
+//  if (strpos($a_ch, '<br>') !== false) {
+//    $a_len = explode("<br>", $a);
+//  }
 
   $a_len = strlen($a -> chinese); 
   $b_len = strlen($b -> chinese); 
