@@ -328,7 +328,7 @@
         <chinese>音樂</chinese>
       </subcategory>
       
-        <subcategories parent="media">
+        <subcategories parent="music">
 
           <subcategory incomplete="true">
             <name>Instruments</name>
@@ -341,11 +341,6 @@
           </subcategory>
 
         </subcategories>
-      
-      <subcategory incomplete="true">
-        <name>Instruments</name>
-        <chinese>樂器</chinese>
-      </subcategory>
       
       <subcategory>
         <name>Numbers</name>
@@ -362,7 +357,7 @@
         <chinese>哲學</chinese>
       </subcategory>
       
-      <subcategory incomplete="true">
+      <subcategory>
         <name>Politics</name>
         <chinese>政治</chinese>
       </subcategory>
@@ -465,6 +460,11 @@
       </subcategory>
     </subcategories>
 
+  <category>
+    <name>Prepositions</name>
+    <chinese>??</chinese>
+  </category>
+  
   <category>
     <name>Pronouns</name>
     <chinese>代詞</chinese>
@@ -589,4 +589,9 @@
         <chinese>俗語</chinese>
       </subcategory>
     </subcategories>
+  
+  <category >
+    <name>Resources</name>
+    <chinese>資源</chinese>
+  </category>
 </categories>

@@ -181,13 +181,6 @@ function printWords($words, $link_to_header) {
       $english = $word -> english;
 
       $categories = $word -> getCategories(); 
-
-      
-//      $mark = ""; 
-//
-//      if (strpos($chinese, '<br>') !== false) {
-//        $mark = strlen(explode("<br>", $chinese)[0]) . "!";
-//      }
       
       echo "<tr> 
               <td>$chinese<br>$variant</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
@@ -225,10 +218,18 @@ function printWords($words, $link_to_header) {
   
   <?php
   $words_file = simplexml_load_file("database/words.xml") or die("Error: Cannot create object");
-  
+
   printWords($words_file, $link_to_header);     
   ?>
   
+  <h1 id="resources">Resources (資源)</h1>
+  <ul>
+    <li><a href="https://www.cantoneseclass101.com/cantonese-dictionary/">cantoneseclass101.com</a></li>
+    <li><a href="http://www.cantonese.sheik.co.uk/">cantonese.sheik.co.uk</a></li>
+    <li><a href="https://www.mdbg.net/chinese/dictionary">mdbg.net</a></li>
+    <li><a href="http://mylanguages.org/learn_cantonese.php">mylanguages.org</a></li>
+    <li><a href="https://cantonese.ca/">cantonese.ca</a></li>
+  </ul>
 </body>
 
 </html>
