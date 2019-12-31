@@ -6,6 +6,7 @@
 
 include "word_class.php"; 
 
+
 function countCategories($categories) {
   
   $count = 0;
@@ -174,17 +175,16 @@ function printWords($words, $link_to_header) {
     
     foreach ($bucket as $word) {
       
-      $chinese = $word -> chinese;
-      $variant= $word -> variant;
-      $jyutping = $word -> jyutping;
-      $pinyin = $word -> pinyin;
-      $english = $word -> english;
-
-      $categories = $word -> getCategories(); 
+      echo $word -> toTableRow(); 
       
-      echo "<tr> 
-              <td>$chinese<br>$variant</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
-            </tr> "; 
+//      $chinese = $word -> chinese;
+//      $jyutping = $word -> jyutping;
+//      $pinyin = $word -> pinyin;
+//      $english = $word -> english;
+//      
+//      echo "<tr> 
+//              <td>$chinese</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
+//            </tr> "; 
     }
   
     echo "</table>";
@@ -222,6 +222,7 @@ function printWords($words, $link_to_header) {
   printWords($words_file, $link_to_header);     
   ?>
   
+  <!-- Additional resources and websites -->
   <h1 id="resources">Resources (資源)</h1>
   <ul>
     <li><a href="https://www.cantoneseclass101.com/cantonese-dictionary/">cantoneseclass101.com</a></li>

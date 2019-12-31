@@ -1,20 +1,19 @@
 <?php
 /* Written by Albert Ong
  *
- * Revision: 2019.12.21
+ * A class that represents a word in the vocabulary table.
+ * Used for sorting and printing words. 
+ *
+ * Revision: 2019.12.30
  */ 
-
 
 class Word {
   
-  public $chinese;
-  public $jyutping;
-  public $pinyin; 
-  public $english; 
+  // The chinese characters, jyutping, pinyin, and english definition of the Word. 
+  public $chinese, $jyutping, $pinyin, $english; 
   
-  public $category; 
-  public $subcategory; 
-  public $subcategory2; 
+  // The category and subcategories of the Word. 
+  public $category, $subcategory, $subcategory2; 
   
   public function __construct($ch, $jyut, $pn, $eng, $sub, $subcat, $subcat2) {
     
@@ -28,6 +27,7 @@ class Word {
     $this -> subcategory2 = $subcat2; 
   }
   
+  // Printable version of the Word. 
   public function __toString() {
     
     $ch = (string) $this -> chinese; 
@@ -36,6 +36,19 @@ class Word {
     $eng = (string) $this -> english; 
     
     return "($ch, $jyut, $pn, $eng)<br>";
+  }
+  
+  // Coverts the Word into an HTML table row. 
+  public function toTableRow() {
+    
+    $ch = (string) $this -> chinese; 
+    $jyut = (string) $this -> jyutping; 
+    $pn = (string) $this -> pinyin; 
+    $eng = (string) $this -> english; 
+    
+    return "<tr> 
+              <td>$ch</td> <td>$jyut</td> <td>$pn</td> <td>$eng</td> 
+            </tr>";
   }
   
   public function getCategories() {
@@ -56,55 +69,22 @@ class Word {
   }
 }
 
+
+// Comparison function for two Word objects. 
 function cmp_word($a, $b) {
 
-  $a_ch = $a -> chinese;
-  $b_ch = $b -> chinese; 
-  
-//  if (strpos($a_ch, '<br>') !== false) {
-//    $a_len = explode("<br>", $a);
-//  }
-
+  // Retrieves the length of the Chinese characters. 
   $a_len = strlen($a -> chinese); 
   $b_len = strlen($b -> chinese); 
-
+  
+  // Sorts using jyutping if the Chinese characters are the same length. 
   if ($a_len == $b_len) {
     return strcmp($a -> jyutping, $b -> jyutping);
   }
+  
+  // Otherwise sorts using Chinese length. 
   else {
     return $a_len > $b_len;
   }
 }
-
-
-
-//function main() {
-//  
-//  $words_file = simplexml_load_file("database/words.xml") or die("Error: Cannot create object");
-//  
-//  $word_array = array(); 
-//  
-//  foreach ($words_file -> children() as $word) {
-//    
-//    $chinese = $word -> chinese;
-//    $jyutping = $word -> jyutping;
-//    $pinyin = $word -> pinyin;
-//    $english = $word -> english;
-//    
-//    $word_obj = new Word($chinese, $jyutping, $pinyin, $english); 
-//    
-//    array_push($word_array, $word_obj); 
-//  }
-//  
-//  usort($word_array, "cmp_word"); 
-//  
-//  foreach ($word_array as $key => $value) {
-//    echo $value;
-//  }
-//}
-//
-//if (basename(__FILE__, '.php') == "word_class") {
-//  main();
-//}
-
 ?>

@@ -361,6 +361,14 @@
         <name>Politics</name>
         <chinese>政治</chinese>
       </subcategory>
+          
+        <subcategories parent="politics">
+          <subcategory incomplete="true">
+            <name>Politicians</name>
+            <chinese>政治人物</chinese>
+          </subcategory>
+      
+        </subcategories>
       
       <subcategory>
         <name>Professions</name>
@@ -462,7 +470,7 @@
 
   <category>
     <name>Prepositions</name>
-    <chinese>??</chinese>
+    <chinese>介詞</chinese>
   </category>
   
   <category>

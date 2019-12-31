@@ -279,6 +279,12 @@
   <english>slow, sluggish</english>
 </word>
 <word category='adjectives'>
+  <chinese>亂</chinese>
+  <jyutping>lyun6</jyutping>
+  <pinyin>luàn</pinyin>
+  <english>chaotic, disorderly, unstable, volatile</english>
+</word> 
+<word category='adjectives'>
   <chinese>出名</chinese>
   <jyutping>ceot1 meng2</jyutping>
   <pinyin>chū míng</pinyin>
@@ -609,6 +615,48 @@
   <english>unexpected, unforseen, surprising</english>
 </word>
 <word category='adjectives'>
+  <chinese>緊急</chinese>
+  <jyutping>gan2 gap1</jyutping>
+  <pinyin>jǐn jí</pinyin>
+  <english>urgent, emergency, pressing</english>
+</word>
+<word category='adjectives'>
+  <chinese>順利</chinese>
+  <jyutping>seon6 lei6</jyutping>
+  <pinyin>shùn lì</pinyin>
+  <english>smooth, without difficulty, favorable</english>
+</word> 
+<word category='adjectives'>
+  <chinese>困難</chinese>
+  <jyutping>kwan3 naan4</jyutping>
+  <pinyin>kùn nan</pinyin>
+  <english>hard, difficult, challenging</english>
+</word> 
+<word category='adjectives'>
+  <chinese>無錯</chinese>
+  <jyutping>mou4 co3</jyutping>
+  <pinyin>wú cuò</pinyin>
+  <english>correct (lit. not wrong)</english>
+</word> 
+<word category='adjectives'>
+  <chinese>冇錯</chinese>
+  <jyutping>mou5 co3</jyutping>
+  <pinyin>mǎo cuò</pinyin>
+  <english>correct (lit. not wrong)</english>
+</word> 
+<word category='adjectives'>
+  <chinese>一致</chinese>
+  <jyutping>jat1 zi3</jyutping>
+  <pinyin>yī zhì</pinyin>
+  <english>identical, consistent, in agreement</english>
+</word> 
+<word category='adjectives'>
+  <chinese>正式</chinese>
+  <jyutping>zing3 sik1</jyutping>
+  <pinyin>zhèng shì</pinyin>
+  <english>official, formal</english>
+</word>
+<word category='adjectives'>
   <chinese>怪怪地</chinese>
   <jyutping>gwaai3 gwaai3 dei6 </jyutping>
   <pinyin>guài guài dì</pinyin>
@@ -638,6 +686,8 @@
   <pinyin>wú jiā kě guī</pinyin>
   <english>homeless</english>
 </word>
+  
+  
 <word category='adjectives' subcategory='climate'>
   <chinese>旱</chinese>
   <jyutping>hon5</jyutping>
@@ -674,6 +724,8 @@
   <pinyin>dà fēng</pinyin>
   <english>windy</english>
 </word>
+  
+  
 <word category='adjectives' subcategory='emotions'>
   <chinese>攰</chinese>
   <jyutping>gui6</jyutping>
@@ -770,6 +822,8 @@
   <pinyin>yǒu xī wàng</pinyin>
   <english>hopeful</english>
 </word>
+  
+  
 <word category='adjectives' subcategory='flavors'>
   <chinese>甜</chinese>
   <jyutping>tim4</jyutping>
@@ -830,6 +884,8 @@
   <pinyin>kě kǒu</pinyin>
   <english>tasty, delicious</english>
 </word>
+  
+  
 <word category='adjectives' subcategory='personality'>
   <chinese>謙</chinese>
   <jyutping>him1</jyutping>
@@ -938,6 +994,8 @@
   <pinyin>chuàng yì</pinyin>
   <english>creative, creativity</english>
 </word>
+  
+  
 <word category='adjectives' subcategory='sexuality'>
   <chinese>性</chinese>
   <jyutping>sing3</jyutping>
@@ -974,6 +1032,8 @@
   <pinyin>biàn xìng</pinyin>
   <english>transgender</english>
 </word>
+  
+  
 <word category='adjectives' subcategory='textures'>
   <chinese>軟</chinese>
   <jyutping>jyun5</jyutping>
@@ -1016,6 +1076,8 @@
   <pinyin>fēng lì</pinyin>
   <english>sharp (of a knife or blade)</english>
 </word>
+  
+  
 <word category='adverbs'>
   <chinese>最</chinese>
   <jyutping>zeoi3</jyutping>
@@ -1053,6 +1115,12 @@
   <english>also, too</english>
 </word>
 <word category='adverbs'>
+  <chinese>亦</chinese>
+  <jyutping>jik6</jyutping>
+  <pinyin>yì</pinyin>
+  <english>also, too, likewise</english>
+</word>
+<word category='adverbs'>
   <chinese>夠</chinese>
   <jyutping>gau3</jyutping>
   <pinyin>gòu</pinyin>
@@ -1082,6 +1150,31 @@
   <pinyin>gāng</pinyin>
   <english>just, barely, exactly</english>
 </word>
+<word category='adverbs'>
+  <chinese>並</chinese>
+  <jyutping>bing6</jyutping>
+  <pinyin>bìng</pinyin>
+  <english>and, also, furthermore</english>
+</word> 
+<word category='adverbs'>
+  <chinese>早排</chinese>
+  <jyutping>zou2 paai4</jyutping>
+  <pinyin>zǎo pái</pinyin>
+  <english>not too long ago, a while back, a few days ago</english>
+</word> 
+
+<word category='adverbs'>
+  <chinese>即將</chinese>
+  <jyutping>zik1 zoeng1</jyutping>
+  <pinyin>jí jiāng</pinyin>
+  <english>about to, going to, on the verge of</english>
+</word> 
+<word category='adverbs'>
+  <chinese>並不</chinese>
+  <jyutping>bing6 bat1</jyutping>
+  <pinyin>bìng bù</pinyin>
+  <english>not at all, by no means</english>
+</word> 
 <word category='adverbs'>
   <chinese>全部</chinese>
   <jyutping>cyun4 bou6</jyutping>
@@ -1479,6 +1572,18 @@
   <english>how (in what manner), how about</english>
 </word>
 <word category='adverbs'>
+  <chinese>同時</chinese>
+  <jyutping>tung4 si4</jyutping>
+  <pinyin>tóng shí</pinyin>
+  <english>simultaneously, at the same time</english>
+</word>
+<word category='adverbs'>
+  <chinese>事實上</chinese>
+  <jyutping>si6 sat6 soeng6</jyutping>
+  <pinyin>shì shí shàng</pinyin>
+  <english>actually, in reality, in fact</english>
+</word> 
+<word category='adverbs'>
   <chinese>按照字面</chinese>
   <jyutping>on3 ziu3 zi6 min6</jyutping>
   <pinyin>àn​ zhào ​zì​ miàn</pinyin>
@@ -1589,6 +1694,25 @@
   <pinyin>bù</pinyin>
   <english>step, pace</english>
 </word>
+<word category='nouns'>
+  <chinese>態</chinese>
+  <jyutping>taai3</jyutping>
+  <pinyin>tài</pinyin>
+  <english>condition, state, form, shape</english>
+</word> 
+  
+<word category='nouns'>
+  <chinese>版本</chinese>
+  <jyutping>baan2 bun2</jyutping>
+  <pinyin>bǎn běn</pinyin>
+  <english>version, edition</english>
+</word> 
+<word category='nouns'>
+  <chinese>內容</chinese>
+  <jyutping>noi6 jung4</jyutping>
+  <pinyin>nèi róng</pinyin>
+  <english>content, subtance, details</english>
+</word> 
 <word category='nouns'>
   <chinese>假期</chinese>
   <jyutping>gaa2 kei4</jyutping>
@@ -2758,6 +2882,12 @@
   <jyutping>zau2 dim3</jyutping>
   <pinyin>jiǔ diàn</pinyin>
   <english>hotel</english>
+</word>
+<word category='nouns' subcategory='buildings'>
+  <chinese>宿舍</chinese>
+  <jyutping>suk1 se3</jyutping>
+  <pinyin>sù shè</pinyin>
+  <english>dormitory, living quarters, hostel</english>
 </word>
 <word category='nouns' subcategory='buildings'>
   <chinese>商店</chinese>
@@ -5379,6 +5509,12 @@
   <english>tone mark</english>
 </word>
 <word category='nouns' subcategory='grammar'>
+  <chinese>介詞</chinese>
+  <jyutping>gaai3 ci4</jyutping>
+  <pinyin>jiè cí</pinyin>
+  <english>preposition</english>
+</word>
+<word category='nouns' subcategory='grammar'>
   <chinese>形容詞</chinese>
   <jyutping>jing4 jung4 ci4</jyutping>
   <pinyin>xíng róng cí</pinyin>
@@ -6603,13 +6739,13 @@
   <english>Ship of Theseus</english>
 </word>
 <word category='nouns' subcategory='politics'>
-  <chinese>政府</chinese>
+  <chinese>政治</chinese>
   <jyutping>zing3 ci4</jyutping>
   <pinyin>zhèng zhì</pinyin>
   <english>politics</english>
 </word>
 <word category='nouns' subcategory='politics'>
-  <chinese>政治</chinese>
+  <chinese>政府</chinese>
   <jyutping>zing3 fu2</jyutping>
   <pinyin>zhèng fǔ</pinyin>
   <english>government</english>
@@ -6705,6 +6841,54 @@
   <english>bill, proposed law</english>
 </word>
 <word category='nouns' subcategory='politics'>
+  <chinese>總統</chinese>
+  <jyutping>zung2 tung2</jyutping>
+  <pinyin>zǒng tǒng</pinyin>
+  <english>president (of a country)</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>外交</chinese>
+  <jyutping>ngoi6 gaau1</jyutping>
+  <pinyin>wài jiāo</pinyin>
+  <english>diplomacy, foreign affairs</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>委員</chinese>
+  <jyutping>wai1 jyun4</jyutping>
+  <pinyin>wěi yuán</pinyin>
+  <english>committee, council</english>
+</word>  
+<word category='nouns' subcategory='politics'>
+  <chinese>大會</chinese>
+  <jyutping>daai6 wui6</jyutping>
+  <pinyin>dà huì</pinyin>
+  <english>general assembly, general meeting, convention</english>
+</word> 
+<word category='nouns' subcategory='politics'>
+  <chinese>法規</chinese>
+  <jyutping>faat3 kwai1</jyutping>
+  <pinyin>fǎ guī</pinyin>
+  <english>law, legislation, ordinance</english>
+</word> 
+<word category='nouns' subcategory='politics'>
+  <chinese>主席</chinese>
+  <jyutping>zyu2 zik6</jyutping>
+  <pinyin>zhǔ xí</pinyin>
+  <english>chairperson, chairman</english>
+</word> 
+<word category='nouns' subcategory='politics'>
+  <chinese>領袖</chinese>
+  <jyutping>ling5 zau6</jyutping>
+  <pinyin>lǐng xiù</pinyin>
+  <english>leader (of a country, party, or organization)</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>兩院</chinese>
+  <jyutping>loeng5 jyun2</jyutping>
+  <pinyin>liǎng yuàn</pinyin>
+  <english>two chambers (of ligeislative assembly)</english>
+</word>
+<word category='nouns' subcategory='politics'>
   <chinese>參議院</chinese>
   <jyutping>caam1 ji5 jyun6</jyutping>
   <pinyin>cān yì yuàn</pinyin>
@@ -6735,6 +6919,18 @@
   <english>Republican Party</english>
 </word> 
 <word category='nouns' subcategory='politics'>
+  <chinese>多數黨</chinese>
+  <jyutping>do1 sou3 dong2</jyutping>
+  <pinyin>duō shù dǎng</pinyin>
+  <english>majority party</english>
+</word> 
+<word category='nouns' subcategory='politics'>
+  <chinese>少數黨</chinese>
+  <jyutping>siu2 sou3 dong2</jyutping>
+  <pinyin>shǎo shù dǎng</pinyin>
+  <english>minority party</english>
+</word> 
+<word category='nouns' subcategory='politics'>
   <chinese>一國兩制</chinese>
   <jyutping>jat1 gwok3 loeng5 zai3</jyutping>
   <pinyin>yī guó liǎng zhì</pinyin>
@@ -6745,6 +6941,18 @@
   <jyutping>gung6 caan2 zyu2 ji6</jyutping>
   <pinyin>gòng chǎn zhǔ yì</pinyin>
   <english>communism</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>政治人物</chinese>chinese>
+  <jyutping>zing3 zi6 jan4 mat6</jyutping>
+  <pinyin>zhèng zhì rén wù</pinyin>
+  <english>politician, statesman</english>
+</word>
+<word category='nouns' subcategory='politics' subcategory2="politicians">
+  <chinese>特朗普</chinese>chinese>
+  <jyutping>dak6 long5 pou2</jyutping>
+  <pinyin>tè lǎng pǔ</pinyin>
+  <english>Donald Trump</english>
 </word>
 <word category='nouns' subcategory='professions'>
   <chinese>師</chinese>
@@ -7767,6 +7975,12 @@
   <english>electricity</english>
 </word>
 <word category='nouns' subcategory='technology'>
+  <chinese>印</chinese>
+  <jyutping>jan3</jyutping>
+  <pinyin>yìn</pinyin>
+  <english>(computing) to print</english>
+</word>
+<word category='nouns' subcategory='technology'>
   <chinese>技術</chinese>
   <jyutping>gei6 seot6</jyutping>
   <pinyin>jì shù</pinyin>
@@ -7897,6 +8111,18 @@
   <jyutping>zi1 liu2</jyutping>
   <pinyin>zī liào</pinyin>
   <english>data, information, (social media) profile</english>
+</word>
+<word category='nouns' subcategory='technology'>
+  <chinese>賬戶</chinese>
+  <jyutping>zoeng3 wu6</jyutping>
+  <pinyin>zhàng hù</pinyin>
+  <english>account&lt;br&gt;(e.g. computer account)</english>
+</word>
+<word category='nouns' subcategory='technology'>
+  <chinese>停點</chinese>
+  <jyutping>ting4 din6</jyutping>
+  <pinyin>tíng diàn</pinyin>
+  <english>blackout</english>
 </word>
 <word category='nouns' subcategory='technology'>
   <chinese>聊天室</chinese>
@@ -8463,6 +8689,12 @@
   <english>driver's license&lt;br&gt;(short for 駕駛執照)</english>
 </word>
 <word category='nouns' subcategory='transportation'>
+  <chinese>機場</chinese>
+  <jyutping>gei1 coeng4</jyutping>
+  <pinyin>jī chǎng</pinyin>
+  <english>airport, airfield</english>
+</word>
+<word category='nouns' subcategory='transportation'>
   <chinese>救護車</chinese>
   <jyutping>gau3 wu6 ce1</jyutping>
   <pinyin>jiù hù chē</pinyin>
@@ -8773,6 +9005,12 @@
   <jyutping>hei3 hau6 bin3 faa3</jyutping>
   <pinyin>qì​ hòu ​biàn​ huà</pinyin>
   <english>climate change&lt;br&gt;(lit. climate change)</english>
+</word>
+<word category='prepositions'>
+  <chinese>於</chinese>
+  <jyutping>kyu1</jyutping>
+  <pinyin>yú</pinyin>
+  <english>in, at, on</english>
 </word>
 <word category='pronouns'>
   <chinese>我</chinese>
@@ -9207,11 +9445,59 @@
   <english>to change, to alter, to modify</english>
 </word>
 <word category='verbs'>
+  <chinese>禁</chinese>
+  <jyutping>gam1</jyutping>
+  <pinyin>jīn</pinyin>
+  <english>to prohibit, to forbid, to restrict</english>
+</word> 
+<word category='verbs'>
+  <chinese>反</chinese>
+  <jyutping>faan2</jyutping>
+  <pinyin>fǎn</pinyin>
+  <english>to oppose, to go against, to rebuke</english>
+</word> 
+<word category='verbs'>
+  <chinese>交</chinese>
+  <jyutping>gaau1</jyutping>
+  <pinyin>jiāo</pinyin>
+  <english>to intersect, to cross, to hand over, to turn in , to submit</english>
+</word> 
+<word category='verbs'>
+  <chinese>協商</chinese>
+  <jyutping>hip3 soeng1</jyutping>
+  <pinyin>xié shāng</pinyin>
+  <english>to negotiate, to consult, to talk things over, to discuss</english>
+</word> 
+<word category='verbs'>
   <chinese>鍾意</chinese>
   <jyutping>zung1 ji3</jyutping>
   <pinyin>zhōng yì</pinyin>
   <english>to like (spoken)</english>
 </word>
+<word category='verbs'>
+  <chinese>禁</chinese>
+  <jyutping>gam1</jyutping>
+  <pinyin>jīn</pinyin>
+  <english>to prohibit, to forbid, to restrict</english>
+</word> 
+<word category='verbs'>
+  <chinese>反</chinese>
+  <jyutping>faan2</jyutping>
+  <pinyin>fǎn</pinyin>
+  <english>to oppose, to go against, to rebuke</english>
+</word> 
+<word category='verbs'>
+  <chinese>交</chinese>
+  <jyutping>gaau1</jyutping>
+  <pinyin>jiāo</pinyin>
+  <english>to intersect, to cross, to hand over, to turn in , to submit</english>
+</word> 
+<word category='verbs'>
+  <chinese>協商</chinese>
+  <jyutping>hip3 soeng1</jyutping>
+  <pinyin>xié shāng</pinyin>
+  <english>to negotiate, to consult, to talk things over, to discuss</english>
+</word> 
 <word category='verbs'>
   <chinese>可以</chinese>
   <jyutping>ho2 ji5</jyutping>
@@ -9875,6 +10161,12 @@
   <pinyin>tiào wǔ</pinyin>
   <english>to dance</english>
 </word>
+<word category='verbs'>
+  <chinese>等一下</chinese>
+  <jyutping>dang2 jat1 haa6</jyutping>
+  <pinyin>děng yī xià</pinyin>
+  <english>to wait a moment</english>
+</word> 
 <word category='verbs' subcategory='activities'>
   <chinese>唱歌</chinese>
   <jyutping>coeng3 go1</jyutping>
@@ -10565,6 +10857,12 @@
   <pinyin>tōu</pinyin>
   <english>to steal, to pilfer</english>
 </word>
+<word category='verbs' subcategory="crime">
+  <chinese>送中</chinese>
+  <jyutping>sung3 zung1</jyutping>
+  <pinyin>sòng zhōng</pinyin>
+  <english>to extradite to mainland China</english>
+</word> 
 <word category='verbs' subcategory='crime'>
   <chinese>拘捕</chinese>
   <jyutping>keoi1 bou6</jyutping>
@@ -10964,6 +11262,12 @@
   <pinyin>huān yíng</pinyin>
   <english>to welcome</english>
 </word>
+<word category='verbs' subcategory="socialization">
+  <chinese>自我介紹</chinese>
+  <jyutping>zi6 ngo5 gaai3 siu6</jyutping>
+  <pinyin>zì wǒ jiè shào</pinyin>
+  <english>to introduce oneself</english>
+</word> 
 <word category='verbs' subcategory='work'>
   <chinese>做工</chinese>
   <jyutping>zou6 gung1</jyutping>
@@ -11330,6 +11634,18 @@
   <pinyin>zuò wéi</pinyin>
   <english>as (a role), serving as</english>
 </word>
+<word category='other'>
+  <chinese>與否</chinese>
+  <jyutping>jyu5 fau2</jyutping>
+  <pinyin>yǔ fǒu</pinyin>
+  <english>whether or not</english>
+</word> 
+<word category='other'>
+  <chinese>與否</chinese>
+  <jyutping>jyu5 fau2</jyutping>
+  <pinyin>yǔ fǒu</pinyin>
+  <english>whether or not</english>
+</word> 
 <word category='other' subcategory='common-phrases'>
   <chinese>係</chinese>
   <jyutping>hai6</jyutping>
@@ -11638,81 +11954,35 @@
 </word>
   
   
-<!-- Unsorted words 
-<word category='' subcategory=''>
-  <chinese></chinese>
-  <jyutping></jyutping>
-  <pinyin></pinyin>
-  <english></english>
-</word> 
--->
+<!-- Unsorted words -->
 
 <word category='adjectives'>
-  <chinese>順利</chinese>
-  <jyutping>seon6 lei6</jyutping>
-  <pinyin>shùn lì</pinyin>
-  <english>smooth, without difficulty, favorable</english>
-</word> 
-<word category='verbs'>
-  <chinese>禁</chinese>
-  <jyutping>gam1</jyutping>
-  <pinyin>jīn</pinyin>
-  <english>to prohibit, to forbid, to restrict</english>
-</word> 
-<word category='verbs'>
-  <chinese>反</chinese>
-  <jyutping>faan2</jyutping>
-  <pinyin>fǎn</pinyin>
-  <english>to oppose, to go against, to rebuke</english>
-</word> 
-<word category='verbs' subcategory="crime">
-  <chinese>送中</chinese>
-  <jyutping>sung3 zung1</jyutping>
-  <pinyin>sòng zhōng</pinyin>
-  <english>to extradite to mainland China</english>
-</word> 
-<word category='verbs' subcategory="socialization">
-  <chinese>自我介紹</chinese>
-  <jyutping>zi6 ngo5 gaai3 siu6</jyutping>
-  <pinyin>zì wǒ jiè shào</pinyin>
-  <english>to introduce oneself</english>
-</word> 
-<word category='adverbs'>
-  <chinese>早排</chinese>
-  <jyutping>zou2 paai4</jyutping>
-  <pinyin>zǎo pái</pinyin>
-  <english>not too long ago, a while back, a few days ago</english>
-</word> 
-<word category='adverbs'>
-  <chinese>事實上</chinese>
-  <jyutping>si6 sat6 soeng6</jyutping>
-  <pinyin>shì shí shàng</pinyin>
-  <english>actually, in reality, in fact</english>
-</word> 
+  <chinese>暗</chinese>
+  <jyutping>am3</jyutping>
+  <pinyin>àn</pinyin>
+  <english>gloomy, hidden, secret, muddled</english>
+</word>
 <word category='adjectives'>
-  <chinese>無錯</chinese>
-  <jyutping>mou4 co3</jyutping>
-  <pinyin>wú cuò</pinyin>
-  <english>correct (lit. not wrong)</english>
-</word> 
-<word category='adjectives'>
-  <chinese>冇錯</chinese>
-  <jyutping>mou5 co3</jyutping>
-  <pinyin>mǎo cuò</pinyin>
-  <english>correct (lit. not wrong)</english>
-</word> 
-<word category='adverbs'>
-  <chinese>即將</chinese>
-  <jyutping>zik1 zoeng1</jyutping>
-  <pinyin>jí jiāng</pinyin>
-  <english>about to, going to, on the verge of</english>
-</word> 
+  <chinese>國際</chinese>
+  <jyutping>gwok3 zai3</jyutping>
+  <pinyin>guó jì</pinyin>
+  <english>international, global</english>
+</word>
+
+  
 <word category='verbs'>
-  <chinese>復會</chinese>
-  <jyutping>fuk6 wui2</jyutping>
-  <pinyin>fù huì</pinyin>
-  <english>to resume a meeting</english>
-</word> 
+  <chinese>留意</chinese>
+  <jyutping>lau4 ji3</jyutping>
+  <pinyin>liú yì</pinyin>
+  <english>to look for, to keep and eye out for, to pay attention to</english>
+</word>
+<word category='verbs' subcategory="cooking">
+  <chinese>醞釀</chinese>
+  <jyutping>wan5 jeong6</jyutping>
+  <pinyin>yùn niàng</pinyin>
+  <english>to ferment, to brew</english>
+</word>
+
 </words>
 
 
