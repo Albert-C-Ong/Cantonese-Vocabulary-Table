@@ -1097,6 +1097,12 @@
   <english>still</english>
 </word>
 <word category='adverbs'>
+  <chinese>已</chinese>
+  <jyutping>ji5</jyutping>
+  <pinyin>yǐ</pinyin>
+  <english>already, then, afterwards</english>
+</word>
+<word category='adverbs'>
   <chinese>未</chinese>
   <jyutping>mei6</jyutping>
   <pinyin>wèi </pinyin>
@@ -4603,6 +4609,18 @@
   <english>french fries, chips</english>
 </word>
 <word category='nouns' subcategory='food'>
+  <chinese>咖哩</chinese>
+  <jyutping>gaa3 lei1</jyutping>
+  <pinyin>kā li</pinyin>
+  <english>curry</english>
+</word>
+<word category='nouns' subcategory='food'>
+  <chinese>食譜</chinese>
+  <jyutping>sik6 pou2</jyutping>
+  <pinyin>shí pǔ</pinyin>
+  <english>recipe, cookbook</english>
+</word>
+<word category='nouns' subcategory='food'>
   <chinese>漢堡包</chinese>
   <jyutping>hon3 bou2 baau1</jyutping>
   <pinyin>hàn​ bǎo ​bāo</pinyin>
@@ -5237,6 +5255,18 @@
   <jyutping>zi2 paai4</jyutping>
   <pinyin>zhǐ ​pái</pinyin>
   <english>playing cards</english>
+</word>
+<word category='nouns' subcategory='games'>
+  <chinese>象棋</chinese>
+  <jyutping>zoeng6 kei4</jyutping>
+  <pinyin>xiàng qí</pinyin>
+  <english>Chinese chess</english>
+</word>
+<word category='nouns' subcategory='games'>
+  <chinese>國際象棋</chinese>
+  <jyutping>gwok zai3 zoeng6 kei4</jyutping>
+  <pinyin>guó jì xiàng qí</pinyin>
+  <english>chess&lt;br&gt;(lit. international chess)</english>
 </word>
 <word category='nouns' subcategory='geography'>
   <chinese>土</chinese>
@@ -10474,6 +10504,12 @@
   <english>to eat</english>
 </word>
 <word category='verbs' subcategory='cooking'>
+  <chinese>著&lt;br&gt;煑&lt;br&gt;</chinese>
+  <jyutping>zyu2</jyutping>
+  <pinyin>zhǔ</pinyin>
+  <english>to cook</english>
+</word>
+<word category='verbs' subcategory='cooking'>
   <chinese>舐</chinese>
   <jyutping>lem2</jyutping>
   <pinyin>shì</pinyin>
@@ -11968,6 +12004,12 @@
   <pinyin>guó jì</pinyin>
   <english>international, global</english>
 </word>
+<word category='adjectives'>
+  <chinese>平安</chinese>
+  <jyutping>ping4 on1</jyutping>
+  <pinyin>píng ān</pinyin>
+  <english>safe, peaceful, safe and sound</english>
+</word>
 
   
 <word category='verbs'>
@@ -11975,6 +12017,24 @@
   <jyutping>lau4 ji3</jyutping>
   <pinyin>liú yì</pinyin>
   <english>to look for, to keep and eye out for, to pay attention to</english>
+</word>
+<word category='verbs'>
+  <chinese>昭呼</chinese>
+  <jyutping>ziu1 fu1</jyutping>
+  <pinyin>zhāo hū</pinyin>
+  <english>to look after, to take care of, to greet</english>
+</word>
+<word category='verbs'>
+  <chinese>希望</chinese>
+  <jyutping>hei1 mong6</jyutping>
+  <pinyin>xī wàng</pinyin>
+  <english>to hope, to wish</english>
+</word>
+<word category='verbs'>
+  <chinese>打擾</chinese>
+  <jyutping>dǎ rǎo</jyutping>
+  <pinyin>daa2 jiu2</pinyin>
+  <english>to disturb, to trouble, to bother</english>
 </word>
 <word category='verbs' subcategory="cooking">
   <chinese>醞釀</chinese>
