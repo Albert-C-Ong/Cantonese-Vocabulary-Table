@@ -1168,7 +1168,12 @@
   <pinyin>zǎo pái</pinyin>
   <english>not too long ago, a while back, a few days ago</english>
 </word> 
-
+<word category='adverbs'>
+  <chinese>終於</chinese>
+  <jyutping>zung1 jyu1</jyutping>
+  <pinyin>zhōngy yú</pinyin>
+  <english>finally, at last, eventually</english>
+</word> 
 <word category='adverbs'>
   <chinese>即將</chinese>
   <jyutping>zik1 zoeng1</jyutping>
@@ -2768,6 +2773,12 @@
   <jyutping>gei1 juk6</jyutping>
   <pinyin>jī ròu</pinyin>
   <english>muscle</english>
+</word>
+<word category='nouns' subcategory='body-parts'>
+  <chinese>血液</chinese>
+  <jyutping>hyut3 jik6</jyutping>
+  <pinyin>xuè yè</pinyin>
+  <english>blood</english>
 </word>
 <word category='nouns' subcategory='body-parts'>
   <chinese>頭髮&lt;br&gt;頭髪</chinese>
@@ -4375,6 +4386,12 @@
   <english>relationship, relation, connection</english>
 </word>
 <word category='nouns' subcategory='family-and-friends'>
+  <chinese>血脈</chinese>
+  <jyutping>hyut3 mak6</jyutping>
+  <pinyin>xuè mài</pinyin>
+  <english>blood relationship, blood lineage</english>
+</word>
+<word category='nouns' subcategory='family-and-friends'>
   <chinese>朋友</chinese>
   <jyutping>pang4 jau5</jyutping>
   <pinyin>péng you</pinyin>
@@ -4619,6 +4636,12 @@
   <jyutping>sik6 pou2</jyutping>
   <pinyin>shí pǔ</pinyin>
   <english>recipe, cookbook</english>
+</word>
+<word category='nouns' subcategory='food'>
+  <chinese>雞蛋</chinese>
+  <jyutping>gai1 daan2</jyutping>
+  <pinyin>jī dàn</pinyin>
+  <english>chicken egg</english>
 </word>
 <word category='nouns' subcategory='food'>
   <chinese>漢堡包</chinese>
@@ -6917,6 +6940,36 @@
   <jyutping>loeng5 jyun2</jyutping>
   <pinyin>liǎng yuàn</pinyin>
   <english>two chambers (of ligeislative assembly)</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>選舉</chinese>
+  <jyutping>syun2 geoi2</jyutping>
+  <pinyin>xuǎn jǔ</pinyin>
+  <english>election</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>大選</chinese>
+  <jyutping>daai6 syun2</jyutping>
+  <pinyin>dà xuǎn</pinyin>
+  <english>general election</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>選情</chinese>
+  <jyutping>syun2 cing4</jyutping>
+  <pinyin>xuǎn qíng</pinyin>
+  <english>situation of an election, the current state of a candidate's campaign&lt;br&gt;(lit. election feeling)&lt;br&gt;</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>立法</chinese>
+  <jyutping>lap6 faat3</jyutping>
+  <pinyin>lì fǎ</pinyin>
+  <english>legislation</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese></chinese>
+  <jyutping></jyutping>
+  <pinyin></pinyin>
+  <english></english>
 </word>
 <word category='nouns' subcategory='politics'>
   <chinese>參議院</chinese>
@@ -12011,6 +12064,19 @@
   <english>safe, peaceful, safe and sound</english>
 </word>
 
+<word category='adverbs'>
+  <chinese>不斷</chinese>
+  <jyutping>bat1 dyun6</jyutping>
+  <pinyin>bù duàn</pinyin>
+  <english>continuously, constantly</english>
+</word>
+  
+<word category='nouns'>
+  <chinese>進程</chinese>
+  <jyutping>zeon3 cing4</jyutping>
+  <pinyin>jìn chéng</pinyin>
+  <english>process, course</english>
+</word>
   
 <word category='verbs'>
   <chinese>留意</chinese>
@@ -12036,13 +12102,36 @@
   <pinyin>daa2 jiu2</pinyin>
   <english>to disturb, to trouble, to bother</english>
 </word>
+<word category='verbs'>
+  <chinese>彈劾</chinese>
+  <jyutping>taan4 hat6</jyutping>
+  <pinyin>tán hé</pinyin>
+  <english>to impeach, to indict, to accuse of misconduct</english>
+</word>
+<word category='verbs'>
+  <chinese>影響</chinese>
+  <jyutping>jing2 hoeng2</jyutping>
+  <pinyin>yǐng xiǎng</pinyin>
+  <english>to influence, to affect, to disturb</english>
+</word>
+<word category='verbs'>
+  <chinese>超越</chinese>
+  <jyutping>ciu1 jyut6</jyutping>
+  <pinyin>chāo yuè</pinyin>
+  <english>to exceed, to surpass, to transcend</english>
+</word>
+<word category='verbs'>
+  <chinese>繼承</chinese>
+  <jyutping>gai3 sing4</jyutping>
+  <pinyin>jì chéng</pinyin>
+  <english>to inherit, to succeed, to carry on (e.g. a tradition)</english>
+</word>
 <word category='verbs' subcategory="cooking">
   <chinese>醞釀</chinese>
   <jyutping>wan5 jeong6</jyutping>
   <pinyin>yùn niàng</pinyin>
   <english>to ferment, to brew</english>
 </word>
-
 </words>
 
 
