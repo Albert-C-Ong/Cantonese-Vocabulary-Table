@@ -220,7 +220,12 @@
 
           <subcategory incomplete="true">
             <name>Grain</name>
-            <chinese>(穀物</chinese>
+            <chinese>穀物</chinese>
+          </subcategory>
+          
+          <subcategory incomplete="true">
+            <name>Seasoning</name>
+            <chinese>調味料</chinese>
           </subcategory>
 
           <subcategory>

@@ -4644,6 +4644,12 @@
   <english>chicken egg</english>
 </word>
 <word category='nouns' subcategory='food'>
+  <chinese>蘑菇&lt;br&gt;磨菇</chinese>
+  <jyutping>mo4 gu1</jyutping>
+  <pinyin>mó gū</pinyin>
+  <english>mushroom</english>
+</word>
+<word category='nouns' subcategory='food'>
   <chinese>漢堡包</chinese>
   <jyutping>hon3 bou2 baau1</jyutping>
   <pinyin>hàn​ bǎo ​bāo</pinyin>
@@ -5002,6 +5008,24 @@
   <jyutping>bui1 gwo2</jyutping>
   <pinyin>bèi guǒ</pinyin>
   <english>bagel (loanword)</english>
+</word>
+<word category='nouns' subcategory='food' subcategory2='seasoning'>
+  <chinese>鹽</chinese>
+  <jyutping>jim4</jyutping>
+  <pinyin>yán</pinyin>
+  <english>salt</english>
+</word>
+<word category='nouns' subcategory='food' subcategory2='seasoning'>
+  <chinese>調味</chinese>
+  <jyutping>tiu4 mei6</jyutping>
+  <pinyin>tiáo wèi</pinyin>
+  <english>seasoning, flavoring, condiment</english>
+</word>
+<word category='nouns' subcategory='food' subcategory2='seasoning'>
+  <chinese>黑胡椒</chinese>
+  <jyutping>haak1 wu4 ziu1</jyutping>
+  <pinyin>hēi hú jiāo</pinyin>
+  <english>black pepper</english>
 </word>
 <word category='nouns' subcategory='food' subcategory2='vegetables'>
   <chinese>蔥</chinese>
