@@ -137,7 +137,6 @@ function printWords($words, $link_to_header) {
   foreach ($words -> children() as $word) {
     
     $chinese = $word -> chinese;
-    
     $jyutping = $word -> jyutping;
     $pinyin = $word -> pinyin;
     $english = $word -> english;

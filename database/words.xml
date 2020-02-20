@@ -7680,6 +7680,12 @@
   <english>midterm exam</english>
 </word>
 <word category='nouns' subcategory='school'>
+  <chinese>期末考</chinese>
+  <jyutping>kei4 mut6 haau2</jyutping>
+  <pinyin>qī mò kǎo</pinyin>
+  <english>final exam</english>
+</word>
+<word category='nouns' subcategory='school'>
   <chinese>幼稚園</chinese>
   <jyutping>jau3 zi6 jyun2</jyutping>
   <pinyin>yòu zhì yuán</pinyin>
@@ -10195,6 +10201,12 @@
   <jyutping>zip3 zuk1</jyutping>
   <pinyin>jiē chù</pinyin>
   <english>to touch, to contact</english>
+</word>
+<word category='verbs'>
+  <chinese>畀返</chinese>
+  <jyutping>bei2 faan1</jyutping>
+  <pinyin>bì fǎn</pinyin>
+  <english>to give back, to return something</english>
 </word>
 <word category='verbs'>
   <chinese>有興趣</chinese>

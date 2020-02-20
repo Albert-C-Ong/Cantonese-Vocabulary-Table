@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE words [
+  <!ELEMENT word (chinese, jyutping, pinyin, english)>
+  <!ATTLIST word category CDATA #REQUIRED>
+  <!ATTLIST word subcategory CDATA #IMPLIED>
+  <!ELEMENT chinese (#PCDATA)>
+  <!ELEMENT jyutping (#PCDATA)>
+  <!ELEMENT pinyin (#PCDATA)>
+  <!ELEMENT english (#PCDATA)>
+]>
+<words>
+<word category='adjectives'>
+  <chinese>下</chinese>
+  <jyutping>haa5</jyutping>
+  <pinyin>xià</pinyin>
+  <english>next</english>
+</word>
+<word category='adjectives'>
+  <chinese>早</chinese>
+  <jyutping>zou2</jyutping>
+  <pinyin>zǎo</pinyin>
+  <english>early</english>
+</word>
+<word category='adjectives'>
+  <chinese>遲</chinese>
+  <jyutping>ci4</jyutping>
+  <pinyin>chí</pinyin>
+  <english>late</english>
+</word>
+<word category='adjectives'>
+  <chinese>夜</chinese>
+  <jyutping>je6</jyutping>
+  <pinyin>yè</pinyin>
+  <english>late (in the night)</english>
+</word>
+<word category='adjectives'>
+  <chinese>啱</chinese>
+  <jyutping>ngaam1</jyutping>
+  <pinyin>yān</pinyin>
+  <english>correct, right</english>
+</word>
+<word category='adjectives'>
+  <chinese>錯</chinese>
+  <jyutping>co3</jyutping>
+  <pinyin>cuò</pinyin>
+  <english>incorrect, wrong</english>
+</word>
+<word category='adjectives'>
+  <chinese>新</chinese>
+  <jyutping>san1</jyutping>
+  <pinyin>xīn</pinyin>
+  <english>new</english>
+</word>
+<word category='adjectives'>
+  <chinese>先</chinese>
+  <jyutping>sin1</jyutping>
+  <pinyin>xiān</pinyin>
+  <english>first</english>
+</word>
+<word category='adjectives'>
+  <chinese>耐</chinese>
+  <jyutping>noi6</jyutping>
+  <pinyin>nài</pinyin>
+  <english>long (time)</english>
+</word>
+<word category='adjectives'>
+  <chinese>長</chinese>
+  <jyutping>coeng4</jyutping>
+  <pinyin>cháng</pinyin>
+  <english>long (distance)</english>
+</word>
+<word category='adjectives'>
+  <chinese>舊</chinese>
+  <jyutping>gau6</jyutping>
+  <pinyin>jiù</pinyin>
+  <english>old</english>
+</word>
+<word category='adjectives'>
+  <chinese>熱</chinese>
+  <jyutping>jit6</jyutping>
+  <pinyin>rè</pinyin>
+  <english>hot</english>
+</word>
+<word category='adjectives'>
+  <chinese>凍</chinese>
+  <jyutping>dung3</jyutping>
+  <pinyin>dòng</pinyin>
+  <english>cold</english>
+</word>
+<word category='adjectives'>
+  <chinese>近</chinese>
+  <jyutping>kan5</jyutping>
+  <pinyin>jìn</pinyin>
+  <english>near, close to</english>
+</word>
+<word category='adjectives'>
+  <chinese>遠</chinese>
+  <jyutping>jyun5</jyutping>
+  <pinyin>yuǎn</pinyin>
+  <english>far, distant</english>
+</word>
+<word category='adjectives'>
+  <chinese>靚</chinese>
+  <jyutping>leng3</jyutping>
+  <pinyin>liàng</pinyin>
+  <english>beautiful, pretty</english>
+</word>
+<word category='adjectives'>
+  <chinese>索</chinese>
+  <jyutping>sok3</jyutping>
+  <pinyin>suǒ</pinyin>
+  <english>(Cantonese, of a female) beautiful, pretty, hot, sexy</english>
+</word>
+<word category='adjectives'>
+  <chinese>忙</chinese>
+  <jyutping>mong4</jyutping>
+  <pinyin>máng</pinyin>
+  <english>busy, fully occupied</english>
+</word>
+<word category='adjectives'>
+  <chinese>兩</chinese>
+  <jyutping>loeng5</jyutping>
+  <pinyin>liǎng</pinyin>
+  <english>two</english>
+</word>
+<word category='adjectives'>
+  <chinese>正</chinese>
+  <jyutping>zeng3</jyutping>
+  <pinyin>zhēng</pinyin>
+  <english>wonderful, awesome</english>
+</word>
+<word category='adjectives'>
+  <chinese>高</chinese>
+  <jyutping>gou1</jyutping>
+  <pinyin>gāo</pinyin>
+  <english>tall</english>
+</word>
+<word category='adjectives'>
+  <chinese>低</chinese>
+  <jyutping>dai1</jyutping>
+  <pinyin>dī</pinyin>
+  <english>low</english>
+</word>
+<word category='adjectives'>
+  <chinese>兼</chinese>
+  <jyutping>gim1</jyutping>
+  <pinyin>jiān</pinyin>
+  <english>double, twice</english>
+</word>
+<word category='adjectives'>
+  <chinese>差</chinese>
+  <jyutping>caa1</jyutping>
+  <pinyin>chā</pinyin>
+  <english>bad, inferior, poor</english>
+</word> 
+
+<word category='adjectives'>
+  <chinese>幸</chinese>
+  <jyutping>hang6</jyutping>
+  <pinyin>xìng</pinyin>
+  <english>lucky, fortunate</english>
+</word>
+<word category='adjectives'>
+  <chinese>瘦</chinese>
+  <jyutping>sau3</jyutping>
+  <pinyin>shòu</pinyin>
+  <english>skinny, thin</english>
+</word>
+<word category='adjectives'>
+  <chinese>肥</chinese>
+  <jyutping>fei4</jyutping>
+  <pinyin>féi</pinyin>
+  <english>fat</english>
+</word>
+<word category='adjectives'>
+  <chinese>裸&lt;br&gt;倮</chinese>
+  <jyutping>lo2</jyutping>
+  <pinyin>luǒ</pinyin>
+  <english>naked, nude</english>
+</word>
+<word category='adjectives'>
+  <chinese>細</chinese>
+  <jyutping>sai3</jyutping>
+  <pinyin>xì</pinyin>
+  <english>small, tiny, little</english>
+</word>
+<word category='adjectives'>
+  <chinese>易</chinese>
+  <jyutping>ji6</jyutping>
+  <pinyin>yì</pinyin>
+  <english>easy, simple, not difficult</english>
+</word>
+<word category='adjectives'>
+  <chinese>齊</chinese>
+  <jyutping>cai4</jyutping>
+  <pinyin>qí</pinyin>
+  <english>even, uniform, or equal length</english>
+</word>
+<word category='adjectives'>
+  <chinese>難</chinese>
+  <jyutping>naan4</jyutping>
+  <pinyin>nán</pinyin>
+  <english>hard, difficult</english>
+</word>
+<word category='adjectives'>
+  <chinese>正</chinese>
+  <jyutping>zeng</jyutping>
+  <pinyin>zhèng</pinyin>
+  <english>straight, upright, in proper position</english>
+</word>
+<word category='adjectives'>
+  <chinese>偏</chinese>
+  <jyutping>pin1</jyutping>
+  <pinyin>piān</pinyin>
+  <english>slanted, leaning, inclining to one side</english>
+</word>
+<word category='adjectives'>
+  <chinese>輕</chinese>
+  <jyutping>hing1</jyutping>
+  <pinyin>qīng</pinyin>
+  <english>light (weight)</english>
+</word>
+<word category='adjectives'>
+  <chinese>重</chinese>
+  <jyutping>cung5</jyutping>
+  <pinyin>zhòng, chóng</pinyin>
+  <english>heavy (weight)</english>
+</word>
+<word category='adjectives'>
+  <chinese>薄</chinese>
+  <jyutping>bok6</jyutping>
+  <pinyin>bó, báo</pinyin>
+  <english>thin, slight, weak</english>
+</word>
+<word category='adjectives'>
+  <chinese>嘈</chinese>
+  <jyutping>cou4</jyutping>
+  <pinyin>cáo</pinyin>
+  <english>noisy</english>
+</word>
+<word category='adjectives'>
+  <chinese>靜</chinese>
+  <jyutping>zing6</jyutping>
+  <pinyin>jìng</pinyin>
+  <english>quiet, silent</english>
+</word>
+<word category='adjectives'>
+  <chinese>窄</chinese>
+  <jyutping>zaak3</jyutping>
+  <pinyin>zhǎi</pinyin>
+  <english>narrow, tight (of rooms, pants, etc.)</english>
+</word>
+<word category='adjectives'>
+  <chinese>圓</chinese>
+  <jyutping>jyun4</jyutping>
+  <pinyin>yuán</pinyin>
+  <english>circular, round</english>
+</word>
+<word category='adjectives'>
+  <chinese>扁</chinese>
+  <jyutping>bin2</jyutping>
+  <pinyin>piān</pinyin>
+  <english>flat, thin</english>
+</word>
+<word category='adjectives'>
+  <chinese>超</chinese>
+  <jyutping>ciu1</jyutping>
+  <pinyin>chāo</pinyin>
+  <english>super, really, ultra</english>
+</word>
+<word category='adjectives'>
+  <chinese>假</chinese>
+  <jyutping>gaa2</jyutping>
+  <pinyin>​jiǎ</pinyin>
+  <english>fake, artificial</english>
+</word>
+<word category='adjectives'>
+  <chinese>快</chinese>
+  <jyutping>faai3</jyutping>
+  <pinyin>kuài</pinyin>
+  <english>fast, quick, rapid</english>
+</word>
+<word category='adjectives'>
+  <chinese>慢</chinese>
+  <jyutping>maan6</jyutping>
+  <pinyin>màn</pinyin>
+  <english>slow, sluggish</english>
+</word>
+<word category='adjectives'>
+  <chinese>亂</chinese>
+  <jyutping>lyun6</jyutping>
+  <pinyin>luàn</pinyin>
+  <english>chaotic, disorderly, unstable, volatile</english>
+</word> 
+<word category='adjectives'>
+  <chinese>出名</chinese>
+  <jyutping>ceot1 meng2</jyutping>
+  <pinyin>chū míng</pinyin>
+  <english>famous</english>
+</word>
+<word category='adjectives'>
+  <chinese>辛苦</chinese>
+  <jyutping>san1 fu2</jyutping>
+  <pinyin>xīn kǔ</pinyin>
+  <english>difficult; strenuous</english>
+</word>
+<word category='adjectives'>
+  <chinese>緊要</chinese>
+  <jyutping>gan2 jiu3</jyutping>
+  <pinyin>jǐn yào</pinyin>
+  <english>important</english>
+</word>
+<word category='adjectives'>
+  <chinese>殘疾</chinese>
+  <jyutping>caan4 zat6</jyutping>
+  <pinyin>cán jí</pinyin>
+  <english>disabled</english>
+</word>
+<word category='adjectives'>
+  <chinese>性感</chinese>
+  <jyutping>sing3 gam2</jyutping>
+  <pinyin>xìng gǎn</pinyin>
+  <english>sexy</english>
+</word>
+<word category='adjectives'>
+  <chinese>成個</chinese>
+  <jyutping>seng4 go3</jyutping>
+  <pinyin>chéng gè</pinyin>
+  <english>whole, entire</english>
+</word>
+<word category='adjectives'>
+  <chinese>可爱</chinese>
+  <jyutping>ho2 ngoi3</jyutping>
+  <pinyin>kě ài</pinyin>
+  <english>cute</english>
+</word>
+<word category='adjectives'>
+  <chinese>其他</chinese>
+  <jyutping>kei4 taa1</jyutping>
+  <pinyin>qí tā</pinyin>
+  <english>other</english>
+</word>
+<word category='adjectives'>
+  <chinese>有力</chinese>
+  <jyutping>jau5 lik6</jyutping>
+  <pinyin>yǒu lì</pinyin>
+  <english>powerful</english>
+</word>
+<word category='adjectives'>
+  <chinese>幸運</chinese>
+  <jyutping>hang6 wan6</jyutping>
+  <pinyin>xìng yùn</pinyin>
+  <english>lucky, fortunate</english>
+</word>
+<word category='adjectives'>
+  <chinese>美麗</chinese>
+  <jyutping>mei5 lai6</jyutping>
+  <pinyin>měi lì</pinyin>
+  <english>beautiful</english>
+</word>
+<word category='adjectives'>
+  <chinese>流利</chinese>
+  <jyutping>lau4 lei6 </jyutping>
+  <pinyin>liú lì</pinyin>
+  <english>fluent</english>
+</word>
+<word category='adjectives'>
+  <chinese>喺度</chinese>
+  <jyutping>hai2 dou6</jyutping>
+  <pinyin>xǐ dù</pinyin>
+  <english>(to be) here</english>
+</word>
+<word category='adjectives'>
+  <chinese>普遍</chinese>
+  <jyutping>pou2 pin3</jyutping>
+  <pinyin>pǔ biàn</pinyin>
+  <english>common, general</english>
+</word>
+<word category='adjectives'>
+  <chinese>貼心</chinese>
+  <jyutping>tip3 sam1</jyutping>
+  <pinyin>tiē xīn</pinyin>
+  <english>close, intimate</english>
+</word>
+<word category='adjectives'>
+  <chinese>完美</chinese>
+  <jyutping>jyun4 mei5</jyutping>
+  <pinyin>wán měi</pinyin>
+  <english>perfect</english>
+</word>
+<word category='adjectives'>
+  <chinese>不公</chinese>
+  <jyutping>bat1 gung1</jyutping>
+  <pinyin>bù gōng</pinyin>
+  <english>unfair, unjust</english>
+</word>
+<word category='adjectives'>
+  <chinese>唔同</chinese>
+  <jyutping>m4 tung4</jyutping>
+  <pinyin>wú tóng</pinyin>
+  <english>different</english>
+</word>
+<word category='adjectives'>
+  <chinese>普遍</chinese>
+  <jyutping>pou2 bin3</jyutping>
+  <pinyin>pǔ biàn</pinyin>
+  <english>common, general, universal</english>
+</word>
+<word category='adjectives'>
+  <chinese>後生</chinese>
+  <jyutping>hau6 saang1</jyutping>
+  <pinyin>hòu shēng</pinyin>
+  <english>young</english>
+</word>
+<word category='adjectives'>
+  <chinese>安全</chinese>
+  <jyutping>ngon1 cyun4</jyutping>
+  <pinyin>ān quán</pinyin>
+  <english>safe</english>
+</word>
+<word category='adjectives'>
+  <chinese>危險</chinese>
+  <jyutping>ngai4 him2</jyutping>
+  <pinyin>wēi xiǎn</pinyin>
+  <english>dangerous</english>
+</word>
+<word category='adjectives'>
+  <chinese>舒服</chinese>
+  <jyutping>syu1 fuk6</jyutping>
+  <pinyin>shū fu</pinyin>
+  <english>comfortable, feeling well</english>
+</word>
+<word category='adjectives'>
+  <chinese>有趣</chinese>
+  <jyutping>jau5 ceoi3</jyutping>
+  <pinyin>yǒu qù</pinyin>
+  <english>interesting, fascinating</english>
+</word>
+<word category='adjectives'>
+  <chinese>刻板</chinese>
+  <jyutping>haak1 baan2</jyutping>
+  <pinyin>kè bǎn</pinyin>
+  <english>stiff, inflexible</english>
+</word>
+<word category='adjectives'>
+  <chinese>普通</chinese>
+  <jyutping>pou1 tung1</jyutping>
+  <pinyin>pǔ tōng</pinyin>
+  <english>common, ordinary, average</english>
+</word>
+<word category='adjectives'>
+  <chinese>少見</chinese>
+  <jyutping>siu2 gin3</jyutping>
+  <pinyin>shǎo jiàn</pinyin>
+  <english>rare, infrequent</english>
+</word>
+<word category='adjectives'>
+  <chinese>一般</chinese>
+  <jyutping>jat1 bun1</jyutping>
+  <pinyin>yī bān</pinyin>
+  <english>general, typical, average</english>
+</word>
+<word category='adjectives'>
+  <chinese>得意</chinese>
+  <jyutping>dak1 ji3</jyutping>
+  <pinyin>dé​ yì</pinyin>
+  <english>cute, adorable, interesting</english>
+</word>
+<word category='adjectives'>
+  <chinese>奇怪</chinese>
+  <jyutping>kei4 gwaai3</jyutping>
+  <pinyin>qí​ guài</pinyin>
+  <english>strange, odd</english>
+</word>
+<word category='adjectives'>
+  <chinese>寳貴</chinese>
+  <jyutping>bou2 gwai3</jyutping>
+  <pinyin>bǎo​ guì</pinyin>
+  <english>valuable, precious</english>
+</word>
+<word category='adjectives'>
+  <chinese>單身</chinese>
+  <jyutping>daan1 san1</jyutping>
+  <pinyin>dān​ shēn</pinyin>
+  <english>single, unmarried, not dating</english>
+</word>
+<word category='adjectives'>
+  <chinese>浪漫</chinese>
+  <jyutping>long6 maan6</jyutping>
+  <pinyin>làng​ màn</pinyin>
+  <english>romantic</english>
+</word>
+<word category='adjectives'>
+  <chinese>清醒</chinese>
+  <jyutping>cing1 sing2</jyutping>
+  <pinyin>qīng ​xǐng</pinyin>
+  <english>clear-headed, awake</english>
+</word>
+<word category='adjectives'>
+  <chinese>醜陋</chinese>
+  <jyutping>cau2 lau6</jyutping>
+  <pinyin>chǒu ​lòu</pinyin>
+  <english>ugly, unattractive</english>
+</word>
+<word category='adjectives'>
+  <chinese>成熟</chinese>
+  <jyutping>sing4 suk6</jyutping>
+  <pinyin>chéng ​shú</pinyin>
+  <english>mature, ripe</english>
+</word>
+<word category='adjectives'>
+  <chinese>明顯</chinese>
+  <jyutping>ming4 hin2</jyutping>
+  <pinyin>míng xiǎn</pinyin>
+  <english>obvious, clear, evident</english>
+</word>
+<word category='adjectives'>
+  <chinese>保守</chinese>
+  <jyutping>bou2 sau2</jyutping>
+  <pinyin>bǎo shǒu</pinyin>
+  <english>conservative, reserved</english>
+</word>
+<word category='adjectives'>
+  <chinese>特別</chinese>
+  <jyutping>dak6 bit6</jyutping>
+  <pinyin> tè bié</pinyin>
+  <english>special</english>
+</word>
+<word category='adjectives'>
+  <chinese>幽靜</chinese>
+  <jyutping>jau1 zing6</jyutping>
+  <pinyin>yōu jìng</pinyin>
+  <english>quiet, secluded, peaceful</english>
+</word>
+<word category='adjectives'>
+  <chinese>額外</chinese>
+  <jyutping>ngaak6 ngoi6</jyutping>
+  <pinyin>é wài</pinyin>
+  <english>extra, additional, added</english>
+</word>
+<word category='adjectives'>
+  <chinese>道地</chinese>
+  <jyutping>dou6 dei6</jyutping>
+  <pinyin>dào dì</pinyin>
+  <english>authentic, original</english>
+</word>
+<word category='adjectives'>
+  <chinese>穩定</chinese>
+  <jyutping>wan2 ding6</jyutping>
+  <pinyin>wěn dìng</pinyin>
+  <english>steady, stable</english>
+</word>
+<word category='adjectives'>
+  <chinese>簡單</chinese>
+  <jyutping>gaan2 daan1</jyutping>
+  <pinyin>jiǎn ​dān</pinyin>
+  <english>simple, easy, ordinary</english>
+</word>
+<word category='adjectives'>
+  <chinese>犀利</chinese>
+  <jyutping>sai1 lei6</jyutping>
+  <pinyin>xī ​lì</pinyin>
+  <english>amazing, awesome (spoken)</english>
+</word>
+<word category='adjectives'>
+  <chinese>厲害</chinese>
+  <jyutping>lai6 hoi6</jyutping>
+  <pinyin>lì​ hai</pinyin>
+  <english>amazing, awesome (written)</english>
+</word>
+<word category='adjectives'>
+  <chinese>免稅</chinese>
+  <jyutping>man6 seoi3</jyutping>
+  <pinyin>miǎn ​shuì</pinyin>
+  <english>tax free, duty free (shop)</english>
+</word>
+<word category='adjectives'>
+  <chinese>刺激</chinese>
+  <jyutping>ci3 gik1</jyutping>
+  <pinyin>cì jī</pinyin>
+  <english>exciting, stimulating, thrilling</english>
+</word>
+<word category='adjectives'>
+  <chinese>公平</chinese>
+  <jyutping>gung1 ping4</jyutping>
+  <pinyin>gōng píng</pinyin>
+  <english>just, impartial, fair</english>
+</word>
+<word category='adjectives'>
+  <chinese>廣大</chinese>
+  <jyutping>gwong2 daai6</jyutping>
+  <pinyin>guǎng dà</pinyin>
+  <english>(of an area) large, vast&lt;br&gt;(of people) numerous, diverse</english>
+</word>
+<word category='adjectives'>
+  <chinese>低級</chinese>
+  <jyutping>dai1 kap1</jyutping>
+  <pinyin>dī jí</pinyin>
+  <english>beginner, elementary, rudimentary, low-level</english>
+</word>
+<word category='adjectives'>
+  <chinese>中級</chinese>
+  <jyutping>zung1 kap1</jyutping>
+  <pinyin>zhōng jí</pinyin>
+  <english>intermediate, mid-level</english>
+</word>
+<word category='adjectives'>
+  <chinese>高級</chinese>
+  <jyutping>gou1 kap1</jyutping>
+  <pinyin>gāo jí</pinyin>
+  <english>advanced, high-level</english>
+</word>
+<word category='adjectives'>
+  <chinese>核突</chinese>
+  <jyutping>wat6 dat6</jyutping>
+  <pinyin>hé tū</pinyin>
+  <english>ugly, disgusting, revolting</english>
+</word>
+<word category='adjectives'>
+  <chinese>意外</chinese>
+  <jyutping>ji3 ngoi6</jyutping>
+  <pinyin>yì wài</pinyin>
+  <english>unexpected, unforseen, surprising</english>
+</word>
+<word category='adjectives'>
+  <chinese>緊急</chinese>
+  <jyutping>gan2 gap1</jyutping>
+  <pinyin>jǐn jí</pinyin>
+  <english>urgent, emergency, pressing</english>
+</word>
+<word category='adjectives'>
+  <chinese>順利</chinese>
+  <jyutping>seon6 lei6</jyutping>
+  <pinyin>shùn lì</pinyin>
+  <english>smooth, without difficulty, favorable</english>
+</word> 
+<word category='adjectives'>
+  <chinese>困難</chinese>
+  <jyutping>kwan3 naan4</jyutping>
+  <pinyin>kùn nan</pinyin>
+  <english>hard, difficult, challenging</english>
+</word> 
+<word category='adjectives'>
+  <chinese>無錯</chinese>
+  <jyutping>mou4 co3</jyutping>
+  <pinyin>wú cuò</pinyin>
+  <english>correct (lit. not wrong)</english>
+</word> 
+<word category='adjectives'>
+  <chinese>冇錯</chinese>
+  <jyutping>mou5 co3</jyutping>
+  <pinyin>mǎo cuò</pinyin>
+  <english>correct (lit. not wrong)</english>
+</word> 
+<word category='adjectives'>
+  <chinese>一致</chinese>
+  <jyutping>jat1 zi3</jyutping>
+  <pinyin>yī zhì</pinyin>
+  <english>identical, consistent, in agreement</english>
+</word> 
+<word category='adjectives'>
+  <chinese>正式</chinese>
+  <jyutping>zing3 sik1</jyutping>
+  <pinyin>zhèng shì</pinyin>
+  <english>official, formal</english>
+</word>
+<word category='adjectives'>
+  <chinese>怪怪地</chinese>
+  <jyutping>gwaai3 gwaai3 dei6 </jyutping>
+  <pinyin>guài guài dì</pinyin>
+  <english>strange (slang)</english>
+</word>
+<word category='adjectives'>
+  <chinese>差唔多</chinese>
+  <jyutping>caa1 m4 do1</jyutping>
+  <pinyin>chà wú duō</pinyin>
+  <english>almost </english>
+</word>
+<word category='adjectives'>
+  <chinese>食草動物</chinese>
+  <jyutping>sik6 cou2 dung6 mat6</jyutping>
+  <pinyin>shí cǎo dòng wù</pinyin>
+  <english>herbivore</english>
+</word>
+<word category='adjectives'>
+  <chinese>食肉動物</chinese>
+  <jyutping>sik6 juk6 dung6 mat6</jyutping>
+  <pinyin>shí ròu dòng wù</pinyin>
+  <english>carnivore</english>
+</word>
+<word category='adjectives'>
+  <chinese>無家可歸</chinese>
+  <jyutping>mou4 gaa1 ho2 gwai1</jyutping>
+  <pinyin>wú jiā kě guī</pinyin>
+  <english>homeless</english>
+</word>
+</words>
