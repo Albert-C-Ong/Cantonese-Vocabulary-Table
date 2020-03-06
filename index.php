@@ -195,8 +195,9 @@ function printWords($words, $link_to_header) {
 <html>
 
 <head>
-  <title>Cantonese Vocabulary Table</title> 
+  <title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title> 
   <link rel="stylesheet" type="text/css" href="assets/master.css">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
 </head>
 
 <body>
