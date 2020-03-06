@@ -1637,9 +1637,6 @@
   <english>pile, later</english>
 </word>
 <word category='nouns'>
-  <chinese></chinese>
-</word>
-<word category='nouns'>
   <chinese>嘢</chinese>
   <jyutping>je5</jyutping>
   <pinyin>yě</pinyin>
@@ -3259,9 +3256,6 @@
   <jyutping>sat6 zaap6 sang1</jyutping>
   <pinyin>shí xí sheng</pinyin>
   <english>intern, apprentice, trainee</english>
-</word>
-<word category='nouns' subcategory='business'>
-  <chinese></chinese>
 </word>
 <word category='nouns' subcategory='business'>
   <chinese>公司卡片</chinese>
@@ -5705,6 +5699,24 @@
   <pinyin>nóng lì xīn nián</pinyin>
   <english>Chinese New Year</english>
 </word>
+<word category='nouns' subcategory='illness'>
+  <chinese>病</chinese>
+  <jyutping>beng6</jyutping>
+  <pinyin>bìng</pinyin>
+  <english>illness, sickness, disease</english>
+</word>
+<word category='nouns' subcategory='illness'>
+  <chinese>病毒</chinese>
+  <jyutping>beng6 duk6</jyutping>
+  <pinyin>bìng dú</pinyin>
+  <english>virus</english>
+</word>
+<word category='nouns' subcategory='illness'>
+  <chinese>冠狀病毒</chinese>
+  <jyutping>gun1 zong6 beng6 duk6</jyutping>
+  <pinyin>guān zhuàng bìng dú</pinyin>
+  <english>coronavirus</english>
+</word>
 <word category='nouns' subcategory='kitchenware'>
   <chinese>碗</chinese>
   <jyutping>wun2</jyutping>
@@ -6990,12 +7002,6 @@
   <english>legislation</english>
 </word>
 <word category='nouns' subcategory='politics'>
-  <chinese></chinese>
-  <jyutping></jyutping>
-  <pinyin></pinyin>
-  <english></english>
-</word>
-<word category='nouns' subcategory='politics'>
   <chinese>參議院</chinese>
   <jyutping>caam1 ji5 jyun6</jyutping>
   <pinyin>cān yì yuàn</pinyin>
@@ -7056,10 +7062,16 @@
   <english>politician, statesman</english>
 </word>
 <word category='nouns' subcategory='politics' subcategory2="politicians">
-  <chinese>特朗普</chinese>chinese>
+  <chinese>特朗普</chinese>
   <jyutping>dak6 long5 pou2</jyutping>
   <pinyin>tè lǎng pǔ</pinyin>
   <english>Donald Trump</english>
+</word>
+<word category='nouns' subcategory='politics' subcategory2="politicians">
+  <chinese>習近平</chinese>
+  <jyutping>zaap6 gan6 ping4</jyutping>
+  <pinyin>xí jìn píng</pinyin>
+  <english></english>
 </word>
 <word category='nouns' subcategory='professions'>
   <chinese>師</chinese>
@@ -10146,9 +10158,6 @@
   <english>to reserve a seat, to book a table</english>
 </word>
 <word category='verbs'>
-  <chinese></chinese>
-</word>
-<word category='verbs'>
   <chinese>搬屋</chinese>
   <jyutping>bun1 uk1</jyutping>
   <pinyin>bān wū</pinyin>
@@ -11144,9 +11153,6 @@
   <pinyin>yòng yá xiàn</pinyin>
   <english>to floss</english>
 </word>
-<word category='verbs' subcategory='hygiene'>
-  <chinese></chinese>
-</word>
 <word category='verbs' subcategory='illness'>
   <chinese>病</chinese>
   <jyutping>beng6</jyutping>
@@ -12101,10 +12107,34 @@
 </word>
 
 <word category='adverbs'>
+  <chinese>更</chinese>
+  <jyutping>gang3</jyutping>
+  <pinyin>gèng</pinyin>
+  <english>more, further, even more</english>
+</word>
+<word category='adverbs'>
   <chinese>不斷</chinese>
   <jyutping>bat1 dyun6</jyutping>
   <pinyin>bù duàn</pinyin>
   <english>continuously, constantly</english>
+</word>
+<word category='adverbs'>
+  <chinese>一時</chinese>
+  <jyutping>jat1 si4</jyutping>
+  <pinyin>yī shí</pinyin>
+  <english>for a short while, temporarily, momentarily</english>
+</word>
+<word category='adverbs'>
+  <chinese>進一步</chinese>
+  <jyutping>zeon3 jat1 bou6</jyutping>
+  <pinyin>jìn yī bù</pinyin>
+  <english>to go a step further (in doing something) </english>
+</word>
+<word category='adverbs'>
+  <chinese>另一方面</chinese>
+  <jyutping>ling6 jat1 fong1 min6</jyutping>
+  <pinyin>lìng yī fāng miàn</pinyin>
+  <english>on the other hand</english>
 </word>
   
 <word category='nouns'>
@@ -12112,6 +12142,12 @@
   <jyutping>zeon3 cing4</jyutping>
   <pinyin>jìn chéng</pinyin>
   <english>process, course</english>
+</word>
+<word category='nouns'>
+  <chinese>計劃</chinese>
+  <jyutping>gai3 waak6</jyutping>
+  <pinyin>jì huà</pinyin>
+  <english>plan, project, program proposal</english>
 </word>
   
 <word category='verbs'>
@@ -12168,6 +12204,37 @@
   <pinyin>yùn niàng</pinyin>
   <english>to ferment, to brew</english>
 </word>
+<word category='verbs'>
+  <chinese>面對</chinese>
+  <jyutping>min6 deoi3</jyutping>
+  <pinyin>miàn duì</pinyin>
+  <english>to face, to confront</english>
+</word>
+<word category='verbs'>
+  <chinese>阻滯</chinese>
+  <jyutping>zo2 zai6</jyutping>
+  <pinyin>zǔ zhì</pinyin>
+  <english>to block, to obstruct, to clog up</english>
+</word>
+<word category='verbs'>
+  <chinese>支持</chinese>
+  <jyutping>zi1 ci4</jyutping>
+  <pinyin>zhī chí</pinyin>
+  <english>to back, to support, to be in favor of</english>
+</word>
+<word category='verbs'>
+  <chinese>爭取</chinese>
+  <jyutping>zang1 ceoi2</jyutping>
+  <pinyin>zhēng qǔ</pinyin>
+  <english>to fight for, to strive for, to win over</english>
+</word>
+<word category='verbs'>
+  <chinese>抗爭</chinese>
+  <jyutping>kong3 zang1</jyutping>
+  <pinyin>kàng zhēng</pinyin>
+  <english>to make a stand against, to resist</english>
+</word>
+  
 </words>
 
 

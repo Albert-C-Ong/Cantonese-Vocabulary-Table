@@ -265,6 +265,11 @@
         <chinese>假日</chinese>
       </subcategory>
       
+      <subcategory incomplete="true">
+        <name>Illness</name>
+        <chinese>病</chinese>
+      </subcategory>
+      
       <subcategory>
         <name>Kitchenware</name>
         <chinese>廚房用具</chinese>
@@ -551,7 +556,7 @@
       
       <subcategory>
         <name>Illness</name>
-        <chinese>(病</chinese>
+        <chinese>病</chinese>
       </subcategory>
       
       <subcategory>
