@@ -5801,7 +5801,7 @@
   <pinyin>chú fáng yòng jù</pinyin>
   <english>kitchenware &lt;br&gt;(lit. kitchen utensils)</english>
 </word>
-<word category='nouns' subcategory='languages'>
+<word category='nouns' subcategory=''>
   <chinese>語言</chinese>
   <jyutping>jyu5 jin4</jyutping>
   <pinyin>yǔ yán</pinyin>
@@ -5872,6 +5872,12 @@
   <jyutping>jyut6 ping1</jyutping>
   <pinyin>yuè pīn</pinyin>
   <english>Jyutping</english>
+</word>
+<word category='nouns' subcategory='languages'>
+  <chinese>白話</chinese>
+  <jyutping>bái huà</jyutping>
+  <pinyin>baak6 waa6</pinyin>
+  <english>spoken language, vernacular Chinese</english>
 </word>
 <word category='nouns' subcategory='languages'>
   <chinese>廣東話</chinese>
@@ -11904,6 +11910,18 @@
   <english>excuse me, may I ask...?</english>
 </word>
 <word category='other' subcategory='common-phrases'>
+  <chinese>無所謂</chinese>
+  <jyutping>mou4 so2 wai6</jyutping>
+  <pinyin>wú suǒ wèi</pinyin>
+  <english>to be indifferent, to not matter</english>
+</word>
+<word category='other' subcategory='common-phrases'>
+  <chinese>冇所謂</chinese>
+  <jyutping>mou4 so2 wai6</jyutping>
+  <pinyin>mǎo suǒ wèi</pinyin>
+  <english>indifferent, don't care</english>
+</word>
+<word category='other' subcategory='common-phrases'>
   <chinese>對唔住</chinese>
   <jyutping>deoi3 m4 zyu6</jyutping>
   <pinyin>duì bu zhù</pinyin>
@@ -12094,6 +12112,12 @@
 <!-- Unsorted words -->
 
 <word category='adjectives'>
+  <chinese>空</chinese>
+  <jyutping>hung1</jyutping>
+  <pinyin>kōng</pinyin>
+  <english>empty, hollow, void</english>
+</word>
+<word category='adjectives'>
   <chinese>暗</chinese>
   <jyutping>am3</jyutping>
   <pinyin>àn</pinyin>
@@ -12112,6 +12136,12 @@
   <english>safe, peaceful, safe and sound</english>
 </word>
 
+<word category='adverbs'>
+  <chinese>一</chinese>
+  <jyutping>jat1</jyutping>
+  <pinyin>yī</pinyin>
+  <english>once, as soon as, upon</english>
+</word>
 <word category='adverbs'>
   <chinese>更</chinese>
   <jyutping>gang3</jyutping>
@@ -12155,7 +12185,19 @@
   <pinyin>jì huà</pinyin>
   <english>plan, project, program proposal</english>
 </word>
-  
+<word category='nouns'>
+  <chinese>建議</chinese>
+  <jyutping>gin3 ji5</jyutping>
+  <pinyin>jiàn yì</pinyin>
+  <english>suggestions, recommendation, proposal</english>
+</word>
+ 
+<word category='verbs'>
+  <chinese>以為</chinese>
+  <jyutping>ji5 wai4</jyutping>
+  <pinyin>yǐ wéi</pinyin>
+  <english>to mistakenly believe, to be under the impression, to have thought that</english>
+</word>
 <word category='verbs'>
   <chinese>留意</chinese>
   <jyutping>lau4 ji3</jyutping>
@@ -12239,6 +12281,12 @@
   <jyutping>kong3 zang1</jyutping>
   <pinyin>kàng zhēng</pinyin>
   <english>to make a stand against, to resist</english>
+</word>
+<word category='verbs'>
+  <chinese>建議</chinese>
+  <jyutping>gin3 ji5</jyutping>
+  <pinyin>jiàn yì</pinyin>
+  <english>to suggest, to recommend, to propose, to advise</english>
 </word>
   
 </words>
