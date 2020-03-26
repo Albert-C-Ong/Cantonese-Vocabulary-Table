@@ -1,0 +1,563 @@
+{
+   "categories": {
+      "category": [
+         {
+            "name": "Adjectives",
+            "chinese": "形容詞"
+         },
+         {
+            "name": "Adverbs",
+            "chinese": "副詞"
+         },
+         {
+            "name": "Nouns",
+            "chinese": "名詞"
+         },
+         {
+            "name": "Prepositions",
+            "chinese": "介詞"
+         },
+         {
+            "name": "Pronouns",
+            "chinese": "代詞"
+         },
+         {
+            "name": "Verbs",
+            "chinese": "動詞"
+         },
+         {
+            "name": "Other",
+            "chinese": "其他"
+         },
+         {
+            "name": "Resources",
+            "chinese": "資源"
+         }
+      ],
+      "subcategories": [
+         {
+            "subcategory": [
+               {
+                  "name": "Climate",
+                  "chinese": "氣候"
+               },
+               {
+                  "name": "Emotions",
+                  "chinese": "情感"
+               },
+               {
+                  "name": "Flavors",
+                  "chinese": "滋味"
+               },
+               {
+                  "name": "Personality",
+                  "chinese": "性格"
+               },
+               {
+                  "name": "Sexuality",
+                  "chinese": "性"
+               },
+               {
+                  "name": "Textures",
+                  "chinese": "質地"
+               }
+            ],
+            "_parent": "adjectives"
+         },
+         {
+            "subcategory": [
+               {
+                  "name": "Age Groups",
+                  "chinese": "年齡組"
+               },
+               {
+                  "name": "Animals",
+                  "chinese": "動物"
+               },
+               {
+                  "name": "Astronomy",
+                  "chinese": "天文"
+               },
+               {
+                  "name": "Bathroom",
+                  "chinese": "廁所",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Body Parts",
+                  "chinese": "身體"
+               },
+               {
+                  "name": "Buildings",
+                  "chinese": "建築"
+               },
+               {
+                  "name": "Business",
+                  "chinese": "生意"
+               },
+               {
+                  "name": "Classifiers",
+                  "chinese": "量詞"
+               },
+               {
+                  "name": "Clothing",
+                  "chinese": "衣服"
+               },
+               {
+                  "name": "Colors",
+                  "chinese": "顏色"
+               },
+               {
+                  "name": "Competition",
+                  "chinese": "比賽"
+               },
+               {
+                  "name": "Containers",
+                  "chinese": "容器",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Countries and Regions",
+                  "chinese": "國家及區域"
+               },
+               {
+                  "name": "Culture",
+                  "chinese": "文化",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Directions",
+                  "chinese": "方向"
+               },
+               {
+                  "name": "Discrimination",
+                  "chinese": "歧視"
+               },
+               {
+                  "name": "Drugs",
+                  "chinese": "毒品"
+               },
+               {
+                  "name": "Family and Friends",
+                  "chinese": "家庭及朋友"
+               },
+               {
+                  "name": "Fantasy",
+                  "chinese": "奇幻"
+               },
+               {
+                  "name": "Food",
+                  "chinese": "飯"
+               },
+               {
+                  "name": "Furniture",
+                  "chinese": "家具"
+               },
+               {
+                  "name": "Games",
+                  "chinese": "遊戲"
+               },
+               {
+                  "name": "Geography",
+                  "chinese": "地理"
+               },
+               {
+                  "name": "Grammar",
+                  "chinese": "文法"
+               },
+               {
+                  "name": "Healthcare",
+                  "chinese": "保建",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Holidays",
+                  "chinese": "假日"
+               },
+               {
+                  "name": "Illness",
+                  "chinese": "病",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Kitchenware",
+                  "chinese": "廚房用具"
+               },
+               {
+                  "name": "Languages",
+                  "chinese": "語言"
+               },
+               {
+                  "name": "Materials",
+                  "chinese": "材料"
+               },
+               {
+                  "name": "Mathematics",
+                  "chinese": "數學",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Measurements",
+                  "chinese": "量度"
+               },
+               {
+                  "name": "Media",
+                  "chinese": "媒體",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Music",
+                  "chinese": "音樂",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Numbers",
+                  "chinese": "號碼"
+               },
+               {
+                  "name": "Nutrition",
+                  "chinese": "營養"
+               },
+               {
+                  "name": "Philosophy",
+                  "chinese": "哲學"
+               },
+               {
+                  "name": "Politics",
+                  "chinese": "政治"
+               },
+               {
+                  "name": "Professions",
+                  "chinese": "職業"
+               },
+               {
+                  "name": "Romance",
+                  "chinese": "愛情"
+               },
+               {
+                  "name": "Royalty",
+                  "chinese": "王權"
+               },
+               {
+                  "name": "Religion",
+                  "chinese": "宗教"
+               },
+               {
+                  "name": "School",
+                  "chinese": "學校"
+               },
+               {
+                  "name": "Sex",
+                  "chinese": "性事"
+               },
+               {
+                  "name": "Sports",
+                  "chinese": "運動"
+               },
+               {
+                  "name": "Technology",
+                  "chinese": "技術"
+               },
+               {
+                  "name": "Time",
+                  "chinese": "時間"
+               },
+               {
+                  "name": "Transportation",
+                  "chinese": "交通"
+               },
+               {
+                  "name": "Videogames",
+                  "chinese": "??",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "War",
+                  "chinese": "戰爭"
+               },
+               {
+                  "name": "Weaponry",
+                  "chinese": "兵器"
+               },
+               {
+                  "name": "Weather",
+                  "chinese": "天氣"
+               }
+            ],
+            "subcategories": [
+               {
+                  "subcategory": [
+                     {
+                        "name": "Seafood",
+                        "chinese": "海鮮"
+                     }
+                  ],
+                  "_parent": "animals"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Planets",
+                        "chinese": "星球"
+                     },
+                     {
+                        "name": "Galilean Moons",
+                        "chinese": "伽利略衛星"
+                     }
+                  ],
+                  "_parent": "astronomy"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Rooms",
+                        "chinese": "房",
+                        "_incomplete": "true"
+                     }
+                  ],
+                  "_parent": "buildings"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Cities",
+                        "chinese": "城市",
+                        "_incomplete": "true"
+                     },
+                     {
+                        "name": "States",
+                        "chinese": "州",
+                        "_incomplete": "true"
+                     }
+                  ],
+                  "_parent": "countries-and-regions"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Dairy",
+                        "chinese": "奶品"
+                     },
+                     {
+                        "name": "Desserts",
+                        "chinese": "甜品"
+                     },
+                     {
+                        "name": "Dimsum",
+                        "chinese": "點心",
+                        "_incomplete": "true"
+                     },
+                     {
+                        "name": "Drinks",
+                        "chinese": "嘢飲"
+                     },
+                     {
+                        "name": "Fruits",
+                        "chinese": "水果"
+                     },
+                     {
+                        "name": "Grain",
+                        "chinese": "穀物",
+                        "_incomplete": "true"
+                     },
+                     {
+                        "name": "Seasoning",
+                        "chinese": "調味料",
+                        "_incomplete": "true"
+                     },
+                     {
+                        "name": "Vegetables",
+                        "chinese": "蔬菜"
+                     }
+                  ],
+                  "_parent": "food"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Three-dimensional Shapes",
+                        "chinese": "三維形狀"
+                     },
+                     {
+                        "name": "Two-dimensional Shapes",
+                        "chinese": "二維形狀"
+                     }
+                  ],
+                  "_parent": "mathematics"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Anime",
+                        "chinese": "動漫"
+                     },
+                     {
+                        "name": "Literature",
+                        "chinese": "文學",
+                        "_incomplete": "true"
+                     },
+                     {
+                        "name": "Movies",
+                        "chinese": "電影"
+                     }
+                  ],
+                  "_parent": "media"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Instruments",
+                        "chinese": "樂器",
+                        "_incomplete": "true"
+                     },
+                     {
+                        "name": "Genres",
+                        "chinese": "類型",
+                        "_incomplete": "true"
+                     }
+                  ],
+                  "_parent": "music"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Politicians",
+                        "chinese": "政治人物",
+                        "_incomplete": "true"
+                     }
+                  ],
+                  "_parent": "politics"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Subjects",
+                        "chinese": "科目"
+                     }
+                  ],
+                  "_parent": "school"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Appliances",
+                        "chinese": "電器"
+                     }
+                  ],
+                  "_parent": "technology"
+               },
+               {
+                  "subcategory": [
+                     {
+                        "name": "Seasons",
+                        "chinese": "季"
+                     }
+                  ],
+                  "_parent": "time"
+               }
+            ],
+            "_parent": "nouns"
+         },
+         {
+            "subcategory": [
+               {
+                  "name": "Activities",
+                  "chinese": "活動"
+               },
+               {
+                  "name": "Affection",
+                  "chinese": "戀情"
+               },
+               {
+                  "name": "Arithmetic",
+                  "chinese": "算術"
+               },
+               {
+                  "name": "Cooking",
+                  "chinese": "煮飯"
+               },
+               {
+                  "name": "Commerce",
+                  "chinese": "商業"
+               },
+               {
+                  "name": "Communication",
+                  "chinese": "通訊"
+               },
+               {
+                  "name": "Crime",
+                  "chinese": "罪行"
+               },
+               {
+                  "name": "Emotions",
+                  "chinese": "請感"
+               },
+               {
+                  "name": "Exercise",
+                  "chinese": "運動",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Hygiene",
+                  "chinese": "衛生"
+               },
+               {
+                  "name": "Illness",
+                  "chinese": "病"
+               },
+               {
+                  "name": "School",
+                  "chinese": "學校"
+               },
+               {
+                  "name": "Socialization",
+                  "chinese": "周旋"
+               },
+               {
+                  "name": "Work",
+                  "chinese": "工"
+               }
+            ],
+            "subcategories": [
+               {
+                  "subcategory": [
+                     {
+                        "name": "Travel",
+                        "chinese": "旅行"
+                     }
+                  ],
+                  "_parent": "activities"
+               }
+            ],
+            "_parent": "verbs"
+         },
+         {
+            "subcategory": [
+               {
+                  "name": "Common Phrases",
+                  "chinese": "普遍短語"
+               },
+               {
+                  "name": "Questions",
+                  "chinese": "問題"
+               },
+               {
+                  "name": "Onomatopoeia",
+                  "chinese": "象聲詞"
+               },
+               {
+                  "name": "Profanity",
+                  "chinese": "髒話",
+                  "_incomplete": "true"
+               },
+               {
+                  "name": "Slang",
+                  "chinese": "俗語",
+                  "_incomplete": "true"
+               }
+            ],
+            "_parent": "other"
+         }
+      ]
+   }
+}

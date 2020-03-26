@@ -5772,6 +5772,12 @@
   <english>plate, dish, tray</english>
 </word>
 <word category='nouns' subcategory='kitchenware'>
+  <chinese>蓋</chinese>
+  <jyutping>goi3</jyutping>
+  <pinyin>gài</pinyin>
+  <english>lip, cap, cover</english>
+</word>
+<word category='nouns' subcategory='kitchenware'>
   <chinese>筷子</chinese>
   <jyutping>faai3 zi2</jyutping>
   <pinyin>kuài zi</pinyin>
@@ -8328,10 +8334,16 @@
   <english>operating system</english>
 </word>
 <word category='nouns' subcategory='technology'>
-  <chinese>軟件安全性</chinese>
-  <jyutping>jyun5 gin6 in1 cyun4 sing3</jyutping>
-  <pinyin>ruǎn jiàn ān quán xìng</pinyin>
+  <chinese>軟件保安</chinese>
+  <jyutping>jyun5 gin6 bou2 on1</jyutping>
+  <pinyin>ruǎn jiàn bǎo ān</pinyin>
   <english>software security</english>
+</word>
+<word category='nouns' subcategory='technology'>
+  <chinese>電腦保安</chinese>
+  <jyutping>din6 nou5 ̀bou2 on1</jyutping>
+  <pinyin>diàn nǎo bǎo ān</pinyin>
+  <english>computer security</english>
 </word>
 <word category='nouns' subcategory='technology' subcategory2='appliances'>
   <chinese>機</chinese>
