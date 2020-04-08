@@ -725,11 +725,17 @@
   <english>windy</english>
 </word>
   
-  
+
+<word category='adjectives' subcategory='emotions'>
+  <chinese>慘</chinese>
+  <jyutping>caam2</jyutping>
+  <pinyin>cǎn</pinyin>
+  <english>sad, miserable, gloomy</english>
+</word>
 <word category='adjectives' subcategory='emotions'>
   <chinese>攰</chinese>
   <jyutping>gui6</jyutping>
-  <pinyin>guìall</pinyin>
+  <pinyin>guì</pinyin>
   <english>tired</english>
 </word>
 <word category='adjectives' subcategory='emotions'>
@@ -4656,6 +4662,12 @@
   <english>dairy</english>
 </word>
 <word category='nouns' subcategory='food' subcategory2='dairy'>
+  <chinese>忌廉</chinese>
+  <jyutping>gei6 lim4</jyutping>
+  <pinyin>jì lián</pinyin>
+  <english></english>
+</word>
+<word category='nouns' subcategory='food' subcategory2='dairy'>
   <chinese>牛奶</chinese>
   <jyutping>ngau4 naai1</jyutping>
   <pinyin>niú nǎi</pinyin>
@@ -4684,6 +4696,12 @@
   <jyutping>syun1 naai1 jau4</jyutping>
   <pinyin>suān nǎi yóu</pinyin>
   <english>sour cream</english>
+</word>
+<word category='nouns' subcategory='food' subcategory2='dairy'>
+  <chinese>忌廉芝士</chinese>
+  <jyutping>gei6 lim4 zi1 si6</jyutping>
+  <pinyin>jì lián zhī shì</pinyin>
+  <english>cream cheese</english>
 </word>
 <word category='nouns' subcategory='food' subcategory2='desserts'>
   <chinese>餅</chinese>
@@ -6792,6 +6810,12 @@
   <english>ethics, morality&lt;br&gt;(lit. human relationship reason)</english>
 </word>
 <word category='nouns' subcategory='philosophy'>
+  <chinese>諺語</chinese>
+  <jyutping>jin6 jyu5</jyutping>
+  <pinyin>yàn yǔ</pinyin>
+  <english>proverb, saying</english>
+</word>
+<word category='nouns' subcategory='philosophy'>
   <chinese>虛無主義</chinese>
   <jyutping>heoi1 mou4 zyu2 ji6</jyutping>
   <pinyin>xū​ wú​ zhǔ​ yì</pinyin>
@@ -7012,6 +7036,18 @@
   <jyutping>lap6 faat3</jyutping>
   <pinyin>lì fǎ</pinyin>
   <english>legislation</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>公民</chinese>
+  <jyutping>gung1 man4</jyutping>
+  <pinyin>gōng mín</pinyin>
+  <english>citizen</english>
+</word>
+<word category='nouns' subcategory='politics'>
+  <chinese>公民權</chinese>
+  <jyutping>gung1 man4 kyun4</jyutping>
+  <pinyin>gōng mín quán</pinyin>
+  <english>citizenship, civil rights</english>
 </word>
 <word category='nouns' subcategory='politics'>
   <chinese>參議院</chinese>
@@ -7504,6 +7540,12 @@
   <jyutping>bat1</jyutping>
   <pinyin>bǐ</pinyin>
   <english>pen, pencil</english>
+</word>
+<word category='nouns' subcategory='school'>
+  <chinese>筆刨</chinese>
+  <jyutping>bat1 paau4</jyutping>
+  <pinyin>bǐ bào</pinyin>
+  <english>pencil sharpener</english>
 </word>
 <word category='nouns' subcategory='school'>
   <chinese>學校</chinese>
@@ -12203,7 +12245,19 @@
   <pinyin>jiàn yì</pinyin>
   <english>suggestions, recommendation, proposal</english>
 </word>
- 
+
+<word category='verbs'>
+  <chinese>收</chinese>
+  <jyutping>sai1</jyutping>
+  <pinyin>shōu</pinyin>
+  <english>to recieve, to accept, to collect</english>
+</word>
+<word category='verbs'>
+  <chinese>連</chinese>
+  <jyutping>lin4</jyutping>
+  <pinyin>lián</pinyin>
+  <english>to connect, to link, to join</english>
+</word>
 <word category='verbs'>
   <chinese>以為</chinese>
   <jyutping>ji5 wai4</jyutping>
@@ -12300,7 +12354,24 @@
   <pinyin>jiàn yì</pinyin>
   <english>to suggest, to recommend, to propose, to advise</english>
 </word>
-  
+<word category='verbs'>
+  <chinese>餓死</chinese>
+  <jyutping>ngo6 sei2</jyutping>
+  <pinyin>è sǐ</pinyin>
+  <english>to starve to death, to be extremely hungry</english>
+</word>
+<word category='verbs'>
+  <chinese>餓死</chinese>
+  <jyutping>ngo6 sei2</jyutping>
+  <pinyin>è sǐ</pinyin>
+  <english>to starve to death, to be extremely hungry</english>
+</word>
+<word category='verbs'>
+  <chinese>保衛</chinese>
+  <jyutping>bou2 wai6</jyutping>
+  <pinyin>bǎo wèi</pinyin>
+  <english>to defend, to safeguard</english>
+</word>
 </words>
 
 
