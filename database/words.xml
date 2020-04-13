@@ -2843,6 +2843,42 @@
   <pinyin>sān tóu jī</pinyin>
   <english>triceps</english>
 </word>
+<word category='nouns' subcategory='body-parts' subcategory2="organs">
+  <chinese>肺</chinese>
+  <jyutping>fei4</jyutping>
+  <pinyin>fèi</pinyin>
+  <english>lung (anatomy)</english>
+</word>
+<word category='nouns' subcategory='body-parts' subcategory2="organs">
+  <chinese>胃</chinese>
+  <jyutping>wai6</jyutping>
+  <pinyin>wèi</pinyin>
+  <english>stomach</english>
+</word>
+<word category='nouns' subcategory='body-parts' subcategory2="organs">
+  <chinese>器官</chinese>
+  <jyutping>hei3 gun1</jyutping>
+  <pinyin>qì guān</pinyin>
+  <english>organ (medicine, biology)</english>
+</word>
+<word category='nouns' subcategory='body-parts' subcategory2="organs">
+  <chinese>心臟</chinese>
+  <jyutping>sam1 zong6</jyutping>
+  <pinyin>xīn zàng</pinyin>
+  <english>heart (anatomy)</english>
+</word>
+<word category='nouns' subcategory='body-parts' subcategory2="organs">
+  <chinese>大腦</chinese>
+  <jyutping>daai6 nou5</jyutping>
+  <pinyin>dà nǎo</pinyin>
+  <english>brain, cerebrum</english>
+</word>
+<word category='nouns' subcategory='body-parts' subcategory2="organs">
+  <chinese>腎臟</chinese>
+  <jyutping>san6 zong6</jyutping>
+  <pinyin>shèn zàng</pinyin>
+  <english>kidney</english>
+</word>
 <word category='nouns' subcategory='buildings'>
   <chinese>店</chinese>
   <jyutping>dim3</jyutping>
@@ -4354,6 +4390,120 @@
   <jyutping>hak1 kaa1 jan1</jyutping>
   <pinyin>kě​ kǎ ​yīn</pinyin>
   <english>cocaine (loanword)</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>經濟</chinese>
+  <jyutping>ging1 zai3</jyutping>
+  <pinyin>jīng jì</pinyin>
+  <english>economy, economics</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>理財</chinese>
+  <jyutping>lei5 coi4</jyutping>
+  <pinyin>lǐ cái</pinyin>
+  <english>finance, financial management</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>債務</chinese>
+  <jyutping>zaai3 mou6</jyutping>
+  <pinyin>zhài wù</pinyin>
+  <english>debt</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>貸款</chinese>
+  <jyutping>taai3 fun2</jyutping>
+  <pinyin>dài kuǎn</pinyin>
+  <english>loan (lending of money)</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>破產</chinese>
+  <jyutping>po3 caan2</jyutping>
+  <pinyin>pò chǎn</pinyin>
+  <english>bankruptcy</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>資本</chinese>
+  <jyutping>zi1 ben2</jyutping>
+  <pinyin>zī běn</pinyin>
+  <english>capital (economics, business, finance)</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>通貨</chinese>
+  <jyutping>tung1 fo3</jyutping>
+  <pinyin>tōng huò</pinyin>
+  <english>currency, exchange of goods</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>衰退</chinese>
+  <jyutping>seoi1 teoi3</jyutping>
+  <pinyin>shuāi tuì</pinyin>
+  <english>recession, depression, slump</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>投資</chinese>
+  <jyutping>tau4 zi1</jyutping>
+  <pinyin>tóu zī</pinyin>
+  <english>investment (of money)</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>利潤</chinese>
+  <jyutping>lei6 jeon6</jyutping>
+  <pinyin>lì rùn</pinyin>
+  <english>profit</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>成本</chinese>
+  <jyutping>sing4 bun2</jyutping>
+  <pinyin>chéng běn</pinyin>
+  <english>cost (business, finance)</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>市場</chinese>
+  <jyutping>si5 coeng4</jyutping>
+  <pinyin>shì chǎng</pinyin>
+  <english>market, marketplace</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>工資</chinese>
+  <jyutping>gung1 zi1</jyutping>
+  <pinyin>gōng zī</pinyin>
+  <english>wage, salary, pay</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>不平等</chinese>
+  <jyutping>bat1 ping4 dang2</jyutping>
+  <pinyin>bù píng děng</pinyin>
+  <english>inequality, unfairness</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>資本主義</chinese>
+  <jyutping>zi1 ben2 zyu2 ji6</jyutping>
+  <pinyin>zī běn zhǔ yì</pinyin>
+  <english>capitalism</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>股票市場</chinese>
+  <jyutping>gu2 piu3 si5 coeng4</jyutping>
+  <pinyin>gǔ piào shì chǎng</pinyin>
+  <english>stock market, sharemarket</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>通貨膨脹</chinese>
+  <jyutping>tung1 fo3 paang4 zoeng3</jyutping>
+  <pinyin>tōng huò péng zhàng</pinyin>
+  <english>inflation (economics)</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>最低工資</chinese>
+  <jyutping>zeoi3 dai1 gung1 zi1</jyutping>
+  <pinyin>zuì dī gōng zī</pinyin>
+  <english>minimum wage</english>
+</word>
+<word category='nouns' subcategory='economics'>
+  <chinese>機會成本</chinese>
+  <jyutping>gei1 wui6 sing4 bun1</jyutping>
+  <pinyin>jī huì chéng běn</pinyin>
+  <english>opportunnity cost</english>
 </word>
 <word category='nouns' subcategory='family-and-friends'>
   <chinese>仔</chinese>
@@ -6604,6 +6754,24 @@
   <jyutping>zoek3 si6</jyutping>
   <pinyin>jué shì</pinyin>
   <english>jazz (loanword)</english>
+</word>
+<word category='nouns' subcategory='mythology'>
+  <chinese>神話</chinese>
+  <jyutping>san4 waa6</jyutping>
+  <pinyin>shén huà</pinyin>
+  <english>myth, mythology</english>
+</word>
+<word category='nouns' subcategory='mythology'>
+  <chinese>男神</chinese>
+  <jyutping>naam4 san4</jyutping>
+  <pinyin>nán shén</pinyin>
+  <english>god (male)</english>
+</word>
+<word category='nouns' subcategory='mythology'>
+  <chinese>女神</chinese>
+  <jyutping>neoi5 san4</jyutping>
+  <pinyin>nǚ shén</pinyin>
+  <english>goddess</english>
 </word>
 <word category='nouns' subcategory='numbers'>
   <chinese>數</chinese>
@@ -8926,6 +9094,12 @@
   <jyutping>fo2 jim4 zi1 man4 zoeng1</jyutping>
   <pinyin>huǒ yàn zhī wén zhāng</pinyin>
   <english>Fire Emblem</english>
+</word>
+<word category='nouns' subcategory='videogames'>
+  <chinese>聯盟戰棋</chinese>
+  <jyutping>lyun4 mang4 zin3 kei4</jyutping>
+  <pinyin>lián méng zhàn qí</pinyin>
+  <english>Teamfight Tactics&lt;br&gt;(lit. league battle chess)</english>
 </word>
 <word category='nouns' subcategory='war'>
   <chinese>戰爭</chinese>
@@ -12163,8 +12337,17 @@
 </word>
   
   
-<!-- Unsorted words -->
+<!-- UNSORTED WORDS -->
 
+<!--
+<word category=''>
+  <chinese></chinese>
+  <jyutping></jyutping>
+  <pinyin></pinyin>
+  <english></english>
+</word>  
+-->
+  
 <word category='adjectives'>
   <chinese>空</chinese>
   <jyutping>hung1</jyutping>
@@ -12189,7 +12372,19 @@
   <pinyin>píng ān</pinyin>
   <english>safe, peaceful, safe and sound</english>
 </word>
-
+<word category='adjectives'>
+  <chinese>對外</chinese>
+  <jyutping>deoi3 ngoi6</jyutping>
+  <pinyin>duì wài</pinyin>
+  <english>foreign, external</english>
+</word>
+<word category='adjectives'>
+  <chinese>方便</chinese>
+  <jyutping>fong1 bin6</jyutping>
+  <pinyin>fāng biàn</pinyin>
+  <english>convinient</english>
+</word>
+  
 <word category='adverbs'>
   <chinese>一</chinese>
   <jyutping>jat1</jyutping>
@@ -12244,6 +12439,30 @@
   <jyutping>gin3 ji5</jyutping>
   <pinyin>jiàn yì</pinyin>
   <english>suggestions, recommendation, proposal</english>
+</word>
+<word category='nouns'>
+  <chinese>機會</chinese>
+  <jyutping>ji1 hui4</jyutping>
+  <pinyin>jī huì</pinyin>
+  <english>opportunnity, chance</english>
+</word>
+<word category='nouns'>
+  <chinese>農藥</chinese>
+  <jyutping>nung4 joek6</jyutping>
+  <pinyin>nóng yào</pinyin>
+  <english>pesticide</english>
+</word>
+<word category='nouns'>
+  <chinese>旅遊</chinese>
+  <jyutping>leoi5 jau4</jyutping>
+  <pinyin>lǚ yóu</pinyin>
+  <english>journey, travel, tourism</english>
+</word>
+<word category='nouns'>
+  <chinese>催淚瓦斯</chinese>
+  <jyutping>ceoi1 leoi6 ngaa5 si5</jyutping>
+  <pinyin>cuī lèi wǎ sī</pinyin>
+  <english>tear gas</english>
 </word>
 
 <word category='verbs'>

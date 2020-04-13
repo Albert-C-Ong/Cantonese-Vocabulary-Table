@@ -97,6 +97,13 @@
         <chinese>身體</chinese>
       </subcategory>
       
+        <subcategories parent="body parts">
+          <subcategory incomplete="true">
+            <name>Organs</name>
+            <chinese>器官</chinese>
+          </subcategory>
+        </subcategories>
+      
       <subcategory>
         <name>Buildings</name>
         <chinese>建築</chinese>
@@ -174,6 +181,11 @@
       <subcategory>
         <name>Drugs</name>
         <chinese>毒品</chinese>
+      </subcategory>
+      
+      <subcategory incomplete="true">
+        <name>Economics</name>
+        <chinese>經濟</chinese>
       </subcategory>
       
       <subcategory>
@@ -352,6 +364,11 @@
 
         </subcategories>
       
+      <subcategory incomplete="true">
+        <name>Mythology</name>
+        <chinese>神話</chinese>
+      </subcategory>
+      
       <subcategory>
         <name>Numbers</name>
         <chinese>號碼</chinese>
@@ -459,7 +476,7 @@
       
       <subcategory incomplete="true">
         <name>Videogames</name>
-        <chinese>??</chinese>
+        <chinese>電腦遊戲</chinese>
       </subcategory>
       
       <subcategory>
