@@ -4470,6 +4470,12 @@
   <english>wage, salary, pay</english>
 </word>
 <word category='nouns' subcategory='economics'>
+  <chinese>供求</chinese>
+  <jyutping>gung1 kau4</jyutping>
+  <pinyin>gōng qiú</pinyin>
+  <english>supply and demand</english>
+</word>
+<word category='nouns' subcategory='economics'>
   <chinese>不平等</chinese>
   <jyutping>bat1 ping4 dang2</jyutping>
   <pinyin>bù píng děng</pinyin>
@@ -7277,6 +7283,12 @@
   <pinyin>zhèng zhì rén wù</pinyin>
   <english>politician, statesman</english>
 </word>
+<word category='nouns' subcategory='politics'>
+  <chinese>象徵性言語</chinese>chinese>
+  <jyutping>zoeng6 zi2 sing3 jin4 jyu5</jyutping>
+  <pinyin>xiàng zhēng xìng yán yǔ</pinyin>
+  <english>symbolic speech</english>
+</word>
 <word category='nouns' subcategory='politics' subcategory2="politicians">
   <chinese>特朗普</chinese>
   <jyutping>dak6 long5 pou2</jyutping>
@@ -8081,6 +8093,56 @@
   <pinyin>hángkōng hángtiān gōngchéng</pinyin>
   <english>aerospace engineering </english>
 </word>
+  
+<word category='nouns' subcategory='senses'>
+  <chinese>感官</chinese>
+  <jyutping>gam2 gun1</jyutping>
+  <pinyin>gǎn guān</pinyin>
+  <english>sense, sense organ</english>
+</word>
+<word category='nouns' subcategory='senses'>
+  <chinese>視覺</chinese>
+  <jyutping>si6 gok3</jyutping>
+  <pinyin>shì jué</pinyin>
+  <english>vision, sight, visual sense</english>
+</word>
+<word category='nouns' subcategory='senses'>
+  <chinese>眼力</chinese>
+  <jyutping>ngaan5 lik6</jyutping>
+  <pinyin>yǎn lì</pinyin>
+  <english>eyesight, strength of vision</english>
+</word>
+<word category='nouns' subcategory='senses'>
+  <chinese>聽覺</chinese>
+  <jyutping>ting3 gok3</jyutping>
+  <pinyin>tīng jué</pinyin>
+  <english>hearing, auditory sense</english>
+</word>
+<word category='nouns' subcategory='senses'>
+  <chinese>耳力</chinese>
+  <jyutping>ji5 lik6</jyutping>
+  <pinyin>ěr lì</pinyin>
+  <english>eyesight, strength of vision</english>
+</word>
+<word category='nouns' subcategory='senses'>
+  <chinese>嗅覺</chinese>
+  <jyutping>cau3 gok3</jyutping>
+  <pinyin>xiù jué</pinyin>
+  <english>smell, sense of smell</english>
+</word>
+<word category='nouns' subcategory='senses'>
+  <chinese>味覺</chinese>
+  <jyutping>mei6 gok3</jyutping>
+  <pinyin>wèi jué</pinyin>
+  <english>taste, sense of taste</english>
+</word>
+<word category='nouns' subcategory='senses'>
+  <chinese>觸覺</chinese>
+  <jyutping>zuk1 gok3</jyutping>
+  <pinyin>chù jué</pinyin>
+  <english>touch, sense of touch</english>
+</word>
+  
 <word category='nouns' subcategory='sex'>
   <chinese>性事</chinese>
   <jyutping>sing3 si6</jyutping>
@@ -8949,7 +9011,7 @@
   <chinese>交通</chinese>
   <jyutping>gaau1 tung1</jyutping>
   <pinyin>jiāo tōng</pinyin>
-  <english>transportation</english>
+  <english>transportation, transport, communication</english>
 </word>
 <word category='nouns' subcategory='transportation'>
   <chinese>車輛</chinese>
@@ -9078,9 +9140,15 @@
   <english>bus stop</english>
 </word>
 <word category='nouns' subcategory='videogames'>
+  <chinese>電子競技</chinese>
+  <jyutping>din6 zi2 ging3 gei6</jyutping>
+  <pinyin>diàn zǐ jìng jì</pinyin>
+  <english>e-sports</english>
+</word>
+<word category='nouns' subcategory='videogames'>
   <chinese>我的世界</chinese>
   <jyutping>ngo5 di1 sai3 gaai3</jyutping>
-  <pinyin>wǒ de shì​ jiè</pinyin>
+  <pinyin>wǒ de shì jiè</pinyin>
   <english>Minecraft&lt;br&gt;(lit. my world)</english>
 </word>
 <word category='nouns' subcategory='videogames'>
@@ -12330,6 +12398,18 @@
   <english>newbie, novice, beginner</english>
 </word>
 <word category='other' subcategory='slang'>
+  <chinese>激氣</chinese>
+  <jyutping>gik1 hei3</jyutping>
+  <pinyin>jī qì</pinyin>
+  <english>angry, frustrated, pissed off</english>
+</word>
+<word category='other' subcategory='slang'>
+  <chinese>屁話</chinese>
+  <jyutping>pei3 waa2</jyutping>
+  <pinyin>pì huà</pinyin>
+  <english>nonsense, bullshit</english>
+</word>
+<word category='other' subcategory='slang'>
   <chinese>斷捨離</chinese>
   <jyutping>dyun3 se2 lei4</jyutping>
   <pinyin>duàn shě lí</pinyin>
@@ -12457,6 +12537,30 @@
   <jyutping>leoi5 jau4</jyutping>
   <pinyin>lǚ yóu</pinyin>
   <english>journey, travel, tourism</english>
+</word>
+<word category='nouns'>
+  <chinese>言語</chinese>
+  <jyutping>jin4 jyu5</jyutping>
+  <pinyin>yán yǔ</pinyin>
+  <english>speech, spoken language</english>
+</word>
+<word category='nouns'>
+  <chinese>疤痕</chinese>
+  <jyutping>baa1 han4</jyutping>
+  <pinyin>bā hén</pinyin>
+  <english>scar</english>
+</word>
+<word category='nouns'>
+  <chinese>廢話</chinese>
+  <jyutping>fai2 waa6</jyutping>
+  <pinyin>fèi huà</pinyin>
+  <english>nonsense, rubbish, worthless words</english>
+</word>
+<word category='nouns'>
+  <chinese>糞便</chinese>
+  <jyutping>fan3 bin6</jyutping>
+  <pinyin>fèn biàn</pinyin>
+  <english>excrement, feces, poop</english>
 </word>
 <word category='nouns'>
   <chinese>催淚瓦斯</chinese>
@@ -12591,6 +12695,12 @@
   <pinyin>bǎo wèi</pinyin>
   <english>to defend, to safeguard</english>
 </word>
+<word category='verbs'>
+  <chinese>建立</chinese>
+  <jyutping>gin3 laap6</jyutping>
+  <pinyin>jiàn lì</pinyin>
+  <english>to found, to set up, to establish</english>
+</word>  
 </words>
 
 
