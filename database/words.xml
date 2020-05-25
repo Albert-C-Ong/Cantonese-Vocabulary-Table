@@ -3600,6 +3600,12 @@
   <english>high heel shoes</english>
 </word>
 <word category='nouns' subcategory='clothing'>
+  <chinese>瞓覺衫</chinese>
+  <jyutping>fan3 gaau3 saam1</jyutping>
+  <pinyin>fèn jiào shān</pinyin>
+  <english>pajamas</english>
+</word>
+<word category='nouns' subcategory='clothing'>
   <chinese>運動鞋</chinese>
   <jyutping>wan6 dung6 haai4</jyutping>
   <pinyin>yùn dòng xié</pinyin>
@@ -7218,6 +7224,12 @@
   <english>citizen</english>
 </word>
 <word category='nouns' subcategory='politics'>
+  <chinese>審查</chinese>
+  <jyutping>sam2 caa4</jyutping>
+  <pinyin>shěn chá</pinyin>
+  <english>censorship, to censor</english>
+</word>
+<word category='nouns' subcategory='politics'>
   <chinese>公民權</chinese>
   <jyutping>gung1 man4 kyun4</jyutping>
   <pinyin>gōng mín quán</pinyin>
@@ -8952,6 +8964,12 @@
   <jyutping>si4 keoi1</jyutping>
   <pinyin>shí qū</pinyin>
   <english>time zone</english>
+</word>
+<word category='nouns' subcategory='time'>
+  <chinese>未來</chinese>
+  <jyutping>meỉ6 loi4</jyutping>
+  <pinyin>wèi lái</pinyin>
+  <english>future</english>
 </word>
 <word category='nouns' subcategory='time'>
   <chinese>本年度</chinese>
@@ -12435,6 +12453,12 @@
   <english>empty, hollow, void</english>
 </word>
 <word category='adjectives'>
+  <chinese>迫</chinese>
+  <jyutping>bik1</jyutping>
+  <pinyin>pò</pinyin>
+  <english>crowded, packed</english>
+</word>
+<word category='adjectives'>
   <chinese>暗</chinese>
   <jyutping>am3</jyutping>
   <pinyin>àn</pinyin>
@@ -12463,6 +12487,24 @@
   <jyutping>fong1 bin6</jyutping>
   <pinyin>fāng biàn</pinyin>
   <english>convinient</english>
+</word>
+<word category='adjectives'>
+  <chinese>健康</chinese>
+  <jyutping>gin6 hong1</jyutping>
+  <pinyin>jiàn kāng</pinyin>
+  <english>healthy</english>
+</word>
+<word category='adjectives'>
+  <chinese>繁瑣</chinese>
+  <jyutping>faan4 so2</jyutping>
+  <pinyin>fán suǒ</pinyin>
+  <english>complicated, tedious, overloaded with details</english>
+</word>
+<word category='adjectives'>
+  <chinese>身無分文</chinese>
+  <jyutping>san1 mou4 fan1 man4</jyutping>
+  <pinyin>shēn wú fēn wén</pinyin>
+  <english>penniless (idiom)</english>
 </word>
   
 <word category='adverbs'>
@@ -12563,12 +12605,24 @@
   <english>excrement, feces, poop</english>
 </word>
 <word category='nouns'>
+  <chinese>書呆子</chinese>
+  <jyutping>syu1 daai1 zi2</jyutping>
+  <pinyin>shū dāi zi</pinyin>
+  <english>bookworm, nerd</english>
+</word>
+<word category='nouns'>
   <chinese>催淚瓦斯</chinese>
   <jyutping>ceoi1 leoi6 ngaa5 si5</jyutping>
   <pinyin>cuī lèi wǎ sī</pinyin>
   <english>tear gas</english>
 </word>
-
+<word category='nouns'>
+  <chinese>反饋回路</chinese>
+  <jyutping>faan1 gwai3 wui4 lou6</jyutping>
+  <pinyin>fǎn kuì huí lù</pinyin>
+  <english>feedback loop</english>
+</word> 
+  
 <word category='verbs'>
   <chinese>收</chinese>
   <jyutping>sai1</jyutping>
@@ -12700,7 +12754,13 @@
   <jyutping>gin3 laap6</jyutping>
   <pinyin>jiàn lì</pinyin>
   <english>to found, to set up, to establish</english>
-</word>  
+</word> 
+<word category='verbs'>
+  <chinese>分解</chinese>
+  <jyutping>fan1 gaai2</jyutping>
+  <pinyin>fēn jiě</pinyin>
+  <english>to resolve, to decompose, to break down</english>
+</word> 
 </words>
 
 
