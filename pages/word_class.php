@@ -9,11 +9,13 @@
 
 class Word {
   
-  // The chinese characters, jyutping, pinyin, and english definition of the Word. 
-  public $chinese, $jyutping, $pinyin, $english; 
-  
-  // The category and subcategories of the Word. 
-  public $category, $subcategory, $subcategory2; 
+  public $chinese, 
+         $jyutping, 
+         $pinyin, 
+         $english, 
+         $category, 
+         $subcategory, 
+         $subcategory2; 
   
   public function __construct($ch, $jyut, $pn, $eng, $sub, $subcat, $subcat2) {
     
@@ -27,7 +29,6 @@ class Word {
     $this -> subcategory2 = $subcat2; 
   }
   
-  // Printable version of the Word. 
   public function __toString() {
     
     $ch = (string) $this -> chinese; 
@@ -73,16 +74,12 @@ class Word {
 // Comparison function for two Word objects. 
 function cmp_word($a, $b) {
 
-  // Retrieves the length of the Chinese characters. 
   $a_len = strlen($a -> chinese); 
   $b_len = strlen($b -> chinese); 
   
-  // Sorts using jyutping if the Chinese characters are the same length. 
   if ($a_len == $b_len) {
     return strcmp($a -> jyutping, $b -> jyutping);
   }
-  
-  // Otherwise sorts using Chinese length. 
   else {
     return $a_len > $b_len;
   }
