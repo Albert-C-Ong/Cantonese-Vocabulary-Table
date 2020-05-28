@@ -42,8 +42,6 @@ function printCategories($categories,
     echo "<td><ul>"; 
     
     $total_category_count = countCategories($categories); 
-  
-    echo "total = $total_category_count<br>"; 
     
     for ($i = 1; $i < 4; $i++) {
 

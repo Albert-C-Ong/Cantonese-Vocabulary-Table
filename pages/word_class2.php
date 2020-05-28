@@ -11,20 +11,15 @@ class Word {
          $jyutping, 
          $pinyin, 
          $english, 
-         $category, 
-         $subcategory, 
-         $subcategory2; 
+         $priority;
   
-  public function __construct($ch, $jyut, $pn, $eng, $sub, $subcat, $subcat2) {
+  public function __construct($ch, $jyut, $pn, $eng, $prio = null) {
     
     $this -> chinese = $ch;
     $this -> jyutping = $jyut; 
     $this -> pinyin = $pn; 
     $this -> english = $eng; 
-    
-    $this -> category = $sub; 
-    $this -> subcategory = $subcat;  
-    $this -> subcategory2 = $subcat2; 
+    $this -> priority = $prio; 
   }
   
   public function __toString() {
@@ -38,7 +33,7 @@ class Word {
   }
   
   // Coverts the Word into an HTML table row. 
-  public function toTableRow() {
+  public function to_table_row() {
     
     $ch = (string) $this -> chinese; 
     $jyut = (string) $this -> jyutping; 
@@ -48,23 +43,6 @@ class Word {
     return "<tr> 
               <td>$ch</td> <td>$jyut</td> <td>$pn</td> <td>$eng</td> 
             </tr>";
-  }
-  
-  public function getCategories() {
-    
-     $category_array = array($this -> category);
-      
-     if (!empty($this -> subcategory)) {
-       array_push($category_array, $this -> subcategory);
-     }
-    
-     if (!empty($this -> subcategory2)) {
-       array_push($category_array, $this -> subcategory2);
-     }
-    
-     $categories = join("-", $category_array); 
-    
-    return $categories; 
   }
 }
 

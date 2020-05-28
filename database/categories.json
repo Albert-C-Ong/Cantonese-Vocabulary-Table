@@ -81,7 +81,7 @@
         {
           "name": "Bathroom",
           "chinese": "廁所",
-          "_incomplete": "true"
+          "incomplete": true
         },
         {
           "name": "Body Parts",
@@ -96,7 +96,7 @@
             {
               "name": "Rooms",
               "chinese": "房",
-              "_incomplete": "true"
+              "incomplete": true
             }
           ]
         },
@@ -123,7 +123,7 @@
         {
           "name": "Containers",
           "chinese": "容器",
-          "_incomplete": "true"
+          "incomplete": true
         },
         {
           "name": "Countries and Regions",
@@ -134,19 +134,19 @@
              {
                 "name": "Cities",
                 "chinese": "城市",
-                "_incomplete": "true"
+                "incomplete": true
              },
              {
                 "name": "States",
                 "chinese": "州",
-                "_incomplete": "true"
+                "incomplete": true
              }
           ]
         },
         {
           "name": "Culture",
           "chinese": "文化",
-          "_incomplete": "true"
+          "incomplete": true
         },
         {
           "name": "Directions",
@@ -185,7 +185,7 @@
              {
                 "name": "Dimsum",
                 "chinese": "點心",
-                "_incomplete": "true"
+                "incomplete": true
              },
              {
                 "name": "Drinks",
@@ -198,12 +198,12 @@
              {
                 "name": "Grain",
                 "chinese": "穀物",
-                "_incomplete": "true"
+                "incomplete": true
              },
              {
                 "name": "Seasoning",
                 "chinese": "調味料",
-                "_incomplete": "true"
+                "incomplete": true
              },
              {
                 "name": "Vegetables",
@@ -230,7 +230,7 @@
         {
           "name": "Healthcare",
           "chinese": "保建",
-          "_incomplete": "true"
+          "incomplete": true
         },
         {
           "name": "Holidays",
@@ -239,7 +239,7 @@
         {
           "name": "Illness",
           "chinese": "病",
-          "_incomplete": "true"
+          "incomplete": true
         },
         {
           "name": "Kitchenware",
@@ -256,7 +256,7 @@
         {
           "name": "Mathematics",
           "chinese": "數學",
-          "_incomplete": "true", 
+          "incomplete": true, 
           
           "subcategories": 
           [
@@ -277,7 +277,7 @@
         {
           "name": "Media",
           "chinese": "媒體",
-          "_incomplete": "true", 
+          "incomplete": true, 
           
           "subcategories": 
           [
@@ -288,7 +288,7 @@
              {
                 "name": "Literature",
                 "chinese": "文學",
-                "_incomplete": "true"
+                "incomplete": true
              },
              {
                 "name": "Movies",
@@ -299,21 +299,26 @@
         {
           "name": "Music",
           "chinese": "音樂",
-          "_incomplete": "true", 
+          "incomplete": true, 
           
           "subcategories": 
           [
              {
                 "name": "Instruments",
                 "chinese": "樂器",
-                "_incomplete": "true"
+                "incomplete": true
              },
              {
                 "name": "Genres",
                 "chinese": "類型",
-                "_incomplete": "true"
+                "incomplete": true
              }
           ]
+        },
+        {
+          "name": "Mythology", 
+          "chinese": "神話",
+          "incomplete": true
         },
         {
           "name": "Numbers",
@@ -336,7 +341,7 @@
              {
                 "name": "Politicians",
                 "chinese": "政治人物",
-                "_incomplete": "true"
+                "incomplete": true
              }
           ]
         },
@@ -407,7 +412,7 @@
         {
           "name": "Videogames",
           "chinese": "??",
-          "_incomplete": "true"
+          "incomplete": true
         },
         {
           "name": "War",
@@ -483,7 +488,7 @@
          {
             "name": "Exercise",
             "chinese": "運動",
-            "_incomplete": "true"
+            "incomplete": true
          },
          {
             "name": "Hygiene",
@@ -529,12 +534,12 @@
          {
             "name": "Profanity",
             "chinese": "髒話",
-            "_incomplete": "true"
+            "incomplete": true
          },
          {
             "name": "Slang",
             "chinese": "俗語",
-            "_incomplete": "true"
+            "incomplete": true
          }
       ]
     },

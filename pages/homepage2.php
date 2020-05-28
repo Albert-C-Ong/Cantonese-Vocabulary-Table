@@ -8,20 +8,17 @@
 include "word_class.php"; 
 
 
-function count_categories($categories) {
-  
-  $count = 0; 
+function count_categories($categories, $count = 0) {
   
   foreach ($categories as $category) {
     
     $subcategories = $category["subcategories"]; 
     
     if ($subcategories) {
-      $count += count_categories($subcategories);  
+      $count = count_categories($subcategories, $count + 1);  
     }
     else {
       $count += 1;
-      
     }
   }
   
@@ -29,147 +26,65 @@ function count_categories($categories) {
 }
 
 
-function print_categories($categories) {
+function print_categories($categories, 
+                          $count = 0, 
+                          $dividing_indices = array(), 
+                          $tab = 0) {
   
-  echo "<ul>"; 
+  $is_head = $count == 0; 
+  
+  if ($is_head) {
+    echo "<td><ul>";
+    
+    $total_category_count = count_categories($categories); 
+    
+    $columns = 4; 
+    
+    for ($i = 1; $i < $columns; $i++) {
+      $index = ceil($division + ($i * ($total_category_count / $columns))); 
+      array_push($dividing_indices, $index); 
+    }
+  }
 
   foreach ($categories as $category) {
     
     $name = $category["name"]; 
     $chinese = $category["chinese"];
     $subcategories = $category["subcategories"]; 
+    $incomplete = $category["incomplete"]; 
+    $category_link = strtolower($name);
     
-    echo "<li>$name ($chinese)</li>"; 
+    $head = str_repeat("<ul>", $tab) . "<li>";
+    $tail = "</li>" . str_repeat("</ul>", $tab);
+    $incomplete_tag = ($incomplete ? "(incomplete)" : ""); 
+    
+    echo "$head<a href='category.php'>$name ($chinese) $incomplete_tag</a>$tail\n";
+    
+    $count += 1; 
+    
+    if (in_array($count, $dividing_indices)) {
+      echo "</ul></td>\n<td><ul>"; 
+    } 
+    
     
     if ($subcategories) {
-      print_categories($subcategories); 
+      $count = print_categories($subcategories, 
+                                $count, 
+                                $dividing_indices, 
+                                $tab + 1); 
     }
   }
 
-  echo "</ul>"; 
+  
+  $total_categories = count_categories($categories);
+  $is_tail = $count == $total_categories;
+  
+  if ($is_tail) {
+    echo "</ul></td>";
+  }
+  
+  return $count; 
 }
-
-//function countCategories($categories) {
-//  
-//  $count = 0;
-//  
-//  foreach ($categories -> children() as $category) {
-//    
-//    $tag_name = $category -> getName();
-//    
-//    if ($tag_name == "subcategories") {
-//      $count += countCategories($category);
-//    }
-//    else {
-//      $count += 1;
-//    }
-//  }
-//  
-//  return $count; 
-//}
-
-
-//function printCategories($categories, 
-//                         $head = true, 
-//                         $subhead = false, 
-//                         $dividing_indices = array(), 
-//                         $count = 0, 
-//                         $parent = "") {
-//  
-//  global $link_to_header; 
-//  
-//  if ($head) {
-//    
-//    echo "<td><ul>"; 
-//    
-//    $total_category_count = countCategories($categories); 
-//  
-//    for ($i = 1; $i < 4; $i++) {
-//
-//      $index = ceil($division + ($i * ($total_category_count / 4))); 
-//
-//      array_push($dividing_indices, $index); 
-//    }
-//  }
-//  
-//  
-//  foreach ($categories -> children() as $category) {
-//    
-//    $tag_name = $category -> getName(); 
-//     
-//    if ($tag_name == "subcategories") {
-//      
-//       $next_subhead = true; 
-//      
-//       if ($subhead == true) {
-//         $next_subhead = false;
-//       }
-//      
-//       $subcat_parent = $category["parent"]; 
-//      
-//       if ($parent == "") {
-//         $next_parent = "$subcat_parent";
-//       }
-//      else {
-//        $next_parent = "$parent-$subcat_parent";;
-//      }
-//      
-//       $count = printCategories($category, false, $next_subhead, $dividing_indices, $count, $next_parent);   
-//    }
-//    
-//    else {
-//      $name = $category -> name;
-//      $name_lower = strtolower($name); 
-//      
-//      $chinese = $category -> chinese; 
-//
-//      $incomplete = $category["incomplete"]; 
-//
-//      $incomplete_text = ""; 
-//      
-//      if ($incomplete != '') {
-//        $incomplete_text = "(incomplete)";
-//      }
-//      
-//      
-//      if ($parent == "") {
-//        $category_link = strtolower($name);
-//      }
-//      else {
-//        $category_link = strtolower("$parent-$name");
-//      }
-//      
-//      $category_link = str_replace(" ", "-", $category_link);
-//
-//      $link_to_header[$category_link] = "$name ($chinese)"; 
-//      
-//      if (!$head && !$subhead) {
-//        echo "<ul><ul><li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li></ul></ul>\n"; 
-//      }
-//      
-//      else if (!$head) {
-//        echo "<ul><li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li></ul>\n"; 
-//      }
-//      
-//      else {
-//        echo "<li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li>\n"; 
-//      }
-//      
-//      $count += 1; 
-//      
-//      if (in_array($count, $dividing_indices)) {
-//        echo "</ul></td>\n<td><ul>"; 
-//      } 
-//    }
-//  }
-//  
-//  if ($count == countCategories($categories)) {
-//    echo "</ul></td>"; 
-//  }
-//  
-//  
-//  return $count; 
-//}
 ?>
 
 
@@ -182,6 +97,7 @@ function print_categories($categories) {
 </head>
 
 <body>
+  
   <h1>Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
   
   <table class="table-of-contents">
@@ -189,17 +105,16 @@ function print_categories($categories) {
       <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
     </tr>
     <tr>
-        
+      <?php
+      $categories_file = file_get_contents("../database/categories.json");
+      $categories = json_decode($categories_file, true)["categories"];
+
+      print_categories($categories); 
+      ?>    
     </tr>
   </table>
   
-  <?php
-  $categories_file = file_get_contents("../database/categories.json");
-  $categories = json_decode($categories_file, true)["categories"];
-
-
-  print_categories($categories); 
-  ?>
+  
 </body>
 
 </html>

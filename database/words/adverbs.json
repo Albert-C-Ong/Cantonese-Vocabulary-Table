@@ -1,0 +1,527 @@
+{
+  "words": 
+  [
+    {
+      "chinese": "最",
+      "jyutping": "zeoi3",
+      "pinyin": "zuì",
+      "english": "(the) most"
+    },
+    {
+      "chinese": "太",
+      "jyutping": "taai3",
+      "pinyin": "tài",
+      "english": "too, very"
+    },
+    {
+      "chinese": "仲",
+      "jyutping": "zung6",
+      "pinyin": "zhòng",
+      "english": "still"
+    },
+    {
+      "chinese": "已",
+      "jyutping": "ji5",
+      "pinyin": "yǐ",
+      "english": "already, then, afterwards"
+    },
+    {
+      "chinese": "未",
+      "jyutping": "mei6",
+      "pinyin": "wèi ",
+      "english": "yet"
+    },
+    {
+      "chinese": "還",
+      "jyutping": "waan2",
+      "pinyin": "hái",
+      "english": "still, yet"
+    },
+    {
+      "chinese": "也",
+      "jyutping": "jaa5",
+      "pinyin": "yě",
+      "english": "also, too"
+    },
+    {
+      "chinese": "亦",
+      "jyutping": "jik6",
+      "pinyin": "yì",
+      "english": "also, too, likewise"
+    },
+    {
+      "chinese": "夠",
+      "jyutping": "gau3",
+      "pinyin": "gòu",
+      "english": "enough"
+    },
+    {
+      "chinese": "就",
+      "jyutping": "zau6",
+      "pinyin": "jiù",
+      "english": "then"
+    },
+    {
+      "chinese": "再",
+      "jyutping": "zoi3",
+      "pinyin": "zài",
+      "english": "again, once more, another"
+    },
+    {
+      "chinese": "從",
+      "jyutping": "sung4",
+      "pinyin": "cóng",
+      "english": "from, by, since, whence, through"
+    },
+    {
+      "chinese": "剛",
+      "jyutping": "gong1",
+      "pinyin": "gāng",
+      "english": "just, barely, exactly"
+    },
+    {
+      "chinese": "並",
+      "jyutping": "bing6",
+      "pinyin": "bìng",
+      "english": "and, also, furthermore"
+    },
+    {
+      "chinese": "早排",
+      "jyutping": "zou2 paai4",
+      "pinyin": "zǎo pái",
+      "english": "not too long ago, a while back, a few days ago"
+    },
+    {
+      "chinese": "終於",
+      "jyutping": "zung1 jyu1",
+      "pinyin": "zhōngy yú",
+      "english": "finally, at last, eventually"
+    },
+    {
+      "chinese": "即將",
+      "jyutping": "zik1 zoeng1",
+      "pinyin": "jí jiāng",
+      "english": "about to, going to, on the verge of"
+    },
+    {
+      "chinese": "並不",
+      "jyutping": "bing6 bat1",
+      "pinyin": "bìng bù",
+      "english": "not at all, by no means"
+    },
+    {
+      "chinese": "全部",
+      "jyutping": "cyun4 bou6",
+      "pinyin": "quán bù",
+      "english": "all, every"
+    },
+    {
+      "chinese": "非常",
+      "jyutping": "fei1 soeng4",
+      "pinyin": "fēi cháng",
+      "english": "very, very much"
+    },
+    {
+      "chinese": "之前",
+      "jyutping": "zi1 cin4",
+      "pinyin": "zhī qián",
+      "english": "before"
+    },
+    {
+      "chinese": "之後",
+      "jyutping": "zi1 hau6",
+      "pinyin": "zhī hòu",
+      "english": "after"
+    },
+    {
+      "chinese": "仲未",
+      "jyutping": "zung6 mei6",
+      "pinyin": "zhòng wèi ",
+      "english": "not yet"
+    },
+    {
+      "chinese": "通常",
+      "jyutping": "tung1 soeng4",
+      "pinyin": "tōng cháng",
+      "english": "usually, generally"
+    },
+    {
+      "chinese": "同埋",
+      "jyutping": "tung4 maai4",
+      "pinyin": "tóng mái",
+      "english": "and, moreover, also"
+    },
+    {
+      "chinese": "從來",
+      "jyutping": "cung4 lai4",
+      "pinyin": "cóng lái",
+      "english": "always, never<br>(depending on context)"
+    },
+    {
+      "chinese": "從不",
+      "jyutping": "cong4 bat1",
+      "pinyin": "cóng bù",
+      "english": "never"
+    },
+    {
+      "chinese": "梗係",
+      "jyutping": "gang2 hai6",
+      "pinyin": "gěng xì",
+      "english": "of course"
+    },
+    {
+      "chinese": "當然",
+      "jyutping": "dong1 jin4",
+      "pinyin": "dāng rán",
+      "english": "of course"
+    },
+    {
+      "chinese": "梗係",
+      "jyutping": "gang2 hai6",
+      "pinyin": "gěng xì",
+      "english": "must be, definitely"
+    },
+    {
+      "chinese": "已經",
+      "jyutping": "ji5 ging1",
+      "pinyin": "yǐ jīng",
+      "english": "already"
+    },
+    {
+      "chinese": "大概",
+      "jyutping": "daai6 koi3",
+      "pinyin": "dà gài",
+      "english": "about, approximately, roughly"
+    },
+    {
+      "chinese": "其實",
+      "jyutping": "kei4 sat6",
+      "pinyin": "qí shí",
+      "english": "in fact, actually"
+    },
+    {
+      "chinese": "完全",
+      "jyutping": "jyun4 cyun4",
+      "pinyin": "wán quán",
+      "english": "completely, totally"
+    },
+    {
+      "chinese": "而家",
+      "jyutping": "ji4 gaa1",
+      "pinyin": "ér jiā",
+      "english": "now (spoken)"
+    },
+    {
+      "chinese": "現在",
+      "jyutping": "jin6 zoi6",
+      "pinyin": "xiàn zài",
+      "english": "not, at present, at the moment<br>(written)"
+    },
+    {
+      "chinese": "眼前",
+      "jyutping": "ngaan5 cin4",
+      "pinyin": "yǎn qián",
+      "english": "now, at present, before one's eyes"
+    },
+    {
+      "chinese": "今晚",
+      "jyutping": "gam1 maan5",
+      "pinyin": "jīn wǎn",
+      "english": "tonight"
+    },
+    {
+      "chinese": "每日",
+      "jyutping": "mui5 jat6",
+      "pinyin": "měi rì",
+      "english": "daily, every day"
+    },
+    {
+      "chinese": "一齊",
+      "jyutping": "jat1 cai4",
+      "pinyin": "yī qí",
+      "english": "together"
+    },
+    {
+      "chinese": "可能",
+      "jyutping": "ho2 nang4",
+      "pinyin": "kě néng",
+      "english": "probably, possibly, might, perhaps"
+    },
+    {
+      "chinese": "淨係<br>净係",
+      "jyutping": "zing6 hai6",
+      "pinyin": "jìng xì",
+      "english": "only"
+    },
+    {
+      "chinese": "所以",
+      "jyutping": "so2 ji5",
+      "pinyin": "suǒ yǐ",
+      "english": "therefore"
+    },
+    {
+      "chinese": "頭先",
+      "jyutping": "tau4 sin1",
+      "pinyin": "tóu xiān",
+      "english": "before, just now, earlier"
+    },
+    {
+      "chinese": "一定",
+      "jyutping": "jat1 ding6",
+      "pinyin": "yī dìng",
+      "english": "surely, certainly, must"
+    },
+    {
+      "chinese": "就算",
+      "jyutping": "zau6 syun3",
+      "pinyin": "jiù suàn",
+      "english": "even if, given that"
+    },
+    {
+      "chinese": "永遠",
+      "jyutping": "wing5 jyun5",
+      "pinyin": "yǒng yuǎn",
+      "english": "forever, always"
+    },
+    {
+      "chinese": "未必",
+      "jyutping": "mei6 bit1",
+      "pinyin": "wèi bì",
+      "english": "not necessarily, maybe not"
+    },
+    {
+      "chinese": "有時",
+      "jyutping": "jau5 si4",
+      "pinyin": "yǒu shí",
+      "english": "sometimes"
+    },
+    {
+      "chinese": "就嚟",
+      "jyutping": "zau6 lai4",
+      "pinyin": "jiù lì",
+      "english": "almost, soon"
+    },
+    {
+      "chinese": "平日",
+      "jyutping": "ping4 jat4",
+      "pinyin": "píng rì",
+      "english": "usually, ordinarily<br>(lit. ordinary day)"
+    },
+    {
+      "chinese": "平時",
+      "jyutping": "ping4 si4",
+      "pinyin": "píng shí",
+      "english": "normally, usually, ordinarily<br>(lit. ordinary time)"
+    },
+    {
+      "chinese": "經常",
+      "jyutping": "ging1 soeng4",
+      "pinyin": "jīng cháng",
+      "english": "often, frequently, regularly"
+    },
+    {
+      "chinese": "陣間<br>陣閒",
+      "jyutping": "zan6 gaan3",
+      "pinyin": "zhèn jiān",
+      "english": "soon, later, in a while"
+    },
+    {
+      "chinese": "比喻",
+      "jyutping": "bei2 jyu6",
+      "pinyin": "bǐ yù",
+      "english": "figuratively"
+    },
+    {
+      "chinese": "即刻",
+      "jyutping": "zik1 hak1",
+      "pinyin": "jí kè",
+      "english": "immediately, instantly"
+    },
+    {
+      "chinese": "上面",
+      "jyutping": "soeng5 min6",
+      "pinyin": "shàng miàn",
+      "english": "above, on top of"
+    },
+    {
+      "chinese": "隔離",
+      "jyutping": "gaak3 lei4",
+      "pinyin": "gé lí",
+      "english": "next to"
+    },
+    {
+      "chinese": "本萊",
+      "jyutping": "bun2 loi4",
+      "pinyin": "běn lái",
+      "english": "originally, at first"
+    },
+    {
+      "chinese": "順便",
+      "jyutping": "seon6 bin6",
+      "pinyin": "shùn biàn",
+      "english": "conveniently, incidentally, in passing"
+    },
+    {
+      "chinese": "穩步",
+      "jyutping": "wan2 bou6",
+      "pinyin": "wěn bù",
+      "english": "steadily"
+    },
+    {
+      "chinese": "左右",
+      "jyutping": "zo2 jau6",
+      "pinyin": "zuǒ yòu",
+      "english": "about, approximately<br>(lit. left right)"
+    },
+    {
+      "chinese": "一直",
+      "jyutping": "jat1 zik6",
+      "pinyin": "yī zhí",
+      "english": "always, all along, constantly"
+    },
+    {
+      "chinese": "輕輕",
+      "jyutping": "heng1 heng1",
+      "pinyin": "qīng qīng",
+      "english": "lightly, gently, softly"
+    },
+    {
+      "chinese": "首先",
+      "jyutping": "sau2 sin1",
+      "pinyin": "shǒu xiān",
+      "english": "firstly, first of all"
+    },
+    {
+      "chinese": "即係",
+      "jyutping": "zik1 hai6",
+      "pinyin": "jí xì",
+      "english": "exactly, precisely the case"
+    },
+    {
+      "chinese": "直接",
+      "jyutping": "zik6 zip3",
+      "pinyin": "zhí jiē",
+      "english": "directly"
+    },
+    {
+      "chinese": "其中",
+      "jyutping": "kei4 zung1",
+      "pinyin": "qí zhōng",
+      "english": "in, among, therein"
+    },
+    {
+      "chinese": "另外",
+      "jyutping": "ling6 ngoi6",
+      "pinyin": "lìng wài",
+      "english": "furthermore, moreover, in addition"
+    },
+    {
+      "chinese": "之間<br>之閒",
+      "jyutping": "zi1 gaan1",
+      "pinyin": "zhī jiān",
+      "english": "between, among"
+    },
+    {
+      "chinese": "馬上",
+      "jyutping": "maa5 soeng5",
+      "pinyin": "mǎ shàng",
+      "english": "at once, right away, immediately"
+    },
+    {
+      "chinese": "結果",
+      "jyutping": "git3 gwo2",
+      "pinyin": "jié guǒ",
+      "english": "finally, in the end, as a result"
+    },
+    {
+      "chinese": "起碼",
+      "jyutping": "hei2 maa5",
+      "pinyin": "qǐ mǎ",
+      "english": "at least, at the minimum"
+    },
+    {
+      "chinese": "至少",
+      "jyutping": "zi3 siu2",
+      "pinyin": "zhì shǎo",
+      "english": "at least"
+    },
+    {
+      "chinese": "最多",
+      "jyutping": "zeoi3 do1",
+      "pinyin": "zuì duō",
+      "english": "at most, maximum"
+    },
+    {
+      "chinese": "最少",
+      "jyutping": "zeoi3 siu2",
+      "pinyin": "zuì shǎo",
+      "english": "at least, minimum"
+    },
+    {
+      "chinese": "肯定",
+      "jyutping": "hang2 ding6",
+      "pinyin": "kěn dìng",
+      "english": "surely, definitely"
+    },
+    {
+      "chinese": "竟然",
+      "jyutping": "ging2 jin4",
+      "pinyin": "jìng rán",
+      "english": "suprisingly, unexpectedly"
+    },
+    {
+      "chinese": "根本",
+      "jyutping": "gan1 bun2",
+      "pinyin": "gēn běn",
+      "english": "at all, simply, absolutely"
+    },
+    {
+      "chinese": "特別",
+      "jyutping": "dak6 bit6",
+      "pinyin": "tè bié",
+      "english": "especially, particularly, specially"
+    },
+    {
+      "chinese": "最後",
+      "jyutping": "zeoi3 hau6",
+      "pinyin": "zuì hòu",
+      "english": "finally, in the end, ulimately"
+    },
+    {
+      "chinese": "絕對",
+      "jyutping": "zyut6 deoi3",
+      "pinyin": "jué duì",
+      "english": "absolutely, totally, unconditionally"
+    },
+    {
+      "chinese": "專登",
+      "jyutping": "zyun1 dang1",
+      "pinyin": "zhuān dēng",
+      "english": "on purpose, intentionally, deliberately"
+    },
+    {
+      "chinese": "如何",
+      "jyutping": "jyu4 ho4",
+      "pinyin": "rú hé",
+      "english": "how (in what manner), how about"
+    },
+    {
+      "chinese": "同時",
+      "jyutping": "tung4 si4",
+      "pinyin": "tóng shí",
+      "english": "simultaneously, at the same time"
+    },
+    {
+      "chinese": "事實上",
+      "jyutping": "si6 sat6 soeng6",
+      "pinyin": "shì shí shàng",
+      "english": "actually, in reality, in fact"
+    },
+    {
+      "chinese": "按照字面",
+      "jyutping": "on3 ziu3 zi6 min6",
+      "pinyin": "àn zhào zì miàn",
+      "english": "literally<br>(according to the wording)"
+    }
+  ]
+}
