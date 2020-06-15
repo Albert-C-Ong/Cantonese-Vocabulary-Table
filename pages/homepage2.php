@@ -7,7 +7,6 @@
 
 include "word_class.php"; 
 
-
 function count_categories($categories, $count = 0) {
   
   foreach ($categories as $category) {
@@ -29,7 +28,8 @@ function count_categories($categories, $count = 0) {
 function print_categories($categories, 
                           $count = 0, 
                           $dividing_indices = array(), 
-                          $tab = 0) {
+                          $tab = 0, 
+                          $parent = "") {
   
   $is_head = $count == 0; 
   
@@ -54,11 +54,18 @@ function print_categories($categories,
     $incomplete = $category["incomplete"]; 
     $category_link = strtolower($name);
     
-    $head = str_repeat("<ul>", $tab) . "<li>";
+    if ($parent == "") {
+      $next_parent = strtolower($name); 
+    }
+    else {
+      $next_parent = "$parent" . "/" . strtolower($name);
+    }
+      
+    $head = "        " . str_repeat("<ul>", $tab) . "<li>";
     $tail = "</li>" . str_repeat("</ul>", $tab);
     $incomplete_tag = ($incomplete ? "(incomplete)" : ""); 
     
-    echo "$head<a href='category.php'>$name ($chinese) $incomplete_tag</a>$tail\n";
+    echo "$head<a href='category.php?database=$next_parent'>$name ($chinese) $incomplete_tag</a>$tail\n";
     
     $count += 1; 
     
@@ -71,7 +78,8 @@ function print_categories($categories,
       $count = print_categories($subcategories, 
                                 $count, 
                                 $dividing_indices, 
-                                $tab + 1); 
+                                $tab + 1, 
+                                $next_parent); 
     }
   }
 
@@ -100,20 +108,21 @@ function print_categories($categories,
   
   <h1>Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
   
-  <table class="table-of-contents">
-    <tr>
-      <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
-    </tr>
-    <tr>
-      <?php
-      $categories_file = file_get_contents("../database/categories.json");
-      $categories = json_decode($categories_file, true)["categories"];
+  <form method="GET">
+    <table class="table-of-contents">
+      <tr>
+        <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
+      </tr>
+      <tr>
+        <?php
+        $categories_file = file_get_contents("../database/categories.json");
+        $categories = json_decode($categories_file, true)["categories"];
 
-      print_categories($categories); 
-      ?>    
-    </tr>
-  </table>
-  
+        print_categories($categories); 
+        ?>    
+      </tr>
+    </table>
+  </form>
   
 </body>
 

@@ -1,0 +1,62 @@
+{
+  "name": "Planets",
+  "chinese": "星球", 
+   "words": [
+      {
+         "chinese": "水星",
+         "jyutping": "seoi2 sing1",
+         "pinyin": "xhuǐ xīng",
+         "english": "Mercury",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "金星",
+         "jyutping": "gam1 sing1",
+         "pinyin": "jīn xīng",
+         "english": "Venus",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "地球",
+         "jyutping": "dei6 kau4",
+         "pinyin": "dì qiú",
+         "english": "Earth",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "火星",
+         "jyutping": "fo2 sing1",
+         "pinyin": "huǒ xīng",
+         "english": "Mars",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "木星",
+         "jyutping": "muk6 sing1",
+         "pinyin": "mù xīng",
+         "english": "Jupiter",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "土星",
+         "jyutping": "tou2 sing1",
+         "pinyin": "tǔ xīng",
+         "english": "Saturn",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "天王星",
+         "jyutping": "tin1 wong4 sing1",
+         "pinyin": "tiān wáng xīng",
+         "english": "Uranus",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "海王星",
+         "jyutping": "hoi2 wong4 sing1",
+         "pinyin": "hǎi wáng xīng",
+         "english": "Neptune",
+         "_category": "nouns"
+      }
+   ]
+}

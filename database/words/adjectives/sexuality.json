@@ -1,0 +1,42 @@
+{
+  "name": "Sexuality",
+  "chinese": "性", 
+  "words": [
+    {
+       "chinese": "性",
+       "jyutping": "sing3",
+       "pinyin": "xìng",
+       "english": "sexuality, sex"
+    },
+    {
+       "chinese": "男性",
+       "jyutping": "naam4 sing3",
+       "pinyin": "nán xìng",
+       "english": "male (sex)"
+    },
+    {
+       "chinese": "女性",
+       "jyutping": "neoi5 sing3",
+       "pinyin": "nǚ xìng",
+       "english": "female (sex)"
+    },
+    {
+       "chinese": "異性",
+       "jyutping": "ji6 sing3",
+       "pinyin": "yìxìng",
+       "english": "heterosexual"
+    },
+    {
+       "chinese": "同性",
+       "jyutping": "tung4 sing3",
+       "pinyin": "tóng xìng",
+       "english": "homosexual"
+    },
+    {
+       "chinese": "變性",
+       "jyutping": "bin3 sing3",
+       "pinyin": "biàn xìng",
+       "english": "transgender"
+    }
+  ]
+}

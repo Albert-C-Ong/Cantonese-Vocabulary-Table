@@ -47,7 +47,11 @@ function print_category($category) {
   <a href="homepage2.php">← Back</a>
   
   <?php
-  $category_file = file_get_contents("../database/words/adjectives.json");
+  
+  $database = $_GET["database"]; 
+  $directory = "../database/words/" . str_replace(" ", "_", $database) . ".json"; 
+  
+  $category_file = file_get_contents($directory);
   $category = json_decode($category_file, true);
 
   print_category($category); 

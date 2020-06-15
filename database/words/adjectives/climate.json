@@ -1,0 +1,42 @@
+{
+  "name": "Climate",
+  "chinese": "氣候", 
+  "words": [
+     {
+        "chinese": "旱",
+        "jyutping": "hon5",
+        "pinyin": "hàn",
+        "english": "dry, drought"
+     },
+     {
+        "chinese": "濕",
+        "jyutping": "sap1",
+        "pinyin": "shī",
+        "english": "wet, moist, humid"
+     },
+     {
+        "chinese": "氣候",
+        "jyutping": "hei3 hau6",
+        "pinyin": "qì hòu",
+        "english": "climate"
+     },
+     {
+        "chinese": "天晴",
+        "jyutping": "tin1 cing4",
+        "pinyin": "tiān qíng",
+        "english": "sunny"
+     },
+     {
+        "chinese": "陰天",
+        "jyutping": "jam1 tin1",
+        "pinyin": "yīn tiān",
+        "english": "cloudy"
+     },
+     {
+        "chinese": "大風",
+        "jyutping": "daai6 fung1",
+        "pinyin": "dà fēng",
+        "english": "windy"
+      }
+  ]
+}

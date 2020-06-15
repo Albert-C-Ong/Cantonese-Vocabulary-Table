@@ -85,7 +85,15 @@
         },
         {
           "name": "Body Parts",
-          "chinese": "身體"
+          "chinese": "身體", 
+          
+          "subcategories": 
+          [
+            {
+              "name": "Organs",
+              "chinese": "器官"
+            }
+          ]
         },
         {
           "name": "Buildings",

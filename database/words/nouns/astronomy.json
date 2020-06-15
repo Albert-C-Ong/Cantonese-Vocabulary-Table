@@ -1,0 +1,108 @@
+{
+  "name": "Astronomy",
+   "chinese": "天文", 
+   "words": [
+      {
+         "chinese": "天文",
+         "jyutping": "tin1 man4",
+         "pinyin": "tiān wén",
+         "english": "astronomy"
+      },
+      {
+         "chinese": "重力",
+         "jyutping": "cung5 lik6",
+         "pinyin": "zhòng lì",
+         "english": "gravity<br>(lit. weight power)"
+      },
+      {
+         "chinese": "月相",
+         "jyutping": "jyut6 soeng1",
+         "pinyin": "yuè xiàng",
+         "english": "phases of moon, lunar phase"
+      },
+      {
+         "chinese": "全食",
+         "jyutping": "cyun4 sik6",
+         "pinyin": "quán shí",
+         "english": "total eclipse"
+      },
+      {
+         "chinese": "偏食",
+         "jyutping": "pin1 sik6",
+         "pinyin": "piān shí",
+         "english": "partial eclipse"
+      },
+      {
+         "chinese": "日食",
+         "jyutping": "jat6 sik6",
+         "pinyin": "rì shí",
+         "english": "solar eclipse"
+      },
+      {
+         "chinese": "月食",
+         "jyutping": "jyut sik6",
+         "pinyin": "yuè shí",
+         "english": "lunar eclipse"
+      },
+      {
+         "chinese": "衛星",
+         "jyutping": "wai6 sing1",
+         "pinyin": "wèi xīng",
+         "english": "satellite, moon"
+      },
+      {
+         "chinese": "星系",
+         "jyutping": "sing1 hai6",
+         "pinyin": "xīng xì",
+         "english": "galaxy, stellar system"
+      },
+      {
+         "chinese": "星云<br>星雲",
+         "jyutping": "sing1 wan4",
+         "pinyin": "xīng yún",
+         "english": "nebular<br>(lit. star cloud)"
+      },
+      {
+         "chinese": "黑洞",
+         "jyutping": "hak1 dung6",
+         "pinyin": "hēi dòng",
+         "english": "black hole"
+      },
+      {
+         "chinese": "彗星<br>慧星",
+         "jyutping": "seoi6 sing1",
+         "pinyin": "huì xīng",
+         "english": "comet"
+      },
+      {
+         "chinese": "小行星",
+         "jyutping": "siu2 hang4 sing1",
+         "pinyin": "xiǎo xíng xīng",
+         "english": "asteroid"
+      },
+      {
+         "chinese": "外星人",
+         "jyutping": "ngoi6 sing1 jan4",
+         "pinyin": "wài xīng rén",
+         "english": "space alien, extraterrestrial"
+      },
+      {
+         "chinese": "外星球<br>外星毬",
+         "jyutping": "ngoi6 sing1 kau4",
+         "pinyin": "wài xīng qiú",
+         "english": "exoplanet<br>(lit. foreign planet)"
+      },
+      {
+         "chinese": "望遠鏡",
+         "jyutping": "mong6 jyun5 geng3",
+         "pinyin": "wàng yuǎn jìng",
+         "english": "telescope, binoculars"
+      },
+      {
+         "chinese": "大爆炸",
+         "jyutping": "daai6 baau3 zaa3",
+         "pinyin": "dà bào zhà",
+         "english": "the Big Bang<br>(lit. big explosion)"
+      }
+   ]
+}

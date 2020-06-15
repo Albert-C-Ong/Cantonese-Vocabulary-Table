@@ -1,0 +1,60 @@
+{
+  "name": "Bathroom",
+  "chinese": "廁所",
+   "words": [
+      {
+         "chinese": "廁所<br>厠所",
+         "jyutping": "ci3 so2",
+         "pinyin": "cè suǒ",
+         "english": "bathroom, toilet"
+      },
+      {
+         "chinese": "鏡子",
+         "jyutping": "geng3 zi2",
+         "pinyin": "jìng zi",
+         "english": "mirror"
+      },
+      {
+         "chinese": "水槽",
+         "jyutping": "seoi2 cou4",
+         "pinyin": "shuǐ cáo",
+         "english": "sink"
+      },
+      {
+         "chinese": "毛巾",
+         "jyutping": "mou4 gan1",
+         "pinyin": "máo jīn",
+         "english": "towel"
+      },
+      {
+         "chinese": "面紙",
+         "jyutping": "min6 zi2",
+         "pinyin": "miàn zhǐ",
+         "english": "tissue<br>(lit. face paper)"
+      },
+      {
+         "chinese": "廁紙<br>厠紙",
+         "jyutping": "ci3 zi2",
+         "pinyin": "cè zhǐ",
+         "english": "toilet paper"
+      },
+      {
+         "chinese": "眼霜",
+         "jyutping": "ngaan5 soeng1",
+         "pinyin": "yǎn shuāng",
+         "english": "eye cream"
+      },
+      {
+         "chinese": "面霜",
+         "jyutping": "min6 soeng1",
+         "pinyin": "miàn shuāng",
+         "english": "facial cream"
+      },
+      {
+         "chinese": "爽膚水",
+         "jyutping": "song fu1 seoi2",
+         "pinyin": "shuǎng fū shuǐ",
+         "english": "skin toner"
+      }
+   ]
+}

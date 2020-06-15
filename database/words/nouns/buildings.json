@@ -1,0 +1,198 @@
+{
+  "name": "Buildings",
+  "chinese": "建築", 
+   "words": [
+      {
+         "chinese": "店",
+         "jyutping": "dim3",
+         "pinyin": "diàn",
+         "english": "shop, store"
+      },
+      {
+         "chinese": "塔",
+         "jyutping": "taap3",
+         "pinyin": "tǎ",
+         "english": "tower"
+      },
+      {
+         "chinese": "層",
+         "jyutping": "cang4",
+         "pinyin": "céng",
+         "english": "floor, layer, storey"
+      },
+      {
+         "chinese": "房",
+         "jyutping": "fong2",
+         "pinyin": "fáng",
+         "english": "room"
+      },
+      {
+         "chinese": "建築",
+         "jyutping": "gin3 zuk1",
+         "pinyin": "jiàn zhù",
+         "english": "building"
+      },
+      {
+         "chinese": "圖則",
+         "jyutping": "tou4 zak1",
+         "pinyin": "tú zé",
+         "english": "floor plan"
+      },
+      {
+         "chinese": "家裡",
+         "jyutping": "gaa1 leoi5",
+         "pinyin": "jiā lǐ",
+         "english": "home"
+      },
+      {
+         "chinese": "屋企",
+         "jyutping": "uk1 kei2",
+         "pinyin": "wū qǐ",
+         "english": "home, house"
+      },
+      {
+         "chinese": "公寓",
+         "jyutping": "gung1 jyu6",
+         "pinyin": "gōng yù",
+         "english": "apartment, apartment building"
+      },
+      {
+         "chinese": "酒店",
+         "jyutping": "zau2 dim3",
+         "pinyin": "jiǔ diàn",
+         "english": "hotel"
+      },
+      {
+         "chinese": "宿舍",
+         "jyutping": "suk1 se3",
+         "pinyin": "sù shè",
+         "english": "dormitory, living quarters, hostel"
+      },
+      {
+         "chinese": "商店",
+         "jyutping": "soeng1 dim3",
+         "pinyin": "shāng diàn",
+         "english": "store, shop"
+      },
+      {
+         "chinese": "鋪頭",
+         "jyutping": "pou3 tau2",
+         "pinyin": "pū tóu",
+         "english": "store, shop"
+      },
+      {
+         "chinese": "食肆",
+         "jyutping": "sik6 si3",
+         "pinyin": "shí sì",
+         "english": "restaurant"
+      },
+      {
+         "chinese": "餐廳<br>餐厛",
+         "jyutping": "caan1 teng1",
+         "pinyin": "cān tīng",
+         "english": "dining hall, restaurant"
+      },
+      {
+         "chinese": "銀行",
+         "jyutping": "ngan4 hong4",
+         "pinyin": "yín háng",
+         "english": "bank"
+      },
+      {
+         "chinese": "醫院",
+         "jyutping": "ji1 jyun2",
+         "pinyin": "yī yuàn",
+         "english": "hospital"
+      },
+      {
+         "chinese": "酒吧",
+         "jyutping": "zau2 baa1",
+         "pinyin": "jiǔ bā",
+         "english": "bar, saloon"
+      },
+      {
+         "chinese": "藥房",
+         "jyutping": "joek6 fong2",
+         "pinyin": "yào fáng",
+         "english": "pharmacy, drugstore"
+      },
+      {
+         "chinese": "書店",
+         "jyutping": "syu1 dim3",
+         "pinyin": "shū diàn",
+         "english": "bookstore, bookshop"
+      },
+      {
+         "chinese": "超市",
+         "jyutping": "ciu1 si5",
+         "pinyin": "chāo shì",
+         "english": "supermarket"
+      },
+      {
+         "chinese": "賭場",
+         "jyutping": "dou2 coeng4",
+         "pinyin": "dǔ chǎng",
+         "english": "casino, gambling house"
+      },
+      {
+         "chinese": "圖書館",
+         "jyutping": "tou4 syu1 gun2",
+         "pinyin": "tú shū guǎn",
+         "english": "library"
+      },
+      {
+         "chinese": "市政廳",
+         "jyutping": "si5 zing3 teng",
+         "pinyin": "shì zhèng tīng",
+         "english": "city hall"
+      },
+      {
+         "chinese": "事務所",
+         "jyutping": "si6 mou6 so2",
+         "pinyin": "shì wù suǒ",
+         "english": "office, firm , agency"
+      },
+      {
+         "chinese": "建身室",
+         "jyutping": "gin6 san1 sat1",
+         "pinyin": "jiàn shēn shì",
+         "english": "gym"
+      },
+      {
+         "chinese": "停車場",
+         "jyutping": "ting4 ce1 coeng4",
+         "pinyin": "tíng chē chǎng",
+         "english": "parking lot<br>(lit. stop car field)"
+      },
+      {
+         "chinese": "泊車場",
+         "jyutping": "paak3 ce1 coeng4",
+         "pinyin": "bó chē cháng",
+         "english": "parking lot"
+      },
+      {
+         "chinese": "珠寶店<br>珠寳店",
+         "jyutping": "zyu1 bou2 dim3",
+         "pinyin": "zhū bǎo diàn",
+         "english": "jewelry store"
+      },
+      {
+         "chinese": "住宅區",
+         "jyutping": "zyu6 zaak6 keoi1",
+         "pinyin": "zhù zhái qū",
+         "english": "residential area, housing development"
+      },
+      {
+         "chinese": "辦公室",
+         "jyutping": "baan6 gung1 sat1",
+         "pinyin": "bàn gōng shì",
+         "english": "office, bureau"
+      },
+      {
+         "chinese": "博物館<br>博物舘",
+         "jyutping": "bok3 mat6 gun2",
+         "pinyin": "bó wù guǎn",
+         "english": "museum<br>(lit. natural science building)"
+      }
+   ]
+}

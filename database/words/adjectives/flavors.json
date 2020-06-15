@@ -1,0 +1,66 @@
+{
+  "name": "Flavors",
+  "chinese": "滋味", 
+  "words": [
+    {
+       "chinese": "甜",
+       "jyutping": "tim4",
+       "pinyin": "tián",
+       "english": "sweet"
+    },
+    {
+       "chinese": "酸",
+       "jyutping": "syun1",
+       "pinyin": "suān",
+       "english": "sour"
+    },
+    {
+       "chinese": "辣",
+       "jyutping": "laat6",
+       "pinyin": "là",
+       "english": "spicy"
+    },
+    {
+       "chinese": "鹹",
+       "jyutping": "haam4",
+       "pinyin": "xián",
+       "english": "salty"
+    },
+    {
+       "chinese": "軟",
+       "jyutping": "jyun5",
+       "pinyin": "ruǎn",
+       "english": "soft"
+    },
+    {
+       "chinese": "硬",
+       "jyutping": "ngaang6",
+       "pinyin": "yìng",
+       "english": "hard"
+    },
+    {
+       "chinese": "焦",
+       "jyutping": "ziu1",
+       "pinyin": "jiāo",
+       "english": "burnt"
+    },
+    {
+       "chinese": "滋味",
+       "jyutping": "zi1 mei6",
+       "pinyin": "zī wèi",
+       "english": "flavor, taste"
+    },
+    {
+       "chinese": "好味",
+       "jyutping": "hou2 mei6",
+       "pinyin": "hǎo wèi",
+       "english": "tasty, delicious"
+    },
+    {
+       "chinese": "可口",
+       "jyutping": "ho2 hau2",
+       "pinyin": "kě kǒu",
+       "english": "tasty, delicious"
+    }
+  ]
+}

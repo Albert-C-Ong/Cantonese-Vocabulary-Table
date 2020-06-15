@@ -6,9 +6,19 @@
  * Revision: 21.12.2019
 */
 
+
+
+/*
+@font-face {
+    font-family: 'Test';
+    src: url("FreeSans.ttf")
+}
+*/
+
 body {
   padding: 1em 0em 2em 2em;
   width: 90%;
+  font-family: sans-serif; 
 }
 
 .table-of-contents {
