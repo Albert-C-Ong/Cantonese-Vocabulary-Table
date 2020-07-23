@@ -1,0 +1,96 @@
+{
+   "name": "Kitchenware", 
+   "chinese": "廚房用具", 
+   "words": [
+      {
+         "chinese": "碗",
+         "jyutping": "wun2",
+         "pinyin": "wǎn",
+         "english": "bowl"
+      },
+      {
+         "chinese": "碟",
+         "jyutping": "dip6",
+         "pinyin": "dié",
+         "english": "plate, dish"
+      },
+      {
+         "chinese": "杯<br>盃",
+         "jyutping": "bui1",
+         "pinyin": "bēi",
+         "english": "cup, glass"
+      },
+      {
+         "chinese": "煲",
+         "jyutping": "bou1",
+         "pinyin": "bāo",
+         "english": "pot"
+      },
+      {
+         "chinese": "鑊",
+         "jyutping": "wok6",
+         "pinyin": "huò",
+         "english": "wok"
+      },
+      {
+         "chinese": "羹",
+         "jyutping": "gang1",
+         "pinyin": "gēng",
+         "english": "spoon"
+      },
+      {
+         "chinese": "叉",
+         "jyutping": "caa1",
+         "pinyin": "chā",
+         "english": "fork"
+      },
+      {
+         "chinese": "刀",
+         "jyutping": "dou1",
+         "pinyin": "dāo",
+         "english": "knight"
+      },
+      {
+         "chinese": "盤",
+         "jyutping": "pun4",
+         "pinyin": "pán",
+         "english": "plate, dish, tray"
+      },
+      {
+         "chinese": "蓋",
+         "jyutping": "goi3",
+         "pinyin": "gài",
+         "english": "lip, cap, cover"
+      },
+      {
+         "chinese": "筷子",
+         "jyutping": "faai3 zi2",
+         "pinyin": "kuài zi",
+         "english": "chopsticks"
+      },
+      {
+         "chinese": "平鍋",
+         "jyutping": "ping4 wo1",
+         "pinyin": "píng guō",
+         "english": "pan"
+      },
+      {
+         "chinese": "餐巾",
+         "jyutping": "caan1 gan1",
+         "pinyin": "cān jīn",
+         "english": "napkin<br>(lit. meal cloth)"
+      },
+      {
+         "chinese": "烤盤",
+         "jyutping": "haau1 pun4",
+         "pinyin": "kǎo pán",
+         "english": "baking tray"
+      },
+      {
+         "chinese": "廚房用具",
+         "jyutping": "cyu4 fong4 jung6 geoi6",
+         "pinyin": "chú fáng yòng jù",
+         "english": "kitchenware <br>(lit. kitchen utensils)"
+      }
+   ]
+}

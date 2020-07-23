@@ -1,0 +1,114 @@
+{
+   "name": "Furniture", 
+   "chinese": "家具", 
+   "words": [
+      {
+         "chinese": "床",
+         "jyutping": "cong4",
+         "pinyin": "chuáng",
+         "english": "bed"
+      },
+      {
+         "chinese": "架",
+         "jyutping": "gaa2",
+         "pinyin": "jià",
+         "english": "shelf, rack"
+      },
+      {
+         "chinese": "枱",
+         "jyutping": "toi2",
+         "pinyin": "tái",
+         "english": "table"
+      },
+      {
+         "chinese": "凳",
+         "jyutping": "dang3",
+         "pinyin": "dèng",
+         "english": "chair"
+      },
+      {
+         "chinese": "燈",
+         "jyutping": "dang1",
+         "pinyin": "dēng",
+         "english": "lamp, light"
+      },
+      {
+         "chinese": "窗",
+         "jyutping": "coeng1",
+         "pinyin": "chuāng",
+         "english": "window"
+      },
+      {
+         "chinese": "家具",
+         "jyutping": "gaa1 geoi6",
+         "pinyin": "jiā jù",
+         "english": "furniture"
+      },
+      {
+         "chinese": "門口",
+         "jyutping": "mun4 hau2",
+         "pinyin": "mén kǒu",
+         "english": "doorway, gate"
+      },
+      {
+         "chinese": "窗口",
+         "jyutping": "coeng1 hau2",
+         "pinyin": "chuāng kǒu",
+         "english": "window"
+      },
+      {
+         "chinese": "飯枱",
+         "jyutping": "faan6 toi2",
+         "pinyin": "fàn tái",
+         "english": "dining table"
+      },
+      {
+         "chinese": "書架",
+         "jyutping": "syu1 gaa2",
+         "pinyin": "shū jià",
+         "english": "bookshelf"
+      },
+      {
+         "chinese": "書枱",
+         "jyutping": "syu1 toi2",
+         "pinyin": "shū tái",
+         "english": "desk"
+      },
+      {
+         "chinese": "梳化",
+         "jyutping": "so1 faa2",
+         "pinyin": "shū huā",
+         "english": "sofa, couch<br>(loanword)"
+      },
+      {
+         "chinese": "枕頭",
+         "jyutping": "zam2 tau4",
+         "pinyin": "zhěn tou",
+         "english": "pillow"
+      },
+      {
+         "chinese": "窗簾",
+         "jyutping": "coeng1 lim2",
+         "pinyin": "chuāng lián",
+         "english": "curtain"
+      },
+      {
+         "chinese": "裝飾",
+         "jyutping": "zong1 sik1",
+         "pinyin": "zhuāng shì",
+         "english": "decoration, to decorate"
+      },
+      {
+         "chinese": "油畫",
+         "jyutping": "jau4 waa2",
+         "pinyin": "yóu huà",
+         "english": "oil painting"
+      },
+      {
+         "chinese": "床褥",
+         "jyutping": "cong4 juk6",
+         "pinyin": "chuáng rù",
+         "english": "mattress"
+      }
+   ]
+}

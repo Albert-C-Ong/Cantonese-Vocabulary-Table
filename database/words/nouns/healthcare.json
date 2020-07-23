@@ -1,0 +1,18 @@
+{
+   "name": "Healthcare", 
+   "chinese": "保建", 
+   "words": [
+      {
+         "chinese": "保健",
+         "jyutping": "bou2 gin6",
+         "pinyin": "bǎo jiàn",
+         "english": "healthcare, health protection"
+      },
+      {
+         "chinese": "水泡",
+         "jyutping": "seoi2 pou5",
+         "pinyin": "shuǐ pào",
+         "english": "blister"
+      }
+   ]
+}

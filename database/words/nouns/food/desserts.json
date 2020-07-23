@@ -1,0 +1,48 @@
+{
+  "name": "Desserts", 
+  "chinese": "甜品", 
+   "words": [
+      {
+         "chinese": "餅",
+         "jyutping": "beng2",
+         "pinyin": "bǐng",
+         "english": "cookie, pastry"
+      },
+      {
+         "chinese": "糖",
+         "jyutping": "tong2",
+         "pinyin": "táng",
+         "english": "sugar, sweets"
+      },
+      {
+         "chinese": "甜品",
+         "jyutping": "tim4 ban2",
+         "pinyin": "tián pǐn",
+         "english": "dessert"
+      },
+      {
+         "chinese": "蛋糕",
+         "jyutping": "daan2 gou1",
+         "pinyin": "dàn gāo",
+         "english": "cake"
+      },
+      {
+         "chinese": "雪糕",
+         "jyutping": "syut3 gou1",
+         "pinyin": "xuě gāo",
+         "english": "ice cream"
+      },
+      {
+         "chinese": "糖果",
+         "jyutping": "tong2 gwo2",
+         "pinyin": "táng guǒ",
+         "english": "candy"
+      },
+      {
+         "chinese": "朱古力",
+         "jyutping": "zyu1 gu1 lik1",
+         "pinyin": "zhū gǔ lì",
+         "english": "chocolate"
+      }
+   ]
+}

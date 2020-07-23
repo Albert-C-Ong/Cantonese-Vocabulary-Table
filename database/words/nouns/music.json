@@ -1,0 +1,42 @@
+{
+   "name": "Music", 
+   "chinese": "音樂", 
+   "words": [
+      {
+         "chinese": "音",
+         "jyutping": "jam1",
+         "pinyin": "yīn",
+         "english": "sound, (musical) note"
+      },
+      {
+         "chinese": "歌",
+         "jyutping": "go1",
+         "pinyin": "gē",
+         "english": "song"
+      },
+      {
+         "chinese": "音樂",
+         "jyutping": "jam1 ngok6",
+         "pinyin": "yīn yuè",
+         "english": "music"
+      },
+      {
+         "chinese": "襍音",
+         "jyutping": "zaap6 jam1",
+         "pinyin": "zá yīn",
+         "english": "noise, murmur"
+      },
+      {
+         "chinese": "旋律",
+         "jyutping": "syun4 leot6",
+         "pinyin": "xuán lǜ",
+         "english": "melody, rhythm"
+      },
+      {
+         "chinese": "低音",
+         "jyutping": "dai1 jam1",
+         "pinyin": "dī yīn",
+         "english": "bass"
+      }
+   ]
+}

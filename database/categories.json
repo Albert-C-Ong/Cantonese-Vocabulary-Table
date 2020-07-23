@@ -169,6 +169,11 @@
           "chinese": "毒品"
         },
         {
+          "name": "Economics",
+          "chinese": "經濟",
+          "incomplete": true
+        }, 
+        {
           "name": "Family and Friends",
           "chinese": "家庭及朋友"
         },
@@ -358,16 +363,16 @@
           "chinese": "職業"
         },
         {
+          "name": "Religion",
+          "chinese": "宗教"
+        },
+        {
           "name": "Romance",
           "chinese": "愛情"
         },
         {
           "name": "Royalty",
           "chinese": "王權"
-        },
-        {
-          "name": "Religion",
-          "chinese": "宗教"
         },
         {
           "name": "School",
@@ -380,6 +385,10 @@
                 "chinese": "科目"
              }
           ]
+        },
+        {
+          "name": "Senses",
+          "chinese": "感官"
         },
         {
           "name": "Sex",
@@ -474,16 +483,16 @@
             "chinese": "算術"
          },
          {
-            "name": "Cooking",
-            "chinese": "煮飯"
-         },
-         {
             "name": "Commerce",
             "chinese": "商業"
          },
          {
             "name": "Communication",
             "chinese": "通訊"
+         },
+         {
+            "name": "Cooking",
+            "chinese": "煮飯"
          },
          {
             "name": "Crime",

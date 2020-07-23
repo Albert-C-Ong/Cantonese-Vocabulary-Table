@@ -1,0 +1,60 @@
+{
+  "name": "Dimsum", 
+  "chinese": "點心", 
+   "words": [
+      {
+         "chinese": "點心",
+         "jyutping": "dim2 sam1",
+         "pinyin": "diǎn xin",
+         "english": "Dimsum"
+      },
+      {
+         "chinese": "蝦餃",
+         "jyutping": "haa1 gaau2",
+         "pinyin": "xiā jiǎo",
+         "english": "Har Gow, shrimp dumpling"
+      },
+      {
+         "chinese": "燒賣",
+         "jyutping": "siu1 maai2",
+         "pinyin": "shāo mài",
+         "english": "Siumai, pork dumpling"
+      },
+      {
+         "chinese": "春捲<br>春卷",
+         "jyutping": "ceon1 gyun2",
+         "pinyin": "chūn juǎn",
+         "english": "spring roll"
+      },
+      {
+         "chinese": "蛋卷",
+         "jyutping": "daan2 gyun2",
+         "pinyin": "dàn juǎn",
+         "english": "egg roll"
+      },
+      {
+         "chinese": "蝦腸",
+         "jyutping": "haa1 coeng4",
+         "pinyin": "xiā cháng",
+         "english": "shrimp noodle"
+      },
+      {
+         "chinese": "蛋撻",
+         "jyutping": "daan6 daat3",
+         "pinyin": "dàn tà",
+         "english": "egg tart"
+      },
+      {
+         "chinese": "煎堆",
+         "jyutping": "zin1 deoi1",
+         "pinyin": "jiān duī",
+         "english": "sesame ball<br>(lit. fried pile)"
+      },
+      {
+         "chinese": "叉燒包",
+         "jyutping": "caa1 siu1 baau1",
+         "pinyin": "chā shāo bāo",
+         "english": "Cha siu bao, pork bun"
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "name": "Weaponry", 
+   "chinese": "兵器", 
+   "words": [
+      {
+         "chinese": "劍",
+         "jyutping": "gim3",
+         "pinyin": "jiàn",
+         "english": "sword, sabre"
+      },
+      {
+         "chinese": "矛",
+         "jyutping": "maau4",
+         "pinyin": "máo",
+         "english": "spear, lance"
+      },
+      {
+         "chinese": "斧",
+         "jyutping": "fu2",
+         "pinyin": "fǔ",
+         "english": "axe, hatchet"
+      },
+      {
+         "chinese": "槌",
+         "jyutping": "ceoi4",
+         "pinyin": "chuí",
+         "english": "hammer, mallet"
+      },
+      {
+         "chinese": "盾",
+         "jyutping": "seon5",
+         "pinyin": "dùn",
+         "english": "shield"
+      },
+      {
+         "chinese": "槍",
+         "jyutping": "coeng1",
+         "pinyin": "qiāng",
+         "english": "gun, firearm"
+      },
+      {
+         "chinese": "炮",
+         "jyutping": "baau1",
+         "pinyin": "pào",
+         "english": "cannon, artillery"
+      },
+      {
+         "chinese": "兵器",
+         "jyutping": "bing1 hei3",
+         "pinyin": "bīng qì",
+         "english": "weapon, weaponry"
+      },
+      {
+         "chinese": "弓箭",
+         "jyutping": "gung1 zin3",
+         "pinyin": "gōng jiàn",
+         "english": "bow and arrow"
+      }
+   ]
+}

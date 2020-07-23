@@ -1,0 +1,30 @@
+{
+   "name": "Discrimination",
+   "chinese": "歧視", 
+   "words": [
+      {
+         "chinese": "歧視",
+         "jyutping": "kei4 si6",
+         "pinyin": "qí shì",
+         "english": "discrimination, to discriminate"
+      },
+      {
+         "chinese": "種族",
+         "jyutping": "zung2 zuk6",
+         "pinyin": "zhǒng zú",
+         "english": "race, ethnicity"
+      },
+      {
+         "chinese": "刻板印象",
+         "jyutping": "haak1 baan2 jan3 zoeng6",
+         "pinyin": "kè bǎn yìn xiàng",
+         "english": "stereotype<br>(lit. inflexible impression)"
+      },
+      {
+         "chinese": "種族歧視",
+         "jyutping": "zung2 zuk6 kei4 si6",
+         "pinyin": "zhǒng zú qí shì",
+         "english": "racism<br>(lit. race discrimination)"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "name": "Senses", 
+   "chinese": "感官", 
+   "words": [
+      {
+         "chinese": "感官",
+         "jyutping": "gam2 gun1",
+         "pinyin": "gǎn guān",
+         "english": "sense, sense organ"
+      },
+      {
+         "chinese": "視覺",
+         "jyutping": "si6 gok3",
+         "pinyin": "shì jué",
+         "english": "vision, sight, visual sense"
+      },
+      {
+         "chinese": "眼力",
+         "jyutping": "ngaan5 lik6",
+         "pinyin": "yǎn lì",
+         "english": "eyesight, strength of vision"
+      },
+      {
+         "chinese": "聽覺",
+         "jyutping": "ting3 gok3",
+         "pinyin": "tīng jué",
+         "english": "hearing, auditory sense"
+      },
+      {
+         "chinese": "耳力",
+         "jyutping": "ji5 lik6",
+         "pinyin": "ěr lì",
+         "english": "eyesight, strength of vision"
+      },
+      {
+         "chinese": "嗅覺",
+         "jyutping": "cau3 gok3",
+         "pinyin": "xiù jué",
+         "english": "smell, sense of smell"
+      },
+      {
+         "chinese": "味覺",
+         "jyutping": "mei6 gok3",
+         "pinyin": "wèi jué",
+         "english": "taste, sense of taste"
+      },
+      {
+         "chinese": "觸覺",
+         "jyutping": "zuk1 gok3",
+         "pinyin": "chù jué",
+         "english": "touch, sense of touch"
+      }
+   ]
+}

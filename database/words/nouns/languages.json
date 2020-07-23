@@ -1,0 +1,132 @@
+{
+   "name": "Languages", 
+   "chinese": "語言", 
+   "words": [
+      {
+         "chinese": "語言",
+         "jyutping": "jyu5 jin4",
+         "pinyin": "yǔ yán",
+         "english": "language"
+      },
+      {
+         "chinese": "母語",
+         "jyutping": "mou5 jyu5",
+         "pinyin": "mǔ yǔ",
+         "english": "mother tongue, native language, first language"
+      },
+      {
+         "chinese": "方言",
+         "jyutping": "fang1 jin4",
+         "pinyin": "fāng yán",
+         "english": "dialect, regional variety"
+      },
+      {
+         "chinese": "英文",
+         "jyutping": "jing1 man2",
+         "pinyin": "yīng wén",
+         "english": "English"
+      },
+      {
+         "chinese": "中文",
+         "jyutping": "zung1 man2",
+         "pinyin": "zhōng wén",
+         "english": "Chinese"
+      },
+      {
+         "chinese": "法文",
+         "jyutping": "faat3 man2",
+         "pinyin": "fǎ wén",
+         "english": "French"
+      },
+      {
+         "chinese": "德文",
+         "jyutping": "dak1 man2",
+         "pinyin": "dé wén",
+         "english": "German"
+      },
+      {
+         "chinese": "俄文",
+         "jyutping": "ngo4 man2",
+         "pinyin": "é wén",
+         "english": "Russian"
+      },
+      {
+         "chinese": "韓文",
+         "jyutping": "hon4 man2",
+         "pinyin": "hán wén",
+         "english": "Korean"
+      },
+      {
+         "chinese": "國語",
+         "jyutping": "gwok3 jyu5",
+         "pinyin": "guó yǔ",
+         "english": "Mandarin<br>(lit. national language)"
+      },
+      {
+         "chinese": "粵語",
+         "jyutping": "jyut6 jyu5",
+         "pinyin": "yuè yǔ",
+         "english": "Cantonese"
+      },
+      {
+         "chinese": "粵拼",
+         "jyutping": "jyut6 ping1",
+         "pinyin": "yuè pīn",
+         "english": "Jyutping"
+      },
+      {
+         "chinese": "白話",
+         "jyutping": "bái huà",
+         "pinyin": "baak6 waa6",
+         "english": "spoken language, vernacular Chinese"
+      },
+      {
+         "chinese": "廣東話",
+         "jyutping": "gwong2 dung1 waa2",
+         "pinyin": "guǎng dōng huà",
+         "english": "Cantonese"
+      },
+      {
+         "chinese": "普通話",
+         "jyutping": "pou2 tung1 waa2",
+         "pinyin": "pǔ tōng huà",
+         "english": "Mandarin<br>(lit. common language)"
+      },
+      {
+         "chinese": "越南文",
+         "jyutping": "jyut6 naam4  man2",
+         "pinyin": "yuè nán wén",
+         "english": "Vietnamese"
+      },
+      {
+         "chinese": "簡化字",
+         "jyutping": "gaan2 faa3 zi6",
+         "pinyin": "jiǎn huà zì",
+         "english": "simplified characters"
+      },
+      {
+         "chinese": "繁體字",
+         "jyutping": "faan4 tai2 zi",
+         "pinyin": "fán tǐ zì",
+         "english": "tradition characters"
+      },
+      {
+         "chinese": "西班牙文",
+         "jyutping": "sai1 baan1 ngaa4 man2",
+         "pinyin": "xī bān yá wén",
+         "english": "Spanish"
+      },
+      {
+         "chinese": "意大利文",
+         "jyutping": "ji3 daai6 lei6 man2",
+         "pinyin": "yì dà lì wén",
+         "english": "Italian"
+      },
+      {
+         "chinese": "語言障礙",
+         "jyutping": "jyu5 jin4 zoeng3 ngoi6",
+         "pinyin": "yǔ yán zhàng ài",
+         "english": "language barrier"
+      }
+   ]
+}

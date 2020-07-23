@@ -1,0 +1,42 @@
+{
+   "name": "States",
+   "chinese": "州", 
+   "words": [
+      {
+         "chinese": "州",
+         "jyutping": "zau1",
+         "pinyin": "zhōu",
+         "english": "state<br>(e.g. of the US)"
+      },
+      {
+         "chinese": "加州<br>加利福尼亞",
+         "jyutping": "gaa1 zau1<br>gaa1 lei6 fuk1 nei4 aa3",
+         "pinyin": "jiā zhōu<br>jiā lì fú ní yà",
+         "english": "California"
+      },
+      {
+         "chinese": "紐約",
+         "jyutping": "nau2 joek3 zau1",
+         "pinyin": "niǔ yuē zhōu",
+         "english": "New York<br>(state)"
+      },
+      {
+         "chinese": "俄勒岡州",
+         "jyutping": "ngo1 laak6 gong1 zau1",
+         "pinyin": "é lè gāng zhōu",
+         "english": "Oregon"
+      },
+      {
+         "chinese": "德州<br>德克薩斯州",
+         "jyutping": "dak1 zau1<br>dak1 hak1 saat3 si1 zau1",
+         "pinyin": "dé zhōu<br>dé kè sà sī zhōu",
+         "english": "Texas"
+      },
+      {
+         "chinese": "華盛頓州",
+         "jyutping": "waa4 sing6 deon6 zau1",
+         "pinyin": "huá shèng dùn zhōu",
+         "english": "Washington"
+      }
+   ]
+}

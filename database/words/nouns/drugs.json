@@ -1,0 +1,42 @@
+{
+   "name": "Drugs",
+   "chinese": "毒品", 
+   "words": [
+      {
+         "chinese": "毒品",
+         "jyutping": "duk6 ban2",
+         "pinyin": "dú pǐn",
+         "english": "drugs, narcotics"
+      },
+      {
+         "chinese": "煙草",
+         "jyutping": "jin1 cou2",
+         "pinyin": "yān cǎo",
+         "english": "tobacco"
+      },
+      {
+         "chinese": "煙酒",
+         "jyutping": "jin1 zau2",
+         "pinyin": "yān jiǔ",
+         "english": "tobacco and alcohol"
+      },
+      {
+         "chinese": "大麻",
+         "jyutping": "daai6 maa4",
+         "pinyin": "dà má",
+         "english": "marijuana, cannabis"
+      },
+      {
+         "chinese": "海洛因",
+         "jyutping": "hoi2 lok3 jan1",
+         "pinyin": "hǎi luò yīn",
+         "english": "heroin (loanword)"
+      },
+      {
+         "chinese": "可卡因",
+         "jyutping": "hak1 kaa1 jan1",
+         "pinyin": "kě kǎ yīn",
+         "english": "cocaine (loanword)"
+      }
+   ]
+}

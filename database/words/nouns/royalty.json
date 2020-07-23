@@ -1,0 +1,54 @@
+{
+   "name": "Royalty", 
+   "chinese": "王權", 
+   "words": [
+      {
+         "chinese": "王權",
+         "jyutping": "wong4 kyun4",
+         "pinyin": "wáng quán",
+         "english": "royalty, royal power<br>(might be bad translation)"
+      },
+      {
+         "chinese": "國王<br>囯王",
+         "jyutping": "gwok3 wong4",
+         "pinyin": "guó wáng",
+         "english": "king"
+      },
+      {
+         "chinese": "女王",
+         "jyutping": "neoi5 wong4",
+         "pinyin": "nǚ wáng",
+         "english": "queen"
+      },
+      {
+         "chinese": "王子",
+         "jyutping": "wong4 zi2",
+         "pinyin": "wáng zǐ",
+         "english": "prince"
+      },
+      {
+         "chinese": "公主",
+         "jyutping": "gung1 zyu2",
+         "pinyin": "gōng zhǔ",
+         "english": "princess"
+      },
+      {
+         "chinese": "女僕",
+         "jyutping": "neoi5 buk6",
+         "pinyin": "nǚ pú",
+         "english": "female servant, maid"
+      },
+      {
+         "chinese": "男僕",
+         "jyutping": "naam4 buk6",
+         "pinyin": "nán pú",
+         "english": "male servant, butler"
+      },
+      {
+         "chinese": "殿下",
+         "jyutping": "din6 haa6",
+         "pinyin": "diàn xià",
+         "english": "Your Highness, Your Majesty"
+      }
+   ]
+}

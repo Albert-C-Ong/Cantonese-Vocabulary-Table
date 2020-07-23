@@ -1,0 +1,12 @@
+{
+   "name": "Prepositions", 
+   "chinese": "介詞", 
+   "words": [
+     { 
+        "chinese": "於",
+        "jyutping": "kyu1",
+        "pinyin": "yú",
+        "english": "in, at, on"
+     }
+   ]
+}

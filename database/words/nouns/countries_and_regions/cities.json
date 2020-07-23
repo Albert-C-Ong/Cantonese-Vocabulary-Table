@@ -1,0 +1,102 @@
+{
+   "name": "Cities",
+   "chinese": "城市", 
+   "words": [
+      {
+         "chinese": "北京",
+         "jyutping": "bak1 ging1",
+         "pinyin": "běi jīng",
+         "english": "Beijing"
+      },
+      {
+         "chinese": "上海",
+         "jyutping": "soeng6 hoi2",
+         "pinyin": "shàng hǎi",
+         "english": "Shanghai"
+      },
+      {
+         "chinese": "深圳",
+         "jyutping": "sam1 zan3",
+         "pinyin": "shēn zhèn",
+         "english": "Shenzhen"
+      },
+      {
+         "chinese": "重慶",
+         "jyutping": "cung4 hing3",
+         "pinyin": "chóng qìng",
+         "english": "Chongqing"
+      },
+      {
+         "chinese": "台北",
+         "jyutping": "toi4 bak1",
+         "pinyin": "tái běi",
+         "english": "Taipei"
+      },
+      {
+         "chinese": "首爾",
+         "jyutping": "sau2 ji5",
+         "pinyin": "shǒu ěr",
+         "english": "Seoul"
+      },
+      {
+         "chinese": "倫敦",
+         "jyutping": "leon4 deon1",
+         "pinyin": "lún dūn",
+         "english": "London"
+      },
+      {
+         "chinese": "華埠",
+         "jyutping": "waa4 fau6",
+         "pinyin": "huá bù",
+         "english": "Chinatown"
+      },
+      {
+         "chinese": "矽谷<br>矽唂",
+         "jyutping": "zik6 guk1",
+         "pinyin": "xī gǔ",
+         "english": "Silicon Valley"
+      },
+      {
+         "chinese": "洛杉磯",
+         "jyutping": "lok3 caam2 gei1",
+         "pinyin": "luò shān jī",
+         "english": "Los Angeles"
+      },
+      {
+         "chinese": "三藩市",
+         "jyutping": "saam1 faan4 si5",
+         "pinyin": "sān fān shì",
+         "english": "San Francisco"
+      },
+      {
+         "chinese": "聖荷西",
+         "jyutping": "sing3 ho4 sai1",
+         "pinyin": "shèng hé xī",
+         "english": "San Jose"
+      },
+      {
+         "chinese": "紐約市",
+         "jyutping": "nau2 joek3 si5",
+         "pinyin": "niǔ yuē shì",
+         "english": "New York City"
+      },
+      {
+         "chinese": "西雅圖",
+         "jyutping": "sai1 ngaa5 tou4",
+         "pinyin": "xī yǎ tú",
+         "english": "Seattle"
+      },
+      {
+         "chinese": "利物浦",
+         "jyutping": "lei6 mat6 pou2",
+         "pinyin": "lì wù pǔ",
+         "english": "Liverpool"
+      },
+      {
+         "chinese": "唐人街",
+         "jyutping": "tong4 jan4 gaai1",
+         "pinyin": "táng rén jiē",
+         "english": "Chinatown"
+      }
+   ]
+}

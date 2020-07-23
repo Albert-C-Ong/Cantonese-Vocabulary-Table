@@ -1,0 +1,90 @@
+{
+   "name": "War", 
+   "chinese": "戰爭", 
+   "words": [
+      {
+         "chinese": "戰爭",
+         "jyutping": "zin3 zang1",
+         "pinyin": "zhàn zhēng",
+         "english": "war, conflict"
+      },
+      {
+         "chinese": "戰地",
+         "jyutping": "zin3 dei6",
+         "pinyin": "zhàn dì",
+         "english": "battlefield, battleground"
+      },
+      {
+         "chinese": "陸軍",
+         "jyutping": "luk6 gwan1",
+         "pinyin": "lù jūn",
+         "english": "army, ground forces"
+      },
+      {
+         "chinese": "軍方",
+         "jyutping": "gwan1 fong1",
+         "pinyin": "jūn fāng",
+         "english": "military"
+      },
+      {
+         "chinese": "將軍",
+         "jyutping": "zoeng1 gwan1",
+         "pinyin": "jiāng jūn",
+         "english": "general (military rank)"
+      },
+      {
+         "chinese": "戰士",
+         "jyutping": "zhàn shì",
+         "pinyin": "zhàn shì",
+         "english": "soldier, fighter, warrior"
+      },
+      {
+         "chinese": "停戰",
+         "jyutping": "ting4 zin3",
+         "pinyin": "tíng zhàn",
+         "english": "armistice, cease fire"
+      },
+      {
+         "chinese": "聯盟",
+         "jyutping": "lyun4 mang4",
+         "pinyin": "lián méng",
+         "english": "alliance, union"
+      },
+      {
+         "chinese": "傷亡",
+         "jyutping": "soeng1 mong4",
+         "pinyin": "shāng wáng",
+         "english": "casualties, injuries and deaths"
+      },
+      {
+         "chinese": "内戰",
+         "jyutping": "noi6 zin3",
+         "pinyin": "nèi zhàn",
+         "english": "civil war<br>(lit. domestic war)"
+      },
+      {
+         "chinese": "種族滅絕",
+         "jyutping": "zung2 zuk6 mit6 zyut6",
+         "pinyin": "zhǒng zú miè jué",
+         "english": "genocide<br>(lit. race extinguish)"
+      },
+      {
+         "chinese": "世界大戰",
+         "jyutping": "sai3 gaai3 daai6 zin6",
+         "pinyin": "shì jiè dà zhàn",
+         "english": "world war<br>(lit. world large war)"
+      },
+      {
+         "chinese": "第一次世界大戰",
+         "jyutping": "dai6 jat1 ci3 sai3 gaai3 daai6 zin3",
+         "pinyin": "dì yī cì shì jiè dà zhàn",
+         "english": "World War I"
+      },
+      {
+         "chinese": "第二次世界大戰",
+         "jyutping": "dai6 ji6 ci3 sai3 gaai3 daai6 zin3",
+         "pinyin": "dì èr cì shì jiè dà zhàn",
+         "english": "World War II"
+      }
+   ]
+}

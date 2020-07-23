@@ -1,0 +1,293 @@
+{
+  "name": "Clothing",
+  "chinese": "衣服", 
+   "words": [
+      {
+         "chinese": "衫",
+         "jyutping": "saam1",
+         "pinyin": "shān",
+         "english": "clothes, clothing",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "帽",
+         "jyutping": "mou2",
+         "pinyin": "mào",
+         "english": "hat",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "呔",
+         "jyutping": "taai1",
+         "pinyin": "tāi",
+         "english": "tie",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "袖",
+         "jyutping": "zau6",
+         "pinyin": "xiù",
+         "english": "sleeve",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "襪",
+         "jyutping": "mat6",
+         "pinyin": "wà",
+         "english": "socks",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "鞋",
+         "jyutping": "haai4",
+         "pinyin": "xié",
+         "english": "shoe",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "傘",
+         "jyutping": "saan3",
+         "pinyin": "sǎn",
+         "english": "umbrella",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "衣服",
+         "jyutping": "ji1 fuk6",
+         "pinyin": "yī fu",
+         "english": "clothing",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "眼鏡",
+         "jyutping": "ngaan5 geng2",
+         "pinyin": "yǎn jìng",
+         "english": "glasses",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "耳環",
+         "jyutping": "ji5 waan2",
+         "pinyin": "ěr huán",
+         "english": "earring",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "頸鏈",
+         "jyutping": "geng2 lin6",
+         "pinyin": "jǐng liàn",
+         "english": "necklace",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "吊墜",
+         "jyutping": "diu3 zeoi3",
+         "pinyin": "diào zhuì",
+         "english": "pendant (jewelry)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "戒指",
+         "jyutping": "gaai3 zi2",
+         "pinyin": "jiè zhi",
+         "english": "(finger) ring",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "圍巾",
+         "jyutping": "wai4 gan1",
+         "pinyin": "wéi jīn",
+         "english": "scarf<br>(lit. surround towel)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "頸巾",
+         "jyutping": "geng2 gan1",
+         "pinyin": "jǐng jīn",
+         "english": "scarf",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "恤衫",
+         "jyutping": "seot1 saam1",
+         "pinyin": "xù shān",
+         "english": "shirt",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "冷衫",
+         "jyutping": "laang1 saam1",
+         "pinyin": "lěng shān",
+         "english": "sweater",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "外套",
+         "jyutping": "ngoi6 tou3",
+         "pinyin": "wài tào",
+         "english": "coat, jacket",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "雨衣",
+         "jyutping": "jyu5 ji1",
+         "pinyin": "yǔ yī",
+         "english": "raincoat",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "鈕扣",
+         "jyutping": "nau2 kau3",
+         "pinyin": "niǔ kòu",
+         "english": "button",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "內衣",
+         "jyutping": "noi6 ji1",
+         "pinyin": "nèi yī",
+         "english": "underwear",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "皮帶",
+         "jyutping": "pei4 daai2",
+         "pinyin": "pí dài",
+         "english": "belt",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "褲子",
+         "jyutping": "fu3 zi2",
+         "pinyin": "kù zi",
+         "english": "pants",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "短褲",
+         "jyutping": "dyun2 fy3",
+         "pinyin": "duǎn kù",
+         "english": "shorts",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "裙子",
+         "jyutping": "kwan4 zi2",
+         "pinyin": "qún zi",
+         "english": "skirt",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "褲襪",
+         "jyutping": "fe3 mat6",
+         "pinyin": "kù wà",
+         "english": "pantyhose",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "靴子",
+         "jyutping": "hoe1 zi2",
+         "pinyin": "xuē zi",
+         "english": "boots",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "涼鞋",
+         "jyutping": "loeng4 haai4",
+         "pinyin": "liáng xié",
+         "english": "sandals",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "拖鞋",
+         "jyutping": "to1 haai2",
+         "pinyin": "tuō xié",
+         "english": "slippers",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "制服",
+         "jyutping": "zai3 fuk6",
+         "pinyin": "zhì fú",
+         "english": "uniform",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "西裝",
+         "jyutping": "sai1 zong1",
+         "pinyin": "xī zhuāng",
+         "english": "suit",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "睡衣",
+         "jyutping": "seoi6 ji1",
+         "pinyin": "shuì yī",
+         "english": "pajamas",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "泳衣",
+         "jyutping": "wing6 ji1",
+         "pinyin": "yǒng yī",
+         "english": "swimsuit, bathing suit",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "長衫",
+         "jyutping": "coeng4 saam1",
+         "pinyin": "cháng shān",
+         "english": "Cheongsam, Qipao<br>(lit. long robe)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "行頭",
+         "jyutping": "hong4 tau4",
+         "pinyin": "háng tóu",
+         "english": "outfit, wardrobe",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "牛仔褲",
+         "jyutping": "ngau4 zai2 fu3",
+         "pinyin": "niú zǎi kù",
+         "english": "jeans",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "連身裙",
+         "jyutping": "lin4 san1 kwan4",
+         "pinyin": "lián yī qún",
+         "english": "dress",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "北堅尼",
+         "jyutping": "bei2 gin1 nei4",
+         "pinyin": "bǐ jiān ní",
+         "english": "bikini",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "高跟鞋",
+         "jyutping": "gou1 zaang1 haai4",
+         "pinyin": "gāo gēn xié",
+         "english": "high heel shoes",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "瞓覺衫",
+         "jyutping": "fan3 gaau3 saam1",
+         "pinyin": "fèn jiào shān",
+         "english": "pajamas",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "運動鞋",
+         "jyutping": "wan6 dung6 haai4",
+         "pinyin": "yùn dòng xié",
+         "english": "sneakers, running shoes",
+         "_category": "nouns"
+      }
+   ]
+}

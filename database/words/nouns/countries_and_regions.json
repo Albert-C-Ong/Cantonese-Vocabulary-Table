@@ -1,0 +1,272 @@
+{
+  "name": "Countries and Regions",
+  "chinese": "國家及區域", 
+   "words": [
+      {
+         "chinese": "洲",
+         "jyutping": "zau1",
+         "pinyin": "zhōu",
+         "english": "continent",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "國家",
+         "jyutping": "gwok3 gaa1",
+         "pinyin": "guó jiā",
+         "english": "country",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "地方",
+         "jyutping": "dei6 fong1",
+         "pinyin": "dì fāng",
+         "english": "place, region",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "區域",
+         "jyutping": "keoi1 wik6",
+         "pinyin": "qū yù",
+         "english": "region, area",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "大陸",
+         "jyutping": "daai6 luk6",
+         "pinyin": "dà lù",
+         "english": "continent, mainland<br>(proper noun) mainland China",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "亞洲",
+         "jyutping": "aa3 zau1",
+         "pinyin": "yà zhōu",
+         "english": "Asia",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "歐洲",
+         "jyutping": "au1 zau1",
+         "pinyin": "ōu zhōu",
+         "english": "Europe",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "非洲",
+         "jyutping": "fei1 zau1",
+         "pinyin": "fēi zhōu",
+         "english": "Africa",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "澳洲",
+         "jyutping": "ou3 zau1",
+         "pinyin": "ào zhōu",
+         "english": "Australia (abbr.)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "中國",
+         "jyutping": "zung1 gwok3",
+         "pinyin": "zhōng guó",
+         "english": "China",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "香港",
+         "jyutping": "hoeng1 gong2",
+         "pinyin": "xiāng gǎng",
+         "english": "Hong Kong",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "澳門",
+         "jyutping": "ou3 mun2",
+         "pinyin": "ào mén",
+         "english": "Macau",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "台灣",
+         "jyutping": "toi4 waan1",
+         "pinyin": "tái wān",
+         "english": "Taiwan",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "韓國",
+         "jyutping": "hon4 gwok3",
+         "pinyin": "hán guó",
+         "english": "South Korea",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "--",
+         "jyutping": "--",
+         "pinyin": "--",
+         "english": "North Korea (later)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "日本",
+         "jyutping": "jat6 bun2",
+         "pinyin": "rì běn",
+         "english": "Japan",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "越南",
+         "jyutping": "jyut6 naam4",
+         "pinyin": "yuè nán",
+         "english": "Vietnam",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "泰國",
+         "jyutping": "taai3 gwok3",
+         "pinyin": "tài guó",
+         "english": "Thailand",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "蒙古",
+         "jyutping": "mung4 gu2",
+         "pinyin": "měng gǔ",
+         "english": "Mongolia",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "印度",
+         "jyutping": "an3 dou6",
+         "pinyin": "yìn dù",
+         "english": "India",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "英國",
+         "jyutping": "jing1 gwok3",
+         "pinyin": "yīng guó",
+         "english": "England",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "法國",
+         "jyutping": "faat3 gwok3",
+         "pinyin": "fǎ guó",
+         "english": "France",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "德國",
+         "jyutping": "dak1 gwok3",
+         "pinyin": "dé guó",
+         "english": "Germany",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "丹麥",
+         "jyutping": "daan1 mak6",
+         "pinyin": "dān mài",
+         "english": "Denmark",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "瑞典",
+         "jyutping": "seoi6 din2",
+         "pinyin": "ruì diǎn",
+         "english": "Sweden",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "美國",
+         "jyutping": "mei5 gwok3",
+         "pinyin": "měi guó",
+         "english": "America",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "巴西",
+         "jyutping": "baa1 sai1",
+         "pinyin": "bā xī",
+         "english": "Brazil",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "北美洲",
+         "jyutping": "bak1 mei5 zau1",
+         "pinyin": "běi měi zhōu",
+         "english": "North America",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "南美洲",
+         "jyutping": "naam4 mei5 zau1",
+         "pinyin": "nán měi zhōu",
+         "english": "South America",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "俄羅斯",
+         "jyutping": "ngo4 lo4 si1",
+         "pinyin": "é luó sī",
+         "english": "Russia",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "西班牙",
+         "jyutping": "sai1 baan1 ngaa4",
+         "pinyin": "xī bān yá",
+         "english": "Spain",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "意大利",
+         "jyutping": "ji3 daai6 lei6",
+         "pinyin": "yì dà lì",
+         "english": "Italy",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "加拿大",
+         "jyutping": "gaa1 naa4 daai6",
+         "pinyin": "jiā ná dà",
+         "english": "Canada",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "墨西哥",
+         "jyutping": "mak6 sai1 go1",
+         "pinyin": "mò xī gē",
+         "english": "Mexico",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "阿根廷",
+         "jyutping": "aa2 gan1 ting4",
+         "pinyin": "ā gēn tíng",
+         "english": "Argentina",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "澳大利亞",
+         "jyutping": "ou3 daai6 lei6 aa3",
+         "pinyin": "ào dà lì yà",
+         "english": "Australia",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "馬來西亞",
+         "jyutping": "maa5 loi4 sai1 aa3",
+         "pinyin": "mǎl ái xī yà",
+         "english": "Malaysia",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "印度尼西亞",
+         "jyutping": "jan3 dou6 nei4 sai1 aa1",
+         "pinyin": "yìn dù ní xī yǎ",
+         "english": "Indonesia",
+         "_category": "nouns"
+      }
+   ]
+}

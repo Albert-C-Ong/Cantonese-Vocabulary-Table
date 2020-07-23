@@ -1,0 +1,78 @@
+{
+   "name": "Romance", 
+   "chinese": "愛情", 
+   "words": [
+      {
+         "chinese": "婚",
+         "jyutping": "fan1",
+         "pinyin": "hūn",
+         "english": "marriage, wedding"
+      },
+      {
+         "chinese": "愛情",
+         "jyutping": "oi3 cing4",
+         "pinyin": "ài qíng",
+         "english": "romance"
+      },
+      {
+         "chinese": "約會",
+         "jyutping": "joek3 wui6",
+         "pinyin": "yuē huì",
+         "english": "(romantic) date"
+      },
+      {
+         "chinese": "情侶",
+         "jyutping": "cing4 leoi5",
+         "pinyin": "qíng lǚ",
+         "english": "couple, lovers"
+      },
+      {
+         "chinese": "情人",
+         "jyutping": "cing4 jan4",
+         "pinyin": "qíng rén",
+         "english": "lover, sweetheart"
+      },
+      {
+         "chinese": "真愛",
+         "jyutping": "san1 oi3",
+         "pinyin": "zhēn ài",
+         "english": "true love"
+      },
+      {
+         "chinese": "男女",
+         "jyutping": "naam4 neoi5",
+         "pinyin": "nán nǚ",
+         "english": "man and woman, couple"
+      },
+      {
+         "chinese": "夫婦",
+         "jyutping": "fu1 fu5",
+         "pinyin": "fū fù",
+         "english": "a (married) couple, husband and wife"
+      },
+      {
+         "chinese": "感情",
+         "jyutping": "gam2 cing4",
+         "pinyin": "gǎn qíng",
+         "english": "(romantic) relationship"
+      },
+      {
+         "chinese": "備胎",
+         "jyutping": "bei6 toi1",
+         "pinyin": "bèi tāi",
+         "english": "(slang) back-up partner, fall-back guy/girl<br>s(lit. spare tire)"
+      },
+      {
+         "chinese": "男朋友",
+         "jyutping": "naam4 pang4 jau5",
+         "pinyin": "nán péng yǒu",
+         "english": "boyfriend"
+      },
+      {
+         "chinese": "女朋友",
+         "jyutping": "neoi5 pang4 jau5",
+         "pinyin": "nǚ péng you",
+         "english": "girlfriend"
+      }
+   ]
+}

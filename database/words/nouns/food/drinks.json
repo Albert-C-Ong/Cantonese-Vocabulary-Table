@@ -1,0 +1,90 @@
+{
+  "name": "Drinks", 
+  "chinese": "嘢飲", 
+   "words": [
+      {
+         "chinese": "水",
+         "jyutping": "seoi2",
+         "pinyin": "shuǐ",
+         "english": "water"
+      },
+      {
+         "chinese": "奶",
+         "jyutping": "naai5",
+         "pinyin": "nǎi",
+         "english": "milk"
+      },
+      {
+         "chinese": "酒",
+         "jyutping": "zau2",
+         "pinyin": "jiǔ",
+         "english": "alcohol, wine"
+      },
+      {
+         "chinese": "啤",
+         "jyutping": "be1",
+         "pinyin": "pí",
+         "english": "beer"
+      },
+      {
+         "chinese": "茶",
+         "jyutping": "caa4",
+         "pinyin": "chá",
+         "english": "tea"
+      },
+      {
+         "chinese": "汁",
+         "jyutping": "zap1",
+         "pinyin": "zhī",
+         "english": "juice"
+      },
+      {
+         "chinese": "嘢飲",
+         "jyutping": "je5 jam2",
+         "pinyin": "yě yìn",
+         "english": "drink (noun)"
+      },
+      {
+         "chinese": "咖啡",
+         "jyutping": "gaa3 fe1",
+         "pinyin": "kā fēi",
+         "english": "coffee"
+      },
+      {
+         "chinese": "豆漿",
+         "jyutping": "dau2 zoeng1",
+         "pinyin": "dòu jiāng",
+         "english": "soy milk"
+      },
+      {
+         "chinese": "汽水",
+         "jyutping": "hei3 seoi2",
+         "pinyin": "qì shuǐ",
+         "english": "soda"
+      },
+      {
+         "chinese": "可樂",
+         "jyutping": "ho2 lok6",
+         "pinyin": "kě lè",
+         "english": "coke, cola"
+      },
+      {
+         "chinese": "奶昔",
+         "jyutping": "naai1 sik1",
+         "pinyin": "nǎi xī",
+         "english": "milkshake"
+      },
+      {
+         "chinese": "果汁",
+         "jyutping": "gwo2 zap1",
+         "pinyin": "guǒ zhī",
+         "english": "fruit juice"
+      },
+      {
+         "chinese": "雞尾酒",
+         "jyutping": "gai1 mei5 zau2",
+         "pinyin": "jī wěi jiǔ",
+         "english": "cocktail"
+      }
+   ]
+}

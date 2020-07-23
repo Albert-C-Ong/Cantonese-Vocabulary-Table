@@ -1,0 +1,78 @@
+{
+   "name": "Nutrition", 
+   "chinese": "營養", 
+   "words": [
+      {
+         "chinese": "糖",
+         "jyutping": "tong2",
+         "pinyin": "táng",
+         "english": "sugar, sweets"
+      },
+      {
+         "chinese": "鈉",
+         "jyutping": "naap6",
+         "pinyin": "nà",
+         "english": "sodium"
+      },
+      {
+         "chinese": "鈣",
+         "jyutping": "koi3",
+         "pinyin": "gài",
+         "english": "calcium"
+      },
+      {
+         "chinese": "營養",
+         "jyutping": "jing4 joeng5",
+         "pinyin": "yíng yǎng",
+         "english": "nutrition"
+      },
+      {
+         "chinese": "綫維",
+         "jyutping": "cim1 wai4",
+         "pinyin": "xiān wéi",
+         "english": "fiber"
+      },
+      {
+         "chinese": "脂肪",
+         "jyutping": "zi1 fong1",
+         "pinyin": "zhī fáng",
+         "english": "fat (of a plant or animal)"
+      },
+      {
+         "chinese": "膽固醇",
+         "jyutping": "daam2 gu3 seon4",
+         "pinyin": "dǎn gù chún",
+         "english": "cholesterol"
+      },
+      {
+         "chinese": "卡路里",
+         "jyutping": "kaa1 lou6 lei5",
+         "pinyin": "kǎ lù lǐ",
+         "english": "calorie<br>(loanword)"
+      },
+      {
+         "chinese": "維他命",
+         "jyutping": "wai4 taa1 ming6",
+         "pinyin": "wéi tā mìng",
+         "english": "vitamin<br>(loanword)"
+      },
+      {
+         "chinese": "蛋白質",
+         "jyutping": "daan2 baak6 zat1",
+         "pinyin": "dàn bái zhì",
+         "english": "protein<br>(lit. egg white matter)"
+      },
+      {
+         "chinese": "咖啡因",
+         "jyutping": "gaa3 fe1 jan1",
+         "pinyin": "kā fēi yīn",
+         "english": "caffeine (loanword)"
+      },
+      {
+         "chinese": "碳水化合物",
+         "jyutping": "taan3 seoi2 faa3 hap6 mat6",
+         "pinyin": "tàn shuǐ huà hé wù",
+         "english": "carbohydrate<br>(lit. carbon water combination matter)"
+      }
+   ]
+}

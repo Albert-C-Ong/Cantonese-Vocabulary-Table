@@ -1,0 +1,78 @@
+{
+   "name": "Media", 
+   "chinese": "媒體", 
+   "words": [
+      {
+         "chinese": "媒體",
+         "jyutping": "mui4 tai2",
+         "pinyin": "méi tǐ",
+         "english": "media"
+      },
+      {
+         "chinese": "新聞",
+         "jyutping": "san1 man4",
+         "pinyin": "xīn wén",
+         "english": "news"
+      },
+      {
+         "chinese": "文章",
+         "jyutping": "man4 zoeng1",
+         "pinyin": "wén zhāng",
+         "english": "article, essay"
+      },
+      {
+         "chinese": "雜誌<br>雑誌",
+         "jyutping": "zaap6 zi3",
+         "pinyin": "zá zhì",
+         "english": "magazine"
+      },
+      {
+         "chinese": "報紙",
+         "jyutping": "bou3 zi2",
+         "pinyin": "bào zhǐ",
+         "english": "newspaper, newsprint"
+      },
+      {
+         "chinese": "廣告",
+         "jyutping": "gwong2 gou3",
+         "pinyin": "guǎng gào",
+         "english": "commercial, advertisement"
+      },
+      {
+         "chinese": "娛樂",
+         "jyutping": "jyu4 lok6",
+         "pinyin": "yú lè",
+         "english": "entertainment, recreation, amusement"
+      },
+      {
+         "chinese": "晤談",
+         "jyutping": "ng6 taam4",
+         "pinyin": "wù tán",
+         "english": "meeting, interview, face-to-face talk"
+      },
+      {
+         "chinese": "事實",
+         "jyutping": "si6 sat6",
+         "pinyin": "shì shí",
+         "english": "fact"
+      },
+      {
+         "chinese": "意思",
+         "jyutping": "ji3 si1",
+         "pinyin": "yì si",
+         "english": "opinion"
+      },
+      {
+         "chinese": "字幕",
+         "jyutping": "zi6 mok6",
+         "pinyin": "zì mù",
+         "english": "subtitles, captions"
+      },
+      {
+         "chinese": "社交媒體",
+         "jyutping": "sse5 gaau1 mui4 tai2",
+         "pinyin": "shè jiāo méi tǐ",
+         "english": "social media"
+      }
+   ]
+}

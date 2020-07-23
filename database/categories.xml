@@ -403,6 +403,11 @@
       </subcategory>
       
       <subcategory>
+        <name>Religion</name>
+        <chinese>宗教</chinese>
+      </subcategory>
+      
+      <subcategory>
         <name>Romance</name>
         <chinese>愛情</chinese>
       </subcategory>
@@ -412,10 +417,6 @@
         <chinese>王權</chinese>
       </subcategory>
       
-      <subcategory>
-        <name>Religion</name>
-        <chinese>宗教</chinese>
-      </subcategory>
       
       <subcategory>
         <name>School</name>

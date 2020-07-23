@@ -1,0 +1,36 @@
+{
+   "name": "Games", 
+   "chinese": "遊戲", 
+   "words": [
+      {
+         "chinese": "遊戲<br>游戯",
+         "jyutping": "jau4 hei3",
+         "pinyin": "yóu xì",
+         "english": "game (playful or competitive activity)"
+      },
+      {
+         "chinese": "麻將<br>蔴將",
+         "jyutping": "maa4 zoeng1",
+         "pinyin": "má jiàng",
+         "english": "Mahjong"
+      },
+      {
+         "chinese": "紙牌",
+         "jyutping": "zi2 paai4",
+         "pinyin": "zhǐ pái",
+         "english": "playing cards"
+      },
+      {
+         "chinese": "象棋",
+         "jyutping": "zoeng6 kei4",
+         "pinyin": "xiàng qí",
+         "english": "Chinese chess"
+      },
+      {
+         "chinese": "國際象棋",
+         "jyutping": "gwok zai3 zoeng6 kei4",
+         "pinyin": "guó jì xiàng qí",
+         "english": "chess<br>(lit. international chess)"
+      }
+   ]
+}

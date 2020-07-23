@@ -1,0 +1,216 @@
+{
+   "name": "Professions", 
+   "chinese": "職業", 
+   "words": [
+      {
+         "chinese": "師",
+         "jyutping": "si1",
+         "pinyin": "shī",
+         "english": "teacher, master, specialist"
+      },
+      {
+         "chinese": "員",
+         "jyutping": "jyun4",
+         "pinyin": "yuán",
+         "english": "personnel, employee, staff member"
+      },
+      {
+         "chinese": "職業",
+         "jyutping": "zik1 jip6",
+         "pinyin": "zhí yè",
+         "english": "profession, occupation"
+      },
+      {
+         "chinese": "演員",
+         "jyutping": "jin2 jyun4",
+         "pinyin": "yǎn yuán",
+         "english": "actor, actress, performer"
+      },
+      {
+         "chinese": "商人",
+         "jyutping": "soeng1 jan4",
+         "pinyin": "shāng rén",
+         "english": "businessperson"
+      },
+      {
+         "chinese": "廚師<br>厨師",
+         "jyutping": "cyu4 si1",
+         "pinyin": "chú shī",
+         "english": "cook, chef"
+      },
+      {
+         "chinese": "牙毉<br>牙醫",
+         "jyutping": "ngaa4 ji1",
+         "pinyin": "yá yī",
+         "english": "dentist"
+      },
+      {
+         "chinese": "毉生<br>醫生",
+         "jyutping": "ji1 saang1",
+         "pinyin": "yī shēng",
+         "english": "doctor"
+      },
+      {
+         "chinese": "記者",
+         "jyutping": "gei3 ze2",
+         "pinyin": "jì zhě",
+         "english": "journalist, reporter"
+      },
+      {
+         "chinese": "律師",
+         "jyutping": "leot6 si1",
+         "pinyin": "lǜ shī",
+         "english": "lawyer<br>(lit. law specialist)"
+      },
+      {
+         "chinese": "護士",
+         "jyutping": "wu6 si6",
+         "pinyin": "hù shi",
+         "english": "nurse"
+      },
+      {
+         "chinese": "畫家",
+         "jyutping": "waa2 gaa1",
+         "pinyin": "huà jiā",
+         "english": "painter"
+      },
+      {
+         "chinese": "警察",
+         "jyutping": "ging2 caat3",
+         "pinyin": "jǐng chá",
+         "english": "police officer"
+      },
+      {
+         "chinese": "政客",
+         "jyutping": "zing3 haak3",
+         "pinyin": "zhèng kè",
+         "english": "politician"
+      },
+      {
+         "chinese": "秘書<br>祕書",
+         "jyutping": "bei3 syu1",
+         "pinyin": "mì shū",
+         "english": "secretary"
+      },
+      {
+         "chinese": "老師",
+         "jyutping": "lou5 si1",
+         "pinyin": "lǎo shī",
+         "english": "teacher"
+      },
+      {
+         "chinese": "獸醫<br>獸毉",
+         "jyutping": "sau3 ji1",
+         "pinyin": "shòu yī",
+         "english": "veterinarian"
+      },
+      {
+         "chinese": "做著",
+         "jyutping": "zok3 ze2",
+         "pinyin": "zuò zhě",
+         "english": "writer, author"
+      },
+      {
+         "chinese": "農夫",
+         "jyutping": "nung4 fu1",
+         "pinyin": "nóng fū",
+         "english": "farmer"
+      },
+      {
+         "chinese": "書店",
+         "jyutping": "dim3 jyun4",
+         "pinyin": "diàn yuán",
+         "english": "shop assistant, salesclerk, clerk<br>(lit. shop employee)"
+      },
+      {
+         "chinese": "模特",
+         "jyutping": "mou4 dak6",
+         "pinyin": "mó tè",
+         "english": "(fasion) model"
+      },
+      {
+         "chinese": "會計師",
+         "jyutping": "wui6 gai3 si1",
+         "pinyin": "kuài jì shī",
+         "english": "accountant"
+      },
+      {
+         "chinese": "建筑師<br>建築師",
+         "jyutping": "gin3 zuk1 si1",
+         "pinyin": "jiàn zhù shī",
+         "english": "architect"
+      },
+      {
+         "chinese": "藝術家",
+         "jyutping": "ngai6 seot6 gaa1",
+         "pinyin": "yì shù jiā",
+         "english": "artist"
+      },
+      {
+         "chinese": "銀行家",
+         "jyutping": "ngan4 hong4 gaa1",
+         "pinyin": "yín háng jiā",
+         "english": "banker"
+      },
+      {
+         "chinese": "工程師",
+         "jyutping": "gung1 cing4 si1",
+         "pinyin": "gōng chéng shī",
+         "english": "engineer"
+      },
+      {
+         "chinese": "音樂人",
+         "jyutping": "jam1 ngok6 jan4",
+         "pinyin": "yīn yuè rén",
+         "english": "musician<br>(lit. music person)"
+      },
+      {
+         "chinese": "藥劑師",
+         "jyutping": "joek6 zai1 si1",
+         "pinyin": "yào jì shī",
+         "english": "pharmacist"
+      },
+      {
+         "chinese": "科學家",
+         "jyutping": "fo1 hok6 gaa1",
+         "pinyin": "kē xué jiā",
+         "english": "scientist"
+      },
+      {
+         "chinese": "髪型師",
+         "jyutping": "faat3 jing4 si1",
+         "pinyin": "fà xíng shī",
+         "english": "hair stylist"
+      },
+      {
+         "chinese": "翻譯員<br>飜譯員",
+         "jyutping": "faan1 jik6 jyun4",
+         "pinyin": "fān yì yuán",
+         "english": "translator"
+      },
+      {
+         "chinese": "侍應生",
+         "jyutping": "si6 jing1 saang1",
+         "pinyin": "shì yìng shēng",
+         "english": "waiter, waitress"
+      },
+      {
+         "chinese": "收銀員",
+         "jyutping": "sau1 ngan2 jyun4",
+         "pinyin": "shōu yín yuán",
+         "english": "cashier, clerk"
+      },
+      {
+         "chinese": "售貨員",
+         "jyutping": "sau6 fo3 jyun4",
+         "pinyin": "shòu huò yuán",
+         "english": "shop assistant, salesclerk"
+      },
+      {
+         "chinese": "機械工人",
+         "jyutping": "gei1 haai6 gung1 jan4",
+         "pinyin": "jī xiè gōng rén",
+         "english": "mechanic"
+      }
+   ]
+}

@@ -1,0 +1,74 @@
+{
+   "word": [
+      {
+         "chinese": "房",
+         "jyutping": "fong2",
+         "pinyin": "fáng",
+         "english": "room",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "室",
+         "jyutping": "sat1",
+         "pinyin": "shì",
+         "english": "room, chamber",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "房間<br>房閒",
+         "jyutping": "fong4 gaan1",
+         "pinyin": "fáng jiān",
+         "english": "room (in a building or house)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "客廳<br>客廰",
+         "jyutping": "haak3 teng1",
+         "pinyin": "kè tīng",
+         "english": "living room",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "睡房",
+         "jyutping": "seoi6 fong4",
+         "pinyin": "shuì fáng",
+         "english": "bedroom",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "臥室",
+         "jyutping": "ngo6 sat1",
+         "pinyin": "wò shì",
+         "english": "bedroom",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "衣櫃",
+         "jyutping": "ji1 gwai6",
+         "pinyin": "yī guì",
+         "english": "closet, wardrobe",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "書房",
+         "jyutping": "syu1 fong2",
+         "pinyin": "shū fáng",
+         "english": "study room",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "電梯",
+         "jyutping": "din6 tai1",
+         "pinyin": "diàn tī",
+         "english": "elevator, lift, escalator",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "陽臺<br>陽台",
+         "jyutping": "joeng4 tai4",
+         "pinyin": "yáng tái",
+         "english": "balcony, porch",
+         "_category": "nouns"
+      }
+   ]
+}

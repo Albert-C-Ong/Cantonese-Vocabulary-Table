@@ -1,0 +1,69 @@
+{
+  "name": "Classifiers",
+  "chinese": "量詞", 
+   "words": [
+      {
+         "chinese": "條",
+         "jyutping": "tiu4",
+         "pinyin": "tiáo",
+         "english": "strip, item, classifier for long thin things",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "間<br>閒",
+         "jyutping": "gaan1",
+         "pinyin": "jiān",
+         "english": "among, between<br>room, chamber<br>(classifier for buildings)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "款",
+         "jyutping": "fun",
+         "pinyin": "kuǎn",
+         "english": "item, article<br>classifier for versions or models (of a product)",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "份",
+         "jyutping": "fan6",
+         "pinyin": "fèn",
+         "english": "classifier for gifts, magazines, documents",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "部",
+         "jyutping": "bou6",
+         "pinyin": "bù",
+         "english": "classifier for literature, films, machines, etc",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "張",
+         "jyutping": "zoeng1",
+         "pinyin": "zhāng",
+         "english": "classifier for flat objects and sheets",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "件",
+         "jyutping": "gin6",
+         "pinyin": "jiàn",
+         "english": "classifier for events, things, and clothes",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "只<br>隻",
+         "jyutping": "zek3",
+         "pinyin": "zhī",
+         "english": "classifier for certain animals and containers",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "量詞",
+         "jyutping": "loeng4 ci4",
+         "pinyin": "liàng cí",
+         "english": "classifier (in Chinese grammar)<br>(lit. measure word)",
+         "_category": "nouns"
+      }
+   ]
+}

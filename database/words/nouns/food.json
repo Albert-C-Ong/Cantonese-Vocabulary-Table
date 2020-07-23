@@ -1,0 +1,78 @@
+{
+  "name": "Food", 
+  "chinese": "飯", 
+   "words": [
+      {
+         "chinese": "飯",
+         "jyutping": "faan6",
+         "pinyin": "fàn",
+         "english": "rice, food"
+      },
+      {
+         "chinese": "早餐",
+         "jyutping": "zou2 caan1",
+         "pinyin": "zǎo cān",
+         "english": "breakfast<br>(lit. early meal)"
+      },
+      {
+         "chinese": "午餐",
+         "jyutping": "ng5 caan1",
+         "pinyin": "wǔ cān",
+         "english": "lunch<br>(lit. noon meal)"
+      },
+      {
+         "chinese": "晚餐",
+         "jyutping": "maan5 caan1",
+         "pinyin": "wǎn cān",
+         "english": "dinner<br>(lit. evening meal)"
+      },
+      {
+         "chinese": "餐牌",
+         "jyutping": "caan1 paai4",
+         "pinyin": "cān pái",
+         "english": "menu"
+      },
+      {
+         "chinese": "薄餅",
+         "jyutping": "bok6 beng2",
+         "pinyin": "báo bǐng",
+         "english": "pizza"
+      },
+      {
+         "chinese": "薯條",
+         "jyutping": "syu4 tiu4",
+         "pinyin": "shǔ tiáo",
+         "english": "french fries, chips"
+      },
+      {
+         "chinese": "咖哩",
+         "jyutping": "gaa3 lei1",
+         "pinyin": "kā li",
+         "english": "curry"
+      },
+      {
+         "chinese": "食譜",
+         "jyutping": "sik6 pou2",
+         "pinyin": "shí pǔ",
+         "english": "recipe, cookbook"
+      },
+      {
+         "chinese": "雞蛋",
+         "jyutping": "gai1 daan2",
+         "pinyin": "jī dàn",
+         "english": "chicken egg"
+      },
+      {
+         "chinese": "蘑菇<br>磨菇",
+         "jyutping": "mo4 gu1",
+         "pinyin": "mó gū",
+         "english": "mushroom"
+      },
+      {
+         "chinese": "漢堡包",
+         "jyutping": "hon3 bou2 baau1",
+         "pinyin": "hàn bǎo bāo",
+         "english": "hamburger"
+      }
+   ]
+}

@@ -1,0 +1,266 @@
+{
+   "name": "Politics", 
+   "chinese": "政治", 
+   "words": [
+      {
+         "chinese": "政治",
+         "jyutping": "zing3 ci4",
+         "pinyin": "zhèng zhì",
+         "english": "politics"
+      },
+      {
+         "chinese": "政府",
+         "jyutping": "zing3 fu2",
+         "pinyin": "zhèng fǔ",
+         "english": "government"
+      },
+      {
+         "chinese": "大權",
+         "jyutping": "daai6 kyun4",
+         "pinyin": "dà quán",
+         "english": "power, authority"
+      },
+      {
+         "chinese": "威權",
+         "jyutping": "wai1 kyun4",
+         "pinyin": "wēi quán",
+         "english": "power, authority"
+      },
+      {
+         "chinese": "州長",
+         "jyutping": "zau1 coeng4",
+         "pinyin": "zhōu zhǎng",
+         "english": "governor (of a state or province)"
+      },
+      {
+         "chinese": "普選",
+         "jyutping": "pou2 syun2",
+         "pinyin": "pǔ xuǎn",
+         "english": "universal suffrage"
+      },
+      {
+         "chinese": "革命",
+         "jyutping": "gaak3 ming6",
+         "pinyin": "gé mìng",
+         "english": "revolution"
+      },
+      {
+         "chinese": "抗議",
+         "jyutping": "kong3 ji5",
+         "pinyin": "kàng yì",
+         "english": "protest"
+      },
+      {
+         "chinese": "條例",
+         "jyutping": "tiu4 lai6",
+         "pinyin": "tiáo lì",
+         "english": "rule, regulation, ordinance"
+      },
+      {
+         "chinese": "審訊",
+         "jyutping": "sam2 seon3",
+         "pinyin": "shěn xùn",
+         "english": "trial, interrogation"
+      },
+      {
+         "chinese": "警方",
+         "jyutping": "ging2 fong1",
+         "pinyin": "jǐng fāng",
+         "english": "police"
+      },
+      {
+         "chinese": "民主",
+         "jyutping": "man4 zyu2",
+         "pinyin": "mín zhǔ",
+         "english": "democracy"
+      },
+      {
+         "chinese": "共和",
+         "jyutping": "gung6 wo4",
+         "pinyin": "gòng hé",
+         "english": "republic, republicanism"
+      },
+      {
+         "chinese": "人權",
+         "jyutping": "jan4 kyun4",
+         "pinyin": "rén quán",
+         "english": "human rights"
+      },
+      {
+         "chinese": "民國",
+         "jyutping": "man4 gwok3",
+         "pinyin": "mín guó",
+         "english": "republic"
+      },
+      {
+         "chinese": "國會",
+         "jyutping": "gwok3 wui6",
+         "pinyin": "guó huì",
+         "english": "national assembly, parliament, congress"
+      },
+      {
+         "chinese": "法案",
+         "jyutping": "faat3 on3",
+         "pinyin": "fǎ àn",
+         "english": "bill, proposed law"
+      },
+      {
+         "chinese": "總統",
+         "jyutping": "zung2 tung2",
+         "pinyin": "zǒng tǒng",
+         "english": "president (of a country)"
+      },
+      {
+         "chinese": "外交",
+         "jyutping": "ngoi6 gaau1",
+         "pinyin": "wài jiāo",
+         "english": "diplomacy, foreign affairs"
+      },
+      {
+         "chinese": "委員",
+         "jyutping": "wai1 jyun4",
+         "pinyin": "wěi yuán",
+         "english": "committee, council"
+      },
+      {
+         "chinese": "大會",
+         "jyutping": "daai6 wui6",
+         "pinyin": "dà huì",
+         "english": "general assembly, general meeting, convention"
+      },
+      {
+         "chinese": "法規",
+         "jyutping": "faat3 kwai1",
+         "pinyin": "fǎ guī",
+         "english": "law, legislation, ordinance"
+      },
+      {
+         "chinese": "主席",
+         "jyutping": "zyu2 zik6",
+         "pinyin": "zhǔ xí",
+         "english": "chairperson, chairman"
+      },
+      {
+         "chinese": "領袖",
+         "jyutping": "ling5 zau6",
+         "pinyin": "lǐng xiù",
+         "english": "leader (of a country, party, or organization)"
+      },
+      {
+         "chinese": "兩院",
+         "jyutping": "loeng5 jyun2",
+         "pinyin": "liǎng yuàn",
+         "english": "two chambers (of ligeislative assembly)"
+      },
+      {
+         "chinese": "選舉",
+         "jyutping": "syun2 geoi2",
+         "pinyin": "xuǎn jǔ",
+         "english": "election"
+      },
+      {
+         "chinese": "大選",
+         "jyutping": "daai6 syun2",
+         "pinyin": "dà xuǎn",
+         "english": "general election"
+      },
+      {
+         "chinese": "選情",
+         "jyutping": "syun2 cing4",
+         "pinyin": "xuǎn qíng",
+         "english": "situation of an election, the current state of a candidate's campaign<br>(lit. election feeling)<br>"
+      },
+      {
+         "chinese": "立法",
+         "jyutping": "lap6 faat3",
+         "pinyin": "lì fǎ",
+         "english": "legislation"
+      },
+      {
+         "chinese": "公民",
+         "jyutping": "gung1 man4",
+         "pinyin": "gōng mín",
+         "english": "citizen"
+      },
+      {
+         "chinese": "審查",
+         "jyutping": "sam2 caa4",
+         "pinyin": "shěn chá",
+         "english": "censorship, to censor"
+      },
+      {
+         "chinese": "公民權",
+         "jyutping": "gung1 man4 kyun4",
+         "pinyin": "gōng mín quán",
+         "english": "citizenship, civil rights"
+      },
+      {
+         "chinese": "參議院",
+         "jyutping": "caam1 ji5 jyun6",
+         "pinyin": "cān yì yuàn",
+         "english": "upper house, Senate"
+      },
+      {
+         "chinese": "眾議院",
+         "jyutping": "zung3 ji5 jyun6",
+         "pinyin": "zhòng yì yuàn",
+         "english": "lower house, House of Representatives"
+      },
+      {
+         "chinese": "示威者",
+         "jyutping": "si6 wai1 ze2",
+         "pinyin": "shì wēi zhě",
+         "english": "demonstrator, protester"
+      },
+      {
+         "chinese": "民主黨",
+         "jyutping": "man4 zhu2 dong2",
+         "pinyin": "mín zhǔ dǎng",
+         "english": "Democratic Party"
+      },
+      {
+         "chinese": "共和黨",
+         "jyutping": "gung6 wo4 dong2",
+         "pinyin": "gòng hé dǎng",
+         "english": "Republican Party"
+      },
+      {
+         "chinese": "多數黨",
+         "jyutping": "do1 sou3 dong2",
+         "pinyin": "duō shù dǎng",
+         "english": "majority party"
+      },
+      {
+         "chinese": "少數黨",
+         "jyutping": "siu2 sou3 dong2",
+         "pinyin": "shǎo shù dǎng",
+         "english": "minority party"
+      },
+      {
+         "chinese": "一國兩制",
+         "jyutping": "jat1 gwok3 loeng5 zai3",
+         "pinyin": "yī guó liǎng zhì",
+         "english": "One country, two systems (PRC policy)"
+      },
+      {
+         "chinese": "共產主義",
+         "jyutping": "gung6 caan2 zyu2 ji6",
+         "pinyin": "gòng chǎn zhǔ yì",
+         "english": "communism"
+      },
+      {
+         "chinese": "政治人物",
+         "jyutping": "zing3 zi6 jan4 mat6",
+         "pinyin": "zhèng zhì rén wù",
+         "english": "politician, statesman",
+         "__text": "chinese>"
+      },
+      {
+         "chinese": "象徵性言語",
+         "jyutping": "zoeng6 zi2 sing3 jin4 jyu5",
+         "pinyin": "xiàng zhēng xìng yán yǔ",
+         "english": "symbolic speech",
+         "__text": "chinese>"
+      }
+   ]
+}

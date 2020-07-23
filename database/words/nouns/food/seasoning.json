@@ -1,0 +1,24 @@
+{
+  "name": "Seasoning", 
+  "chinese": "調味料", 
+   "words": [
+      {
+         "chinese": "鹽",
+         "jyutping": "jim4",
+         "pinyin": "yán",
+         "english": "salt"
+      },
+      {
+         "chinese": "調味",
+         "jyutping": "tiu4 mei6",
+         "pinyin": "tiáo wèi",
+         "english": "seasoning, flavoring, condiment"
+      },
+      {
+         "chinese": "黑胡椒",
+         "jyutping": "haak1 wu4 ziu1",
+         "pinyin": "hēi hú jiāo",
+         "english": "black pepper"
+      }
+   ]
+}

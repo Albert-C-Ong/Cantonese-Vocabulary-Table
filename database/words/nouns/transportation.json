@@ -1,0 +1,156 @@
+{
+   "name": "Transportation", 
+   "chinese": "交通", 
+   "words": [
+      {
+         "chinese": "車",
+         "jyutping": "ce1",
+         "pinyin": "chē",
+         "english": "car"
+      },
+      {
+         "chinese": "船",
+         "jyutping": "syun4",
+         "pinyin": "chuán",
+         "english": "boat"
+      },
+      {
+         "chinese": "路",
+         "jyutping": "lou6",
+         "pinyin": "lù",
+         "english": "road, street"
+      },
+      {
+         "chinese": "交通",
+         "jyutping": "gaau1 tung1",
+         "pinyin": "jiāo tōng",
+         "english": "transportation, transport, communication"
+      },
+      {
+         "chinese": "車輛",
+         "jyutping": "ce1 loeng2",
+         "pinyin": "chē liàng",
+         "english": "vehicle"
+      },
+      {
+         "chinese": "巴士",
+         "jyutping": "baa1 si2",
+         "pinyin": "bā shì",
+         "english": "bus"
+      },
+      {
+         "chinese": "的士",
+         "jyutping": "dik1 si2",
+         "pinyin": "dī shì",
+         "english": "taxi"
+      },
+      {
+         "chinese": "火車",
+         "jyutping": "fo2 ce1",
+         "pinyin": "huǒ chē",
+         "english": "train<br>(lit. fire car)"
+      },
+      {
+         "chinese": "貨車",
+         "jyutping": "fo3 ce1",
+         "pinyin": "huò chē",
+         "english": "truck"
+      },
+      {
+         "chinese": "單車",
+         "jyutping": "daan1 ce1",
+         "pinyin": "dān chē",
+         "english": "bicycle, bike"
+      },
+      {
+         "chinese": "機車",
+         "jyutping": "gei1 ce1",
+         "pinyin": "jī chē",
+         "english": "motorcycle"
+      },
+      {
+         "chinese": "飛機",
+         "jyutping": "fei1 gei1",
+         "pinyin": "fēi jī",
+         "english": "plane"
+      },
+      {
+         "chinese": "輕軌",
+         "jyutping": "hing1 gwai2",
+         "pinyin": "qīng guǐ",
+         "english": "light rail, streetcar"
+      },
+      {
+         "chinese": "高鐡",
+         "jyutping": "gou1 tit3",
+         "pinyin": "gāo tiě",
+         "english": "high speed rail"
+      },
+      {
+         "chinese": "公交",
+         "jyutping": "gung1 gaau1",
+         "pinyin": "gōng jiāo",
+         "english": "public transportation"
+      },
+      {
+         "chinese": "路口",
+         "jyutping": "lou6 hau2",
+         "pinyin": "lù kǒu",
+         "english": "crossing, intersection (of roads)<br>(lit. road mouth)"
+      },
+      {
+         "chinese": "街口",
+         "jyutping": "gaai1 hau2",
+         "pinyin": "jiē kǒu",
+         "english": "street entrance"
+      },
+      {
+         "chinese": "塞車",
+         "jyutping": "sak1 ce1",
+         "pinyin": "sāi chē",
+         "english": "traffic jam<br>(lit. block car)"
+      },
+      {
+         "chinese": "駕照",
+         "jyutping": "gaa3 ziu3",
+         "pinyin": "jià zhào",
+         "english": "driver's license<br>(short for 駕駛執照)"
+      },
+      {
+         "chinese": "機場",
+         "jyutping": "gei1 coeng4",
+         "pinyin": "jī chǎng",
+         "english": "airport, airfield"
+      },
+      {
+         "chinese": "救護車",
+         "jyutping": "gau3 wu6 ce1",
+         "pinyin": "jiù hù chē",
+         "english": "ambulance"
+      },
+      {
+         "chinese": "直升機",
+         "jyutping": "zik6 sing1 gei1",
+         "pinyin": "zhí shēng jī",
+         "english": "helicopter"
+      },
+      {
+         "chinese": "摩托車",
+         "jyutping": "mo2 tuo1 che1",
+         "pinyin": "mó tuō chē",
+         "english": "motorcycle, scooter"
+      },
+      {
+         "chinese": "紅綠燈",
+         "jyutping": "hung4 luk6 dang1",
+         "pinyin": "hóng lǜ dēng",
+         "english": "traffic light, traffic signal<br>(lit. red green light)"
+      },
+      {
+         "chinese": "巴士站",
+         "jyutping": "baa1 si2 zaam6",
+         "pinyin": "bā shì zhàn",
+         "english": "bus stop"
+      }
+   ]
+}

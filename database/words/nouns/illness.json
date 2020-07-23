@@ -1,0 +1,24 @@
+{
+   "name": "Illness", 
+   "chinese": "病", 
+   "words": [
+      {
+         "chinese": "病",
+         "jyutping": "beng6",
+         "pinyin": "bìng",
+         "english": "illness, sickness, disease"
+      },
+      {
+         "chinese": "病毒",
+         "jyutping": "beng6 duk6",
+         "pinyin": "bìng dú",
+         "english": "virus"
+      },
+      {
+         "chinese": "冠狀病毒",
+         "jyutping": "gun1 zong6 beng6 duk6",
+         "pinyin": "guān zhuàng bìng dú",
+         "english": "coronavirus"
+      }
+   ]
+}

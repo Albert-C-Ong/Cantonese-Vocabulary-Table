@@ -1,0 +1,78 @@
+{
+   "name": "Religion", 
+   "chinese": "宗教", 
+   "words": [
+      {
+         "chinese": "神",
+         "jyutping": "san4",
+         "pinyin": "shén",
+         "english": "god, deity, spirit"
+      },
+      {
+         "chinese": "宗教",
+         "jyutping": "zung1 gaau3",
+         "pinyin": "zōng jiào",
+         "english": "religion"
+      },
+      {
+         "chinese": "教堂",
+         "jyutping": "gaau3 tong2",
+         "pinyin": "jiào táng",
+         "english": "church, chapel"
+      },
+      {
+         "chinese": "教會",
+         "jyutping": "gaau3 wui2",
+         "pinyin": "jiào huì",
+         "english": "(Christian) church"
+      },
+      {
+         "chinese": "祠堂",
+         "jyutping": "ci4 tong4",
+         "pinyin": "cí táng",
+         "english": "temple, shrine"
+      },
+      {
+         "chinese": "道教",
+         "jyutping": "dou3 gaau1",
+         "pinyin": "dào jiào",
+         "english": "Daoism, Taoism"
+      },
+      {
+         "chinese": "佛教",
+         "jyutping": "fat6 gaau3",
+         "pinyin": "fó jiào",
+         "english": "Buddhism"
+      },
+      {
+         "chinese": "猶太",
+         "jyutping": "jau4 taai3",
+         "pinyin": "yóu tài",
+         "english": "Jew, Jewish"
+      },
+      {
+         "chinese": "基督教",
+         "jyutping": "gei1 duk1 gaau1",
+         "pinyin": "jī dū jiào",
+         "english": "Christian, Christianity"
+      },
+      {
+         "chinese": "猶太教",
+         "jyutping": "jau4 taai3 gaau1",
+         "pinyin": "yóu tài jiào",
+         "english": "Judaism"
+      },
+      {
+         "chinese": "伊斯蘭教",
+         "jyutping": "ji1 si1 laan4 gaau3",
+         "pinyin": "yī sī lán jiào",
+         "english": "Islam"
+      },
+      {
+         "chinese": "無神掄者",
+         "jyutping": "mou4 san1 leon4 ze2",
+         "pinyin": "wú shén lùnzhě",
+         "english": "Atheist"
+      }
+   ]
+}
