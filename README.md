@@ -4,10 +4,8 @@
 Personal vocabulary table; designed to store vocabulary while learning Cantonese. 
 
 ## Todo List
-* Separate words database into separate directories and files
-* Dynamic page generation using the table of content links
+* Implement cumulative vocabulary page in homepage2.php
 * Implement custom priority for Word class
-* Refactor Word class to account for line breaks when counting character length
 
 ## Technologies and Tools
 
