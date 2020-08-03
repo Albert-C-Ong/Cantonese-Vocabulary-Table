@@ -1,2 +1,30 @@
-<words>
-</words>
+{
+   "name": "Exercise", 
+   "chinese": "運動", 
+   "words": [
+      {
+         "chinese": "喐",
+         "jyutping": "juk1",
+         "pinyin": "yù",
+         "english": "to move (one's body or body parts)"
+      },
+      {
+         "chinese": "游水",
+         "jyutping": "jau4 soi2",
+         "pinyin": "yóu shuǐ",
+         "english": "to swim"
+      },
+      {
+         "chinese": "出汗",
+         "jyutping": "coet1 hon6",
+         "pinyin": "chū hàn",
+         "english": "to sewat, to perspire"
+      },
+      {
+         "chinese": "做運動",
+         "jyutping": "zou6 wan6 dung6",
+         "pinyin": "zuò yùn dòng",
+         "english": "to exercise"
+      }
+   ]
+}

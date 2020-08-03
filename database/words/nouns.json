@@ -715,6 +715,97 @@
          "pinyin": "guó jiā gōng yuán",
          "english": "national park",
          "_category": "nouns"
+      }, 
+      {
+         "chinese": "進程",
+         "jyutping": "zeon3 cing4",
+         "pinyin": "jìn chéng",
+         "english": "process, course",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "計劃",
+         "jyutping": "gai3 waak6",
+         "pinyin": "jì huà",
+         "english": "plan, project, program proposal",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "建議",
+         "jyutping": "gin3 ji5",
+         "pinyin": "jiàn yì",
+         "english": "suggestions, recommendation, proposal",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "機會",
+         "jyutping": "ji1 hui4",
+         "pinyin": "jī huì",
+         "english": "opportunnity, chance",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "農藥",
+         "jyutping": "nung4 joek6",
+         "pinyin": "nóng yào",
+         "english": "pesticide",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "旅遊",
+         "jyutping": "leoi5 jau4",
+         "pinyin": "lǚ yóu",
+         "english": "journey, travel, tourism",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "言語",
+         "jyutping": "jin4 jyu5",
+         "pinyin": "yán yǔ",
+         "english": "speech, spoken language",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "疤痕",
+         "jyutping": "baa1 han4",
+         "pinyin": "bā hén",
+         "english": "scar",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "廢話",
+         "jyutping": "fai2 waa6",
+         "pinyin": "fèi huà",
+         "english": "nonsense, rubbish, worthless words",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "糞便",
+         "jyutping": "fan3 bin6",
+         "pinyin": "fèn biàn",
+         "english": "excrement, feces, poop",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "書呆子",
+         "jyutping": "syu1 daai1 zi2",
+         "pinyin": "shū dāi zi",
+         "english": "bookworm, nerd",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "催淚瓦斯",
+         "jyutping": "ceoi1 leoi6 ngaa5 si5",
+         "pinyin": "cuī lèi wǎ sī",
+         "english": "tear gas",
+         "_category": "nouns"
+      },
+      {
+         "chinese": "反饋回路",
+         "jyutping": "faan1 gwai3 wui4 lou6",
+         "pinyin": "fǎn kuì huí lù",
+         "english": "feedback loop",
+         "_category": "nouns"
       }
    ]
 }

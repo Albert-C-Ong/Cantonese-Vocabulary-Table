@@ -1,2 +1,42 @@
-<words>
-</words>
+{
+   "name": "Hygiene", 
+   "chinese": "衛生", 
+   "words": [
+      {
+         "chinese": "洗",
+         "jyutping": "sai2",
+         "pinyin": "xǐ",
+         "english": "to wash"
+      },
+      {
+         "chinese": "剃",
+         "jyutping": "tai3",
+         "pinyin": "tì",
+         "english": "to shave"
+      },
+      {
+         "chinese": "洗手",
+         "jyutping": "sai2 sau2",
+         "pinyin": "xǐ shǒu",
+         "english": "to wash hands"
+      },
+      {
+         "chinese": "刷牙",
+         "jyutping": "caat3 ngaa4",
+         "pinyin": "shuā yá",
+         "english": "to brush teeth"
+      },
+      {
+         "chinese": "冲涼",
+         "jyutping": "cung1 loeng4",
+         "pinyin": "chōng liáng",
+         "english": "to take a shower"
+      },
+      {
+         "chinese": "用牙線",
+         "jyutping": "jung6 ngaa4 sin3",
+         "pinyin": "yòng yá xiàn",
+         "english": "to floss"
+      }
+   ]
+}

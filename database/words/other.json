@@ -1,2 +1,325 @@
-<words>
-</words>
+{
+    "name": "Other",
+    "chinese": "其他",
+    "words": 
+    [
+      {
+         "chinese": "嘅",
+         "jyutping": "ge3",
+         "pinyin": "gě, kǎi",
+         "english": "possessive particle"
+      },
+      {
+         "chinese": "啲",
+         "jyutping": "di1",
+         "pinyin": "dī",
+         "english": "-er"
+      },
+      {
+         "chinese": "咗",
+         "jyutping": "zo2",
+         "pinyin": "zuǒ",
+         "english": "-ed"
+      },
+      {
+         "chinese": "同",
+         "jyutping": "tung4",
+         "pinyin": "tóng",
+         "english": "and, with"
+      },
+      {
+         "chinese": "緊",
+         "jyutping": "gan2",
+         "pinyin": "jǐn",
+         "english": "-ing"
+      },
+      {
+         "chinese": "定",
+         "jyutping": "ding6",
+         "pinyin": "dìng",
+         "english": "or"
+      },
+      {
+         "chinese": "咁",
+         "jyutping": "gam3",
+         "pinyin": "gān",
+         "english": "so"
+      },
+      {
+         "chinese": "及",
+         "jyutping": "kap6",
+         "pinyin": "jí",
+         "english": "and, with, as well as"
+      },
+      {
+         "chinese": "到",
+         "jyutping": "dou3",
+         "pinyin": "dào",
+         "english": "[particle] used to denote completion"
+      },
+      {
+         "chinese": "呀",
+         "jyutping": "aa1",
+         "pinyin": "ya",
+         "english": "particle equivalent to 啊 after a vowel"
+      },
+      {
+         "chinese": "每",
+         "jyutping": "mui5",
+         "pinyin": "měi",
+         "english": "every"
+      },
+      {
+         "chinese": "都",
+         "jyutping": "dou1",
+         "pinyin": "dōu",
+         "english": "also"
+      },
+      {
+         "chinese": "添",
+         "jyutping": "tim1",
+         "pinyin": "tiān",
+         "english": "(final particle) even, too, in addition"
+      },
+      {
+         "chinese": "啦",
+         "jyutping": "laa1",
+         "pinyin": "lǎ",
+         "english": "Used at end of sentence to indicate change of state/beginning of action"
+      },
+      {
+         "chinese": "喎",
+         "jyutping": "wo3",
+         "pinyin": "wāi, kuāi",
+         "english": "Used at end of sentence for emphasis"
+      },
+      {
+         "chinese": "啲",
+         "jyutping": "di1",
+         "pinyin": "dī",
+         "english": "some, a few"
+      },
+      {
+         "chinese": "咪",
+         "jyutping": "mai6",
+         "pinyin": "mī",
+         "english": "Used with 囉  at end of phrase to spell out something obvious"
+      },
+      {
+         "chinese": "囉",
+         "jyutping": "lo1",
+         "pinyin": "luō",
+         "english": "sentence-final particle"
+      },
+      {
+         "chinese": "嗯",
+         "jyutping": "ng6",
+         "pinyin": "ēn",
+         "english": "nonverbal interjection<br>eh, okay, yeah, umm"
+      },
+      {
+         "chinese": "咦",
+         "jyutping": "ji2",
+         "pinyin": "yí",
+         "english": "exclamation of surprise"
+      },
+      {
+         "chinese": "非",
+         "jyutping": "fei1",
+         "pinyin": "fēi",
+         "english": "not be, is not, not"
+      },
+      {
+         "chinese": "吓<br>嚇",
+         "jyutping": "haa5",
+         "pinyin": "xià",
+         "english": "(grammatical sentence particle)<br>for a while, for a moment"
+      },
+      {
+         "chinese": "而",
+         "jyutping": "ji4",
+         "pinyin": "ér",
+         "english": "and, and yet, but, neverthress"
+      },
+      {
+         "chinese": "將",
+         "jyutping": "zoeng1",
+         "pinyin": "jiāng",
+         "english": "will, going to, almost"
+      },
+      {
+         "chinese": "埋",
+         "jyutping": "maai1",
+         "pinyin": "mái",
+         "english": "together, along with, as well, in addition"
+      },
+      {
+         "chinese": "咯",
+         "jyutping": "lo1",
+         "pinyin": "lo",
+         "english": "sentence-final particle"
+      },
+      {
+         "chinese": "又",
+         "jyutping": "jau6",
+         "pinyin": "yòu",
+         "english": "again, once more, also, in addition, and, too"
+      },
+      {
+         "chinese": "不過",
+         "jyutping": "bat1 gwo3",
+         "pinyin": "bù guò",
+         "english": "but"
+      },
+      {
+         "chinese": "但係",
+         "jyutping": "daan6 hai6",
+         "pinyin": "dàn xì",
+         "english": "but"
+      },
+      {
+         "chinese": "唔使",
+         "jyutping": "m4 sai2",
+         "pinyin": "wú shǐ",
+         "english": "do not have, no"
+      },
+      {
+         "chinese": "定係",
+         "jyutping": "ding6 hai6",
+         "pinyin": "dìng xì",
+         "english": "or"
+      },
+      {
+         "chinese": "或著",
+         "jyutping": "waak6 ze2",
+         "pinyin": "huò zhě",
+         "english": "or, maybe"
+      },
+      {
+         "chinese": "每次",
+         "jyutping": "mui5 ci3",
+         "pinyin": "měi cì",
+         "english": "every time"
+      },
+      {
+         "chinese": "如果",
+         "jyutping": "jyu4 gwo2",
+         "pinyin": "rú guǒ",
+         "english": "if"
+      },
+      {
+         "chinese": "啱啱",
+         "jyutping": "ngaam1 ngaam1",
+         "pinyin": "yān yān",
+         "english": "just now"
+      },
+      {
+         "chinese": "例如",
+         "jyutping": "lai6 jyu4",
+         "pinyin": "lì rú",
+         "english": "for example"
+      },
+      {
+         "chinese": "等等",
+         "jyutping": "dang2 dang2",
+         "pinyin": "děng děng",
+         "english": "etc, et cetera, and so on"
+      },
+      {
+         "chinese": "一係",
+         "jyutping": "jat1 hai6",
+         "pinyin": "yī xì",
+         "english": "either, or"
+      },
+      {
+         "chinese": "搵日<br>揾日",
+         "jyutping": "wan2 jat6",
+         "pinyin": "wěn rì",
+         "english": "some day, sometime<br>(lit. to find a day)"
+      },
+      {
+         "chinese": "除咗",
+         "jyutping": "ceoi4 zo2",
+         "pinyin": "chú zuǒ",
+         "english": "except, aside from, unless"
+      },
+      {
+         "chinese": "即使",
+         "jyutping": "zik1 si2",
+         "pinyin": "jí shǐ",
+         "english": "even if, even though"
+      },
+      {
+         "chinese": "雖然",
+         "jyutping": "seoi1 jin4",
+         "pinyin": "suī rán",
+         "english": "although, even though"
+      },
+      {
+         "chinese": "關於<br>関於",
+         "jyutping": "gwaan1 jyu1",
+         "pinyin": "guān yú",
+         "english": "about, pertaining to, regarding"
+      },
+      {
+         "chinese": "就係",
+         "jyutping": "zau6 hai6",
+         "pinyin": "jiù xì",
+         "english": "it is, exactly, even if"
+      },
+      {
+         "chinese": "直至",
+         "jyutping": "zik6 zi3",
+         "pinyin": "zhí zhì",
+         "english": "until, up to"
+      },
+      {
+         "chinese": "而且",
+         "jyutping": "ji4 ce2",
+         "pinyin": "ér qiě",
+         "english": "furthermore, in addition, moreover"
+      },
+      {
+         "chinese": "然後",
+         "jyutping": "jin4 hau6",
+         "pinyin": "rán hòu",
+         "english": "then, after that, afterwards, and"
+      },
+      {
+         "chinese": "或者",
+         "jyutping": "waak6 ze2",
+         "pinyin": "huò zhě",
+         "english": "or, possibly ,maybe"
+      },
+      {
+         "chinese": "只要",
+         "jyutping": "zi2 jiu3",
+         "pinyin": "zhǐ yào",
+         "english": "as long as, so long as"
+      },
+      {
+         "chinese": "以來",
+         "jyutping": "ji5 loi4",
+         "pinyin": "yǐ lái",
+         "english": "since (a previous event)"
+      },
+      {
+         "chinese": "作為",
+         "jyutping": "zok3 wai4",
+         "pinyin": "zuò wéi",
+         "english": "as (a role), serving as"
+      },
+      {
+         "chinese": "與否",
+         "jyutping": "jyu5 fau2",
+         "pinyin": "yǔ fǒu",
+         "english": "whether or not"
+      },
+      {
+         "chinese": "與否",
+         "jyutping": "jyu5 fau2",
+         "pinyin": "yǔ fǒu",
+         "english": "whether or not"
+      }
+   ]
+}

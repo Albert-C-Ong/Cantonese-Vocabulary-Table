@@ -316,14 +316,14 @@
           
           "subcategories": 
           [
+            {
+                "name": "Genres",
+                "chinese": "類型",
+                "incomplete": true
+             }, 
              {
                 "name": "Instruments",
                 "chinese": "樂器",
-                "incomplete": true
-             },
-             {
-                "name": "Genres",
-                "chinese": "類型",
                 "incomplete": true
              }
           ]
@@ -541,10 +541,6 @@
             "chinese": "普遍短語"
          },
          {
-            "name": "Questions",
-            "chinese": "問題"
-         },
-         {
             "name": "Onomatopoeia",
             "chinese": "象聲詞"
          },
@@ -552,6 +548,10 @@
             "name": "Profanity",
             "chinese": "髒話",
             "incomplete": true
+         },
+         {
+            "name": "Questions",
+            "chinese": "問題"
          },
          {
             "name": "Slang",

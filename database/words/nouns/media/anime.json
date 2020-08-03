@@ -1,2 +1,43 @@
-<words>
-</words>
+{
+  "name": "動漫",
+  "chinese": "Anime",
+  "words": 
+  [
+      {
+         "chinese": "動漫",
+         "jyutping": "dung6 maan6",
+         "pinyin": "dòng màn",
+         "english": "cartoon, anime"
+      },
+      {
+         "chinese": "卡通",
+         "jyutping": "kaa1 tung1",
+         "pinyin": "kǎ tōng",
+         "english": "cartoon (loanword)"
+      },
+      {
+         "chinese": "七龍珠Z",
+         "jyutping": "cat1 lung4 zyu1",
+         "pinyin": "Qī lóng zhū Z",
+         "english": "Dragon Ball Z<br>(lit. 7 dragon pearls Z)"
+      },
+      {
+         "chinese": "海賊王",
+         "jyutping": "hoi2 caak6 wong4",
+         "pinyin": "hǎi zéi wáng",
+         "english": "One Piece<br>(lit. pirate king)"
+      },
+      {
+         "chinese": "火影忍者",
+         "jyutping": "fo2 jing2 jan2 ze2",
+         "pinyin": "huǒ yǐng rěn zhě",
+         "english": "Naruto (series)<br>(lit. fire shadow ninja)"
+      },
+      {
+         "chinese": "我的英雄學院",
+         "jyutping": "ngo5 di1 jing1 hung4 hok6 jyun2",
+         "pinyin": "wǒ de yīng xióng xué yuàn",
+         "english": "My Hero Academia<br>(lit. My hero school)"
+      }
+   ]
+}

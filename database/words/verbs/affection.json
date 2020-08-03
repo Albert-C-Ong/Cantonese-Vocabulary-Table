@@ -1,2 +1,96 @@
-<words>
-</words>
+{
+   "name": "Affection", 
+   "chinese": "戀情", 
+   "words": [
+      {
+         "chinese": "愛",
+         "jyutping": "ngoi3",
+         "pinyin": "ài",
+         "english": "to love, to be fond of"
+      },
+      {
+         "chinese": "錫",
+         "jyutping": "sek3",
+         "pinyin": "xī",
+         "english": "to kiss"
+      },
+      {
+         "chinese": "偎",
+         "jyutping": "wui1",
+         "pinyin": "wēi",
+         "english": "to cuddle, to snuggle"
+      },
+      {
+         "chinese": "愛上",
+         "jyutping": "oi3 soeng5",
+         "pinyin": "ài shàng",
+         "english": "to fall in love with, to be in love with"
+      },
+      {
+         "chinese": "親親",
+         "jyutping": "can1 can1",
+         "pinyin": "qīn qīn",
+         "english": "to kiss"
+      },
+      {
+         "chinese": "調情",
+         "jyutping": "tiu4 cing4",
+         "pinyin": "tiáo qíng",
+         "english": "to flirt"
+      },
+      {
+         "chinese": "去街",
+         "jyutping": "heoi2 gaai1",
+         "pinyin": "qù jiē",
+         "english": "to date<br>(lit. to go out)"
+      },
+      {
+         "chinese": "托手",
+         "jyutping": "to1 sau2",
+         "pinyin": "tuō shǒu",
+         "english": "to hold hands"
+      },
+      {
+         "chinese": "牽手",
+         "jyutping": "hin1 sau2",
+         "pinyin": "qiān shǒu",
+         "english": "to hold hands, to join hands"
+      },
+      {
+         "chinese": "擁抱",
+         "jyutping": "jung2 pou5",
+         "pinyin": "yōng bào",
+         "english": "to embrace, to hug"
+      },
+      {
+         "chinese": "做愛",
+         "jyutping": "zou6 oi3",
+         "pinyin": "zuò ài",
+         "english": "to make love, to have sex"
+      },
+      {
+         "chinese": "結婚",
+         "jyutping": "git3 fan1",
+         "pinyin": "jié hūn",
+         "english": "to marry"
+      },
+      {
+         "chinese": "拍拖",
+         "jyutping": "paak3 to1",
+         "pinyin": "pāi tuō",
+         "english": "(colloquial) to date somebody, to go on a date"
+      },
+      {
+         "chinese": "談戀愛",
+         "jyutping": "taam4 lyun2 ngoi3",
+         "pinyin": "tán liàn ài",
+         "english": "to go out with, to be dating"
+      },
+      {
+         "chinese": "相親相愛",
+         "jyutping": "soeng1 can1 soeng1 oi3",
+         "pinyin": "xiāng qīn xiāng ài",
+         "english": "to love each other deeply"
+      }
+   ]
+}

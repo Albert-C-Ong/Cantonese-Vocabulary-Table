@@ -1,2 +1,19 @@
-<words>
-</words>
+{
+    "name": "Profanity",
+    "chinese": "髒話",
+    "words": 
+    [
+      {
+         "chinese": "鳥<br>屌",
+         "jyutping": "diu2",
+         "pinyin": "diǎo",
+         "english": "penis, to fuck"
+      },
+      {
+         "chinese": "髒話",
+         "jyutping": "zong1 waa2",
+         "pinyin": "zāng huà",
+         "english": "profanity, obscene language"
+      }
+   ]
+}

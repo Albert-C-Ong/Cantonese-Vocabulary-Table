@@ -1,2 +1,37 @@
-<words>
-</words>
+{
+  "name": "Instruments",
+  "chinese": "樂器",
+  "words": 
+  [
+      {
+         "chinese": "鼓",
+         "jyutping": "gu2",
+         "pinyin": "gǔ",
+         "english": "drums"
+      },
+      {
+         "chinese": "樂器",
+         "jyutping": "ngok6 hei3",
+         "pinyin": "yuè qì",
+         "english": "musical instrument"
+      },
+      {
+         "chinese": "鋼琴",
+         "jyutping": "gong3 kam4",
+         "pinyin": "gāng qín",
+         "english": "piano"
+      },
+      {
+         "chinese": "吉他",
+         "jyutping": "gat1 taa1",
+         "pinyin": "jí tā",
+         "english": "guitar (loanword)"
+      },
+      {
+         "chinese": "小提琴",
+         "jyutping": "siu2 tai4 kam4",
+         "pinyin": "xiǎo tí qín",
+         "english": "violin"
+      }
+   ]
+}

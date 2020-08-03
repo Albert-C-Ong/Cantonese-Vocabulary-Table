@@ -1,2 +1,73 @@
-<words>
-</words>
+{
+  "name": "Two-dimensional Shapes",
+  "chinese": "二維形狀",
+  "words": 
+  [
+      {
+         "chinese": "方形",
+         "jyutping": "fong1 jing4",
+         "pinyin": "fāng xíng",
+         "english": "square, square-shaped"
+      },
+      {
+         "chinese": "矩形",
+         "jyutping": "geoi2 jing4",
+         "pinyin": "jǔ xíng",
+         "english": "rectangle"
+      },
+      {
+         "chinese": "三角形<br>三邊形",
+         "jyutping": "saam1 gok3 jing4<br>saam1 bin1 jing4",
+         "pinyin": "sān jiǎo xíng<br>sān biān xíng",
+         "english": "triangle"
+      },
+      {
+         "chinese": "五角形<br>五邊形",
+         "jyutping": "ng5 gok4 jing4<br>ng5 bin1 jing4",
+         "pinyin": "wǔ jiǎo xíng<br>wǔ biān xíng",
+         "english": "pentagon"
+      },
+      {
+         "chinese": "六角形<br>六邊形",
+         "jyutping": "luk6 gok3 jing4<br>luk6 bin1 jing4",
+         "pinyin": "liù jiǎo xíng<br>liù biān xíng",
+         "english": "hexagon"
+      },
+      {
+         "chinese": "七角形<br>七邊形",
+         "jyutping": "cat1 gok3 jing4<br>cat1 bin1 jing4",
+         "pinyin": "qī jiǎo xíng<br>qī biān xíng",
+         "english": "heptagon"
+      },
+      {
+         "chinese": "八角形<br>八邊形",
+         "jyutping": "baat3 gok3 jing4<br>baat3 bin1 jing4",
+         "pinyin": "bā jiǎo xíng<br>bā biān xíng",
+         "english": "octagon"
+      },
+      {
+         "chinese": "九角形<br>九邊形",
+         "jyutping": "gau2 gok3 jing4<br>gau2 bin1 jing4",
+         "pinyin": "jiǔ biān xíng<br>jiǔ biān xíng",
+         "english": "nonagon"
+      },
+      {
+         "chinese": "十角形<br>十邊形",
+         "jyutping": "sap6 gok3 jing4<br>sap6 bin1 jing4",
+         "pinyin": "shí jiǎo xíng<br>shí biān xíng",
+         "english": "decagon"
+      },
+      {
+         "chinese": "多角形<br>多邊形",
+         "jyutping": "do1 gok3 jing4<br>do1 bin1 jing4",
+         "pinyin": "duō jiǎo xíng<br>duō biān xíng",
+         "english": "polygon"
+      },
+      {
+         "chinese": "二維形狀",
+         "jyutping": "ji6 wai4 jing4 zong6",
+         "pinyin": "èr wéi xíng zhuàng",
+         "english": "two-dimensional shape"
+      }
+   ]
+}

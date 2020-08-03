@@ -1,2 +1,25 @@
-<words>
-</words>
+{
+  "name": "Genres",
+  "chinese": "類型",
+  "words": 
+  [
+      {
+         "chinese": "類型",
+         "jyutping": "leoi6 jing4",
+         "pinyin": "lèi xíng",
+         "english": "type, category, genre"
+      },
+      {
+         "chinese": "古典",
+         "jyutping": "gu2 din2",
+         "pinyin": "gǔ diǎn",
+         "english": "classical"
+      },
+      {
+         "chinese": "爵士",
+         "jyutping": "zoek3 si6",
+         "pinyin": "jué shì",
+         "english": "jazz (loanword)"
+      }
+   ]
+}

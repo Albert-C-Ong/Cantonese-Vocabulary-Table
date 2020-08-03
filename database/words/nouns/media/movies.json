@@ -1,2 +1,97 @@
-<words>
-</words>
+{
+  "name": "Movies",
+  "chinese": "電影",
+  "words": 
+  [
+      {
+         "chinese": "片",
+         "jyutping": "pin3",
+         "pinyin": "piàn",
+         "english": "film, TV play"
+      },
+      {
+         "chinese": "電影",
+         "jyutping": "din6 jing2",
+         "pinyin": "diàn yǐng",
+         "english": "movie"
+      },
+      {
+         "chinese": "主演",
+         "jyutping": "zyu2 jin2",
+         "pinyin": "zhǔ yǎn",
+         "english": "lead actor, star<br>(lit. chief perform)"
+      },
+      {
+         "chinese": "類型",
+         "jyutping": "leoi3 jing4",
+         "pinyin": "lèi xíng",
+         "english": "genre, type, category"
+      },
+      {
+         "chinese": "動作",
+         "jyutping": "dung6 zok3",
+         "pinyin": "dòng zuò",
+         "english": "action"
+      },
+      {
+         "chinese": "喜劇",
+         "jyutping": "hei2 kek6",
+         "pinyin": "xǐ jù",
+         "english": "comedy"
+      },
+      {
+         "chinese": "傳記",
+         "jyutping": "zyun6 gei3",
+         "pinyin": "zhuàn jì",
+         "english": "biography"
+      },
+      {
+         "chinese": "恐怖",
+         "jyutping": "hung2 bou3",
+         "pinyin": "kǒng bù",
+         "english": "horror"
+      },
+      {
+         "chinese": "愛情",
+         "jyutping": "oi3 cing4",
+         "pinyin": "ài qíng",
+         "english": "romance"
+      },
+      {
+         "chinese": "科幻",
+         "jyutping": "fo1 waan6",
+         "pinyin": "kē huàn",
+         "english": "sci-fi"
+      },
+      {
+         "chinese": "戰爭",
+         "jyutping": "zin3 zang1",
+         "pinyin": "zhàn zhēng",
+         "english": "war"
+      },
+      {
+         "chinese": "戲劇",
+         "jyutping": "hei3 kek6",
+         "pinyin": "xì jù",
+         "english": "drama"
+      },
+      {
+         "chinese": "記錄片",
+         "jyutping": "gei3 luk6 pin3",
+         "pinyin": "jì lù piàn",
+         "english": "documentary"
+      },
+      {
+         "chinese": "預告片",
+         "jyutping": "jyu6 gou3 pin3",
+         "pinyin": "yù gào piàn",
+         "english": "movie trailer"
+      },
+      {
+         "chinese": "電影院",
+         "jyutping": "din6 jing2 jyun2",
+         "pinyin": "diàn yǐng yuàn",
+         "english": "movie theater, cinema"
+      }
+   ]
+}

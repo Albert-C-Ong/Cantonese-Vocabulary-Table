@@ -286,6 +286,60 @@
       "english": "chaotic, disorderly, unstable, volatile"
     },
     {
+       "chinese": "空",
+       "jyutping": "hung1",
+       "pinyin": "kōng",
+       "english": "empty, hollow, void"
+    },
+    {
+       "chinese": "迫",
+       "jyutping": "bik1",
+       "pinyin": "pò",
+       "english": "crowded, packed"
+    },
+    {
+       "chinese": "暗",
+       "jyutping": "am3",
+       "pinyin": "àn",
+       "english": "gloomy, hidden, secret, muddled"
+    },
+    {
+       "chinese": "國際",
+       "jyutping": "gwok3 zai3",
+       "pinyin": "guó jì",
+       "english": "international, global"
+    },
+    {
+       "chinese": "平安",
+       "jyutping": "ping4 on1",
+       "pinyin": "píng ān",
+       "english": "safe, peaceful, safe and sound"
+    },
+    {
+       "chinese": "對外",
+       "jyutping": "deoi3 ngoi6",
+       "pinyin": "duì wài",
+       "english": "foreign, external"
+    },
+    {
+       "chinese": "方便",
+       "jyutping": "fong1 bin6",
+       "pinyin": "fāng biàn",
+       "english": "convinient"
+    },
+    {
+       "chinese": "健康",
+       "jyutping": "gin6 hong1",
+       "pinyin": "jiàn kāng",
+       "english": "healthy"
+    },
+    {
+       "chinese": "繁瑣",
+       "jyutping": "faan4 so2",
+       "pinyin": "fán suǒ",
+       "english": "complicated, tedious, overloaded with details"
+    },
+    {
       "chinese": "出名",
       "jyutping": "ceot1 meng2",
       "pinyin": "chū míng",
@@ -686,6 +740,12 @@
       "jyutping": "mou4 gaa1 ho2 gwai1",
       "pinyin": "wú jiā kě guī",
       "english": "homeless"
+    }, 
+    {
+       "chinese": "身無分文",
+       "jyutping": "san1 mou4 fan1 man4",
+       "pinyin": "shēn wú fēn wén",
+       "english": "penniless (idiom)"
     }
   ]
 }

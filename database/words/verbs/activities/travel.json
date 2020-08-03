@@ -1,2 +1,133 @@
-<words>
-</words>
+{
+  "name": "Travel",
+  "chinese": "旅行",
+  "words": 
+  [
+      {
+         "chinese": "去",
+         "jyutping": "heoi3",
+         "pinyin": "qù",
+         "english": "to go"
+      },
+      {
+         "chinese": "返",
+         "jyutping": "faan1",
+         "pinyin": "fǎn",
+         "english": "to return (to), to come back"
+      },
+      {
+         "chinese": "嚟",
+         "jyutping": "lei4",
+         "pinyin": "lì",
+         "english": "to come"
+      },
+      {
+         "chinese": "行",
+         "jyutping": "hang4",
+         "pinyin": "háng",
+         "english": "to walk"
+      },
+      {
+         "chinese": "跑",
+         "jyutping": "paau2",
+         "pinyin": "pǎo",
+         "english": "to run"
+      },
+      {
+         "chinese": "住",
+         "jyutping": "zyu6",
+         "pinyin": "zhù",
+         "english": "to live, to reside, to stay"
+      },
+      {
+         "chinese": "飛",
+         "jyutping": "fei1",
+         "pinyin": "fēi",
+         "english": "to fly"
+      },
+      {
+         "chinese": "出去",
+         "jyutping": "ceot1 heoi3",
+         "pinyin": "chū qù",
+         "english": "to go out"
+      },
+      {
+         "chinese": "出街",
+         "jyutping": "ceot1 gaai1",
+         "pinyin": "chū jiē",
+         "english": "to go out"
+      },
+      {
+         "chinese": "出門",
+         "jyutping": "ceot1 mun4",
+         "pinyin": "chū mén",
+         "english": "to leave<br>(lit. to go out (the) door)"
+      },
+      {
+         "chinese": "出嚟",
+         "jyutping": "ceot1 lai2",
+         "pinyin": "chū lì",
+         "english": "to come out, to emerge"
+      },
+      {
+         "chinese": "返嚟",
+         "jyutping": "faan1 lei4",
+         "pinyin": "fǎn lì",
+         "english": "to return home"
+      },
+      {
+         "chinese": "旅行",
+         "jyutping": "leoi5 hang4",
+         "pinyin": "lǚ xíng",
+         "english": "to travel"
+      },
+      {
+         "chinese": "旅游",
+         "jyutping": "leoi5 jau4",
+         "pinyin": "lǚ yóu",
+         "english": "to travel, to tour"
+      },
+      {
+         "chinese": "揸車",
+         "jyutping": "zaa1 ce1",
+         "pinyin": "zhā chē",
+         "english": "to drive a car"
+      },
+      {
+         "chinese": "爬山",
+         "jyutping": "paa4 saan2",
+         "pinyin": "pá shān",
+         "english": "to hike, to climb (a mountain)"
+      },
+      {
+         "chinese": "泊車",
+         "jyutping": "paak3 ce1",
+         "pinyin": "bó chē",
+         "english": "to park (a vehicle)"
+      },
+      {
+         "chinese": "經過",
+         "jyutping": "ging1 gwo1",
+         "pinyin": "jīng guò",
+         "english": "to pass through, to go through"
+      },
+      {
+         "chinese": "坐飛機",
+         "jyutping": "zo6 fei1 gei1",
+         "pinyin": "zuò fēi jī",
+         "english": "to ride a plane"
+      },
+      {
+         "chinese": "踩單車",
+         "jyutping": "caai2 daan1 ce1",
+         "pinyin": "cǎi dān chē",
+         "english": "to bike"
+      },
+      {
+         "chinese": "周圍去",
+         "jyutping": "zai1 wai3 heoi3",
+         "pinyin": "zhōu wéi qù",
+         "english": "to travel to different places"
+      }
+   ]
+}

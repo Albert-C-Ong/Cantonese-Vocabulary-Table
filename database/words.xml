@@ -10671,7 +10671,7 @@
   <pinyin>fàng sōng</pinyin>
   <english>to relax</english>
 </word>
-  <word category='verbs' subcategory='activities' subcategory2='travel'>
+<word category='verbs' subcategory='activities' subcategory2='travel'>
   <chinese>去</chinese>
   <jyutping>heoi3</jyutping>
   <pinyin>qù</pinyin>
@@ -11319,7 +11319,7 @@
   <pinyin>tōu</pinyin>
   <english>to steal, to pilfer</english>
 </word>
-<word category='verbs' subcategory="crime">
+<word category='verbs' subcategory='crime'>
   <chinese>送中</chinese>
   <jyutping>sung3 zung1</jyutping>
   <pinyin>sòng zhōng</pinyin>
@@ -11721,7 +11721,7 @@
   <pinyin>huān yíng</pinyin>
   <english>to welcome</english>
 </word>
-<word category='verbs' subcategory="socialization">
+<word category='verbs' subcategory='socialization'>
   <chinese>自我介紹</chinese>
   <jyutping>zi6 ngo5 gaai3 siu6</jyutping>
   <pinyin>zì wǒ jiè shào</pinyin>

@@ -87,6 +87,30 @@
       "pinyin": "bìng",
       "english": "and, also, furthermore"
     },
+     {
+         "chinese": "一",
+         "jyutping": "jat1",
+         "pinyin": "yī",
+         "english": "once, as soon as, upon"
+      },
+      {
+         "chinese": "更",
+         "jyutping": "gang3",
+         "pinyin": "gèng",
+         "english": "more, further, even more"
+      },
+      {
+         "chinese": "不斷",
+         "jyutping": "bat1 dyun6",
+         "pinyin": "bù duàn",
+         "english": "continuously, constantly"
+      },
+      {
+         "chinese": "一時",
+         "jyutping": "jat1 si4",
+         "pinyin": "yī shí",
+         "english": "for a short while, temporarily, momentarily"
+      },
     {
       "chinese": "早排",
       "jyutping": "zou2 paai4",
@@ -519,6 +543,18 @@
       "pinyin": "shì shí shàng",
       "english": "actually, in reality, in fact"
     },
+    {
+       "chinese": "進一步",
+       "jyutping": "zeon3 jat1 bou6",
+       "pinyin": "jìn yī bù",
+       "english": "to go a step further (in doing something)"
+    },
+    {
+       "chinese": "另一方面",
+       "jyutping": "ling6 jat1 fong1 min6",
+       "pinyin": "lìng yī fāng miàn",
+       "english": "on the other hand"
+    }, 
     {
       "chinese": "按照字面",
       "jyutping": "on3 ziu3 zi6 min6",

@@ -1,2 +1,42 @@
-<words>
-</words>
+{
+   "name": "Arithmetic", 
+   "chinese": "算術", 
+   "words": [
+      {
+         "chinese": "加",
+         "jyutping": "gaa1",
+         "pinyin": "jiā",
+         "english": "to add"
+      },
+      {
+         "chinese": "減",
+         "jyutping": "gaam2",
+         "pinyin": "jiǎn",
+         "english": "to reduce, to subtract"
+      },
+      {
+         "chinese": "乘",
+         "jyutping": "sing4",
+         "pinyin": "chéng",
+         "english": "multiply"
+      },
+      {
+         "chinese": "除",
+         "jyutping": "ceoi4",
+         "pinyin": "chú",
+         "english": "divide"
+      },
+      {
+         "chinese": "計算",
+         "jyutping": "gai3 syun3",
+         "pinyin": "jì suàn",
+         "english": "to calculate"
+      },
+      {
+         "chinese": "追加",
+         "jyutping": "zeoi1 gaa1",
+         "pinyin": "zhuī jiā",
+         "english": "to add extra, to append"
+      }
+   ]
+}

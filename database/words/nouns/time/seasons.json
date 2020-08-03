@@ -1,2 +1,37 @@
-<words>
-</words>
+{
+  "name": "Seasons",
+  "chinese": "季",
+  "words": 
+  [
+      {
+         "chinese": "季",
+         "jyutping": "gwai3",
+         "pinyin": "jì",
+         "english": "season (of the year)"
+      },
+      {
+         "chinese": "冬天",
+         "jyutping": "dung1 tin1",
+         "pinyin": "dōng tiān",
+         "english": "winter"
+      },
+      {
+         "chinese": "春天",
+         "jyutping": "ceon1 tin1",
+         "pinyin": "chūn tiān",
+         "english": "spring (season)"
+      },
+      {
+         "chinese": "夏天",
+         "jyutping": "haa6 tin1",
+         "pinyin": "xià tiān",
+         "english": "summer"
+      },
+      {
+         "chinese": "秋天",
+         "jyutping": "cau1 tin1",
+         "pinyin": "qiū tiān",
+         "english": "autumn, fall (season)"
+      }
+   ]
+}

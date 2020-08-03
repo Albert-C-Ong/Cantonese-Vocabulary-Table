@@ -1,2 +1,90 @@
-<words>
-</words>
+{
+   "name": "罪行", 
+   "chinese": "Crime", 
+   "words": [
+      {
+         "chinese": "殺",
+         "jyutping": "saat3",
+         "pinyin": "shā",
+         "english": "to kill, to murder"
+      },
+      {
+         "chinese": "死",
+         "jyutping": "sei2",
+         "pinyin": "sǐ",
+         "english": "to die"
+      },
+      {
+         "chinese": "捅",
+         "jyutping": "tong2",
+         "pinyin": "tǒng",
+         "english": "to stab"
+      },
+      {
+         "chinese": "偷",
+         "jyutping": "tau1",
+         "pinyin": "tōu",
+         "english": "to steal, to pilfer"
+      },
+      {
+         "chinese": "送中",
+         "jyutping": "sung3 zung1",
+         "pinyin": "sòng zhōng",
+         "english": "to extradite to mainland China"
+      },
+      {
+         "chinese": "拘捕",
+         "jyutping": "keoi1 bou6",
+         "pinyin": "jū bǔ",
+         "english": "to arrest"
+      },
+      {
+         "chinese": "死亡",
+         "jyutping": "sei2 mong4",
+         "pinyin": "sǐ wáng",
+         "english": "to die, death"
+      },
+      {
+         "chinese": "綁架",
+         "jyutping": "bong2 gaa2",
+         "pinyin": "bǎng jià",
+         "english": "to kidnap"
+      },
+      {
+         "chinese": "高買",
+         "jyutping": "gou1 maai5",
+         "pinyin": "gāo mǎi",
+         "english": "to shoplift<br>(lit. tall buy)"
+      },
+      {
+         "chinese": "坐監",
+         "jyutping": "co5 gaam1",
+         "pinyin": "zuò jiàn",
+         "english": "to be in jail<br>(lit. sit jail)"
+      },
+      {
+         "chinese": "罰錢",
+         "jyutping": "fat6 cin2",
+         "pinyin": "fá qián",
+         "english": "to fine<br>(lit. penalty money)"
+      },
+      {
+         "chinese": "擅闖",
+         "jyutping": "sin6 cong2",
+         "pinyin": "shàn chuǎng",
+         "english": "to trespass"
+      },
+      {
+         "chinese": "強姦",
+         "jyutping": "goeng6 gaan1",
+         "pinyin": "qiáng jiān",
+         "english": "to rape"
+      },
+      {
+         "chinese": "自殺",
+         "jyutping": "zi6 saat3",
+         "pinyin": "zì shā",
+         "english": "to commit suicide"
+      }
+   ]
+}

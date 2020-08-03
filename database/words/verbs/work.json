@@ -1,2 +1,66 @@
-<words>
-</words>
+{
+   "name": "Work", 
+   "chinese": "工", 
+   "words": [
+      {
+         "chinese": "做工",
+         "jyutping": "zou6 gung1",
+         "pinyin": "zuò gōng",
+         "english": "to work"
+      },
+      {
+         "chinese": "返工",
+         "jyutping": "faan1 gung1",
+         "pinyin": "fǎn gōng",
+         "english": "to go to work"
+      },
+      {
+         "chinese": "放工",
+         "jyutping": "fong3 gung1",
+         "pinyin": "fàng gōng",
+         "english": "to get off work"
+      },
+      {
+         "chinese": "落班",
+         "jyutping": "lok6 baan1",
+         "pinyin": "luò bān",
+         "english": "to get off work"
+      },
+      {
+         "chinese": "退休",
+         "jyutping": "teoi3 jau1",
+         "pinyin": "tuì xiū",
+         "english": "to retire"
+      },
+      {
+         "chinese": "退役",
+         "jyutping": "teoi3 jik6",
+         "pinyin": "tuì yì",
+         "english": "to retire (from military service or a sport)"
+      },
+      {
+         "chinese": "賺錢",
+         "jyutping": "zaan6 cin2",
+         "pinyin": "zhuàn qián",
+         "english": "to make money, to earn money"
+      },
+      {
+         "chinese": "招聘",
+         "jyutping": "ziu1 ping3",
+         "pinyin": "zhāo pìn",
+         "english": "to invite applications for a job, to recruit"
+      },
+      {
+         "chinese": "兼職",
+         "jyutping": "gim1 zik1",
+         "pinyin": "jiān zhí",
+         "english": "to hold several jobs at once, to have a part-time job"
+      },
+      {
+         "chinese": "開會",
+         "jyutping": "hoi1 wui6",
+         "pinyin": "kāi huì",
+         "english": "to hold a meeting"
+      }
+   ]
+}

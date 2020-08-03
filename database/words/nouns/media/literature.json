@@ -1,2 +1,43 @@
-<words>
-</words>
+{
+  "name": "Literature",
+  "chinese": "文學",
+  "words": 
+  [
+      {
+         "chinese": "詩",
+         "jyutping": "si1",
+         "pinyin": "shī",
+         "english": "poem, poetry"
+      },
+      {
+         "chinese": "韻",
+         "jyutping": "wan5",
+         "pinyin": "yùn",
+         "english": "rhyme, beautiful sound"
+      },
+      {
+         "chinese": "文學",
+         "jyutping": "man4 hok6",
+         "pinyin": "wén xué",
+         "english": "literature"
+      },
+      {
+         "chinese": "雙關<br>雙関",
+         "jyutping": "soeng1 gwaan1",
+         "pinyin": "shuāng guān",
+         "english": "pun, play on words"
+      },
+      {
+         "chinese": "敵手",
+         "jyutping": "dik6 sau6",
+         "pinyin": "dí shǒu",
+         "english": "antagonist, opponent, adversary"
+      },
+      {
+         "chinese": "主人公",
+         "jyutping": "zyu2 jan4 gung1",
+         "pinyin": "zhǔ rén gōng",
+         "english": "protagonist, main character"
+      }
+   ]
+}

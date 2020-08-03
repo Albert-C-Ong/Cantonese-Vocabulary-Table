@@ -1,2 +1,1200 @@
-<words>
-</words>
+{
+   "name": "Verbs", 
+   "chinese": "動詞", 
+   "words": [
+      {
+         "chinese": "要",
+         "jyutping": "jiu3",
+         "pinyin": "yāo",
+         "english": "to want"
+      },
+      {
+         "chinese": "冇",
+         "jyutping": "mou5",
+         "pinyin": "mǎo",
+         "english": "not have, without"
+      },
+      {
+         "chinese": "試",
+         "jyutping": "si3",
+         "pinyin": "shì",
+         "english": "to try"
+      },
+      {
+         "chinese": "識",
+         "jyutping": "sik1",
+         "pinyin": "shí",
+         "english": "to know"
+      },
+      {
+         "chinese": "揀",
+         "jyutping": "gaan2",
+         "pinyin": "jiǎn",
+         "english": "to choose, to pick, to decide"
+      },
+      {
+         "chinese": "估",
+         "jyutping": "gu2",
+         "pinyin": "gū",
+         "english": "to guess"
+      },
+      {
+         "chinese": "開",
+         "jyutping": "hoi1",
+         "pinyin": "kāi",
+         "english": "to open, to turn on, to start"
+      },
+      {
+         "chinese": "會",
+         "jyutping": "wui5",
+         "pinyin": "huì",
+         "english": "can"
+      },
+      {
+         "chinese": "得",
+         "jyutping": "dak1",
+         "pinyin": "dé",
+         "english": "can, to be able to"
+      },
+      {
+         "chinese": "能",
+         "jyutping": "nang4",
+         "pinyin": "néng",
+         "english": "can, to be able to"
+      },
+      {
+         "chinese": "閂",
+         "jyutping": "saan1",
+         "pinyin": "shuān",
+         "english": "to close"
+      },
+      {
+         "chinese": "戴",
+         "jyutping": "daai3",
+         "pinyin": "dài",
+         "english": "to wear"
+      },
+      {
+         "chinese": "接",
+         "jyutping": "zip3",
+         "pinyin": "jiē",
+         "english": "to pick up"
+      },
+      {
+         "chinese": "著",
+         "jyutping": "zoek3",
+         "pinyin": "zhuó",
+         "english": "to put on, to wear"
+      },
+      {
+         "chinese": "畀",
+         "jyutping": "bei2",
+         "pinyin": "bì",
+         "english": "to give, to allow to let (spoken)"
+      },
+      {
+         "chinese": "讓",
+         "jyutping": "joeng6",
+         "pinyin": "ràng",
+         "english": "to allow, to let, to permit"
+      },
+      {
+         "chinese": "攞",
+         "jyutping": "lo2",
+         "pinyin": "luǒ",
+         "english": "to take, to get"
+      },
+      {
+         "chinese": "換",
+         "jyutping": "wun6",
+         "pinyin": "huàn",
+         "english": "to exchange, to change (clothes), to convert"
+      },
+      {
+         "chinese": "睇",
+         "jyutping": "tai2",
+         "pinyin": "dì",
+         "english": "to see, to watch, to look"
+      },
+      {
+         "chinese": "似",
+         "jyutping": "ci5",
+         "pinyin": "sì",
+         "english": "to seem like, to resemble"
+      },
+      {
+         "chinese": "歸",
+         "jyutping": "gwai1",
+         "pinyin": "guī",
+         "english": "to return, to belong to"
+      },
+      {
+         "chinese": "順",
+         "jyutping": "seon6",
+         "pinyin": "shùn",
+         "english": "to obey, to follow"
+      },
+      {
+         "chinese": "轉",
+         "jyutping": "zyun2",
+         "pinyin": "zhuǎn",
+         "english": "to change, to turn, to transfer"
+      },
+      {
+         "chinese": "揾",
+         "jyutping": "wan2",
+         "pinyin": "wěn",
+         "english": "to look for, to find"
+      },
+      {
+         "chinese": "找",
+         "jyutping": "zaau2",
+         "pinyin": "zhǎo",
+         "english": "to look for, to try to find, to seek"
+      },
+      {
+         "chinese": "種",
+         "jyutping": "zung2",
+         "pinyin": "zhǒng",
+         "english": "to grow, to plant"
+      },
+      {
+         "chinese": "戳",
+         "jyutping": "ceok3",
+         "pinyin": "chuō",
+         "english": "to poke"
+      },
+      {
+         "chinese": "噏",
+         "jyutping": "ap1, ngap1",
+         "pinyin": "xī",
+         "english": "to gossip, to babble"
+      },
+      {
+         "chinese": "関<br>關",
+         "jyutping": "gwaan1",
+         "pinyin": "guān",
+         "english": "to close, to shut, to turn off"
+      },
+      {
+         "chinese": "跟",
+         "jyutping": "gan1",
+         "pinyin": "gēn",
+         "english": "to follow"
+      },
+      {
+         "chinese": "呃",
+         "jyutping": "ngaak1",
+         "pinyin": "è",
+         "english": "to cheat, to deceive"
+      },
+      {
+         "chinese": "綁",
+         "jyutping": "bong2",
+         "pinyin": "bǎng",
+         "english": "to tie"
+      },
+      {
+         "chinese": "聞",
+         "jyutping": "man4",
+         "pinyin": "wén",
+         "english": "to smell"
+      },
+      {
+         "chinese": "建",
+         "jyutping": "gin3",
+         "pinyin": "jiàn",
+         "english": "to build, to construct"
+      },
+      {
+         "chinese": "望",
+         "jyutping": "mong6",
+         "pinyin": "wàng",
+         "english": "to look at, to gaze at, to stare at"
+      },
+      {
+         "chinese": "度",
+         "jyutping": "dok6",
+         "pinyin": "dù",
+         "english": "to measure"
+      },
+      {
+         "chinese": "醒",
+         "jyutping": "sing2",
+         "pinyin": "xǐng",
+         "english": "to wake up, to be awake"
+      },
+      {
+         "chinese": "放",
+         "jyutping": "fong3",
+         "pinyin": "fàng",
+         "english": "to put, to place, to free"
+      },
+      {
+         "chinese": "訂",
+         "jyutping": "deng6",
+         "pinyin": "dìng",
+         "english": "to make an agreement, to arrange"
+      },
+      {
+         "chinese": "約",
+         "jyutping": "joek3",
+         "pinyin": "yuē",
+         "english": "to make an appointment, to arrange"
+      },
+      {
+         "chinese": "鄭",
+         "jyutping": "zing2",
+         "pinyin": "zhěng",
+         "english": "to make, to create, to fix"
+      },
+      {
+         "chinese": "嚇",
+         "jyutping": "haak1",
+         "pinyin": "xià",
+         "english": "to frighten, to scare"
+      },
+      {
+         "chinese": "派",
+         "jyutping": "paai1",
+         "pinyin": "pài",
+         "english": "to send, to distribute"
+      },
+      {
+         "chinese": "襯",
+         "jyutping": "can3",
+         "pinyin": "chèn",
+         "english": "to match (of clothes)"
+      },
+      {
+         "chinese": "慣",
+         "jyutping": "gwaan3",
+         "pinyin": "guàn",
+         "english": "to be used to, to be accustomed to"
+      },
+      {
+         "chinese": "裝",
+         "jyutping": "zong1",
+         "pinyin": "zhuāng",
+         "english": "to hold, to store, to contain"
+      },
+      {
+         "chinese": "送",
+         "jyutping": "song3",
+         "pinyin": "sòng",
+         "english": "to send, to deliver"
+      },
+      {
+         "chinese": "搬",
+         "jyutping": "bun1",
+         "pinyin": "bān",
+         "english": "to move, to transport, to relocate"
+      },
+      {
+         "chinese": "留",
+         "jyutping": "lau4",
+         "pinyin": "liú",
+         "english": "to leave"
+      },
+      {
+         "chinese": "折",
+         "jyutping": "zit",
+         "pinyin": "zhē",
+         "english": "to break, to snap"
+      },
+      {
+         "chinese": "演",
+         "jyutping": "jin2",
+         "pinyin": "yǎn",
+         "english": "to perform, to put on, to exercise"
+      },
+      {
+         "chinese": "扔",
+         "jyutping": "jing4",
+         "pinyin": "rēng",
+         "english": "to throw, to throw away"
+      },
+      {
+         "chinese": "掟",
+         "jyutping": "deng3",
+         "pinyin": "dìng",
+         "english": "(Cantonese) to throw, to toss"
+      },
+      {
+         "chinese": "待",
+         "jyutping": "doi6",
+         "pinyin": "dāi",
+         "english": "to stay, to wait"
+      },
+      {
+         "chinese": "帶",
+         "jyutping": "daai3",
+         "pinyin": "dài",
+         "english": "to take, to bring along, to carry"
+      },
+      {
+         "chinese": "讚",
+         "jyutping": "zaan3",
+         "pinyin": "zàn",
+         "english": "to praise, to comment<br>(internet) to like"
+      },
+      {
+         "chinese": "合",
+         "jyutping": "gap3",
+         "pinyin": "hé",
+         "english": "to combine, to join, to unite"
+      },
+      {
+         "chinese": "追",
+         "jyutping": "zeoi1",
+         "pinyin": "zhuī",
+         "english": "to chase after, to pursue (someone)"
+      },
+      {
+         "chinese": "給",
+         "jyutping": "kap1",
+         "pinyin": "gěi",
+         "english": "to give, to grant"
+      },
+      {
+         "chinese": "改",
+         "jyutping": "goi2",
+         "pinyin": "gǎi",
+         "english": "to change, to alter, to modify"
+      },
+      {
+         "chinese": "禁",
+         "jyutping": "gam1",
+         "pinyin": "jīn",
+         "english": "to prohibit, to forbid, to restrict"
+      },
+      {
+         "chinese": "反",
+         "jyutping": "faan2",
+         "pinyin": "fǎn",
+         "english": "to oppose, to go against, to rebuke"
+      },
+      {
+         "chinese": "交",
+         "jyutping": "gaau1",
+         "pinyin": "jiāo",
+         "english": "to intersect, to cross, to hand over, to turn in , to submit"
+      },
+      {
+         "chinese": "協商",
+         "jyutping": "hip3 soeng1",
+         "pinyin": "xié shāng",
+         "english": "to negotiate, to consult, to talk things over, to discuss"
+      },
+      {
+         "chinese": "鍾意",
+         "jyutping": "zung1 ji3",
+         "pinyin": "zhōng yì",
+         "english": "to like (spoken)"
+      },
+      {
+         "chinese": "禁",
+         "jyutping": "gam1",
+         "pinyin": "jīn",
+         "english": "to prohibit, to forbid, to restrict"
+      },
+      {
+         "chinese": "反",
+         "jyutping": "faan2",
+         "pinyin": "fǎn",
+         "english": "to oppose, to go against, to rebuke"
+      },
+      {
+         "chinese": "交",
+         "jyutping": "gaau1",
+         "pinyin": "jiāo",
+         "english": "to intersect, to cross, to hand over, to turn in , to submit"
+      },
+      {
+         "chinese": "協商",
+         "jyutping": "hip3 soeng1",
+         "pinyin": "xié shāng",
+         "english": "to negotiate, to consult, to talk things over, to discuss"
+      },
+      {
+         "chinese": "可以",
+         "jyutping": "ho2 ji5",
+         "pinyin": "kě yǐ",
+         "english": "can, to be able"
+      },
+      {
+         "chinese": "知道",
+         "jyutping": "zi1 dou3",
+         "pinyin": "zhī dào",
+         "english": "to know"
+      },
+      {
+         "chinese": "需要",
+         "jyutping": "seoi1 jiu3",
+         "pinyin": "xū yào",
+         "english": "to need, to require"
+      },
+      {
+         "chinese": "成為",
+         "jyutping": "sing4 wai4",
+         "pinyin": "chéng wé",
+         "english": "to become, to turn into"
+      },
+      {
+         "chinese": "報名",
+         "jyutping": "bou3 meng4",
+         "pinyin": "bào míng",
+         "english": "to register<br>(lit. report name)"
+      },
+      {
+         "chinese": "證明",
+         "jyutping": "zing3 ming4",
+         "pinyin": "zhèng míng",
+         "english": "to prove"
+      },
+      {
+         "chinese": "擔心",
+         "jyutping": "daam1 sam1",
+         "pinyin": "dān xīn",
+         "english": "to worry"
+      },
+      {
+         "chinese": "搞掂",
+         "jyutping": "gaau2 dim6",
+         "pinyin": "gǎo diān",
+         "english": "to complete (a task), to finish"
+      },
+      {
+         "chinese": "開始",
+         "jyutping": "hoi1 ci2",
+         "pinyin": "kāi shǐ",
+         "english": "to start"
+      },
+      {
+         "chinese": "做完",
+         "jyutping": "zou6 jyun4",
+         "pinyin": "zuò wán",
+         "english": "to finish"
+      },
+      {
+         "chinese": "結束",
+         "jyutping": "git3 cuk1",
+         "pinyin": "jié shù",
+         "english": "to end, to conclude, to terminate, to finish"
+      },
+      {
+         "chinese": "幫手",
+         "jyutping": "bong1 sau2",
+         "pinyin": "bāng shǒu",
+         "english": "to help"
+      },
+      {
+         "chinese": "應該",
+         "jyutping": "jing1 goi1",
+         "pinyin": "yīng gāi",
+         "english": "should"
+      },
+      {
+         "chinese": "出版",
+         "jyutping": "ceot1 baan2",
+         "pinyin": "chū bǎn",
+         "english": "to publish"
+      },
+      {
+         "chinese": "表現",
+         "jyutping": "biu2 jin6",
+         "pinyin": "biǎo xiàn",
+         "english": "to show, to display, to demonstrate"
+      },
+      {
+         "chinese": "認為",
+         "jyutping": "jing6 wai4",
+         "pinyin": "rèn wéi",
+         "english": "to believe, to think"
+      },
+      {
+         "chinese": "叫做",
+         "jyutping": "giu3 zou6",
+         "pinyin": "jiào zuò",
+         "english": "to be called, to be known as"
+      },
+      {
+         "chinese": "改進",
+         "jyutping": "goi2 zeon3",
+         "pinyin": "gǎi jìn",
+         "english": "to improve"
+      },
+      {
+         "chinese": "取悅",
+         "jyutping": "ceoi2 jyu6",
+         "pinyin": "qǔ yuè",
+         "english": "to impress, to try to please"
+      },
+      {
+         "chinese": "関注<br>關注",
+         "jyutping": "gwaan1 zyu3",
+         "pinyin": "guān zhù",
+         "english": "to pay attention, to follow"
+      },
+      {
+         "chinese": "主意",
+         "jyutping": "zyu3 ji3",
+         "pinyin": "zhù yì",
+         "english": "to pay attention"
+      },
+      {
+         "chinese": "上網",
+         "jyutping": "soeng5 mong5",
+         "pinyin": "shàng wǎng",
+         "english": "to go online, to connect to the Internet"
+      },
+      {
+         "chinese": "影相",
+         "jyutping": "jing2 soeng2",
+         "pinyin": "yǐng xiàng",
+         "english": "to take a photo"
+      },
+      {
+         "chinese": "延遲",
+         "jyutping": "jin4 ci4",
+         "pinyin": "yán chí",
+         "english": "to delay, to postpone"
+      },
+      {
+         "chinese": "分享",
+         "jyutping": "fan1 hoeng2",
+         "pinyin": "fēn xiǎng",
+         "english": "to share"
+      },
+      {
+         "chinese": "食齋",
+         "jyutping": "sik6 zaai1",
+         "pinyin": "shí zhāi",
+         "english": "to be vegetarian"
+      },
+      {
+         "chinese": "享受",
+         "jyutping": "hoeng2 sau6",
+         "pinyin": "xiǎng shòu",
+         "english": "to enjoy"
+      },
+      {
+         "chinese": "阻住",
+         "jyutping": "zo2 zyu6",
+         "pinyin": "zǔ zhù",
+         "english": "to block, to be in the way<br>(to bother)"
+      },
+      {
+         "chinese": "keep住",
+         "jyutping": "keep zyu6",
+         "pinyin": "keep zhù",
+         "english": "to keep<br>(exclusively Hong Kong)"
+      },
+      {
+         "chinese": "加載",
+         "jyutping": "gaa1 zoi3",
+         "pinyin": "jiā zài",
+         "english": "(computing) to load"
+      },
+      {
+         "chinese": "凖時",
+         "jyutping": "zeon2 si4",
+         "pinyin": "zhǔn shí",
+         "english": "to be on time"
+      },
+      {
+         "chinese": "遲到",
+         "jyutping": "ci4 dou3",
+         "pinyin": "chí dào",
+         "english": "to be late"
+      },
+      {
+         "chinese": "鍔尿",
+         "jyutping": "o1 niu6",
+         "pinyin": "ē niào",
+         "english": "to pee"
+      },
+      {
+         "chinese": "轉動",
+         "jyutping": "zyun2 dung6",
+         "pinyin": "zhuǎn dòng",
+         "english": "to spin, to rotate, to revolve"
+      },
+      {
+         "chinese": "重複",
+         "jyutping": "cung4 fuk1",
+         "pinyin": "chóng fù",
+         "english": "to repeat, to duplicate"
+      },
+      {
+         "chinese": "比較",
+         "jyutping": "bei2 gaau3",
+         "pinyin": "bǐ jiào",
+         "english": "to compare, to contrast"
+      },
+      {
+         "chinese": "望住",
+         "jyutping": "mong6 zyu6",
+         "pinyin": "wàng zhù",
+         "english": "to stare at"
+      },
+      {
+         "chinese": "在生",
+         "jyutping": "zoi6 saang1",
+         "pinyin": "zài shēng",
+         "english": "to be alive"
+      },
+      {
+         "chinese": "活著",
+         "jyutping": "wut6 zoek6",
+         "pinyin": "huó zhe",
+         "english": "to be alive"
+      },
+      {
+         "chinese": "千祈",
+         "jyutping": "cin1 kei4",
+         "pinyin": "qiān qí",
+         "english": "to have to, must"
+      },
+      {
+         "chinese": "變做",
+         "jyutping": "bin3 zou6",
+         "pinyin": "biàn zuò",
+         "english": "to turn into, to become"
+      },
+      {
+         "chinese": "猴急",
+         "jyutping": "hou4 gap1",
+         "pinyin": "hóu jí",
+         "english": "to be in a rush<br>(lit. monkey quick)"
+      },
+      {
+         "chinese": "回收<br>囘收",
+         "jyutping": "wui4 sau1",
+         "pinyin": "huí shōu",
+         "english": "to recycle, to reuse"
+      },
+      {
+         "chinese": "過造",
+         "jyutping": "gwo3 zou6",
+         "pinyin": "guò zào",
+         "english": "to pass, to be past the season of"
+      },
+      {
+         "chinese": "提高",
+         "jyutping": "tai4 gou1",
+         "pinyin": "tí gāo",
+         "english": "to raise, to increase, to improve"
+      },
+      {
+         "chinese": "放低",
+         "jyutping": "fong3 dai1",
+         "pinyin": "fàng dī",
+         "english": "to lower, to let down"
+      },
+      {
+         "chinese": "好似",
+         "jyutping": "hou2 ci5",
+         "pinyin": "hǎo sì",
+         "english": "to seem, to be like"
+      },
+      {
+         "chinese": "決定",
+         "jyutping": "kyut ding6",
+         "pinyin": "jué dìng",
+         "english": "to decide (to do something)"
+      },
+      {
+         "chinese": "睇戯",
+         "jyutping": "tai2 hei3",
+         "pinyin": "dì xì",
+         "english": "to watch movies"
+      },
+      {
+         "chinese": "開始",
+         "jyutping": "hoi1 ci2",
+         "pinyin": "kāi shǐ",
+         "english": "to begin, to start"
+      },
+      {
+         "chinese": "集中",
+         "jyutping": "zaap6 zung1",
+         "pinyin": "jí zhōng",
+         "english": "to concentrate, to focus"
+      },
+      {
+         "chinese": "出生",
+         "jyutping": "coet1 saang1",
+         "pinyin": "chū shēng",
+         "english": "to be born<br>(written only)"
+      },
+      {
+         "chinese": "出細",
+         "jyutping": "coet1 sai3",
+         "pinyin": "chū xì",
+         "english": "to be born<br>(spoken only)"
+      },
+      {
+         "chinese": "介紹",
+         "jyutping": "gaai3 siu6",
+         "pinyin": "jiè shào",
+         "english": "to introduce, to recommend, to explain"
+      },
+      {
+         "chinese": "繼續",
+         "jyutping": "gai3 zuk6",
+         "pinyin": "jì xù",
+         "english": "to continue, to persist"
+      },
+      {
+         "chinese": "落雨",
+         "jyutping": "lok6 jyu5",
+         "pinyin": "luò yù",
+         "english": "to rain"
+      },
+      {
+         "chinese": "合乎",
+         "jyutping": "hap6 fu4",
+         "pinyin": "hé hū",
+         "english": "to conform to, to accord with"
+      },
+      {
+         "chinese": "吸煙",
+         "jyutping": "kap1 jin1",
+         "pinyin": "xī yān",
+         "english": "to smoke<br>(lit. inhale smoke)"
+      },
+      {
+         "chinese": "改變",
+         "jyutping": "goi2 bin3",
+         "pinyin": "gǎi biàn",
+         "english": "to change, to alter, to transform"
+      },
+      {
+         "chinese": "碰上",
+         "jyutping": "pung3 soeng5",
+         "pinyin": "pèng shàng",
+         "english": "to run into, to come upon, to meet"
+      },
+      {
+         "chinese": "申請",
+         "jyutping": "san1 cing2",
+         "pinyin": "shēn qǐng",
+         "english": "to apply (for something)"
+      },
+      {
+         "chinese": "選擇",
+         "jyutping": "syun2 zaak6",
+         "pinyin": "xuǎn zé",
+         "english": "to choose, to select, to pick"
+      },
+      {
+         "chinese": "上升",
+         "jyutping": "soeng6 sing1",
+         "pinyin": "shàng shēng",
+         "english": "to rise, to go up, to ascend"
+      },
+      {
+         "chinese": "食晏",
+         "jyutping": "sik6 aan3",
+         "pinyin": "shí yàn",
+         "english": "to have lunch"
+      },
+      {
+         "chinese": "努力",
+         "jyutping": "nou5 lik6",
+         "pinyin": "nǔ lì",
+         "english": "to make an effort, to endeavor, to work hard"
+      },
+      {
+         "chinese": "打算",
+         "jyutping": "daa1 syun3",
+         "pinyin": "dǎ suàn",
+         "english": "to plan, to intend"
+      },
+      {
+         "chinese": "檢查",
+         "jyutping": "gim2 caa4",
+         "pinyin": "jiǎn chá",
+         "english": "to check, to examine, to inspect"
+      },
+      {
+         "chinese": "出現",
+         "jyutping": "coet1 jin6",
+         "pinyin": "chū xiàn",
+         "english": "to appear, to emerge, to show up"
+      },
+      {
+         "chinese": "消失",
+         "jyutping": "siu1 sat1",
+         "pinyin": "xiāo shī",
+         "english": "to disappear, to fade away"
+      },
+      {
+         "chinese": "發起",
+         "jyutping": "faat3 hei2",
+         "pinyin": "fā qǐ",
+         "english": "to initiate, to start, to launch"
+      },
+      {
+         "chinese": "進攻",
+         "jyutping": "zoen3 gung1",
+         "pinyin": "jìn gōng",
+         "english": "to attack, to assault"
+      },
+      {
+         "chinese": "擺布<br>擺佈",
+         "jyutping": "baai2 bou3",
+         "pinyin": "bǎi bù",
+         "english": "to arrange, to order about, to manipulate"
+      },
+      {
+         "chinese": "成功",
+         "jyutping": "sing4 gung1",
+         "pinyin": "chéng gōng",
+         "english": "to succeed, to achieve success"
+      },
+      {
+         "chinese": "發達",
+         "jyutping": "faat3 daat6",
+         "pinyin": "fā dá",
+         "english": "to develop"
+      },
+      {
+         "chinese": "假裝",
+         "jyutping": "gaa2 zong1",
+         "pinyin": "jiǎ zhuāng",
+         "english": "to feign, to fake, to pretend"
+      },
+      {
+         "chinese": "遊行",
+         "jyutping": "jau4 haang4",
+         "pinyin": "yóu xíng",
+         "english": "to parade, to march, to demonstrate"
+      },
+      {
+         "chinese": "修訂",
+         "jyutping": "sau1 ding3",
+         "pinyin": "xiū dìng",
+         "english": "to revise, to emend"
+      },
+      {
+         "chinese": "奪回<br>奪囘",
+         "jyutping": "dyut6 wui4",
+         "pinyin": "duó huí",
+         "english": "to recapture, to take back, to retake"
+      },
+      {
+         "chinese": "通過",
+         "jyutping": "tung1 gwo3",
+         "pinyin": "tōng guò",
+         "english": "to pass by, to pass through<br>to pass (a test, a measure or bill)"
+      },
+      {
+         "chinese": "移交",
+         "jyutping": "ji4 gaau1",
+         "pinyin": "yí jiāo",
+         "english": "(of people, things, tasks, etc.) to hand over, to transfer"
+      },
+      {
+         "chinese": "接受",
+         "jyutping": "zip3 sau6",
+         "pinyin": "jiē shòu",
+         "english": "to accept, to recieve"
+      },
+      {
+         "chinese": "主辦",
+         "jyutping": "zyu2 baan6",
+         "pinyin": "zhǔ bàn",
+         "english": "to organize, to host (an event)"
+      },
+      {
+         "chinese": "參與",
+         "jyutping": "caam1 jyu4",
+         "pinyin": "cān yù",
+         "english": "to participate, to take part in, to join in"
+      },
+      {
+         "chinese": "壓迫",
+         "jyutping": "aat3 bik1",
+         "pinyin": "yā pò",
+         "english": "to oppress, to tyrannise, to repress"
+      },
+      {
+         "chinese": "統治",
+         "jyutping": "tung2 zi6",
+         "pinyin": "tǒng zhì",
+         "english": "to rule, to govern, to control"
+      },
+      {
+         "chinese": "長大",
+         "jyutping": "zoeng2 daai6",
+         "pinyin": "zhǎng dà",
+         "english": "to grow up"
+      },
+      {
+         "chinese": "孕育",
+         "jyutping": "jan6 juk6",
+         "pinyin": "yùn yù",
+         "english": "to be pregnant, to produce offspring"
+      },
+      {
+         "chinese": "訂房",
+         "jyutping": "deng6 fong4",
+         "pinyin": "dìng fáng",
+         "english": "to reserve a room"
+      },
+      {
+         "chinese": "訂位",
+         "jyutping": "deng6 wai6",
+         "pinyin": "dìng wèi",
+         "english": "to reserve a seat, to book a table"
+      },
+      {
+         "chinese": "搬屋",
+         "jyutping": "bun1 uk1",
+         "pinyin": "bān wū",
+         "english": "to move away<br>(lit. to move house)"
+      },
+      {
+         "chinese": "排隊",
+         "jyutping": "paai4 deoi6",
+         "pinyin": "pái duì",
+         "english": "to line up, to queue up"
+      },
+      {
+         "chinese": "改造",
+         "jyutping": "goi2 zou6",
+         "pinyin": "gǎi zào",
+         "english": "to transform, to remodel"
+      },
+      {
+         "chinese": "更改",
+         "jyutping": "gang1 goi2",
+         "pinyin": "gēng gǎi",
+         "english": "to change, to alter"
+      },
+      {
+         "chinese": "提前",
+         "jyutping": "tai4 cin4",
+         "pinyin": "tí qián",
+         "english": "to shift to an earlier date"
+      },
+      {
+         "chinese": "提出",
+         "jyutping": "tai4 coet1",
+         "pinyin": "tí chū",
+         "english": "to raise, to bring up, to suggest"
+      },
+      {
+         "chinese": "要求",
+         "jyutping": "jiu1 kau4",
+         "pinyin": "yāo qiú",
+         "english": "to ask, to request, to require, to demand"
+      },
+      {
+         "chinese": "修理",
+         "jyutping": "sau1 lei5",
+         "pinyin": "xiū lǐ",
+         "english": "to repair, to fix to mend"
+      },
+      {
+         "chinese": "接觸",
+         "jyutping": "zip3 zuk1",
+         "pinyin": "jiē chù",
+         "english": "to touch, to contact"
+      },
+      {
+         "chinese": "畀返",
+         "jyutping": "bei2 faan1",
+         "pinyin": "bì fǎn",
+         "english": "to give back, to return something"
+      },
+      {
+         "chinese": "有興趣",
+         "jyutping": "jau5 hing3 ceoi3",
+         "pinyin": "yǒu xìng qù",
+         "english": "to be interested"
+      },
+      {
+         "chinese": "大過造",
+         "jyutping": "daai6 gwo1 zou6",
+         "pinyin": "dà guò zào",
+         "english": "to get older"
+      },
+      {
+         "chinese": "拉大便",
+         "jyutping": "laai1 daai6 bin6",
+         "pinyin": "là dà biàn",
+         "english": "to poop"
+      },
+      {
+         "chinese": "等一下",
+         "jyutping": "dang2 jat1 haa6",
+         "pinyin": "děng yī xià",
+         "english": "to wait a moment"
+      }, 
+       {
+         "chinese": "收",
+         "jyutping": "sai1",
+         "pinyin": "shōu",
+         "english": "to recieve, to accept, to collect",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "連",
+         "jyutping": "lin4",
+         "pinyin": "lián",
+         "english": "to connect, to link, to join",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "以為",
+         "jyutping": "ji5 wai4",
+         "pinyin": "yǐ wéi",
+         "english": "to mistakenly believe, to be under the impression, to have thought that",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "留意",
+         "jyutping": "lau4 ji3",
+         "pinyin": "liú yì",
+         "english": "to look for, to keep and eye out for, to pay attention to",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "昭呼",
+         "jyutping": "ziu1 fu1",
+         "pinyin": "zhāo hū",
+         "english": "to look after, to take care of, to greet",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "希望",
+         "jyutping": "hei1 mong6",
+         "pinyin": "xī wàng",
+         "english": "to hope, to wish",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "打擾",
+         "jyutping": "dǎ rǎo",
+         "pinyin": "daa2 jiu2",
+         "english": "to disturb, to trouble, to bother",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "彈劾",
+         "jyutping": "taan4 hat6",
+         "pinyin": "tán hé",
+         "english": "to impeach, to indict, to accuse of misconduct",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "影響",
+         "jyutping": "jing2 hoeng2",
+         "pinyin": "yǐng xiǎng",
+         "english": "to influence, to affect, to disturb",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "超越",
+         "jyutping": "ciu1 jyut6",
+         "pinyin": "chāo yuè",
+         "english": "to exceed, to surpass, to transcend",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "繼承",
+         "jyutping": "gai3 sing4",
+         "pinyin": "jì chéng",
+         "english": "to inherit, to succeed, to carry on (e.g. a tradition)",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "醞釀",
+         "jyutping": "wan5 jeong6",
+         "pinyin": "yùn niàng",
+         "english": "to ferment, to brew",
+         "_category": "verbs",
+         "_subcategory": "cooking"
+      },
+      {
+         "chinese": "面對",
+         "jyutping": "min6 deoi3",
+         "pinyin": "miàn duì",
+         "english": "to face, to confront",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "阻滯",
+         "jyutping": "zo2 zai6",
+         "pinyin": "zǔ zhì",
+         "english": "to block, to obstruct, to clog up",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "支持",
+         "jyutping": "zi1 ci4",
+         "pinyin": "zhī chí",
+         "english": "to back, to support, to be in favor of",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "爭取",
+         "jyutping": "zang1 ceoi2",
+         "pinyin": "zhēng qǔ",
+         "english": "to fight for, to strive for, to win over",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "抗爭",
+         "jyutping": "kong3 zang1",
+         "pinyin": "kàng zhēng",
+         "english": "to make a stand against, to resist",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "建議",
+         "jyutping": "gin3 ji5",
+         "pinyin": "jiàn yì",
+         "english": "to suggest, to recommend, to propose, to advise",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "餓死",
+         "jyutping": "ngo6 sei2",
+         "pinyin": "è sǐ",
+         "english": "to starve to death, to be extremely hungry",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "餓死",
+         "jyutping": "ngo6 sei2",
+         "pinyin": "è sǐ",
+         "english": "to starve to death, to be extremely hungry",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "保衛",
+         "jyutping": "bou2 wai6",
+         "pinyin": "bǎo wèi",
+         "english": "to defend, to safeguard",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "建立",
+         "jyutping": "gin3 laap6",
+         "pinyin": "jiàn lì",
+         "english": "to found, to set up, to establish",
+         "_category": "verbs"
+      },
+      {
+         "chinese": "分解",
+         "jyutping": "fan1 gaai2",
+         "pinyin": "fēn jiě",
+         "english": "to resolve, to decompose, to break down",
+         "_category": "verbs"
+      }
+   ]
+}
