@@ -5,7 +5,7 @@
  * Written by Albert Ong
  */ 
 
-include "word_class.php"; 
+include "word_class2.php"; 
 
 function count_categories($categories, $count = 0) {
   

@@ -6,806 +6,697 @@
          "chinese": "種",
          "jyutping": "zung2",
          "pinyin": "zhǒng",
-         "english": "type, kind",
-         "_category": "nouns"
+         "english": "type, kind"
       },
       {
          "chinese": "座",
          "jyutping": "zo6",
          "pinyin": "zuò",
-         "english": "seat, stand, pedestal",
-         "_category": "nouns"
+         "english": "seat, stand, pedestal"
       },
       {
          "chinese": "宙",
          "jyutping": "zau6",
          "pinyin": "zhòu",
-         "english": "eternity",
-         "_category": "nouns"
+         "english": "eternity"
       },
       {
          "chinese": "料",
          "jyutping": "liu2",
          "pinyin": "liào",
-         "english": "stuff, material",
-         "_category": "nouns"
+         "english": "stuff, material"
       },
       {
          "chinese": "論",
          "jyutping": "leon4",
          "pinyin": "lún",
-         "english": "wheel, disk",
-         "_category": "nouns"
+         "english": "wheel, disk"
       },
       {
          "chinese": "疉",
          "jyutping": "daap6",
          "pinyin": "dié",
-         "english": "pile, later",
-         "_category": "nouns"
+         "english": "pile, later"
       },
       {
          "chinese": "嘢",
          "jyutping": "je5",
          "pinyin": "yě",
-         "english": "thing, matter, stuff",
-         "_category": "nouns"
+         "english": "thing, matter, stuff"
       },
       {
          "chinese": "半",
          "jyutping": "bun3",
          "pinyin": "bàn",
-         "english": "half, semi",
-         "_category": "nouns"
+         "english": "half, semi"
       },
       {
          "chinese": "型",
          "jyutping": "jing4",
          "pinyin": "xíng",
-         "english": "type, style, model",
-         "_category": "nouns"
+         "english": "type, style, model"
       },
       {
          "chinese": "款",
          "jyutping": "fun2",
          "pinyin": "kuǎn",
-         "english": "model, type, appearance",
-         "_category": "nouns"
+         "english": "model, type, appearance"
       },
       {
          "chinese": "部",
          "jyutping": "bou6",
          "pinyin": "bù",
-         "english": "section, part, department",
-         "_category": "nouns"
+         "english": "section, part, department"
       },
       {
          "chinese": "位",
          "jyutping": "wai2",
          "pinyin": "wèi",
-         "english": "position, location, place",
-         "_category": "nouns"
+         "english": "position, location, place"
       },
       {
          "chinese": "另",
          "jyutping": "ling6",
          "pinyin": "lìng",
-         "english": "another, other, separate",
-         "_category": "nouns"
+         "english": "another, other, separate"
       },
       {
          "chinese": "樣",
          "jyutping": "joeng6",
          "pinyin": "yàng",
-         "english": "appearance, form, shape",
-         "_category": "nouns"
+         "english": "appearance, form, shape"
       },
       {
          "chinese": "剩",
          "jyutping": "zing6",
          "pinyin": "shèng",
-         "english": "extra, leftover, remainder",
-         "_category": "nouns"
+         "english": "extra, leftover, remainder"
       },
       {
          "chinese": "釘",
          "jyutping": "ding1",
          "pinyin": "dīng",
-         "english": "nail",
-         "_category": "nouns"
+         "english": "nail"
       },
       {
          "chinese": "步",
          "jyutping": "bou6",
          "pinyin": "bù",
-         "english": "step, pace",
-         "_category": "nouns"
+         "english": "step, pace"
       },
       {
          "chinese": "態",
          "jyutping": "taai3",
          "pinyin": "tài",
-         "english": "condition, state, form, shape",
-         "_category": "nouns"
+         "english": "condition, state, form, shape"
       },
       {
          "chinese": "版本",
          "jyutping": "baan2 bun2",
          "pinyin": "bǎn běn",
-         "english": "version, edition",
-         "_category": "nouns"
+         "english": "version, edition"
       },
       {
          "chinese": "內容",
          "jyutping": "noi6 jung4",
          "pinyin": "nèi róng",
-         "english": "content, subtance, details",
-         "_category": "nouns"
+         "english": "content, subtance, details"
       },
       {
          "chinese": "假期",
          "jyutping": "gaa2 kei4",
          "pinyin": "jià qī",
-         "english": "vacation",
-         "_category": "nouns"
+         "english": "vacation"
       },
       {
          "chinese": "禮物",
          "jyutping": "lai5 mat6",
          "pinyin": "lǐ wù",
-         "english": "gift, present",
-         "_category": "nouns"
+         "english": "gift, present"
       },
       {
          "chinese": "世界",
          "jyutping": "sai3 gaai6",
          "pinyin": "shì jiè",
-         "english": "world",
-         "_category": "nouns"
+         "english": "world"
       },
       {
          "chinese": "字典",
          "jyutping": "zi6 din2",
          "pinyin": "zì diǎn",
-         "english": "dictionary",
-         "_category": "nouns"
+         "english": "dictionary"
       },
       {
          "chinese": "聲音",
          "jyutping": "sing1 jam1",
          "pinyin": "shēng yīn",
-         "english": "voice, sound",
-         "_category": "nouns"
+         "english": "voice, sound"
       },
       {
          "chinese": "笑容",
          "jyutping": "siu3 jung4",
          "pinyin": "xiào róng",
-         "english": "smile",
-         "_category": "nouns"
+         "english": "smile"
       },
       {
          "chinese": "冇嘢",
          "jyutping": "mou5 je5",
          "pinyin": "mǎo yě",
-         "english": "nothing",
-         "_category": "nouns"
+         "english": "nothing"
       },
       {
          "chinese": "全部",
          "jyutping": "cyun4 bou6",
          "pinyin": "quán bù",
-         "english": "everything, complete",
-         "_category": "nouns"
+         "english": "everything, complete"
       },
       {
          "chinese": "乜都",
          "jyutping": "mat1 dou1",
          "pinyin": "miē dōu",
-         "english": "everything, anything",
-         "_category": "nouns"
+         "english": "everything, anything"
       },
       {
          "chinese": "謙遜",
          "jyutping": "him1 seon3",
          "pinyin": "qiān xùn",
-         "english": "modesty",
-         "_category": "nouns"
+         "english": "modesty"
       },
       {
          "chinese": "可憐",
          "jyutping": "ho2 lin4",
          "pinyin": "kě lián",
-         "english": "pitiful, sympathy",
-         "_category": "nouns"
+         "english": "pitiful, sympathy"
       },
       {
          "chinese": "鬼佬",
          "jyutping": "gwai2 lou2",
          "pinyin": "guǐ lǎo",
-         "english": "foreigner, westerner",
-         "_category": "nouns"
+         "english": "foreigner, westerner"
       },
       {
          "chinese": "問題",
          "jyutping": "man6 tai4",
          "pinyin": "wèn tí",
-         "english": "problem, issue, question",
-         "_category": "nouns"
+         "english": "problem, issue, question"
       },
       {
          "chinese": "研究",
          "jyutping": "jin4 gau3",
          "pinyin": "yán jiū",
-         "english": "research",
-         "_category": "nouns"
+         "english": "research"
       },
       {
          "chinese": "規矩",
          "jyutping": "kwai1 geoi2",
          "pinyin": "guī ju",
-         "english": "rules, practices",
-         "_category": "nouns"
+         "english": "rules, practices"
       },
       {
          "chinese": "表面",
          "jyutping": "biu2 min6",
          "pinyin": "biǎo miàn",
-         "english": "surface, appearance",
-         "_category": "nouns"
+         "english": "surface, appearance"
       },
       {
          "chinese": "古跡",
          "jyutping": "gu2 zek",
          "pinyin": "gǔ jì",
-         "english": "historical site",
-         "_category": "nouns"
+         "english": "historical site"
       },
       {
          "chinese": "風格",
          "jyutping": "fung1 gaak3",
          "pinyin": "fēng gé",
-         "english": "style",
-         "_category": "nouns"
+         "english": "style"
       },
       {
          "chinese": "口音",
          "jyutping": "hau2 jam1",
          "pinyin": "kǒu yīn",
-         "english": "accent",
-         "_category": "nouns"
+         "english": "accent"
       },
       {
          "chinese": "印象",
          "jyutping": "jan3 zoeng6",
          "pinyin": "yìn xiàng",
-         "english": "impression",
-         "_category": "nouns"
+         "english": "impression"
       },
       {
          "chinese": "原因",
          "jyutping": "jyun4 jan1",
          "pinyin": "yuán yīn",
-         "english": "reason, cause",
-         "_category": "nouns"
+         "english": "reason, cause"
       },
       {
          "chinese": "前途",
          "jyutping": "cin4 lou4",
          "pinyin": "qián tú",
-         "english": "future, prospects",
-         "_category": "nouns"
+         "english": "future, prospects"
       },
       {
          "chinese": "衰人",
          "jyutping": "seoi1 jan4",
          "pinyin": "shuāi rén",
-         "english": "loser, jerk",
-         "_category": "nouns"
+         "english": "loser, jerk"
       },
       {
          "chinese": "答案",
          "jyutping": "daap3 on3",
          "pinyin": "dá àn",
-         "english": "answer, solution",
-         "_category": "nouns"
+         "english": "answer, solution"
       },
       {
          "chinese": "睡袋",
          "jyutping": "seoi6 doi6",
          "pinyin": "shuì dài",
-         "english": "sleeping bag",
-         "_category": "nouns"
+         "english": "sleeping bag"
       },
       {
          "chinese": "銀仔",
          "jyutping": "ngan2 zai2",
          "pinyin": "yín zǐ",
-         "english": "coin",
-         "_category": "nouns"
+         "english": "coin"
       },
       {
          "chinese": "垃圾",
          "jyutping": "laap6 saap3",
          "pinyin": "lā jī",
-         "english": "garbage, trash, junk",
-         "_category": "nouns"
+         "english": "garbage, trash, junk"
       },
       {
          "chinese": "力量",
          "jyutping": "lik6 loeng6",
          "pinyin": "lì liang",
-         "english": "power, force, strength",
-         "_category": "nouns"
+         "english": "power, force, strength"
       },
       {
          "chinese": "悖論",
          "jyutping": "bui6 leon6",
          "pinyin": "bèi lùn",
-         "english": "paradox (logic)",
-         "_category": "nouns"
+         "english": "paradox (logic)"
       },
       {
          "chinese": "爆炸",
          "jyutping": "baau3 zaa3",
          "pinyin": "bào zhà",
-         "english": "explosion垃圾傾偈",
-         "_category": "nouns"
+         "english": "explosion垃圾傾偈"
       },
       {
          "chinese": "喪禮",
          "jyutping": "song1 lai5",
          "pinyin": "sāng lǐ",
-         "english": "funeral<br>(lit. mourning ceremony)",
-         "_category": "nouns"
+         "english": "funeral<br>(lit. mourning ceremony)"
       },
       {
          "chinese": "一對",
          "jyutping": "jat1 deoi3",
          "pinyin": "yī duì",
-         "english": "a pair (of objects)",
-         "_category": "nouns"
+         "english": "a pair (of objects)"
       },
       {
-         "chinese": "日誌<br>日志",
+         "chinese": "日誌",
+         "chinese_variation" : "日志", 
          "jyutping": "jat6 zi3",
          "pinyin": "rì zhì",
-         "english": "journal, diary<br>(lit. day record)",
-         "_category": "nouns"
+         "english": "journal, diary<br>(lit. day record)"
       },
       {
          "chinese": "件事",
          "jyutping": "gin6 si6",
          "pinyin": "jiàn shì",
-         "english": "event, incident, occurrence",
-         "_category": "nouns"
+         "english": "event, incident, occurrence"
       },
       {
-         "chinese": "週年<br>周年",
+         "chinese": "週年",
+         "chinese_variation" : "周年", 
          "jyutping": "zau1 nin4",
          "pinyin": "zhōu nián",
-         "english": "anniversary",
-         "_category": "nouns"
+         "english": "anniversary"
       },
       {
          "chinese": "設計",
          "jyutping": "cit3 gai2",
          "pinyin": "shè jì",
-         "english": "plan, design",
-         "_category": "nouns"
+         "english": "plan, design"
       },
       {
          "chinese": "先生",
          "jyutping": "sin1 saang1",
          "pinyin": "xiān sheng",
-         "english": "Mister (Mr.), sir",
-         "_category": "nouns"
+         "english": "Mister (Mr.), sir"
       },
       {
          "chinese": "山景",
          "jyutping": "saan1 ging2",
          "pinyin": "shān jǐng",
-         "english": "mountain view, mountain scenery",
-         "_category": "nouns"
+         "english": "mountain view, mountain scenery"
       },
       {
          "chinese": "精神",
          "jyutping": "zing1 san4",
          "pinyin": "jīng shén",
-         "english": "spirit, mind, vitality",
-         "_category": "nouns"
+         "english": "spirit, mind, vitality"
       },
       {
          "chinese": "勇氣",
          "jyutping": "jung5 hei3",
          "pinyin": "yǒng qì",
-         "english": "courage, valor",
-         "_category": "nouns"
+         "english": "courage, valor"
       },
       {
          "chinese": "膽識",
          "jyutping": "daam2 sik1",
          "pinyin": "dǎn shí",
-         "english": "courage (courage)",
-         "_category": "nouns"
+         "english": "courage (courage)"
       },
       {
          "chinese": "膽量",
          "jyutping": "daam2 loeng6",
          "pinyin": "dǎn liàng",
-         "english": "courage, boldness, guts<br>>(written)",
-         "_category": "nouns"
+         "english": "courage, boldness, guts<br>>(written)"
       },
       {
          "chinese": "圖案",
          "jyutping": "tou4 on3",
          "pinyin": "tú àn",
-         "english": "design, pattern, sketch",
-         "_category": "nouns"
+         "english": "design, pattern, sketch"
       },
       {
          "chinese": "行程",
          "jyutping": "hang4 cing4",
          "pinyin": "xíng chéng",
-         "english": "journey, trip",
-         "_category": "nouns"
+         "english": "journey, trip"
       },
       {
          "chinese": "展覽",
          "jyutping": "zin2 laam5",
          "pinyin": "zhǎn lǎn",
-         "english": "exhibit, exhibition, show",
-         "_category": "nouns"
+         "english": "exhibit, exhibition, show"
       },
       {
-         "chinese": "關口<br>関口",
+         "chinese": "關口",
+         "chinese_variation" : "関口", 
          "jyutping": "gwaan1 hau2",
          "pinyin": "guān kǒu",
-         "english": "gateway, juncture",
-         "_category": "nouns"
+         "english": "gateway, juncture"
       },
       {
          "chinese": "街坊",
          "jyutping": "gaai1 fong1",
          "pinyin": "jiē fāng",
-         "english": "neighbour, neighbourhood",
-         "_category": "nouns"
+         "english": "neighbour, neighbourhood"
       },
       {
          "chinese": "人生",
          "jyutping": "jan4 saang1",
          "pinyin": "rén shēng",
-         "english": "life (one's time on earth)",
-         "_category": "nouns"
+         "english": "life (one's time on earth)"
       },
       {
          "chinese": "目標",
          "jyutping": "muk6 biu1",
          "pinyin": "mù biāo",
-         "english": "target, goal , objective",
-         "_category": "nouns"
+         "english": "target, goal , objective"
       },
       {
          "chinese": "目的",
          "jyutping": "muk6 di1",
          "pinyin": "mù dì",
-         "english": "purpose, aim , goal",
-         "_category": "nouns"
+         "english": "purpose, aim , goal"
       },
       {
-         "chinese": "家當<br>傢當",
+         "chinese": "家當",
+         "chinese_variation" : "傢當", 
          "jyutping": "gaa1 dong3",
          "pinyin": "jiā dàng",
-         "english": "family belongings, property",
-         "_category": "nouns"
+         "english": "family belongings, property"
       },
       {
-         "chinese": "鹹魚<br>咸魚",
+         "chinese": "鹹魚",
+         "chinese_variation" : "咸魚", 
          "jyutping": "haam4 jyu4",
          "pinyin": "xián yú",
-         "english": "salted fish<br>zombie (slang)",
-         "_category": "nouns"
+         "english": "salted fish<br>zombie (slang)"
       },
       {
          "chinese": "事情",
          "jyutping": "si6 cing4",
          "pinyin": "shì qing",
-         "english": "affair, business, matter, thing",
-         "_category": "nouns"
+         "english": "affair, business, matter, thing"
       },
       {
          "chinese": "實測",
          "jyutping": "sat6 caak1",
          "pinyin": "shí cè",
-         "english": "real measurement, on-the-spot survey",
-         "_category": "nouns"
+         "english": "real measurement, on-the-spot survey"
       },
       {
          "chinese": "忠粉",
          "jyutping": "zung1 fan2",
          "pinyin": "zhōng fěn",
-         "english": "(slang) loyal fan",
-         "_category": "nouns"
+         "english": "(slang) loyal fan"
       },
       {
          "chinese": "災難",
          "jyutping": "zoi1 naan6",
          "pinyin": "zāi nàn",
-         "english": "disaster, calamity, catastrophe",
-         "_category": "nouns"
+         "english": "disaster, calamity, catastrophe"
       },
       {
          "chinese": "逃犯",
          "jyutping": "tou4 faan6",
          "pinyin": "táo fàn",
-         "english": "outlaw, fugitive",
-         "_category": "nouns"
+         "english": "outlaw, fugitive"
       },
       {
          "chinese": "市民",
          "jyutping": "si5 man4",
          "pinyin": "shì mín",
-         "english": "city resident, townsperson",
-         "_category": "nouns"
+         "english": "city resident, townsperson"
       },
       {
          "chinese": "去想",
          "jyutping": "heoi2 hoeng3",
          "pinyin": "qù xiàng",
-         "english": "the position of something, whereabouts",
-         "_category": "nouns"
+         "english": "the position of something, whereabouts"
       },
       {
          "chinese": "意見",
          "jyutping": "ji3 gin3",
          "pinyin": "yì jiàn",
-         "english": "idea, opinion, suggestion, objection, complaint",
-         "_category": "nouns"
+         "english": "idea, opinion, suggestion, objection, complaint"
       },
       {
          "chinese": "人口",
          "jyutping": "jan4 hau2",
          "pinyin": "rén kǒu",
-         "english": "population",
-         "_category": "nouns"
+         "english": "population"
       },
       {
          "chinese": "步曲",
          "jyutping": "bou6 kuk1",
          "pinyin": "bù qǔ",
-         "english": "plan",
-         "_category": "nouns"
+         "english": "plan"
       },
       {
          "chinese": "分別",
          "jyutping": "fan1 bit6",
          "pinyin": "fēn bié",
-         "english": "difference",
-         "_category": "nouns"
+         "english": "difference"
       },
       {
          "chinese": "方法",
          "jyutping": "fong1 faat3",
          "pinyin": "fāng fǎ",
-         "english": "method, way, manner",
-         "_category": "nouns"
+         "english": "method, way, manner"
       },
       {
          "chinese": "感受",
          "jyutping": "gam2 sau6",
          "pinyin": "gǎn shòu",
-         "english": "experience, feeling, impression",
-         "_category": "nouns"
+         "english": "experience, feeling, impression"
       },
       {
          "chinese": "生活",
          "jyutping": "sang1 wut6",
          "pinyin": "shēng huó",
-         "english": "life, activity, livelihood",
-         "_category": "nouns"
+         "english": "life, activity, livelihood"
       },
       {
-         "chinese": "磁鐵<br>磁鐡",
+         "chinese": "磁鐵",
+         "chinese_variation" : "磁鐡", 
          "jyutping": "ci4 tit3",
          "pinyin": "cí tiě",
-         "english": "magnet",
-         "_category": "nouns"
+         "english": "magnet"
       },
       {
          "chinese": "動力",
          "jyutping": "dung6 lik6",
          "pinyin": "dòng lì",
-         "english": "motivation, force, impetus",
-         "_category": "nouns"
+         "english": "motivation, force, impetus"
       },
       {
          "chinese": "周圍",
          "jyutping": "zau1 wai4",
          "pinyin": "zhōu wéi",
-         "english": "surroundings, vincinity, environment",
-         "_category": "nouns"
+         "english": "surroundings, vincinity, environment"
       },
       {
          "chinese": "危機",
          "jyutping": "ngai4 gei1",
          "pinyin": "wēi jī",
-         "english": "crisis",
-         "_category": "nouns"
+         "english": "crisis"
       },
       {
          "chinese": "一些",
          "jyutping": "jat1 se1",
          "pinyin": "yī xiē",
-         "english": "some, a few, a little",
-         "_category": "nouns"
+         "english": "some, a few, a little"
       },
       {
          "chinese": "點滴",
          "jyutping": "dim2 dik1",
          "pinyin": "diǎn dī",
-         "english": "bit, tidbit, a little bit",
-         "_category": "nouns"
+         "english": "bit, tidbit, a little bit"
       },
       {
          "chinese": "感悟",
          "jyutping": "gam2 ng6",
          "pinyin": "gǎn wù",
-         "english": "realization, appreciation",
-         "_category": "nouns"
+         "english": "realization, appreciation"
       },
       {
          "chinese": "成果",
          "jyutping": "sing4 gwo2",
          "pinyin": "chéng guǒ",
-         "english": "acheivement, result, gain",
-         "_category": "nouns"
+         "english": "acheivement, result, gain"
       },
       {
          "chinese": "東西",
          "jyutping": "dung1 sai1",
          "pinyin": "dōng xi",
-         "english": "thing, stuff, something",
-         "_category": "nouns"
+         "english": "thing, stuff, something"
       },
       {
          "chinese": "冇乜嘢",
          "jyutping": "mou5 mat1 je5",
          "pinyin": "mǎo miē yě",
-         "english": "nothing, have nothing",
-         "_category": "nouns"
+         "english": "nothing, have nothing"
       },
       {
          "chinese": "安全性",
          "jyutping": "ngon1 cyun4 sing3",
          "pinyin": "ān quán xìng",
-         "english": "safety, security",
-         "_category": "nouns"
+         "english": "safety, security"
       },
       {
          "chinese": "大部分",
          "jyutping": "daai6 bou6 fan6",
          "pinyin": "dà bù fèn",
-         "english": "majority, greater part",
-         "_category": "nouns"
+         "english": "majority, greater part"
       },
       {
          "chinese": "游泳池",
          "jyutping": "jau4 wing6 ci4",
          "pinyin": "yóu yǒng chí",
-         "english": "swimming pool",
-         "_category": "nouns"
+         "english": "swimming pool"
       },
       {
          "chinese": "掌上壓",
          "jyutping": "zoeng2 soeng6 aat3",
          "pinyin": "zhǎng shǎng yā",
-         "english": "push-up",
-         "_category": "nouns"
+         "english": "push-up"
       },
       {
          "chinese": "中年危機",
          "jyutping": "zung1 nin4 ngai4 gei1",
          "pinyin": "zhōng nián wēi jī",
-         "english": "mid-life crisis",
-         "_category": "nouns"
+         "english": "mid-life crisis"
       },
       {
          "chinese": "國家公園",
          "jyutping": "gwok3 gaa1 gung1 jyun4",
          "pinyin": "guó jiā gōng yuán",
-         "english": "national park",
-         "_category": "nouns"
+         "english": "national park"
       }, 
       {
          "chinese": "進程",
          "jyutping": "zeon3 cing4",
          "pinyin": "jìn chéng",
-         "english": "process, course",
-         "_category": "nouns"
+         "english": "process, course"
       },
       {
          "chinese": "計劃",
          "jyutping": "gai3 waak6",
          "pinyin": "jì huà",
-         "english": "plan, project, program proposal",
-         "_category": "nouns"
+         "english": "plan, project, program proposal"
       },
       {
          "chinese": "建議",
          "jyutping": "gin3 ji5",
          "pinyin": "jiàn yì",
-         "english": "suggestions, recommendation, proposal",
-         "_category": "nouns"
+         "english": "suggestions, recommendation, proposal"
       },
       {
          "chinese": "機會",
          "jyutping": "ji1 hui4",
          "pinyin": "jī huì",
-         "english": "opportunnity, chance",
-         "_category": "nouns"
+         "english": "opportunnity, chance"
       },
       {
          "chinese": "農藥",
          "jyutping": "nung4 joek6",
          "pinyin": "nóng yào",
-         "english": "pesticide",
-         "_category": "nouns"
+         "english": "pesticide"
       },
       {
          "chinese": "旅遊",
          "jyutping": "leoi5 jau4",
          "pinyin": "lǚ yóu",
-         "english": "journey, travel, tourism",
-         "_category": "nouns"
+         "english": "journey, travel, tourism"
       },
       {
          "chinese": "言語",
          "jyutping": "jin4 jyu5",
          "pinyin": "yán yǔ",
-         "english": "speech, spoken language",
-         "_category": "nouns"
+         "english": "speech, spoken language"
       },
       {
          "chinese": "疤痕",
          "jyutping": "baa1 han4",
          "pinyin": "bā hén",
-         "english": "scar",
-         "_category": "nouns"
+         "english": "scar"
       },
       {
          "chinese": "廢話",
          "jyutping": "fai2 waa6",
          "pinyin": "fèi huà",
-         "english": "nonsense, rubbish, worthless words",
-         "_category": "nouns"
+         "english": "nonsense, rubbish, worthless words"
       },
       {
          "chinese": "糞便",
          "jyutping": "fan3 bin6",
          "pinyin": "fèn biàn",
-         "english": "excrement, feces, poop",
-         "_category": "nouns"
+         "english": "excrement, feces, poop"
       },
       {
          "chinese": "書呆子",
          "jyutping": "syu1 daai1 zi2",
          "pinyin": "shū dāi zi",
-         "english": "bookworm, nerd",
-         "_category": "nouns"
+         "english": "bookworm, nerd"
       },
       {
          "chinese": "催淚瓦斯",
          "jyutping": "ceoi1 leoi6 ngaa5 si5",
          "pinyin": "cuī lèi wǎ sī",
-         "english": "tear gas",
-         "_category": "nouns"
+         "english": "tear gas"
       },
       {
          "chinese": "反饋回路",
          "jyutping": "faan1 gwai3 wui4 lou6",
          "pinyin": "fǎn kuì huí lù",
-         "english": "feedback loop",
-         "_category": "nouns"
+         "english": "feedback loop"
       }
    ]
 }

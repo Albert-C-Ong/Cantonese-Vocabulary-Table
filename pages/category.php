@@ -6,7 +6,21 @@ function print_category($category) {
   
   $name = $category["name"]; 
   $chinese = $category["chinese"]; 
-  $words = $category["words"]; 
+  $words = $category["words"];
+  $sorted_words = array(); 
+  
+  foreach ($words as $word) {
+
+    $word = new Word($word["chinese"], 
+                     $word["chinese_variation"], 
+                     $word["jyutping"], 
+                     $word["pinyin"], 
+                     $word["english"]); 
+
+    array_push($sorted_words, $word); 
+  }
+  
+  usort($sorted_words, "cmp_word"); 
   
   echo 
   "<h1>$name ($chinese)</h1>
@@ -17,20 +31,13 @@ function print_category($category) {
       <th>Pinyin <br>拼音 </th>
       <th>English <br>英文</th>
     </tr>"; 
-    
-  foreach ($words as $word) {
-
-    $word = new Word($word["chinese"], 
-              $word["jyutping"], 
-              $word["pinyin"], 
-              $word["english"]); 
-
+  
+  foreach ($sorted_words as $word) {
     echo $word -> to_table_row(); 
   }
-
+  
   echo "</table>";
 }
-
 ?>
 
 
