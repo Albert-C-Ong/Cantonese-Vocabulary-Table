@@ -31,11 +31,11 @@ function print_category($category) {
       <th>Pinyin <br>拼音 </th>
       <th>English <br>英文</th>
     </tr>"; 
-  
+
   foreach ($sorted_words as $word) {
     echo $word -> to_table_row(); 
   }
-  
+
   echo "</table>";
 }
 ?>
@@ -56,12 +56,26 @@ function print_category($category) {
   <?php
   
   $database = $_GET["database"]; 
-  $directory = "../database/words/" . str_replace(" ", "_", $database) . ".json"; 
   
-  $category_file = file_get_contents($directory);
-  $category = json_decode($category_file, true);
+  if ($database != "resources") {
+    $directory = "../database/words/" . str_replace(" ", "_", $database) . ".json"; 
+    $category_file = file_get_contents($directory);
+    $category = json_decode($category_file, true);
 
-  print_category($category); 
+    print_category($category); 
+  }
+  
+  else {
+    echo 
+    "<h1>Resources (資源)</h1>
+     <ul>
+    <li><a target = '_blank' href='http://www.cantonese.sheik.co.uk/'>cantonese.sheik.co.uk</a></li>
+    <li><a target = '_blank' href='https://www.mdbg.net/chinese/dictionary'>mdbg.net</a></li>
+    <li><a target = '_blank' href='http://mylanguages.org/learn_cantonese.php'>mylanguages.org</a></li>
+    <li><a target = '_blank' href='https://cantonese.ca/'>cantonese.ca</a></li>
+    <li><a target = '_blank' href='https://www.cantoneseclass101.com/cantonese-dictionary/'>cantoneseclass101.com</a></li>
+    </ul>"; 
+  }
   ?>
 </body>
 

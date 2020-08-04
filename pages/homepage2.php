@@ -127,21 +127,36 @@ function print_words($categories,
   
     usort($sorted_words, "cmp_word"); 
     
-    echo 
-    "<h$tab id='$formatted_name'>$name ($chinese)</h$tab>
-      <table>
-      <tr>
-        <th>Trad. Chinese <br>正體中文</th>
-        <th>Jyutping <br>粵拼</th>
-        <th>Pinyin <br>拼音 </th>
-        <th>English <br>英文</th>
-      </tr>"; 
-    
-    foreach ($sorted_words as $word) {
-      echo $word -> to_table_row(); 
+    if ($name != "Resources") {
+      echo 
+      "<h$tab id='$formatted_name'>$name ($chinese)</h$tab>
+        <table>
+        <tr>
+          <th>Trad. Chinese <br>正體中文</th>
+          <th>Jyutping <br>粵拼</th>
+          <th>Pinyin <br>拼音 </th>
+          <th>English <br>英文</th>
+        </tr>"; 
+
+      foreach ($sorted_words as $word) {
+        echo $word -> to_table_row(); 
+      }
+
+      echo "</table>"; 
     }
     
-    echo "</table>"; 
+    else {
+      echo 
+      "<h$tab id='$formatted_name'>$name ($chinese)</h$tab>
+       <ul>
+      <li><a target = '_blank' href='http://www.cantonese.sheik.co.uk/'>cantonese.sheik.co.uk</a></li>
+      <li><a target = '_blank' href='https://www.mdbg.net/chinese/dictionary'>mdbg.net</a></li>
+      <li><a target = '_blank' href='http://mylanguages.org/learn_cantonese.php'>mylanguages.org</a></li>
+      <li><a target = '_blank' href='https://cantonese.ca/'>cantonese.ca</a></li>
+      <li><a target = '_blank' href='https://www.cantoneseclass101.com/cantonese-dictionary/'>cantoneseclass101.com</a></li>
+      </ul>"; 
+    }
+    
     
     if ($subcategories) {
       print_words($subcategories, $tab + 1, "$directory$formatted_name/"); 
