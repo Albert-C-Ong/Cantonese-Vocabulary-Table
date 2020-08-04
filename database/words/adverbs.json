@@ -274,7 +274,8 @@
       "english": "probably, possibly, might, perhaps"
     },
     {
-      "chinese": "淨係<br>净係",
+      "chinese": "淨係",
+      "chinese_variation": "净係", 
       "jyutping": "zing6 hai6",
       "pinyin": "jìng xì",
       "english": "only"
@@ -346,7 +347,8 @@
       "english": "often, frequently, regularly"
     },
     {
-      "chinese": "陣間<br>陣閒",
+      "chinese": "陣間",
+      "chinese_variation": "陣閒", 
       "jyutping": "zan6 gaan3",
       "pinyin": "zhèn jiān",
       "english": "soon, later, in a while"
@@ -442,7 +444,8 @@
       "english": "furthermore, moreover, in addition"
     },
     {
-      "chinese": "之間<br>之閒",
+      "chinese": "之間",
+      "chinese_variation": "之閒", 
       "jyutping": "zi1 gaan1",
       "pinyin": "zhī jiān",
       "english": "between, among"

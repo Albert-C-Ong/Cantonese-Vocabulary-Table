@@ -9,7 +9,8 @@
          "english": "royalty, royal power<br>(might be bad translation)"
       },
       {
-         "chinese": "國王<br>囯王",
+         "chinese": "國王",
+         "chinese_variation": "囯王", 
          "jyutping": "gwok3 wong4",
          "pinyin": "guó wáng",
          "english": "king"
