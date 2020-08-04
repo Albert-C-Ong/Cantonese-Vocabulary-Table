@@ -3,10 +3,6 @@
 ## Overview
 Personal vocabulary table; designed to store vocabulary while learning Cantonese. 
 
-## Todo List
-* Implement cumulative vocabulary page in homepage2.php
-* Implement custom priority for Word class
-
 ## Technologies and Tools
 
 **Front-end**
