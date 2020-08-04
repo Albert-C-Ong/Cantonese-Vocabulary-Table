@@ -1,6 +1,6 @@
 <?php
 
-include "word_class2.php"; 
+include "word_class.php"; 
 
 function print_category($category) {
   
@@ -51,7 +51,7 @@ function print_category($category) {
 
 <body>
   
-  <a href="homepage2.php">← Back</a>
+  <a href="homepage.php">← Back</a>
   
   <?php
   

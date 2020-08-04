@@ -7,17 +7,14 @@
 
 include "word_class.php"; 
 
-
-function countCategories($categories) {
+function count_categories($categories, $count = 0) {
   
-  $count = 0;
-  
-  foreach ($categories -> children() as $category) {
+  foreach ($categories as $category) {
     
-    $tag_name = $category -> getName();
+    $subcategories = $category["subcategories"]; 
     
-    if ($tag_name == "subcategories") {
-      $count += countCategories($category);
+    if ($subcategories) {
+      $count = count_categories($subcategories, $count + 1);  
     }
     else {
       $count += 1;
@@ -28,158 +25,73 @@ function countCategories($categories) {
 }
 
 
-function printCategories($categories, 
-                         $head = true, 
-                         $subhead = false, 
-                         $dividing_indices = array(), 
-                         $count = 0, 
-                         $parent = "") {
+function print_categories($categories, 
+                          $count = 0, 
+                          $dividing_indices = array(), 
+                          $tab = 0, 
+                          $parent = "") {
   
-  global $link_to_header; 
+  $is_head = $count == 0; 
   
-  if ($head) {
+  if ($is_head) {
+    echo "<td><ul>";
     
-    echo "<td><ul>"; 
+    $total_category_count = count_categories($categories); 
     
-    $total_category_count = countCategories($categories); 
+    $columns = 4; 
     
-    for ($i = 1; $i < 4; $i++) {
-
-      $index = ceil($division + ($i * ($total_category_count / 4))); 
-
+    for ($i = 1; $i < $columns; $i++) {
+      $index = ceil($division + ($i * ($total_category_count / $columns))); 
       array_push($dividing_indices, $index); 
     }
   }
-  
-  
-  foreach ($categories -> children() as $category) {
+
+  foreach ($categories as $category) {
     
-    $tag_name = $category -> getName(); 
-     
-    if ($tag_name == "subcategories") {
-      
-       $next_subhead = true; 
-      
-       if ($subhead == true) {
-         $next_subhead = false;
-       }
-      
-       $subcat_parent = $category["parent"]; 
-      
-       if ($parent == "") {
-         $next_parent = "$subcat_parent";
-       }
-      else {
-        $next_parent = "$parent-$subcat_parent";;
-      }
-      
-       $count = printCategories($category, false, $next_subhead, $dividing_indices, $count, $next_parent);   
+    $name = $category["name"]; 
+    $chinese = $category["chinese"];
+    $subcategories = $category["subcategories"]; 
+    $incomplete = $category["incomplete"]; 
+    $category_link = strtolower($name);
+    
+    if ($parent == "") {
+      $next_parent = strtolower($name); 
     }
-    
     else {
-      $name = $category -> name;
-      $name_lower = strtolower($name); 
+      $next_parent = "$parent" . "/" . strtolower($name);
+    }
       
-      $chinese = $category -> chinese; 
-
-      $incomplete = $category["incomplete"]; 
-
-      $incomplete_text = ""; 
-      
-      if ($incomplete != '') {
-        $incomplete_text = "(incomplete)";
-      }
-      
-      
-      if ($parent == "") {
-        $category_link = strtolower($name);
-      }
-      else {
-        $category_link = strtolower("$parent-$name");
-      }
-      
-      $category_link = str_replace(" ", "-", $category_link);
-
-      $link_to_header[$category_link] = "$name ($chinese)"; 
-      
-      if (!$head && !$subhead) {
-        echo "<ul><ul><li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li></ul></ul>\n"; 
-      }
-      
-      else if (!$head) {
-        echo "<ul><li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li></ul>\n"; 
-      }
-      
-      else {
-        echo "<li><a href='#$category_link'>$name ($chinese) $incomplete_text</a></li>\n"; 
-      }
-      
-      $count += 1; 
-      
-      if (in_array($count, $dividing_indices)) {
-        echo "</ul></td>\n<td><ul>"; 
-      } 
+    $head = "        " . str_repeat("<ul>", $tab) . "<li>";
+    $tail = "</li>" . str_repeat("</ul>", $tab);
+    $incomplete_tag = ($incomplete ? "(incomplete)" : ""); 
+    
+    echo "$head<a href='category.php?database=$next_parent'>$name ($chinese) $incomplete_tag</a>$tail\n";
+    
+    $count += 1; 
+    
+    if (in_array($count, $dividing_indices)) {
+      echo "</ul></td>\n<td><ul>"; 
+    } 
+    
+    
+    if ($subcategories) {
+      $count = print_categories($subcategories, 
+                                $count, 
+                                $dividing_indices, 
+                                $tab + 1, 
+                                $next_parent); 
     }
   }
+
   
-  if ($count == countCategories($categories)) {
-    echo "</ul></td>"; 
+  $total_categories = count_categories($categories);
+  $is_tail = $count == $total_categories;
+  
+  if ($is_tail) {
+    echo "</ul></td>";
   }
-  
   
   return $count; 
-}
-
-
-function printWords($words, $link_to_header) {
-  
-  $buckets = array(); 
-  
-  foreach ($words -> children() as $word) {
-    
-    $chinese = $word -> chinese;
-    $jyutping = $word -> jyutping;
-    $pinyin = $word -> pinyin;
-    $english = $word -> english;
-    
-    $category = $word["category"]; 
-    $subcategory = $word["subcategory"]; 
-    $subcategory2 = $word["subcategory2"]; 
-    
-    $word_obj = new Word($chinese, $jyutping, $pinyin, $english, $category, $subcategory, $subcategory2); 
-    
-    $categories = $word_obj -> getCategories(); 
-    
-    
-    if (array_key_exists($categories, $buckets)) {
-      array_push($buckets[$categories], $word_obj); 
-    }
-    else {
-      $buckets[$categories] = array($word_obj);
-    }
-  }
-  
-  foreach ($buckets as $category => $bucket) {
-    
-    usort($bucket, "cmp_word"); 
-    
-    echo 
-    "<h1 id='$category'>$link_to_header[$category]</h1>
-      <table>
-      <tr>
-        <th>Trad. Chinese <br>正體中文</th>
-        <th>Jyutping <br>粵拼</th>
-        <th>Pinyin <br>拼音 </th>
-        <th>English <br>英文</th>
-      </tr>"; 
-    
-    foreach ($bucket as $word) {
-      
-      echo $word -> toTableRow(); 
-    }
-  
-    echo "</table>";
-  }
 }
 ?>
 
@@ -193,36 +105,27 @@ function printWords($words, $link_to_header) {
 </head>
 
 <body>
+  
+  <a href="homepage2.php">← List</a>
+  
   <h1>Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
   
-  <table class="table-of-contents">
-    <tr>
-      <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
-    </tr>
-    <tr>
+  <form method="GET">
+    <table class="table-of-contents">
+      <tr>
+        <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
+      </tr>
+      <tr>
         <?php
-          $categories_file = simplexml_load_file("../database/categories.xml") or die("Error: Cannot create object");
+        $categories_file = file_get_contents("../database/categories.json");
+        $categories = json_decode($categories_file, true)["categories"];
 
-          printCategories($categories_file);
-        ?>
-    </tr>
-  </table>
+        print_categories($categories); 
+        ?>    
+      </tr>
+    </table>
+  </form>
   
-  <?php
-  $words_file = simplexml_load_file("../database/words.xml") or die("Error: Cannot create object");
-
-  printWords($words_file, $link_to_header);     
-  ?>
-  
-  <!-- Additional resources and websites -->
-  <h1 id="resources">Resources (資源)</h1>
-  <ul>
-    <li><a href="https://www.cantoneseclass101.com/cantonese-dictionary/">cantoneseclass101.com</a></li>
-    <li><a href="http://www.cantonese.sheik.co.uk/">cantonese.sheik.co.uk</a></li>
-    <li><a href="https://www.mdbg.net/chinese/dictionary">mdbg.net</a></li>
-    <li><a href="http://mylanguages.org/learn_cantonese.php">mylanguages.org</a></li>
-    <li><a href="https://cantonese.ca/">cantonese.ca</a></li>
-  </ul>
 </body>
 
 </html>

@@ -8,63 +8,46 @@
 class Word {
   
   public $chinese, 
+         $chinese_variation, 
          $jyutping, 
          $pinyin, 
          $english, 
-         $category, 
-         $subcategory, 
-         $subcategory2; 
+         $priority;
   
-  public function __construct($ch, $jyut, $pn, $eng, $sub, $subcat, $subcat2) {
+  public function __construct($ch, $ch_var, $jyut, $pn, $eng, $prio = null) {
     
     $this -> chinese = $ch;
+    $this -> chinese_variation = $ch_var; 
     $this -> jyutping = $jyut; 
     $this -> pinyin = $pn; 
     $this -> english = $eng; 
-    
-    $this -> category = $sub; 
-    $this -> subcategory = $subcat;  
-    $this -> subcategory2 = $subcat2; 
+    $this -> priority = $prio; 
   }
   
   public function __toString() {
     
-    $ch = (string) $this -> chinese; 
-    $jyut = (string) $this -> jyutping; 
-    $pn = (string) $this -> pinyin; 
-    $eng = (string) $this -> english; 
+    $ch = $this -> chinese; 
+    $jyut = $this -> jyutping; 
+    $pn = $this -> pinyin; 
+    $eng = $this -> english; 
     
     return "($ch, $jyut, $pn, $eng)<br>";
   }
   
   // Coverts the Word into an HTML table row. 
-  public function toTableRow() {
+  public function to_table_row() {
     
-    $ch = (string) $this -> chinese; 
-    $jyut = (string) $this -> jyutping; 
-    $pn = (string) $this -> pinyin; 
-    $eng = (string) $this -> english; 
+    $ch = $this -> chinese; 
+    $jyut = $this -> jyutping; 
+    $pn = $this -> pinyin; 
+    $eng = $this -> english; 
+    
+    $var = $this -> chinese_variation; 
+    $ch_var = $var != null ? "<br>$var" : null; 
     
     return "<tr> 
-              <td>$ch</td> <td>$jyut</td> <td>$pn</td> <td>$eng</td> 
+              <td>$ch$ch_var</td> <td>$jyut</td> <td>$pn</td> <td>$eng</td> 
             </tr>";
-  }
-  
-  public function getCategories() {
-    
-     $category_array = array($this -> category);
-      
-     if (!empty($this -> subcategory)) {
-       array_push($category_array, $this -> subcategory);
-     }
-    
-     if (!empty($this -> subcategory2)) {
-       array_push($category_array, $this -> subcategory2);
-     }
-    
-     $categories = join("-", $category_array); 
-    
-    return $categories; 
   }
 }
 
@@ -72,8 +55,12 @@ class Word {
 // Comparison function for two Word objects. 
 function cmp_word($a, $b) {
 
+  $a_prio = $a -> $priority;
+  $b_prio = $b -> $priority; 
+  
   $a_len = strlen($a -> chinese); 
   $b_len = strlen($b -> chinese); 
+  
   
   if ($a_len == $b_len) {
     return strcmp($a -> jyutping, $b -> jyutping);

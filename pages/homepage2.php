@@ -5,7 +5,7 @@
  * Written by Albert Ong
  */ 
 
-include "word_class2.php"; 
+include "word_class.php"; 
 
 function count_categories($categories, $count = 0) {
   
@@ -52,7 +52,7 @@ function print_categories($categories,
     $chinese = $category["chinese"];
     $subcategories = $category["subcategories"]; 
     $incomplete = $category["incomplete"]; 
-    $category_link = strtolower($name);
+    $category_link = str_replace(" ", "_", strtolower($name));
     
     if ($parent == "") {
       $next_parent = strtolower($name); 
@@ -65,7 +65,7 @@ function print_categories($categories,
     $tail = "</li>" . str_repeat("</ul>", $tab);
     $incomplete_tag = ($incomplete ? "(incomplete)" : ""); 
     
-    echo "$head<a href='category.php?database=$next_parent'>$name ($chinese) $incomplete_tag</a>$tail\n";
+    echo "$head<a href='#$category_link'>$name ($chinese) $incomplete_tag</a>$tail\n";
     
     $count += 1; 
     
@@ -93,6 +93,61 @@ function print_categories($categories,
   
   return $count; 
 }
+
+
+function print_words($categories, 
+                     $tab = 1, 
+                     $directory = "../database/words/") {
+  
+  foreach ($categories as $category) {
+    
+    $name = $category["name"]; 
+    $formatted_name = str_replace(" ", "_", strtolower($name)); 
+    
+    $chinese = $category["chinese"];
+    $subcategories = $category["subcategories"]; 
+    $incomplete = $category["incomplete"]; 
+    
+    $words_directory = "$directory$formatted_name.json";  
+    $words_file = file_get_contents($words_directory);
+    $words = json_decode($words_file, true)["words"];
+    
+    $sorted_words = array();
+    
+    foreach ($words as $word) {
+
+      $word = new Word($word["chinese"], 
+                       $word["chinese_variation"], 
+                       $word["jyutping"], 
+                       $word["pinyin"], 
+                       $word["english"]); 
+
+      array_push($sorted_words, $word); 
+    }
+  
+    usort($sorted_words, "cmp_word"); 
+    
+    echo 
+    "<h$tab id='$formatted_name'>$name ($chinese)</h$tab>
+      <table>
+      <tr>
+        <th>Trad. Chinese <br>正體中文</th>
+        <th>Jyutping <br>粵拼</th>
+        <th>Pinyin <br>拼音 </th>
+        <th>English <br>英文</th>
+      </tr>"; 
+    
+    foreach ($sorted_words as $word) {
+      echo $word -> to_table_row(); 
+    }
+    
+    echo "</table>"; 
+    
+    if ($subcategories) {
+      print_words($subcategories, $tab + 1, "$directory$formatted_name/"); 
+    }
+  }
+}
 ?>
 
 
@@ -106,24 +161,27 @@ function print_categories($categories,
 
 <body>
   
+  <a href="homepage.php">← Table</a>
+  
   <h1>Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
   
-  <form method="GET">
-    <table class="table-of-contents">
-      <tr>
-        <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
-      </tr>
-      <tr>
-        <?php
-        $categories_file = file_get_contents("../database/categories.json");
-        $categories = json_decode($categories_file, true)["categories"];
+  <table class="table-of-contents">
+    <tr>
+      <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
+    </tr>
+    <tr>
+      <?php
+      $categories_file = file_get_contents("../database/categories.json");
+      $categories = json_decode($categories_file, true)["categories"];
 
-        print_categories($categories); 
-        ?>    
-      </tr>
-    </table>
-  </form>
+      print_categories($categories); 
+      ?>    
+    </tr>
+  </table>
   
+  <?php
+  print_words($categories); 
+  ?>
 </body>
 
 </html>
