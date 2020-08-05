@@ -9,7 +9,8 @@
          "english": "to eat"
       },
       {
-         "chinese": "著<br>煑<br>",
+         "chinese": "著",
+         "chinese_variation": "煑", 
          "jyutping": "zyu2",
          "pinyin": "zhǔ",
          "english": "to cook"
@@ -121,6 +122,12 @@
          "jyutping": "gaau2 wan4",
          "pinyin": "jiǎo yún",
          "english": "to mix"
+      },
+      {
+         "chinese": "醞釀",
+         "jyutping": "wan5 jeong6",
+         "pinyin": "yùn niàng",
+         "english": "to ferment, to brew"
       },
       {
          "chinese": "燒烤",

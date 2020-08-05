@@ -93,7 +93,8 @@
          "english": "test, to test"
       },
       {
-         "chinese": "考試<br>攷試",
+         "chinese": "考試",
+         "chinese_variation": "攷試", 
          "jyutping": "haau2 si3",
          "pinyin": "kǎo shì",
          "english": "exam, to take an exam"
@@ -196,7 +197,7 @@
       },
       {
          "chinese": "學期",
-         "jyutping": "hok6 gei1",
+         "jyutping": "hok6 kei4",
          "pinyin": "xué qī",
          "english": "semester, term"
       },
@@ -219,7 +220,14 @@
          "english": "what one has learned, knowledge, understanding"
       },
       {
-         "chinese": "期中考<br>期中攷",
+         "chinese": "學分",
+         "jyutping": "hok6 fan1",
+         "pinyin": "xué fēn",
+         "english": "course credit"
+      },
+      {
+         "chinese": "期中考",
+         "chinese_variation": "期中攷", 
          "jyutping": "kei4 zung1 haau2",
          "pinyin": "qī zhōng kǎo",
          "english": "midterm exam"
@@ -247,6 +255,12 @@
          "jyutping": "jin4 gau3 hok6 jyun2",
          "pinyin": "yán jiū shēng yuàn",
          "english": "graduate school<br>(lit. research college)"
+      }, 
+      {
+         "chinese": "社區學院",
+         "jyutping": "se5 keoi1 hok6 jyun6",
+         "pinyin": "shè qū xué yuàn",
+         "english": "community college"
       }
    ]
 }

@@ -14,14 +14,13 @@ class Word {
          $english, 
          $priority;
   
-  public function __construct($ch, $ch_var, $jyut, $pn, $eng, $prio = 0) {
+  public function __construct($ch, $ch_var, $jyut, $pn, $eng) {
     
     $this -> chinese = $ch;
     $this -> chinese_variation = $ch_var; 
     $this -> jyutping = $jyut; 
     $this -> pinyin = $pn; 
     $this -> english = $eng; 
-    $this -> priority = $prio; 
   }
   
   public function __toString() {
@@ -40,14 +39,13 @@ class Word {
     $ch = $this -> chinese; 
     $jyut = $this -> jyutping; 
     $pn = $this -> pinyin; 
-    $eng = $this -> english; 
-    $prio = $this -> priority; 
+    $eng = $this -> english;  
     
     $var = $this -> chinese_variation; 
     $ch_var = $var != null ? "<br>$var" : null; 
     
     return "<tr> 
-              <td>$ch$ch_var</td> <td>$jyut</td> <td>$pn</td> <td>$eng $prio</td> 
+              <td>$ch$ch_var</td> <td>$jyut</td> <td>$pn</td> <td>$eng</td> 
             </tr>";
   }
 }
@@ -56,24 +54,15 @@ class Word {
 // Comparison function for two Word objects. 
 function cmp_word($a, $b) {
 
-  $a_prio = $a -> $priority;
-  $b_prio = $b -> $priority; 
   
   $a_len = strlen($a -> chinese); 
   $b_len = strlen($b -> chinese); 
   
-  
-  if ($a_len == $b_len) {
-    
-    if ($a_prio != $b_prio) {
-      return $a_prio < $b_prio;       
-    }
-    else {
-      return strcmp($a -> jyutping, $b -> jyutping);
-    }
+  if ($a_len == $b_len) {   
+    return strcmp($a -> jyutping, $b -> jyutping); 
   }
   else {
-    return $a_len > $b_len;
+    return $a_len > $b_len; 
   }
 }
 ?>

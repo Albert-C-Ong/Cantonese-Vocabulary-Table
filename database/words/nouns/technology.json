@@ -171,6 +171,24 @@
          "english": "blackout"
       },
       {
+         "chinese": "推特",
+         "jyutping": "teoi1 dak6",
+         "pinyin": "Tuī tè",
+         "english": "Twitter (website)"
+      }, 
+      {
+         "chinese": "谷歌",
+         "jyutping": "guk1 go1",
+         "pinyin": "gǔ gē",
+         "english": "Google"
+      },
+      {
+         "chinese": "臉書",
+         "jyutping": "lim5 syu1",
+         "pinyin": "liǎn shū",
+         "english": "Facebook"
+      },
+      {
          "chinese": "聊天室",
          "jyutping": "liu4 tin1 sat1",
          "pinyin": "liáo tiān shì",

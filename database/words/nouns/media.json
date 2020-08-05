@@ -21,7 +21,8 @@
          "english": "article, essay"
       },
       {
-         "chinese": "雜誌<br>雑誌",
+         "chinese": "雜誌",
+         "chinese_variation": "雑誌", 
          "jyutping": "zaap6 zi3",
          "pinyin": "zá zhì",
          "english": "magazine"
@@ -67,6 +68,12 @@
          "jyutping": "zi6 mok6",
          "pinyin": "zì mù",
          "english": "subtitles, captions"
+      },
+      {
+         "chinese": "角色",
+         "jyutping": "gok3 sik1",
+         "pinyin": "jué sè",
+         "english": "character (in a story), role (in a play or film)"
       },
       {
          "chinese": "社交媒體",

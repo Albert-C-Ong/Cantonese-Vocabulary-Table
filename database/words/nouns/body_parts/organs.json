@@ -1,0 +1,43 @@
+{
+  
+   "name": "Organs", 
+   "chinese": "器官", 
+   "words": [
+      {
+         "chinese": "肺",
+         "jyutping": "fei4",
+         "pinyin": "fèi",
+         "english": "lung (anatomy)"
+      },
+      {
+         "chinese": "胃",
+         "jyutping": "wai6",
+         "pinyin": "wèi",
+         "english": "stomach"
+      },
+      {
+         "chinese": "器官",
+         "jyutping": "hei3 gun1",
+         "pinyin": "qì guān",
+         "english": "organ (medicine, biology)"
+      },
+      {
+         "chinese": "心臟",
+         "jyutping": "sam1 zong6",
+         "pinyin": "xīn zàng",
+         "english": "heart (anatomy)"
+      },
+      {
+         "chinese": "大腦",
+         "jyutping": "daai6 nou5",
+         "pinyin": "dà nǎo",
+         "english": "brain, cerebrum"
+      },
+      {
+         "chinese": "腎臟",
+         "jyutping": "san6 zong6",
+         "pinyin": "shèn zàng",
+         "english": "kidney"
+      }
+   ]
+}

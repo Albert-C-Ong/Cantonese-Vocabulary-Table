@@ -1038,163 +1038,139 @@
          "chinese": "收",
          "jyutping": "sai1",
          "pinyin": "shōu",
-         "english": "to recieve, to accept, to collect",
-         "_category": "verbs"
+         "english": "to recieve, to accept, to collect"
       },
       {
          "chinese": "連",
          "jyutping": "lin4",
          "pinyin": "lián",
-         "english": "to connect, to link, to join",
-         "_category": "verbs"
+         "english": "to connect, to link, to join"
       },
       {
          "chinese": "以為",
          "jyutping": "ji5 wai4",
          "pinyin": "yǐ wéi",
-         "english": "to mistakenly believe, to be under the impression, to have thought that",
-         "_category": "verbs"
+         "english": "to mistakenly believe, to be under the impression, to have thought that"
       },
       {
          "chinese": "留意",
          "jyutping": "lau4 ji3",
          "pinyin": "liú yì",
-         "english": "to look for, to keep and eye out for, to pay attention to",
-         "_category": "verbs"
+         "english": "to look for, to keep and eye out for, to pay attention to"
       },
       {
          "chinese": "昭呼",
          "jyutping": "ziu1 fu1",
          "pinyin": "zhāo hū",
-         "english": "to look after, to take care of, to greet",
-         "_category": "verbs"
+         "english": "to look after, to take care of, to greet"
       },
       {
          "chinese": "希望",
          "jyutping": "hei1 mong6",
          "pinyin": "xī wàng",
-         "english": "to hope, to wish",
-         "_category": "verbs"
+         "english": "to hope, to wish"
       },
       {
          "chinese": "打擾",
          "jyutping": "dǎ rǎo",
          "pinyin": "daa2 jiu2",
-         "english": "to disturb, to trouble, to bother",
-         "_category": "verbs"
+         "english": "to disturb, to trouble, to bother"
       },
       {
          "chinese": "彈劾",
          "jyutping": "taan4 hat6",
          "pinyin": "tán hé",
-         "english": "to impeach, to indict, to accuse of misconduct",
-         "_category": "verbs"
+         "english": "to impeach, to indict, to accuse of misconduct"
       },
       {
          "chinese": "影響",
          "jyutping": "jing2 hoeng2",
          "pinyin": "yǐng xiǎng",
-         "english": "to influence, to affect, to disturb",
-         "_category": "verbs"
+         "english": "to influence, to affect, to disturb"
       },
       {
          "chinese": "超越",
          "jyutping": "ciu1 jyut6",
          "pinyin": "chāo yuè",
-         "english": "to exceed, to surpass, to transcend",
-         "_category": "verbs"
+         "english": "to exceed, to surpass, to transcend"
       },
       {
          "chinese": "繼承",
          "jyutping": "gai3 sing4",
          "pinyin": "jì chéng",
-         "english": "to inherit, to succeed, to carry on (e.g. a tradition)",
-         "_category": "verbs"
-      },
-      {
-         "chinese": "醞釀",
-         "jyutping": "wan5 jeong6",
-         "pinyin": "yùn niàng",
-         "english": "to ferment, to brew",
-         "_category": "verbs",
-         "_subcategory": "cooking"
+         "english": "to inherit, to succeed, to carry on (e.g. a tradition)"
       },
       {
          "chinese": "面對",
          "jyutping": "min6 deoi3",
          "pinyin": "miàn duì",
-         "english": "to face, to confront",
-         "_category": "verbs"
+         "english": "to face, to confront"
       },
       {
          "chinese": "阻滯",
          "jyutping": "zo2 zai6",
          "pinyin": "zǔ zhì",
-         "english": "to block, to obstruct, to clog up",
-         "_category": "verbs"
+         "english": "to block, to obstruct, to clog up"
       },
       {
          "chinese": "支持",
          "jyutping": "zi1 ci4",
          "pinyin": "zhī chí",
-         "english": "to back, to support, to be in favor of",
-         "_category": "verbs"
+         "english": "to back, to support, to be in favor of"
       },
       {
          "chinese": "爭取",
          "jyutping": "zang1 ceoi2",
          "pinyin": "zhēng qǔ",
-         "english": "to fight for, to strive for, to win over",
-         "_category": "verbs"
+         "english": "to fight for, to strive for, to win over"
       },
       {
          "chinese": "抗爭",
          "jyutping": "kong3 zang1",
          "pinyin": "kàng zhēng",
-         "english": "to make a stand against, to resist",
-         "_category": "verbs"
+         "english": "to make a stand against, to resist"
       },
       {
          "chinese": "建議",
          "jyutping": "gin3 ji5",
          "pinyin": "jiàn yì",
-         "english": "to suggest, to recommend, to propose, to advise",
-         "_category": "verbs"
+         "english": "to suggest, to recommend, to propose, to advise"
       },
       {
          "chinese": "餓死",
          "jyutping": "ngo6 sei2",
          "pinyin": "è sǐ",
-         "english": "to starve to death, to be extremely hungry",
-         "_category": "verbs"
-      },
-      {
-         "chinese": "餓死",
-         "jyutping": "ngo6 sei2",
-         "pinyin": "è sǐ",
-         "english": "to starve to death, to be extremely hungry",
-         "_category": "verbs"
+         "english": "to starve to death, to be extremely hungry"
       },
       {
          "chinese": "保衛",
          "jyutping": "bou2 wai6",
          "pinyin": "bǎo wèi",
-         "english": "to defend, to safeguard",
-         "_category": "verbs"
+         "english": "to defend, to safeguard"
       },
       {
          "chinese": "建立",
          "jyutping": "gin3 laap6",
          "pinyin": "jiàn lì",
-         "english": "to found, to set up, to establish",
-         "_category": "verbs"
+         "english": "to found, to set up, to establish"
       },
       {
          "chinese": "分解",
          "jyutping": "fan1 gaai2",
          "pinyin": "fēn jiě",
-         "english": "to resolve, to decompose, to break down",
-         "_category": "verbs"
+         "english": "to resolve, to decompose, to break down"
+      }, 
+      {
+         "chinese": "發現",
+         "jyutping": "faat3 jin6",
+         "pinyin": "fā xiàn",
+         "english": "to discover, to find out"
+      }, 
+      {
+         "chinese": "娛樂",
+         "jyutping": "jyu4 lok6",
+         "pinyin": "yú lè",
+         "english": "to entertain, to amuse"
       }
    ]
 }

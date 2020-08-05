@@ -22,7 +22,8 @@
          "english": "literature"
       },
       {
-         "chinese": "雙關<br>雙関",
+         "chinese": "雙關",
+         "chinese_variation": "雙関", 
          "jyutping": "soeng1 gwaan1",
          "pinyin": "shuāng guān",
          "english": "pun, play on words"

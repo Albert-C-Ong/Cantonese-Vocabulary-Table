@@ -12,13 +12,15 @@
          "chinese": "一",
          "jyutping": "jat1",
          "pinyin": "yī",
-         "english": "one"
+         "english": "one", 
+         "priority": 1
       },
       {
          "chinese": "二",
          "jyutping": "ji6",
          "pinyin": "èr",
-         "english": "two"
+         "english": "two", 
+         "priority": 2
       },
       {
          "chinese": "三",

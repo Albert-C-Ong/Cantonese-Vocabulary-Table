@@ -99,7 +99,8 @@
          "english": "blood"
       },
       {
-         "chinese": "頭髮<br>頭髪",
+         "chinese": "頭髮",
+         "chinese_variation": "頭髪", 
          "jyutping": "tau4 faat3",
          "pinyin": "tóu fa",
          "english": "hair (on the head)"
@@ -145,6 +146,30 @@
          "jyutping": "sau2 bei3",
          "pinyin": "shǒu bì",
          "english": "arm"
+      },
+      {
+         "chinese": "三圍",
+         "jyutping": "saam1 wai4",
+         "pinyin": "sān wéi",
+         "english": "bust/waist/hip measurements, woman's three measurements"
+      }, 
+      {
+         "chinese": "胸圍",
+         "jyutping": "hung1 wai4",
+         "pinyin": "xiōng wéi",
+         "english": "bust measurement, bust size"
+      },
+      {
+         "chinese": "腰圍",
+         "jyutping": "jiu1 wai4",
+         "pinyin": "yāo wéi",
+         "english": "waist measurement, waistline"
+      },
+      {
+         "chinese": "臀圍",
+         "jyutping": "tyun4 wai4",
+         "pinyin": "tún wéi",
+         "english": "hip measurement"
       },
       {
          "chinese": "二頭肌",

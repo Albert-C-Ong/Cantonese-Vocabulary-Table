@@ -139,6 +139,18 @@
          "jyutping": "fu6 gan6",
          "pinyin": "fù jìn",
          "english": "nearby, vicinity"
+      },
+      {
+         "chinese": "呢度",
+         "jyutping": "ni1 dou6",
+         "pinyin": "ne dù",
+         "english": "here"
+      }, 
+      {
+         "chinese": "嗰度",
+         "jyutping": "go2 dou6",
+         "pinyin": "gè dù",
+         "english": "there"
       }
    ]
 }

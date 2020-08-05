@@ -304,10 +304,28 @@
        "english": "gloomy, hidden, secret, muddled"
     },
     {
+       "chinese": "底",
+       "jyutping": "dai2",
+       "pinyin": "dǐ",
+       "english": "cheap, worthwhile, great bargain"
+    },
+    {
+       "chinese": "平",
+       "jyutping": "peng4",
+       "pinyin": "píng",
+       "english": "cheap, inexpensive"
+    },
+    {
        "chinese": "國際",
        "jyutping": "gwok3 zai3",
        "pinyin": "guó jì",
        "english": "international, global"
+    },
+    {
+       "chinese": "州立",
+       "jyutping": "zau1 laap6",
+       "pinyin": "zhōu lì",
+       "english": "state-run (especially of a university)"
     },
     {
        "chinese": "平安",

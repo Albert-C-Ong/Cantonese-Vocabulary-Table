@@ -15,8 +15,7 @@ function print_category($category) {
                      $word["chinese_variation"], 
                      $word["jyutping"], 
                      $word["pinyin"], 
-                     $word["english"], 
-                     $word["priority"]); 
+                     $word["english"]); 
 
     array_push($sorted_words, $word); 
   }
