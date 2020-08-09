@@ -100,6 +100,24 @@
          "english": "more, further, even more"
       },
       {
+         "chinese": "只",
+         "jyutping": "zi2",
+         "pinyin": "zhǐ",
+         "english": "only, just, simply, merely"
+      },
+      {
+        "chinese": "才",
+        "jyutping": "cái",
+        "pinyin": "coi4",
+        "english": "only, just, merely"
+      }, 
+      {
+         "chinese": "無",
+         "jyutping": "mou4",
+         "pinyin": "wú",
+         "english": "not, have not"
+      },
+      {
          "chinese": "不斷",
          "jyutping": "bat1 dyun6",
          "pinyin": "bù duàn",
@@ -539,6 +557,36 @@
       "jyutping": "tung4 si4",
       "pinyin": "tóng shí",
       "english": "simultaneously, at the same time"
+    },
+    {
+         "chinese": "例如",
+         "jyutping": "lai6 jyu4",
+         "pinyin": "lì rú",
+         "english": "for example"
+    },
+    {
+         "chinese": "而且",
+         "jyutping": "ji4 ce2",
+         "pinyin": "ér qiě",
+         "english": "furthermore, in addition, moreover"
+    },
+    {
+         "chinese": "然後",
+         "jyutping": "jin4 hau6",
+         "pinyin": "rán hòu",
+         "english": "then, after that, afterwards, and"
+    },
+    {
+         "chinese": "或者",
+         "jyutping": "waak6 ze2",
+         "pinyin": "huò zhě",
+         "english": "or, possibly ,maybe"
+    },
+    {
+         "chinese": "以來",
+         "jyutping": "ji5 loi4",
+         "pinyin": "yǐ lái",
+         "english": "since (a previous event)"
     },
     {
       "chinese": "事實上",

@@ -87,10 +87,22 @@
          "english": "supply and demand"
       },
       {
+         "chinese": "貿易",
+         "jyutping": "mau6 jik6",
+         "pinyin": "mào yì",
+         "english": "trade"
+      },
+      {
          "chinese": "不平等",
          "jyutping": "bat1 ping4 dang2",
          "pinyin": "bù píng děng",
          "english": "inequality, unfairness"
+      },
+      {
+         "chinese": "貿易戰",
+         "jyutping": "mau6 jik6 zin3",
+         "pinyin": "mào yì zhàn",
+         "english": "trade war"
       },
       {
          "chinese": "資本主義",

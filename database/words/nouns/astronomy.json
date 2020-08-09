@@ -57,7 +57,8 @@
          "english": "galaxy, stellar system"
       },
       {
-         "chinese": "星云<br>星雲",
+         "chinese": "星云",
+         "chinese_variation": "星雲", 
          "jyutping": "sing1 wan4",
          "pinyin": "xīng yún",
          "english": "nebular<br>(lit. star cloud)"
@@ -69,7 +70,8 @@
          "english": "black hole"
       },
       {
-         "chinese": "彗星<br>慧星",
+         "chinese": "彗星",
+         "chinese_variation": "慧星", 
          "jyutping": "seoi6 sing1",
          "pinyin": "huì xīng",
          "english": "comet"
@@ -87,7 +89,8 @@
          "english": "space alien, extraterrestrial"
       },
       {
-         "chinese": "外星球<br>外星毬",
+         "chinese": "外星球",
+         "chinese_variation": "外星毬", 
          "jyutping": "ngoi6 sing1 kau4",
          "pinyin": "wài xīng qiú",
          "english": "exoplanet<br>(lit. foreign planet)"

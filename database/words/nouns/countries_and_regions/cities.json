@@ -51,7 +51,8 @@
          "english": "Chinatown"
       },
       {
-         "chinese": "矽谷<br>矽唂",
+         "chinese": "矽谷",
+         "chinese_variation": "矽唂", 
          "jyutping": "zik6 guk1",
          "pinyin": "xī gǔ",
          "english": "Silicon Valley"
@@ -97,6 +98,12 @@
          "jyutping": "tong4 jan4 gaai1",
          "pinyin": "táng rén jiē",
          "english": "Chinatown"
+      }, 
+      {
+         "chinese": "沙加緬度",
+         "jyutping": "saa1 gaa1 min5 dou6",
+         "pinyin": "shā jiā miǎn duó",
+         "english": "Sacramento" 
       }
    ]
 }

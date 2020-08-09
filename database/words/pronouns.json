@@ -27,6 +27,18 @@
          "english": "he, him, she, her, it"
       },
       {
+         "chinese": "呢",
+         "jyutping": "ni1, nei1",
+         "pinyin": "ní",
+         "english": "this"
+      },
+      {
+         "chinese": "嗰",
+         "jyutping": "go2",
+         "pinyin": "gè",
+         "english": "that"
+      },
+      {
          "chinese": "我哋",
          "jyutping": "ngo5 dei6",
          "pinyin": "wǒ dì",
@@ -73,6 +85,12 @@
          "jyutping": "go2 go3",
          "pinyin": "gě gè",
          "english": "that"
+      }, 
+      {
+         "chinese": "大家",
+         "jyutping": "daai6 gaa1",
+         "pinyin": "dà jiā",
+         "english": "everybody, everyone"
       }
    ]
 }

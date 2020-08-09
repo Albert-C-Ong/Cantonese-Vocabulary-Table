@@ -166,7 +166,8 @@
       "english": "fat"
     },
     {
-      "chinese": "裸<br>倮",
+      "chinese": "裸",
+      "chinese_variation": "倮", 
       "jyutping": "lo2",
       "pinyin": "luǒ",
       "english": "naked, nude"
@@ -316,6 +317,18 @@
        "english": "cheap, inexpensive"
     },
     {
+         "chinese": "值得",
+         "jyutping": "zik6 dak1",
+         "pinyin": "zhí dé",
+         "english": "worthwhile"
+    },
+    {
+         "chinese": "自動",
+         "jyutping": "zi6 dung6",
+         "pinyin": "zì dòng",
+         "english": "automatic, voluntary"
+    },
+    {
        "chinese": "國際",
        "jyutping": "gwok3 zai3",
        "pinyin": "guó jì",
@@ -363,6 +376,18 @@
       "pinyin": "chū míng",
       "english": "famous"
     },
+    {
+        "chinese": "知名",
+        "jyutping": "zi1 meng2",
+        "pinyin": "zhī míng",
+        "english": "well-known, famous"
+    }, 
+    {
+        "chinese": "有名",
+        "jyutping": "jau5 meng2",
+        "pinyin": "yǒu míng",
+        "english": "well-known, famous"
+    }, 
     {
       "chinese": "辛苦",
       "jyutping": "san1 fu2",

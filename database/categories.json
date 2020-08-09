@@ -40,6 +40,11 @@
     },
     
     {
+      "name": "Conjunctions",
+      "chinese": "連接詞"
+    },
+    
+    {
       "name": "Nouns",
       "chinese": "名詞", 
       
@@ -170,8 +175,7 @@
         },
         {
           "name": "Economics",
-          "chinese": "經濟",
-          "incomplete": true
+          "chinese": "經濟"
         }, 
         {
           "name": "Family and Friends",

@@ -374,7 +374,7 @@
          "chinese": "膽量",
          "jyutping": "daam2 loeng6",
          "pinyin": "dǎn liàng",
-         "english": "courage, boldness, guts<br>>(written)"
+         "english": "courage, boldness, guts (written)"
       },
       {
          "chinese": "圖案",
@@ -681,6 +681,12 @@
          "english": "excrement, feces, poop"
       },
       {
+        "chinese": "試用期",
+        "jyutping": "si3 jung6 kei4",
+        "pinyin": "shì yòng qī",
+        "english": "trial period, probation period"
+      }, 
+      {
          "chinese": "書呆子",
          "jyutping": "syu1 daai1 zi2",
          "pinyin": "shū dāi zi",
@@ -697,6 +703,18 @@
          "jyutping": "faan1 gwai3 wui4 lou6",
          "pinyin": "fǎn kuì huí lù",
          "english": "feedback loop"
+      }, 
+      {
+        "chinese": "後座育兒",
+        "jyutping": "hau6 zo6 juk6 ji4",
+        "pinyin": "hòu zuò yù ér",
+        "english": "backseat parenting"
+      }, 
+      {
+        "chinese": "住房危機",
+        "jyutping": "zyu6 fong2 ngai4 gei1",
+        "pinyin": "zhù fáng wēi jī",
+        "english": "housing crisis"
       }
    ]
 }

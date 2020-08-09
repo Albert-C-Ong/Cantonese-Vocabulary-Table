@@ -16,6 +16,12 @@
          "english": "to return (to), to come back"
       },
       {
+        "chinese": "回",
+        "jyutping": "wui4",
+        "pinyin": "huí",
+        "english": "to return, to go back"
+      }, 
+      {
          "chinese": "嚟",
          "jyutping": "lei4",
          "pinyin": "lì",
@@ -45,6 +51,12 @@
          "pinyin": "fēi",
          "english": "to fly"
       },
+      {
+        "chinese": "乘",
+        "jyutping": "sing4",
+        "pinyin": "chéng",
+        "english": "to mount, to ride, to take (a form of transport)"
+      }, 
       {
          "chinese": "出去",
          "jyutping": "ceot1 heoi3",
