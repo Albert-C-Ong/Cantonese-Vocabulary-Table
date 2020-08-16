@@ -1,0 +1,67 @@
+{
+  "name": "Legislation",
+  "chinese": "立法",
+  "words": 
+  [
+     {
+         "chinese": "立法",
+         "jyutping": "lap6 faat3",
+         "pinyin": "lì fǎ",
+         "english": "legislation"
+      },
+     {
+         "chinese": "法案",
+         "jyutping": "faat3 on3",
+         "pinyin": "fǎ àn",
+         "english": "bill, proposed law"
+      },
+      {
+         "chinese": "國會",
+         "jyutping": "gwok3 wui6",
+         "pinyin": "guó huì",
+         "english": "national assembly, parliament, congress"
+      },
+      {
+         "chinese": "條例",
+         "jyutping": "tiu4 lai6",
+         "pinyin": "tiáo lì",
+         "english": "rule, regulation, ordinance"
+      },
+      {
+         "chinese": "委員",
+         "jyutping": "wai1 jyun4",
+         "pinyin": "wěi yuán",
+         "english": "committee, council"
+      },
+      {
+         "chinese": "大會",
+         "jyutping": "daai6 wui6",
+         "pinyin": "dà huì",
+         "english": "general assembly, general meeting, convention"
+      },
+      {
+         "chinese": "法規",
+         "jyutping": "faat3 kwai1",
+         "pinyin": "fǎ guī",
+         "english": "law, legislation, ordinance"
+      },
+      {
+         "chinese": "主席",
+         "jyutping": "zyu2 zik6",
+         "pinyin": "zhǔ xí",
+         "english": "chairperson, chairman"
+      },
+      {
+         "chinese": "參議院",
+         "jyutping": "caam1 ji5 jyun6",
+         "pinyin": "cān yì yuàn",
+         "english": "upper house, Senate"
+      },
+      {
+         "chinese": "眾議院",
+         "jyutping": "zung3 ji5 jyun6",
+         "pinyin": "zhòng yì yuàn",
+         "english": "lower house, House of Representatives"
+      }
+   ]
+}

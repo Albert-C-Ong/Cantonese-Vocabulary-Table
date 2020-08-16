@@ -15,7 +15,8 @@
          "english": "unit of measure"
       },
       {
-         "chinese": "規模<br>槼模",
+         "chinese": "規模",
+         "chinese_variation": "槼模", 
          "jyutping": "kwai1 mou4",
          "pinyin": "guī mó",
          "english": "scale, size, scope"
@@ -67,6 +68,24 @@
          "jyutping": "wan1 dou6",
          "pinyin": "wēn dù",
          "english": "temperature"
+      },
+      {
+         "chinese": "溫標",
+         "jyutping": "wan1 biu1",
+         "pinyin": "wēn​ biāo",
+         "english": "temperature scale"
+      },
+      {
+         "chinese": "攝氏",
+         "jyutping": "sip3 si6",
+         "pinyin": "shè shì",
+         "english": "Celsius, centigrade"
+      },
+      {
+         "chinese": "華氏",
+         "jyutping": "waa4 si6",
+         "pinyin": "huá shì",
+         "english": "Farhenheit"
       },
       {
          "chinese": "質量",

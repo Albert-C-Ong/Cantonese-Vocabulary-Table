@@ -1,0 +1,78 @@
+{
+   "name": "Gemstones", 
+   "chinese": "寶石", 
+   "words": [
+      {
+         "chinese": "玉",
+         "jyutping": "juk6",
+         "pinyin": "yù",
+         "english": "jade"
+      },
+      {
+         "chinese": "寶石",
+         "jyutping": "bou2 sek6",
+         "pinyin": "bǎo shí",
+         "english": "gemstone, gem, precious stone"
+      },
+      {
+         "chinese": "珍珠",
+         "jyutping": "zan1 zyu1",
+         "pinyin": "zhēn zhū",
+         "english": "pearl"
+      }, 
+      {
+         "chinese": "鑽石",
+         "jyutping": "zyun3 sek6",
+         "pinyin": "zuàn shí",
+         "english": "diamond"
+      },
+      {
+         "chinese": "石英",
+         "jyutping": "sek6 jing1",
+         "pinyin": "shí​ yīng",
+         "english": "quartz"
+      },
+      {
+         "chinese": "琥珀",
+         "jyutping": "fuâ paak3",
+         "pinyin": "hǔ​ pò",
+         "english": "amber"
+      },      
+      {
+         "chinese": "黃玉",
+         "jyutping": "wong4 juk6",
+         "pinyin": "huáng yù",
+         "english": "topaz (lit. yellow jade)"
+      },
+      {
+         "chinese": "祖母綠",
+         "jyutping": "zou2 moù luk̉",
+         "pinyin": "zǔ​ mǔ​ lǜ",
+         "english": "emerald"
+      }, 
+      {
+         "chinese": "紅寶石",
+         "jyutping": "hung4 bou2 sek6",
+         "pinyin": "hóng bǎo shí",
+         "english": "ruby (lit. red gem)"
+      }, 
+      {
+         "chinese": "藍寶石",
+         "jyutping": "laam4 bou2 sek6",
+         "pinyin": "lán bǎo shí",
+         "english": "sapphire (lit. blue gem)"
+      }, 
+      {
+         "chinese": "紫水晶",
+         "jyutping": "zi2 seoi2 zing1",
+         "pinyin": "zǐ​ shuǐ ​jīng",
+         "english": "amethyst (lit. purple water crystal)"
+      }, 
+      {
+         "chinese": "石榴石",
+         "jyutping": "sek6 lau4 sek6",
+         "pinyin": "shí liú shí",
+         "english": "garnet"
+      }
+   ]
+}

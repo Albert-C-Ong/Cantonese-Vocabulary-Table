@@ -51,12 +51,6 @@
          "english": "protest"
       },
       {
-         "chinese": "條例",
-         "jyutping": "tiu4 lai6",
-         "pinyin": "tiáo lì",
-         "english": "rule, regulation, ordinance"
-      },
-      {
          "chinese": "審訊",
          "jyutping": "sam2 seon3",
          "pinyin": "shěn xùn",
@@ -93,18 +87,6 @@
          "english": "republic"
       },
       {
-         "chinese": "國會",
-         "jyutping": "gwok3 wui6",
-         "pinyin": "guó huì",
-         "english": "national assembly, parliament, congress"
-      },
-      {
-         "chinese": "法案",
-         "jyutping": "faat3 on3",
-         "pinyin": "fǎ àn",
-         "english": "bill, proposed law"
-      },
-      {
          "chinese": "總統",
          "jyutping": "zung2 tung2",
          "pinyin": "zǒng tǒng",
@@ -115,30 +97,6 @@
          "jyutping": "ngoi6 gaau1",
          "pinyin": "wài jiāo",
          "english": "diplomacy, foreign affairs"
-      },
-      {
-         "chinese": "委員",
-         "jyutping": "wai1 jyun4",
-         "pinyin": "wěi yuán",
-         "english": "committee, council"
-      },
-      {
-         "chinese": "大會",
-         "jyutping": "daai6 wui6",
-         "pinyin": "dà huì",
-         "english": "general assembly, general meeting, convention"
-      },
-      {
-         "chinese": "法規",
-         "jyutping": "faat3 kwai1",
-         "pinyin": "fǎ guī",
-         "english": "law, legislation, ordinance"
-      },
-      {
-         "chinese": "主席",
-         "jyutping": "zyu2 zik6",
-         "pinyin": "zhǔ xí",
-         "english": "chairperson, chairman"
       },
       {
          "chinese": "領袖",
@@ -171,12 +129,6 @@
          "english": "situation of an election, the current state of a candidate's campaign<br>(lit. election feeling)<br>"
       },
       {
-         "chinese": "立法",
-         "jyutping": "lap6 faat3",
-         "pinyin": "lì fǎ",
-         "english": "legislation"
-      },
-      {
          "chinese": "公民",
          "jyutping": "gung1 man4",
          "pinyin": "gōng mín",
@@ -205,18 +157,6 @@
          "jyutping": "gung1 man4 kyun4",
          "pinyin": "gōng mín quán",
          "english": "citizenship, civil rights"
-      },
-      {
-         "chinese": "參議院",
-         "jyutping": "caam1 ji5 jyun6",
-         "pinyin": "cān yì yuàn",
-         "english": "upper house, Senate"
-      },
-      {
-         "chinese": "眾議院",
-         "jyutping": "zung3 ji5 jyun6",
-         "pinyin": "zhòng yì yuàn",
-         "english": "lower house, House of Representatives"
       },
       {
          "chinese": "示威者",
@@ -264,15 +204,13 @@
          "chinese": "政治人物",
          "jyutping": "zing3 zi6 jan4 mat6",
          "pinyin": "zhèng zhì rén wù",
-         "english": "politician, statesman",
-         "__text": "chinese>"
+         "english": "politician, statesman"
       },
       {
          "chinese": "象徵性言語",
          "jyutping": "zoeng6 zi2 sing3 jin4 jyu5",
          "pinyin": "xiàng zhēng xìng yán yǔ",
-         "english": "symbolic speech",
-         "__text": "chinese>"
+         "english": "symbolic speech"
       }
    ]
 }

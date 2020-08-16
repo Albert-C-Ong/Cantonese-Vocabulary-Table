@@ -189,6 +189,18 @@
          "english": "Facebook"
       },
       {
+         "chinese": "連登",
+         "jyutping": "lin4 dang1",
+         "pinyin": "lián dēng",
+         "english": "LIGHK"
+      },
+      {
+         "chinese": "討論區",
+         "jyutping": "tou2 leon4 keoi1",
+         "pinyin": "tǎo​ lùn​ qū",
+         "english": "forum (especially online)"
+      },
+      {
          "chinese": "聊天室",
          "jyutping": "liu4 tin1 sat1",
          "pinyin": "liáo tiān shì",
@@ -249,13 +261,15 @@
          "english": "computer program"
       },
       {
-         "chinese": "電腦遊戲<br>電腦游戯",
+         "chinese": "電腦遊戲",
+         "chinese_variation": "電腦游戯", 
          "jyutping": "din6 nou5 jau4 hei3",
          "pinyin": "diàn nǎo yóu xì",
          "english": "computer game, videogame"
       },
       {
-         "chinese": "操作系統<br>操作係彤",
+         "chinese": "操作系統",
+          "chinese_variation": "操作係彤", 
          "jyutping": "cou1 zok3 hai6 tung2",
          "pinyin": "cāo zuò xì tǒng",
          "english": "operating system"

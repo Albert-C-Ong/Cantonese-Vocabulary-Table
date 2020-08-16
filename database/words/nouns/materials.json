@@ -3,7 +3,8 @@
    "chinese": "材料", 
    "words": [
       {
-         "chinese": "紙<br>帋",
+         "chinese": "紙",
+          "chinese_variation": "帋", 
          "jyutping": "zi6",
          "pinyin": "zhǐ",
          "english": "paper (material)"
@@ -39,24 +40,6 @@
          "english": "leather, animal hide"
       },
       {
-         "chinese": "金",
-         "jyutping": "gam1",
-         "pinyin": "jīn",
-         "english": "gold"
-      },
-      {
-         "chinese": "銀",
-         "jyutping": "ngan2",
-         "pinyin": "yín",
-         "english": "silver"
-      },
-      {
-         "chinese": "鋁",
-         "jyutping": "leoi5",
-         "pinyin": "lǚ",
-         "english": "aluminum"
-      },
-      {
          "chinese": "材料",
          "jyutping": "coi4 liu2",
          "pinyin": "cái liào",
@@ -69,12 +52,6 @@
          "english": "rubber (material)"
       },
       {
-         "chinese": "金屬",
-         "jyutping": "gam1 suk6",
-         "pinyin": "jīn shǔ",
-         "english": "metal"
-      },
-      {
          "chinese": "玻璃",
          "jyutping": "bo1 lei4",
          "pinyin": "bō li",
@@ -85,12 +62,6 @@
          "jyutping": "zi2 baan2",
          "pinyin": "zhǐ bǎn",
          "english": "cardboard"
-      },
-      {
-         "chinese": "珍珠",
-         "jyutping": "zan1 zyu1",
-         "pinyin": "zhēn zhū",
-         "english": "pearl"
       },
       {
          "chinese": "混凝土",

@@ -268,7 +268,19 @@
         },
         {
           "name": "Materials",
-          "chinese": "材料"
+          "chinese": "材料", 
+          
+          "subcategories": 
+          [
+             {
+                "name": "Gemstones",
+                "chinese": "寶石"
+             }, 
+             {
+                "name": "Metals",
+                "chinese": "金屬"
+             }
+          ]
         },
         {
           "name": "Mathematics",
@@ -294,7 +306,6 @@
         {
           "name": "Media",
           "chinese": "媒體",
-          "incomplete": true, 
           
           "subcategories": 
           [
@@ -359,6 +370,10 @@
           
           "subcategories": 
           [
+             {
+                "name": "Legislation",
+                "chinese": "立法"
+             },
              {
                 "name": "Politicians",
                 "chinese": "政治人物",

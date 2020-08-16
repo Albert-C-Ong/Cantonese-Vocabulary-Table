@@ -35,10 +35,41 @@
          "english": "antagonist, opponent, adversary"
       },
       {
+         "chinese": "人物",
+         "jyutping": "jan4 mat6",
+         "pinyin": "rén ​wù",
+         "english": "character (in a story), protagonist"
+      },
+      {
+         "chinese": "角色",
+         "jyutping": "gok3 sik1",
+         "pinyin": "jué sè",
+         "english": "role, character (in a story)"
+      },
+      {
+         "chinese": "古仔",
+         "chinese_variation": "故仔", 
+         "jyutping": "gu2 zai2",
+         "pinyin": "gǔ zī​",
+         "english": "story, tale, narrative"
+      },
+      {
          "chinese": "主人公",
          "jyutping": "zyu2 jan4 gung1",
          "pinyin": "zhǔ rén gōng",
          "english": "protagonist, main character"
+      }, 
+      {
+         "chinese": "虛構古仔",
+         "jyutping": "heoi1 kau3 gu2 zai2",
+         "pinyin": "xū gòu gǔ zī​",
+         "english": "fiction"
+      },
+      {
+         "chinese": "非虛構古仔",
+         "jyutping": "fei1 heoi1 kau3 gu2 zai2",
+         "pinyin": "fēi xū gòu gǔ zī​",
+         "english": "nonfiction"
       }
    ]
 }
