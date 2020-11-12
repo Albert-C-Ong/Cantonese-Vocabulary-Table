@@ -166,6 +166,11 @@
           "chinese": "方向"
         },
         {
+          "name": "Disease",
+          "chinese": "病",
+          "incomplete": true
+        },
+        {
           "name": "Discrimination",
           "chinese": "歧視"
         },
@@ -254,11 +259,6 @@
           "chinese": "假日"
         },
         {
-          "name": "Illness",
-          "chinese": "病",
-          "incomplete": true
-        },
-        {
           "name": "Kitchenware",
           "chinese": "廚房用具"
         },
@@ -312,6 +312,10 @@
              {
                 "name": "Anime",
                 "chinese": "動漫"
+             },
+             {
+                "name": "Genres",
+                "chinese": "類型"
              },
              {
                 "name": "Literature",

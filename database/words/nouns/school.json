@@ -226,6 +226,12 @@
          "english": "course credit"
       },
       {
+        "chinese": "學位",
+        "jyutping": "hok6 wai2",
+        "pinyin": "xué wèi",
+        "english": "academic degree"
+      },
+      {
          "chinese": "期中考",
          "chinese_variation": "期中攷", 
          "jyutping": "kei4 zung1 haau2",

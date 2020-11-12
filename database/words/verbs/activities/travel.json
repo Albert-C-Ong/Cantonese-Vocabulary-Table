@@ -52,11 +52,11 @@
          "english": "to fly"
       },
       {
-        "chinese": "乘",
-        "jyutping": "sing4",
-        "pinyin": "chéng",
-        "english": "to mount, to ride, to take (a form of transport)"
-      }, 
+        "chinese": "入",
+        "jyutping": "jap6",
+        "pinyin": "rù",
+        "english": "to enter, to go into"
+      },
       {
          "chinese": "出去",
          "jyutping": "ceot1 heoi3",
@@ -123,6 +123,12 @@
          "pinyin": "jīng guò",
          "english": "to pass through, to go through"
       },
+      {
+        "chinese": "接駁",
+        "jyutping": "zip3 bok3",
+        "pinyin": "jiē bó",
+        "english": "to transfer passengers, to shuttle, to connect"
+      }, 
       {
          "chinese": "坐飛機",
          "jyutping": "zo6 fei1 gei1",

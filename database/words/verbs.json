@@ -171,7 +171,8 @@
          "english": "to gossip, to babble"
       },
       {
-         "chinese": "関<br>關",
+         "chinese": "関",
+         "chinese_variation": "關",
          "jyutping": "gwaan1",
          "pinyin": "guān",
          "english": "to close, to shut, to turn off"
@@ -537,7 +538,8 @@
          "english": "to impress, to try to please"
       },
       {
-         "chinese": "関注<br>關注",
+         "chinese": "関注",
+         "chinese_variation": "關注",
          "jyutping": "gwaan1 zyu3",
          "pinyin": "guān zhù",
          "english": "to pay attention, to follow"
@@ -675,7 +677,8 @@
          "english": "to be in a rush<br>(lit. monkey quick)"
       },
       {
-         "chinese": "回收<br>囘收",
+         "chinese": "回收",
+         "chinese_variation": "囘收",
          "jyutping": "wui4 sau1",
          "pinyin": "huí shōu",
          "english": "to recycle, to reuse"
@@ -849,7 +852,8 @@
          "english": "to attack, to assault"
       },
       {
-         "chinese": "擺布<br>擺佈",
+         "chinese": "擺布",
+         "chinese_variation": "擺佈", 
          "jyutping": "baai2 bou3",
          "pinyin": "bǎi bù",
          "english": "to arrange, to order about, to manipulate"
@@ -885,7 +889,8 @@
          "english": "to revise, to emend"
       },
       {
-         "chinese": "奪回<br>奪囘",
+         "chinese": "奪回",
+         "chinese_variation": "奪囘",
          "jyutping": "dyut6 wui4",
          "pinyin": "duó huí",
          "english": "to recapture, to take back, to retake"
@@ -1207,6 +1212,12 @@
          "jyutping": "lin4 zip3",
          "pinyin": "lián jiē",
          "english": "to link, to join, to connect"
+      }, 
+      {
+        "chinese": "完成",
+        "jyutping": "jyun4 sing4",
+        "pinyin": "wán chéng",
+        "english": "to complete, to accomplish"
       }
    ]
 }
