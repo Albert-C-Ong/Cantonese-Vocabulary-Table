@@ -1,8 +1,7 @@
 {
   "name": "Adjectives",
   "chinese": "形容詞",
-  "words": 
-  [
+  "words": [
     {
       "chinese": "下",
       "jyutping": "haa5",
@@ -167,7 +166,7 @@
     },
     {
       "chinese": "裸",
-      "chinese_variation": "倮", 
+      "chinese_variation": "倮",
       "jyutping": "lo2",
       "pinyin": "luǒ",
       "english": "naked, nude"
@@ -287,88 +286,88 @@
       "english": "chaotic, disorderly, unstable, volatile"
     },
     {
-       "chinese": "空",
-       "jyutping": "hung1",
-       "pinyin": "kōng",
-       "english": "empty, hollow, void"
+      "chinese": "空",
+      "jyutping": "hung1",
+      "pinyin": "kōng",
+      "english": "empty, hollow, void"
     },
     {
-       "chinese": "迫",
-       "jyutping": "bik1",
-       "pinyin": "pò",
-       "english": "crowded, packed"
+      "chinese": "迫",
+      "jyutping": "bik1",
+      "pinyin": "pò",
+      "english": "crowded, packed"
     },
     {
-       "chinese": "暗",
-       "jyutping": "am3",
-       "pinyin": "àn",
-       "english": "gloomy, hidden, secret, muddled"
+      "chinese": "暗",
+      "jyutping": "am3",
+      "pinyin": "àn",
+      "english": "gloomy, hidden, secret, muddled"
     },
     {
-       "chinese": "底",
-       "jyutping": "dai2",
-       "pinyin": "dǐ",
-       "english": "cheap, worthwhile, great bargain"
+      "chinese": "底",
+      "jyutping": "dai2",
+      "pinyin": "dǐ",
+      "english": "cheap, worthwhile, great bargain"
     },
     {
-       "chinese": "平",
-       "jyutping": "peng4",
-       "pinyin": "píng",
-       "english": "cheap, inexpensive"
+      "chinese": "平",
+      "jyutping": "peng4",
+      "pinyin": "píng",
+      "english": "cheap, inexpensive"
     },
     {
-         "chinese": "值得",
-         "jyutping": "zik6 dak1",
-         "pinyin": "zhí dé",
-         "english": "worthwhile"
+      "chinese": "值得",
+      "jyutping": "zik6 dak1",
+      "pinyin": "zhí dé",
+      "english": "worthwhile"
     },
     {
-         "chinese": "自動",
-         "jyutping": "zi6 dung6",
-         "pinyin": "zì dòng",
-         "english": "automatic, voluntary"
+      "chinese": "自動",
+      "jyutping": "zi6 dung6",
+      "pinyin": "zì dòng",
+      "english": "automatic, voluntary"
     },
     {
-       "chinese": "國際",
-       "jyutping": "gwok3 zai3",
-       "pinyin": "guó jì",
-       "english": "international, global"
+      "chinese": "國際",
+      "jyutping": "gwok3 zai3",
+      "pinyin": "guó jì",
+      "english": "international, global"
     },
     {
-       "chinese": "州立",
-       "jyutping": "zau1 laap6",
-       "pinyin": "zhōu lì",
-       "english": "state-run (especially of a university)"
+      "chinese": "州立",
+      "jyutping": "zau1 laap6",
+      "pinyin": "zhōu lì",
+      "english": "state-run (especially of a university)"
     },
     {
-       "chinese": "平安",
-       "jyutping": "ping4 on1",
-       "pinyin": "píng ān",
-       "english": "safe, peaceful, safe and sound"
+      "chinese": "平安",
+      "jyutping": "ping4 on1",
+      "pinyin": "píng ān",
+      "english": "safe, peaceful, safe and sound"
     },
     {
-       "chinese": "對外",
-       "jyutping": "deoi3 ngoi6",
-       "pinyin": "duì wài",
-       "english": "foreign, external"
+      "chinese": "對外",
+      "jyutping": "deoi3 ngoi6",
+      "pinyin": "duì wài",
+      "english": "foreign, external"
     },
     {
-       "chinese": "方便",
-       "jyutping": "fong1 bin6",
-       "pinyin": "fāng biàn",
-       "english": "convinient"
+      "chinese": "方便",
+      "jyutping": "fong1 bin6",
+      "pinyin": "fāng biàn",
+      "english": "convinient"
     },
     {
-       "chinese": "健康",
-       "jyutping": "gin6 hong1",
-       "pinyin": "jiàn kāng",
-       "english": "healthy"
+      "chinese": "健康",
+      "jyutping": "gin6 hong1",
+      "pinyin": "jiàn kāng",
+      "english": "healthy"
     },
     {
-       "chinese": "繁瑣",
-       "jyutping": "faan4 so2",
-       "pinyin": "fán suǒ",
-       "english": "complicated, tedious, overloaded with details"
+      "chinese": "繁瑣",
+      "jyutping": "faan4 so2",
+      "pinyin": "fán suǒ",
+      "english": "complicated, tedious, overloaded with details"
     },
     {
       "chinese": "出名",
@@ -377,17 +376,17 @@
       "english": "famous"
     },
     {
-        "chinese": "知名",
-        "jyutping": "zi1 meng2",
-        "pinyin": "zhī míng",
-        "english": "well-known, famous"
-    }, 
+      "chinese": "知名",
+      "jyutping": "zi1 meng2",
+      "pinyin": "zhī míng",
+      "english": "well-known, famous"
+    },
     {
-        "chinese": "有名",
-        "jyutping": "jau5 meng2",
-        "pinyin": "yǒu míng",
-        "english": "well-known, famous"
-    }, 
+      "chinese": "有名",
+      "jyutping": "jau5 meng2",
+      "pinyin": "yǒu míng",
+      "english": "well-known, famous"
+    },
     {
       "chinese": "辛苦",
       "jyutping": "san1 fu2",
@@ -783,12 +782,18 @@
       "jyutping": "mou4 gaa1 ho2 gwai1",
       "pinyin": "wú jiā kě guī",
       "english": "homeless"
-    }, 
+    },
     {
-       "chinese": "身無分文",
-       "jyutping": "san1 mou4 fan1 man4",
-       "pinyin": "shēn wú fēn wén",
-       "english": "penniless (idiom)"
+      "chinese": "身無分文",
+      "jyutping": "san1 mou4 fan1 man4",
+      "pinyin": "shēn wú fēn wén",
+      "english": "penniless (idiom)"
+    },
+    {
+      "chinese": "珍貴",
+      "jyutping": "zan1 gwai3",
+      "pinyin": "zhēn guì",
+      "english": "precious, cherished, valuable"
     }
   ]
 }

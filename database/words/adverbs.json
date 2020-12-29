@@ -1,8 +1,7 @@
 {
   "name": "Adverbs",
-  "chinese": "副詞", 
-  "words": 
-  [
+  "chinese": "副詞",
+  "words": [
     {
       "chinese": "最",
       "jyutping": "zeoi3",
@@ -87,48 +86,48 @@
       "pinyin": "bìng",
       "english": "and, also, furthermore"
     },
-     {
-         "chinese": "一",
-         "jyutping": "jat1",
-         "pinyin": "yī",
-         "english": "once, as soon as, upon"
-      },
-      {
-         "chinese": "更",
-         "jyutping": "gang3",
-         "pinyin": "gèng",
-         "english": "more, further, even more"
-      },
-      {
-         "chinese": "只",
-         "jyutping": "zi2",
-         "pinyin": "zhǐ",
-         "english": "only, just, simply, merely"
-      },
-      {
-        "chinese": "才",
-        "jyutping": "cái",
-        "pinyin": "coi4",
-        "english": "only, just, merely"
-      }, 
-      {
-         "chinese": "無",
-         "jyutping": "mou4",
-         "pinyin": "wú",
-         "english": "not, have not"
-      },
-      {
-         "chinese": "不斷",
-         "jyutping": "bat1 dyun6",
-         "pinyin": "bù duàn",
-         "english": "continuously, constantly"
-      },
-      {
-         "chinese": "一時",
-         "jyutping": "jat1 si4",
-         "pinyin": "yī shí",
-         "english": "for a short while, temporarily, momentarily"
-      },
+    {
+      "chinese": "一",
+      "jyutping": "jat1",
+      "pinyin": "yī",
+      "english": "once, as soon as, upon"
+    },
+    {
+      "chinese": "更",
+      "jyutping": "gang3",
+      "pinyin": "gèng",
+      "english": "more, further, even more"
+    },
+    {
+      "chinese": "只",
+      "jyutping": "zi2",
+      "pinyin": "zhǐ",
+      "english": "only, just, simply, merely"
+    },
+    {
+      "chinese": "才",
+      "jyutping": "cái",
+      "pinyin": "coi4",
+      "english": "only, just, merely"
+    },
+    {
+      "chinese": "無",
+      "jyutping": "mou4",
+      "pinyin": "wú",
+      "english": "not, have not"
+    },
+    {
+      "chinese": "不斷",
+      "jyutping": "bat1 dyun6",
+      "pinyin": "bù duàn",
+      "english": "continuously, constantly"
+    },
+    {
+      "chinese": "一時",
+      "jyutping": "jat1 si4",
+      "pinyin": "yī shí",
+      "english": "for a short while, temporarily, momentarily"
+    },
     {
       "chinese": "早排",
       "jyutping": "zou2 paai4",
@@ -293,7 +292,7 @@
     },
     {
       "chinese": "淨係",
-      "chinese_variation": "净係", 
+      "chinese_variation": "净係",
       "jyutping": "zing6 hai6",
       "pinyin": "jìng xì",
       "english": "only"
@@ -366,7 +365,7 @@
     },
     {
       "chinese": "陣間",
-      "chinese_variation": "陣閒", 
+      "chinese_variation": "陣閒",
       "jyutping": "zan6 gaan3",
       "pinyin": "zhèn jiān",
       "english": "soon, later, in a while"
@@ -463,7 +462,7 @@
     },
     {
       "chinese": "之間",
-      "chinese_variation": "之閒", 
+      "chinese_variation": "之閒",
       "jyutping": "zi1 gaan1",
       "pinyin": "zhī jiān",
       "english": "between, among"
@@ -559,40 +558,40 @@
       "english": "simultaneously, at the same time"
     },
     {
-         "chinese": "例如",
-         "jyutping": "lai6 jyu4",
-         "pinyin": "lì rú",
-         "english": "for example"
+      "chinese": "例如",
+      "jyutping": "lai6 jyu4",
+      "pinyin": "lì rú",
+      "english": "for example"
     },
     {
-         "chinese": "而且",
-         "jyutping": "ji4 ce2",
-         "pinyin": "ér qiě",
-         "english": "furthermore, in addition, moreover"
+      "chinese": "而且",
+      "jyutping": "ji4 ce2",
+      "pinyin": "ér qiě",
+      "english": "furthermore, in addition, moreover"
     },
     {
-         "chinese": "然後",
-         "jyutping": "jin4 hau6",
-         "pinyin": "rán hòu",
-         "english": "then, after that, afterwards, and"
+      "chinese": "然後",
+      "jyutping": "jin4 hau6",
+      "pinyin": "rán hòu",
+      "english": "then, after that, afterwards, and"
     },
     {
-         "chinese": "或者",
-         "jyutping": "waak6 ze2",
-         "pinyin": "huò zhě",
-         "english": "or, possibly ,maybe"
+      "chinese": "或者",
+      "jyutping": "waak6 ze2",
+      "pinyin": "huò zhě",
+      "english": "or, possibly ,maybe"
     },
     {
-         "chinese": "以來",
-         "jyutping": "ji5 loi4",
-         "pinyin": "yǐ lái",
-         "english": "since (a previous event)"
+      "chinese": "以來",
+      "jyutping": "ji5 loi4",
+      "pinyin": "yǐ lái",
+      "english": "since (a previous event)"
     },
     {
-         "chinese": "早前",
-         "jyutping": "zou2 cin4",
-         "pinyin": "zǎo qián",
-         "english": "previously, before"
+      "chinese": "早前",
+      "jyutping": "zou2 cin4",
+      "pinyin": "zǎo qián",
+      "english": "previously, before"
     },
     {
       "chinese": "事實上",
@@ -601,22 +600,28 @@
       "english": "actually, in reality, in fact"
     },
     {
-       "chinese": "進一步",
-       "jyutping": "zeon3 jat1 bou6",
-       "pinyin": "jìn yī bù",
-       "english": "to go a step further (in doing something)"
+      "chinese": "進一步",
+      "jyutping": "zeon3 jat1 bou6",
+      "pinyin": "jìn yī bù",
+      "english": "to go a step further (in doing something)"
     },
     {
-       "chinese": "另一方面",
-       "jyutping": "ling6 jat1 fong1 min6",
-       "pinyin": "lìng yī fāng miàn",
-       "english": "on the other hand"
-    }, 
+      "chinese": "另一方面",
+      "jyutping": "ling6 jat1 fong1 min6",
+      "pinyin": "lìng yī fāng miàn",
+      "english": "on the other hand"
+    },
     {
       "chinese": "按照字面",
       "jyutping": "on3 ziu3 zi6 min6",
       "pinyin": "àn zhào zì miàn",
       "english": "literally<br>(according to the wording)"
+    },
+    {
+      "chinese": "一起",
+      "jyutping": "jat1 hei2",
+      "pinyin": "yī qǐ",
+      "english": "together, with"
     }
   ]
 }
