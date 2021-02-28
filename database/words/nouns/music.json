@@ -1,42 +1,78 @@
 {
-   "name": "Music", 
-   "chinese": "音樂", 
-   "words": [
-      {
-         "chinese": "音",
-         "jyutping": "jam1",
-         "pinyin": "yīn",
-         "english": "sound, (musical) note"
-      },
-      {
-         "chinese": "歌",
-         "jyutping": "go1",
-         "pinyin": "gē",
-         "english": "song"
-      },
-      {
-         "chinese": "音樂",
-         "jyutping": "jam1 ngok6",
-         "pinyin": "yīn yuè",
-         "english": "music"
-      },
-      {
-         "chinese": "襍音",
-         "jyutping": "zaap6 jam1",
-         "pinyin": "zá yīn",
-         "english": "noise, murmur"
-      },
-      {
-         "chinese": "旋律",
-         "jyutping": "syun4 leot6",
-         "pinyin": "xuán lǜ",
-         "english": "melody, rhythm"
-      },
-      {
-         "chinese": "低音",
-         "jyutping": "dai1 jam1",
-         "pinyin": "dī yīn",
-         "english": "bass"
-      }
-   ]
+  "name": "Music",
+  "chinese": "音樂",
+  "words": [
+    {
+      "chinese": "音",
+      "jyutping": "jam1",
+      "pinyin": "yīn",
+      "english": "sound, (musical) note"
+    },
+    {
+      "chinese": "歌",
+      "jyutping": "go1",
+      "pinyin": "gē",
+      "english": "song"
+    },
+    {
+      "chinese": "音樂",
+      "jyutping": "jam1 ngok6",
+      "pinyin": "yīn yuè",
+      "english": "music"
+    },
+    {
+      "chinese": "襍音",
+      "jyutping": "zaap6 jam1",
+      "pinyin": "zá yīn",
+      "english": "noise, murmur"
+    },
+    {
+      "chinese": "旋律",
+      "jyutping": "syun4 leot6",
+      "pinyin": "xuán lǜ",
+      "english": "melody, rhythm"
+    },
+    {
+      "chinese": "樂團",
+      "jyutping": "ngok6 tyun4",
+      "pinyin": "yuè tuán",
+      "english": "orchestra"
+    },
+    {
+      "chinese": "樂隊",
+      "jyutping": "ngok6 deoi6",
+      "pinyin": "yuè duì",
+      "english": "band"
+    },
+    {
+      "chinese": "高音",
+      "jyutping": "gou1 jam1",
+      "pinyin": "gāo yīn",
+      "english": "treble, high pitch"
+    },
+    {
+      "chinese": "低音",
+      "jyutping": "dai1 jam1",
+      "pinyin": "dī yīn",
+      "english": "bass (pitch)"
+    },
+    {
+      "chinese": "二重奏",
+      "jyutping": "ji6 cung4 zau3",
+      "pinyin": "èr chóng zòu",
+      "english": "duet, duo"
+    },
+    {
+      "chinese": "三重奏",
+      "jyutping": "saam1 cung4 zau3",
+      "pinyin": "sān chóng zòu",
+      "english": "trio"
+    },
+    {
+      "chinese": "四重奏",
+      "jyutping": "sei3 cung4 zau3",
+      "pinyin": "sì chóng zòu",
+      "english": "quartet"
+    }
+  ]
 }

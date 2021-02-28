@@ -1,37 +1,120 @@
 {
   "name": "Instruments",
   "chinese": "樂器",
-  "words": 
-  [
-      {
-         "chinese": "鼓",
-         "jyutping": "gu2",
-         "pinyin": "gǔ",
-         "english": "drums"
-      },
-      {
-         "chinese": "樂器",
-         "jyutping": "ngok6 hei3",
-         "pinyin": "yuè qì",
-         "english": "musical instrument"
-      },
-      {
-         "chinese": "鋼琴",
-         "jyutping": "gong3 kam4",
-         "pinyin": "gāng qín",
-         "english": "piano"
-      },
-      {
-         "chinese": "吉他",
-         "jyutping": "gat1 taa1",
-         "pinyin": "jí tā",
-         "english": "guitar (loanword)"
-      },
-      {
-         "chinese": "小提琴",
-         "jyutping": "siu2 tai4 kam4",
-         "pinyin": "xiǎo tí qín",
-         "english": "violin"
-      }
-   ]
+  "words": [
+    {
+      "chinese": "鼓",
+      "jyutping": "gu2",
+      "pinyin": "gǔ",
+      "english": "drums"
+    },
+    {
+      "chinese": "樂器",
+      "jyutping": "ngok6 hei3",
+      "pinyin": "yuè qì",
+      "english": "musical instrument"
+    },
+    {
+      "chinese": "鋼琴",
+      "jyutping": "gong3 kam4",
+      "pinyin": "gāng qín",
+      "english": "piano"
+    },
+    {
+      "chinese": "吉他",
+      "jyutping": "gat1 taa1",
+      "pinyin": "jí tā",
+      "english": "guitar (loanword)"
+    },
+    {
+      "chinese": "小提琴",
+      "jyutping": "siu2 tai4 kam4",
+      "pinyin": "xiǎo tí qín",
+      "english": "violin"
+    },
+    {
+      "chinese": "中提琴  ",
+      "jyutping": "zung1 tai4 kam4",
+      "pinyin": "zhōng tí qín",
+      "english": "viola"
+    },
+    {
+      "chinese": "大提琴  ",
+      "jyutping": "daai6 tai4 kam4",
+      "pinyin": "dà tí qín",
+      "english": "cello, violoncello"
+    },
+    {
+      "chinese": "低音提琴  ",
+      "jyutping": "dai1 jam1 tai4 kam4",
+      "pinyin": "dī yīn tí qín",
+      "english": "double bass, contrabass"
+    },
+    {
+      "chinese": "小號",
+      "jyutping": "siu2 hou6",
+      "pinyin": "xiǎo hào",
+      "english": "trumpet"
+    },
+    {
+      "chinese": "大號",
+      "jyutping": "daai6 hou6",
+      "pinyin": "dà hào",
+      "english": "tuba"
+    },
+    {
+      "chinese": "長號",
+      "jyutping": "coeng4 hou6",
+      "pinyin": "cháng hào",
+      "english": "trombone"
+    },
+    {
+      "chinese": "法國號",
+      "jyutping": "faat3 gwok3 hou6",
+      "pinyin": "fǎ guó hào",
+      "english": "french horn"
+    },
+    {
+      "chinese": "上低音號",
+      "jyutping": "soeng6 dai1 jam1 hou6",
+      "pinyin": "shàng dī yīn hào",
+      "english": "baritone"
+    },
+    {
+      "chinese": "色士風",
+      "jyutping": "sik1 si6 fung1",
+      "pinyin": "sè shì fēng",
+      "english": "saxophone"
+    },
+    {
+      "chinese": "高音色士風",
+      "jyutping": "gou1 jam1 sik1 si6 fung1",
+      "pinyin": "gāo yīn sè shì fēng",
+      "english": "soprano saxophone"
+    },
+    {
+      "chinese": "中音色士風",
+      "jyutping": "zung1 jam1 sik1 si6 fung1",
+      "pinyin": "zhōng yīn sè shì fēng",
+      "english": "alto saxophone"
+    },
+    {
+      "chinese": "次中音色士風",
+      "jyutping": "ci3 zung1 jam1 sik1 si6 fung1",
+      "pinyin": "cì zhōng yīn sè shì fēng",
+      "english": "tenor saxophone"
+    },
+    {
+      "chinese": "上低音色士風",
+      "jyutping": "soeng6 dai1 sik1 si6 fung1",
+      "pinyin": "shàng dī yīn sè shì fēng",
+      "english": "baritone saxophone"
+    },
+    {
+      "chinese": "長笛",
+      "jyutping": "coeng4 dek6",
+      "pinyin": "cháng dí",
+      "english": "flute"
+    }
+  ]
 }

@@ -42,7 +42,7 @@ def write_to_json(filename, word_data):
     
     json.dump(data, f, indent = 2, ensure_ascii = False)
     
-    write_message = "".join(["Wrote to ", word_data[0], " '", filename, "'"])
+    write_message = "".join(["Wrote ", word_data[0], " to '", filename, "'"])
     print(write_message)
   
   
@@ -51,12 +51,13 @@ def write_to_json(filename, word_data):
 
 if __name__ == "__main__":
   
-  filename = "words/verbs/communication.json"
+  filename = "words/nouns/music/instruments.json"
   
   # ["", "", "", ""],
   
-  words = [["通話", "tung1 waa6", "tōng huà", "to talk over the phone, to have a voice chat"], ]
+  # Finish woodwind and percussion instruments
+  # ~ words = []
   
-  # ~ for word in words:
-    # ~ write_to_json(filename, word)
+  for word in words:
+    write_to_json(filename, word)
 
