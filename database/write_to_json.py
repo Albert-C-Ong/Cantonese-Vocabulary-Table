@@ -53,10 +53,12 @@ if __name__ == "__main__":
   
   filename = "words/nouns/music/instruments.json"
   
+  # [chinese, jyutping, pinyin, english]
   # ["", "", "", ""],
   
-  # Finish woodwind and percussion instruments
-  # ~ words = []
+  words = [["", "", "", ""],
+           ["", "", "", ""],
+           ["", "", "", ""],]
   
   for word in words:
     write_to_json(filename, word)
