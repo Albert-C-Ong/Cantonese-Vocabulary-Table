@@ -51,14 +51,12 @@ def write_to_json(filename, word_data):
 
 if __name__ == "__main__":
   
-  filename = "words/nouns/music/instruments.json"
+  filename = "words/verbs/communication.json"
   
   # [chinese, jyutping, pinyin, english]
   # ["", "", "", ""],
   
-  words = [["", "", "", ""],
-           ["", "", "", ""],
-           ["", "", "", ""],]
+  words = []
   
   for word in words:
     write_to_json(filename, word)
