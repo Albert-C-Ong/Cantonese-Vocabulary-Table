@@ -33,13 +33,15 @@
          "english": "butter"
       },
       {
-         "chinese": "酸奶<br>痠奶",
+         "chinese": "酸奶",
+         "chinese_variation": "痠奶", 
          "jyutping": "syun1 naai1",
          "pinyin": "suān nǎi",
          "english": "yogurt<br>(lit. sour milk)"
       },
       {
-         "chinese": "酸奶油<br>痠奶油",
+         "chinese": "酸奶油",
+         "chinese_variation": "痠奶油", 
          "jyutping": "syun1 naai1 jau4",
          "pinyin": "suān nǎi yóu",
          "english": "sour cream"

@@ -87,7 +87,8 @@
          "english": "restaurant"
       },
       {
-         "chinese": "餐廳<br>餐厛",
+         "chinese": "餐廳",
+         "chinese_variation": "餐厛", 
          "jyutping": "caan1 teng1",
          "pinyin": "cān tīng",
          "english": "dining hall, restaurant"
@@ -171,7 +172,8 @@
          "english": "parking lot"
       },
       {
-         "chinese": "珠寶店<br>珠寳店",
+         "chinese": "珠寶店",
+         "chinese_variation": "珠寳店", 
          "jyutping": "zyu1 bou2 dim3",
          "pinyin": "zhū bǎo diàn",
          "english": "jewelry store"
@@ -189,7 +191,8 @@
          "english": "office, bureau"
       },
       {
-         "chinese": "博物館<br>博物舘",
+         "chinese": "博物館",
+         "chinese_variation": "博物舘", 
          "jyutping": "bok3 mat6 gun2",
          "pinyin": "bó wù guǎn",
          "english": "museum<br>(lit. natural science building)"

@@ -3,7 +3,8 @@
   "chinese": "廁所",
    "words": [
       {
-         "chinese": "廁所<br>厠所",
+         "chinese": "廁所",
+         "chinese_variation": "厠所", 
          "jyutping": "ci3 so2",
          "pinyin": "cè suǒ",
          "english": "bathroom, toilet"
@@ -33,7 +34,8 @@
          "english": "tissue<br>(lit. face paper)"
       },
       {
-         "chinese": "廁紙<br>厠紙",
+         "chinese": "廁紙",
+         "chinese_variation": "厠紙", 
          "jyutping": "ci3 zi2",
          "pinyin": "cè zhǐ",
          "english": "toilet paper"

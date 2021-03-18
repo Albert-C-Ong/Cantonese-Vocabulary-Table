@@ -27,7 +27,8 @@
        "english": "brave"
     },
     {
-       "chinese": "嬾<br>懶",
+       "chinese": "嬾",
+       "chinese_variation": "懶", 
        "jyutping": "laan5", 
        "pinyin": "lǎn",
        "english": "lazy"

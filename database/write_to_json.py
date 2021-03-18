@@ -13,6 +13,8 @@ import sys
 
 def write_to_json(filename, word_data):
 
+  filename = "words/" + filename
+
   if len(word_data) == 5:
     fields = ("chinese", 
               "chinese_variation", 
@@ -51,13 +53,13 @@ def write_to_json(filename, word_data):
 
 if __name__ == "__main__":
   
-  filename = "words/verbs/communication.json"
-  
-  # [chinese, jyutping, pinyin, english]
-  # ["", "", "", ""],
+  # [chinese, jyutping, pinyin, english, filename]
+  # ["", "", "", "", ""],
   
   words = []
   
   for word in words:
-    write_to_json(filename, word)
+    
+    filename = word[-1]
+    write_to_json(filename, word[:-1])
 

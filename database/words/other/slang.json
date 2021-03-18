@@ -1,43 +1,54 @@
 {
-    "name": "Slang",
-    "chinese": "俗語",
-    "words": 
-    [
-      {
-         "chinese": "俗語",
-         "jyutping": "zuk6 jyu5",
-         "pinyin": "sú yǔ",
-         "english": "slang, colloquial speech, common saying"
-      },
-      {
-         "chinese": "溝女",
-         "jyutping": "kau1 neoi5",
-         "pinyin": "gōu nǚ",
-         "english": "to hit on girls, to pick up girls"
-      },
-      {
-         "chinese": "菜鳥",
-         "jyutping": "coi3 niu5",
-         "pinyin": "cài niǎo",
-         "english": "newbie, novice, beginner"
-      },
-      {
-         "chinese": "激氣",
-         "jyutping": "gik1 hei3",
-         "pinyin": "jī qì",
-         "english": "angry, frustrated, pissed off"
-      },
-      {
-         "chinese": "屁話",
-         "jyutping": "pei3 waa2",
-         "pinyin": "pì huà",
-         "english": "nonsense, bullshit"
-      },
-      {
-         "chinese": "斷捨離",
-         "jyutping": "dyun3 se2 lei4",
-         "pinyin": "duàn shě lí",
-         "english": "to get rid of things that are no longer needed"
-      }
-   ]
+  "name": "Slang",
+  "chinese": "俗語",
+  "words": [
+    {
+      "chinese": "俗語",
+      "jyutping": "zuk6 jyu5",
+      "pinyin": "sú yǔ",
+      "english": "slang, colloquial speech, common saying"
+    },
+    {
+      "chinese": "溝女",
+      "jyutping": "kau1 neoi5",
+      "pinyin": "gōu nǚ",
+      "english": "to hit on girls, to pick up girls"
+    },
+    {
+      "chinese": "菜鳥",
+      "jyutping": "coi3 niu5",
+      "pinyin": "cài niǎo",
+      "english": "newbie, novice, beginner"
+    },
+    {
+      "chinese": "激氣",
+      "jyutping": "gik1 hei3",
+      "pinyin": "jī qì",
+      "english": "angry, frustrated, pissed off"
+    },
+    {
+      "chinese": "屁話",
+      "jyutping": "pei3 waa2",
+      "pinyin": "pì huà",
+      "english": "nonsense, bullshit"
+    },
+    {
+      "chinese": "斷捨離",
+      "jyutping": "dyun3 se2 lei4",
+      "pinyin": "duàn shě lí",
+      "english": "to get rid of things that are no longer needed"
+    },
+    {
+      "chinese": "索",
+      "jyutping": "sok3",
+      "pinyin": "suǒ",
+      "english": "(of a female) beautiful, pretty, hot， attractive"
+    },
+    {
+      "chinese": "原汁原味",
+      "jyutping": "jyun4 zap1 jyun4 mei6",
+      "pinyin": "yuán​ zhī​ yuán​ wèi​",
+      "english": "original, authentic"
+    }
+  ]
 }
