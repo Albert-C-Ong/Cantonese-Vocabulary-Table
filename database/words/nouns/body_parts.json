@@ -1,187 +1,193 @@
 {
   "name": "Body Parts",
-   "chinese": "身體", 
-   "words": [
-      {
-         "chinese": "頭",
-         "jyutping": "tau4",
-         "pinyin": "tóu",
-         "english": "head"
-      },
-      {
-         "chinese": "臉",
-         "jyutping": "lim5",
-         "pinyin": "liǎn",
-         "english": "face"
-      },
-      {
-         "chinese": "眼",
-         "jyutping": "ngaan5",
-         "pinyin": "yǎn",
-         "english": "eye"
-      },
-      {
-         "chinese": "耳",
-         "jyutping": "ji5",
-         "pinyin": "ěr",
-         "english": "ear"
-      },
-      {
-         "chinese": "口",
-         "jyutping": "hau2",
-         "pinyin": "kǒu",
-         "english": "mouth"
-      },
-      {
-         "chinese": "牙",
-         "jyutping": "ngaa4",
-         "pinyin": "yá",
-         "english": "teeth"
-      },
-      {
-         "chinese": "手",
-         "jyutping": "sau2",
-         "pinyin": "shǒu",
-         "english": "hand"
-      },
-      {
-         "chinese": "骨",
-         "jyutping": "gwat1",
-         "pinyin": "gǔ",
-         "english": "bone"
-      },
-      {
-         "chinese": "胸",
-         "jyutping": "hung1",
-         "pinyin": "xiōng",
-         "english": "chest"
-      },
-      {
-         "chinese": "腰",
-         "jyutping": "jiu1",
-         "pinyin": "yāo",
-         "english": "waist"
-      },
-      {
-         "chinese": "腿",
-         "jyutping": "teoi2",
-         "pinyin": "tuǐ",
-         "english": "leg"
-      },
-      {
-         "chinese": "腳",
-         "jyutping": "goek3",
-         "pinyin": "jiǎo, jué",
-         "english": "foot"
-      },
-      {
-         "chinese": "身體",
-         "jyutping": "san1 tai2",
-         "pinyin": "shēn tǐ",
-         "english": "body"
-      },
-      {
-         "chinese": "皮膚",
-         "jyutping": "pei4 fu1",
-         "pinyin": "pí fū",
-         "english": "skin"
-      },
-      {
-         "chinese": "肌肉",
-         "jyutping": "gei1 juk6",
-         "pinyin": "jī ròu",
-         "english": "muscle"
-      },
-      {
-         "chinese": "血液",
-         "jyutping": "hyut3 jik6",
-         "pinyin": "xuè yè",
-         "english": "blood"
-      },
-      {
-         "chinese": "頭髮",
-         "chinese_variation": "頭髪", 
-         "jyutping": "tau4 faat3",
-         "pinyin": "tóu fa",
-         "english": "hair (on the head)"
-      },
-      {
-         "chinese": "鼻子",
-         "jyutping": "bei6 zi2",
-         "pinyin": "bí zi",
-         "english": "nose"
-      },
-      {
-         "chinese": "臉頰",
-         "jyutping": "lim6 haap3",
-         "pinyin": "liǎn jiá",
-         "english": "cheek"
-      },
-      {
-         "chinese": "鬍鬚",
-         "jyutping": "hú xū",
-         "pinyin": "wu4 sou1",
-         "english": "beard, mustache"
-      },
-      {
-         "chinese": "膊頭",
-         "jyutping": "bok3 tau4",
-         "pinyin": "bó tóu",
-         "english": "shoulder"
-      },
-      {
-         "chinese": "肩膀",
-         "jyutping": "gin1 bong2",
-         "pinyin": "jiān bǎng",
-         "english": "shoulder"
-      },
-      {
-         "chinese": "胸部",
-         "jyutping": "hung1 bou6",
-         "pinyin": "xiōng bù",
-         "english": "breasts, boobs<br>(lit. chest parts)"
-      },
-      {
-         "chinese": "手臂",
-         "jyutping": "sau2 bei3",
-         "pinyin": "shǒu bì",
-         "english": "arm"
-      },
-      {
-         "chinese": "三圍",
-         "jyutping": "saam1 wai4",
-         "pinyin": "sān wéi",
-         "english": "bust/waist/hip measurements, woman's three measurements"
-      }, 
-      {
-         "chinese": "胸圍",
-         "jyutping": "hung1 wai4",
-         "pinyin": "xiōng wéi",
-         "english": "bust measurement, bust size"
-      },
-      {
-         "chinese": "腰圍",
-         "jyutping": "jiu1 wai4",
-         "pinyin": "yāo wéi",
-         "english": "waist measurement, waistline"
-      },
-      {
-         "chinese": "臀圍",
-         "jyutping": "tyun4 wai4",
-         "pinyin": "tún wéi",
-         "english": "hip measurement"
-      },
-      {
-         "chinese": "二頭肌",
-         "jyutping": "ji6 tau4 gei1",
-         "pinyin": "èr tóu jī",
-         "english": "biceps"
-      },
-      {
-         "chinese": "三頭肌",
-         "jyutping": "saam1 tau4 gei1",
-         "pinyin": "sān tóu jī",
-         "english": "triceps"
-      }
-   ]
+  "chinese": "身體",
+  "words": [
+    {
+      "chinese": "頭",
+      "jyutping": "tau4",
+      "pinyin": "tóu",
+      "english": "head"
+    },
+    {
+      "chinese": "臉",
+      "jyutping": "lim5",
+      "pinyin": "liǎn",
+      "english": "face"
+    },
+    {
+      "chinese": "眼",
+      "jyutping": "ngaan5",
+      "pinyin": "yǎn",
+      "english": "eye"
+    },
+    {
+      "chinese": "耳",
+      "jyutping": "ji5",
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    {
+      "chinese": "口",
+      "jyutping": "hau2",
+      "pinyin": "kǒu",
+      "english": "mouth"
+    },
+    {
+      "chinese": "牙",
+      "jyutping": "ngaa4",
+      "pinyin": "yá",
+      "english": "teeth"
+    },
+    {
+      "chinese": "手",
+      "jyutping": "sau2",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "chinese": "骨",
+      "jyutping": "gwat1",
+      "pinyin": "gǔ",
+      "english": "bone"
+    },
+    {
+      "chinese": "胸",
+      "jyutping": "hung1",
+      "pinyin": "xiōng",
+      "english": "chest"
+    },
+    {
+      "chinese": "腰",
+      "jyutping": "jiu1",
+      "pinyin": "yāo",
+      "english": "waist"
+    },
+    {
+      "chinese": "腿",
+      "jyutping": "teoi2",
+      "pinyin": "tuǐ",
+      "english": "leg"
+    },
+    {
+      "chinese": "腳",
+      "jyutping": "goek3",
+      "pinyin": "jiǎo, jué",
+      "english": "foot"
+    },
+    {
+      "chinese": "身體",
+      "jyutping": "san1 tai2",
+      "pinyin": "shēn tǐ",
+      "english": "body"
+    },
+    {
+      "chinese": "皮膚",
+      "jyutping": "pei4 fu1",
+      "pinyin": "pí fū",
+      "english": "skin"
+    },
+    {
+      "chinese": "肌肉",
+      "jyutping": "gei1 juk6",
+      "pinyin": "jī ròu",
+      "english": "muscle"
+    },
+    {
+      "chinese": "血液",
+      "jyutping": "hyut3 jik6",
+      "pinyin": "xuè yè",
+      "english": "blood"
+    },
+    {
+      "chinese": "頭髮",
+      "chinese_variation": "頭髪",
+      "jyutping": "tau4 faat3",
+      "pinyin": "tóu fa",
+      "english": "hair (on the head)"
+    },
+    {
+      "chinese": "鼻子",
+      "jyutping": "bei6 zi2",
+      "pinyin": "bí zi",
+      "english": "nose"
+    },
+    {
+      "chinese": "臉頰",
+      "jyutping": "lim6 haap3",
+      "pinyin": "liǎn jiá",
+      "english": "cheek"
+    },
+    {
+      "chinese": "鬍鬚",
+      "jyutping": "hú xū",
+      "pinyin": "wu4 sou1",
+      "english": "beard, mustache"
+    },
+    {
+      "chinese": "膊頭",
+      "jyutping": "bok3 tau4",
+      "pinyin": "bó tóu",
+      "english": "shoulder"
+    },
+    {
+      "chinese": "肩膀",
+      "jyutping": "gin1 bong2",
+      "pinyin": "jiān bǎng",
+      "english": "shoulder"
+    },
+    {
+      "chinese": "胸部",
+      "jyutping": "hung1 bou6",
+      "pinyin": "xiōng bù",
+      "english": "breasts, boobs<br>(lit. chest parts)"
+    },
+    {
+      "chinese": "手臂",
+      "jyutping": "sau2 bei3",
+      "pinyin": "shǒu bì",
+      "english": "arm"
+    },
+    {
+      "chinese": "三圍",
+      "jyutping": "saam1 wai4",
+      "pinyin": "sān wéi",
+      "english": "bust/waist/hip measurements, woman's three measurements"
+    },
+    {
+      "chinese": "胸圍",
+      "jyutping": "hung1 wai4",
+      "pinyin": "xiōng wéi",
+      "english": "bust measurement, bust size"
+    },
+    {
+      "chinese": "腰圍",
+      "jyutping": "jiu1 wai4",
+      "pinyin": "yāo wéi",
+      "english": "waist measurement, waistline"
+    },
+    {
+      "chinese": "臀圍",
+      "jyutping": "tyun4 wai4",
+      "pinyin": "tún wéi",
+      "english": "hip measurement"
+    },
+    {
+      "chinese": "二頭肌",
+      "jyutping": "ji6 tau4 gei1",
+      "pinyin": "èr tóu jī",
+      "english": "biceps"
+    },
+    {
+      "chinese": "三頭肌",
+      "jyutping": "saam1 tau4 gei1",
+      "pinyin": "sān tóu jī",
+      "english": "triceps"
+    },
+    {
+      "chinese": "舌頭",
+      "jyutping": "sit6 tau4",
+      "pinyin": "shé tou",
+      "english": "tongue"
+    }
+  ]
 }

@@ -1,84 +1,90 @@
- {  
-   "name": "School", 
-   "chinese": "學校", 
-   "words": [
-      {
-         "chinese": "學",
-         "jyutping": "hok6",
-         "pinyin": "xué",
-         "english": "to learn"
-      },
-      {
-         "chinese": "教",
-         "jyutping": "gaau3",
-         "pinyin": "jiāo",
-         "english": "to teach"
-      },
-      {
-         "chinese": "學識",
-         "jyutping": "hok6 sik1",
-         "pinyin": "xué shí",
-         "english": "to learn, to acquire knowledge"
-      },
-      {
-         "chinese": "學習",
-         "jyutping": "hok6 zaap6",
-         "pinyin": "xué xí",
-         "english": "to learn, to study, to acquire knowledge"
-      },
-      {
-         "chinese": "上學",
-         "jyutping": "soeng5 hok6",
-         "pinyin": "shàng xué",
-         "english": "to go to school"
-      },
-      {
-         "chinese": "返學",
-         "jyutping": "faan1 hok6",
-         "pinyin": "fǎn xué",
-         "english": "to go to school"
-      },
-      {
-         "chinese": "放學",
-         "jyutping": "fong3 hok6",
-         "pinyin": "fàng xué",
-         "english": "to end school, to finish class"
-      },
-      {
-         "chinese": "教書",
-         "jyutping": "gaau3 syu1",
-         "pinyin": "jiāo shū",
-         "english": "to teach (in a school)"
-      },
-      {
-         "chinese": "上堂",
-         "jyutping": "soeng5 tong4",
-         "pinyin": "shǎng táng",
-         "english": "to attend class, to have class"
-      },
-      {
-         "chinese": "讀書",
-         "jyutping": "duk6 syu1",
-         "pinyin": "dú shū",
-         "english": "to study"
-      },
-      {
-         "chinese": "温書<br>溫書",
-         "jyutping": "wan1 syu1",
-         "pinyin": "wēn shū",
-         "english": "to review, to revise, to study"
-      },
-      {
-         "chinese": "自學<br>",
-         "jyutping": "zi6 hok6",
-         "pinyin": "zì xué",
-         "english": "to study or learn by oneself"
-      },
-      {
-         "chinese": "畢業",
-         "jyutping": "bat1 jip6",
-         "pinyin": "bì yè",
-         "english": "to graduate, to finish school"
-      }
-   ]
+{
+  "name": "School",
+  "chinese": "學校",
+  "words": [
+    {
+      "chinese": "學",
+      "jyutping": "hok6",
+      "pinyin": "xué",
+      "english": "to learn"
+    },
+    {
+      "chinese": "教",
+      "jyutping": "gaau3",
+      "pinyin": "jiāo",
+      "english": "to teach"
+    },
+    {
+      "chinese": "學識",
+      "jyutping": "hok6 sik1",
+      "pinyin": "xué shí",
+      "english": "to learn, to acquire knowledge"
+    },
+    {
+      "chinese": "學習",
+      "jyutping": "hok6 zaap6",
+      "pinyin": "xué xí",
+      "english": "to learn, to study, to acquire knowledge"
+    },
+    {
+      "chinese": "上學",
+      "jyutping": "soeng5 hok6",
+      "pinyin": "shàng xué",
+      "english": "to go to school"
+    },
+    {
+      "chinese": "返學",
+      "jyutping": "faan1 hok6",
+      "pinyin": "fǎn xué",
+      "english": "to go to school"
+    },
+    {
+      "chinese": "放學",
+      "jyutping": "fong3 hok6",
+      "pinyin": "fàng xué",
+      "english": "to end school, to finish class"
+    },
+    {
+      "chinese": "教書",
+      "jyutping": "gaau3 syu1",
+      "pinyin": "jiāo shū",
+      "english": "to teach (in a school)"
+    },
+    {
+      "chinese": "上堂",
+      "jyutping": "soeng5 tong4",
+      "pinyin": "shǎng táng",
+      "english": "to attend class, to have class"
+    },
+    {
+      "chinese": "讀書",
+      "jyutping": "duk6 syu1",
+      "pinyin": "dú shū",
+      "english": "to study"
+    },
+    {
+      "chinese": "温書<br>溫書",
+      "jyutping": "wan1 syu1",
+      "pinyin": "wēn shū",
+      "english": "to review, to revise, to study"
+    },
+    {
+      "chinese": "自學<br>",
+      "jyutping": "zi6 hok6",
+      "pinyin": "zì xué",
+      "english": "to study or learn by oneself"
+    },
+    {
+      "chinese": "畢業",
+      "jyutping": "bat1 jip6",
+      "pinyin": "bì yè",
+      "english": "to graduate, to finish school"
+    },
+    {
+      "chinese": "讀懂",
+      "jyutping": "duk6 dung2",
+      "pinyin": "dú dǒng",
+      "english": "to read and understand"
+    }
+  ]
 }
