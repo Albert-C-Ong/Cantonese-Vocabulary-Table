@@ -1,84 +1,90 @@
 {
-   "name": "Sports", 
-   "chinese": "運動", 
-   "words": [
-      {
-         "chinese": "運動",
-         "jyutping": "wan6 dung6",
-         "pinyin": "yùn dòng",
-         "english": "sports, exercise"
-      },
-      {
-         "chinese": "奧門",
-         "jyutping": "ou3 wan6",
-         "pinyin": "ào yùn",
-         "english": "the Olympics, the Olympic Games"
-      },
-      {
-         "chinese": "足球",
-         "jyutping": "zuk1 kau4",
-         "pinyin": "zú qiú",
-         "english": "soccer, football"
-      },
-      {
-         "chinese": "籃球<br>藍毬",
-         "jyutping": "laam4 kau4",
-         "pinyin": "lán qiú",
-         "english": "basketball"
-      },
-      {
-         "chinese": "棒球<br>棒毬",
-         "jyutping": "paang5 kau4",
-         "pinyin": "bàng qiú",
-         "english": "baseball"
-      },
-      {
-         "chinese": "網球<br>網毬",
-         "jyutping": "mong5 kau4",
-         "pinyin": "wǎng qiú",
-         "english": "tennis"
-      },
-      {
-         "chinese": "保齡",
-         "jyutping": "bou2 ling4",
-         "pinyin": "bǎo líng",
-         "english": "bowling"
-      },
-      {
-         "chinese": "游泳",
-         "jyutping": "jau4 wing6",
-         "pinyin": "yóu yǒng",
-         "english": "swimming"
-      },
-      {
-         "chinese": "射箭",
-         "jyutping": "se6 zin3",
-         "pinyin": "shè jiàn",
-         "english": "archery"
-      },
-      {
-         "chinese": "跑步",
-         "jyutping": "paau2 bou6",
-         "pinyin": "pǎo bù",
-         "english": "running"
-      },
-      {
-         "chinese": "射擊",
-         "jyutping": "se6 gik1",
-         "pinyin": "shè jī",
-         "english": "shooting (sport)"
-      },
-      {
-         "chinese": "乒乓球<br>乒乓毬",
-         "jyutping": "bing1 bam1 kau4",
-         "pinyin": "pīng pāng qiú",
-         "english": "ping pong, table tennis"
-      },
-      {
-         "chinese": "美式足球",
-         "jyutping": "mei5 sik1 zuk1 kau4",
-         "pinyin": "měi shì zú qiú",
-         "english": "american football<br>(lit. American style football)"
-      }
-   ]
+  "name": "Sports",
+  "chinese": "運動",
+  "words": [
+    {
+      "chinese": "運動",
+      "jyutping": "wan6 dung6",
+      "pinyin": "yùn dòng",
+      "english": "sports, exercise"
+    },
+    {
+      "chinese": "奧門",
+      "jyutping": "ou3 wan6",
+      "pinyin": "ào yùn",
+      "english": "the Olympics, the Olympic Games"
+    },
+    {
+      "chinese": "足球",
+      "jyutping": "zuk1 kau4",
+      "pinyin": "zú qiú",
+      "english": "soccer, football"
+    },
+    {
+      "chinese": "籃球<br>藍毬",
+      "jyutping": "laam4 kau4",
+      "pinyin": "lán qiú",
+      "english": "basketball"
+    },
+    {
+      "chinese": "棒球<br>棒毬",
+      "jyutping": "paang5 kau4",
+      "pinyin": "bàng qiú",
+      "english": "baseball"
+    },
+    {
+      "chinese": "網球<br>網毬",
+      "jyutping": "mong5 kau4",
+      "pinyin": "wǎng qiú",
+      "english": "tennis"
+    },
+    {
+      "chinese": "保齡",
+      "jyutping": "bou2 ling4",
+      "pinyin": "bǎo líng",
+      "english": "bowling"
+    },
+    {
+      "chinese": "游泳",
+      "jyutping": "jau4 wing6",
+      "pinyin": "yóu yǒng",
+      "english": "swimming"
+    },
+    {
+      "chinese": "射箭",
+      "jyutping": "se6 zin3",
+      "pinyin": "shè jiàn",
+      "english": "archery"
+    },
+    {
+      "chinese": "跑步",
+      "jyutping": "paau2 bou6",
+      "pinyin": "pǎo bù",
+      "english": "running"
+    },
+    {
+      "chinese": "射擊",
+      "jyutping": "se6 gik1",
+      "pinyin": "shè jī",
+      "english": "shooting (sport)"
+    },
+    {
+      "chinese": "乒乓球<br>乒乓毬",
+      "jyutping": "bing1 bam1 kau4",
+      "pinyin": "pīng pāng qiú",
+      "english": "ping pong, table tennis"
+    },
+    {
+      "chinese": "美式足球",
+      "jyutping": "mei5 sik1 zuk1 kau4",
+      "pinyin": "měi shì zú qiú",
+      "english": "american football<br>(lit. American style football)"
+    },
+    {
+      "chinese": "舉重",
+      "jyutping": "geoi2 cung5",
+      "pinyin": "jǔ zhòng",
+      "english": "weightlifting"
+    }
+  ]
 }

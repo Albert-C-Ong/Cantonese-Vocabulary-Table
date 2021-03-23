@@ -1,162 +1,171 @@
 {
-   "name": "Family and Friends",
-   "chinese": "家庭及朋友", 
-   "words": [
-      {
-         "chinese": "仔",
-         "jyutping": "zai2",
-         "pinyin": "zǎi",
-         "english": "son"
-      },
-      {
-         "chinese": "女",
-         "jyutping": "neoi5",
-         "pinyin": "nǚ",
-         "english": "daughter"
-      },
-      {
-         "chinese": "家庭",
-         "jyutping": "gaa1 ting4",
-         "pinyin": "jiā tíng",
-         "english": "family"
-      },
-      {
-         "chinese": "親戚<br>親嘁",
-         "jyutping": "can1 cik1",
-         "pinyin": "qīn qī",
-         "english": "relative, family relation"
-      },
-      {
-         "chinese": "關係<br>関係",
-         "jyutping": "gwaan1 hai6",
-         "pinyin": "guān xi",
-         "english": "relationship, relation, connection"
-      },
-      {
-         "chinese": "血脈",
-         "jyutping": "hyut3 mak6",
-         "pinyin": "xuè mài",
-         "english": "blood relationship, blood lineage"
-      },
-      {
-         "chinese": "朋友",
-         "jyutping": "pang4 jau5",
-         "pinyin": "péng you",
-         "english": "friend"
-      },
-      {
-         "chinese": "兄弟",
-         "jyutping": "hing1 dai6",
-         "pinyin": "xiōng dì",
-         "english": "brother<br>(figurative) brothers, good friends"
-      },
-      {
-         "chinese": "弟弟",
-         "jyutping": "dai4 dai2",
-         "pinyin": "dì di",
-         "english": "younger brother"
-      },
-      {
-         "chinese": "哥哥",
-         "jyutping": "go4 go1",
-         "pinyin": "gē ge",
-         "english": "older brother"
-      },
-      {
-         "chinese": "姊妹",
-         "jyutping": "zi2 mui6",
-         "pinyin": "zǐ mèi",
-         "english": "sister"
-      },
-      {
-         "chinese": "妹妹",
-         "jyutping": "mui6 mui6",
-         "pinyin": "mèi mei",
-         "english": "younger sister"
-      },
-      {
-         "chinese": "姐姐",
-         "jyutping": "ze4 ze1",
-         "pinyin": "jiě jie",
-         "english": "older sister"
-      },
-      {
-         "chinese": "家長",
-         "jyutping": "gaa1 zoeng2",
-         "pinyin": "jiā zhǎng",
-         "english": "parent"
-      },
-      {
-         "chinese": "父母",
-         "jyutping": "fy6 mou5",
-         "pinyin": "fù mǔ",
-         "english": "parents, father and mother"
-      },
-      {
-         "chinese": "爸爸",
-         "jyutping": "baa4 baa1",
-         "pinyin": "bà ba",
-         "english": "father"
-      },
-      {
-         "chinese": "媽媽",
-         "jyutping": "maa4 maa1",
-         "pinyin": "mā ma",
-         "english": "mother"
-      },
-      {
-         "chinese": "叔叔",
-         "jyutping": "suk1 suk1",
-         "pinyin": "shū shu",
-         "english": "uncle"
-      },
-      {
-         "chinese": "舅父",
-         "jyutping": "kau5 fu6",
-         "pinyin": "jiù fù",
-         "english": "maternal uncle, mother's brother"
-      },
-      {
-         "chinese": "姨姨",
-         "jyutping": "ji4 ji4",
-         "pinyin": "yí yí",
-         "english": "aunt"
-      },
-      {
-         "chinese": "爺爺",
-         "jyutping": "je4 je2",
-         "pinyin": "yé ye",
-         "english": "paternal grandfather"
-      },
-      {
-         "chinese": "公公",
-         "jyutping": "gung1 gung1",
-         "pinyin": "gōng gong",
-         "english": "maternal grandfather"
-      },
-      {
-         "chinese": "嫲嫲",
-         "jyutping": "maa4 maa4",
-         "pinyin": "má má",
-         "english": "paternal grandmother"
-      },
-      {
-         "chinese": "婆婆",
-         "jyutping": "po4 po2",
-         "pinyin": "pó po",
-         "english": "maternal grandmother"
-      },
-      {
-         "chinese": "配偶",
-         "jyutping": "pui3 ngau5",
-         "pinyin": "pèi ǒu",
-         "english": "spouse"
-      },
-      {
-         "chinese": "老公",
-         "jyutping": "ou5 gung1",
-         "pinyin": "lǎo gōng",
-         "english": "husband"
-      }
-   ]
+  "name": "Family and Friends",
+  "chinese": "家庭及朋友",
+  "words": [
+    {
+      "chinese": "仔",
+      "jyutping": "zai2",
+      "pinyin": "zǎi",
+      "english": "son"
+    },
+    {
+      "chinese": "女",
+      "jyutping": "neoi5",
+      "pinyin": "nǚ",
+      "english": "daughter"
+    },
+    {
+      "chinese": "家庭",
+      "jyutping": "gaa1 ting4",
+      "pinyin": "jiā tíng",
+      "english": "family"
+    },
+    {
+      "chinese": "親戚",
+      "chinese_variation": "親嘁", 
+      "jyutping": "can1 cik1",
+      "pinyin": "qīn qī",
+      "english": "relative, family relation"
+    },
+    {
+      "chinese": "關係",
+      "chinese_variation": "関係", 
+      "jyutping": "gwaan1 hai6",
+      "pinyin": "guān xi",
+      "english": "relationship, relation, connection"
+    },
+    {
+      "chinese": "血脈",
+      "jyutping": "hyut3 mak6",
+      "pinyin": "xuè mài",
+      "english": "blood relationship, blood lineage"
+    },
+    {
+      "chinese": "朋友",
+      "jyutping": "pang4 jau5",
+      "pinyin": "péng you",
+      "english": "friend"
+    },
+    {
+      "chinese": "兄弟",
+      "jyutping": "hing1 dai6",
+      "pinyin": "xiōng dì",
+      "english": "brother<br>(figurative) brothers, good friends"
+    },
+    {
+      "chinese": "弟弟",
+      "jyutping": "dai4 dai2",
+      "pinyin": "dì di",
+      "english": "younger brother"
+    },
+    {
+      "chinese": "哥哥",
+      "jyutping": "go4 go1",
+      "pinyin": "gē ge",
+      "english": "older brother"
+    },
+    {
+      "chinese": "姊妹",
+      "jyutping": "zi2 mui6",
+      "pinyin": "zǐ mèi",
+      "english": "sister"
+    },
+    {
+      "chinese": "妹妹",
+      "jyutping": "mui6 mui6",
+      "pinyin": "mèi mei",
+      "english": "younger sister"
+    },
+    {
+      "chinese": "姐姐",
+      "jyutping": "ze4 ze1",
+      "pinyin": "jiě jie",
+      "english": "older sister"
+    },
+    {
+      "chinese": "家長",
+      "jyutping": "gaa1 zoeng2",
+      "pinyin": "jiā zhǎng",
+      "english": "parent"
+    },
+    {
+      "chinese": "父母",
+      "jyutping": "fy6 mou5",
+      "pinyin": "fù mǔ",
+      "english": "parents, father and mother"
+    },
+    {
+      "chinese": "爸爸",
+      "jyutping": "baa4 baa1",
+      "pinyin": "bà ba",
+      "english": "father"
+    },
+    {
+      "chinese": "媽媽",
+      "jyutping": "maa4 maa1",
+      "pinyin": "mā ma",
+      "english": "mother"
+    },
+    {
+      "chinese": "叔叔",
+      "jyutping": "suk1 suk1",
+      "pinyin": "shū shu",
+      "english": "uncle"
+    },
+    {
+      "chinese": "舅父",
+      "jyutping": "kau5 fu6",
+      "pinyin": "jiù fù",
+      "english": "maternal uncle, mother's brother"
+    },
+    {
+      "chinese": "姨姨",
+      "jyutping": "ji4 ji4",
+      "pinyin": "yí yí",
+      "english": "aunt"
+    },
+    {
+      "chinese": "爺爺",
+      "jyutping": "je4 je2",
+      "pinyin": "yé ye",
+      "english": "paternal grandfather"
+    },
+    {
+      "chinese": "公公",
+      "jyutping": "gung1 gung1",
+      "pinyin": "gōng gong",
+      "english": "maternal grandfather"
+    },
+    {
+      "chinese": "嫲嫲",
+      "jyutping": "maa4 maa4",
+      "pinyin": "má má",
+      "english": "paternal grandmother"
+    },
+    {
+      "chinese": "婆婆",
+      "jyutping": "po4 po2",
+      "pinyin": "pó po",
+      "english": "maternal grandmother"
+    },
+    {
+      "chinese": "配偶",
+      "jyutping": "pui3 ngau5",
+      "pinyin": "pèi ǒu",
+      "english": "spouse"
+    },
+    {
+      "chinese": "老公",
+      "jyutping": "ou5 gung1",
+      "pinyin": "lǎo gōng",
+      "english": "husband"
+    },
+    {
+      "chinese": "咸家",
+      "chinese_variation": "冚家",
+      "jyutping": "ham6 gaa1",
+      "pinyin": "xián jiā<br>kǎn jiā",
+      "english": "one's entire family"
+    }
+  ]
 }

@@ -1,115 +1,133 @@
 {
   "name": "Personality",
-  "chinese": "性格", 
+  "chinese": "性格",
   "words": [
     {
-       "chinese": "謙",
-       "jyutping": "him1",
-       "pinyin": "qiān",
-       "english": "modest"
+      "chinese": "謙",
+      "jyutping": "him1",
+      "pinyin": "qiān",
+      "english": "modest"
     },
     {
-       "chinese": "叻",
-       "jyutping": "lek1",
-       "pinyin": "lè",
-       "english": "smart, clever"
+      "chinese": "叻",
+      "jyutping": "lek1",
+      "pinyin": "lè",
+      "english": "smart, clever"
     },
     {
-       "chinese": "直",
-       "jyutping": "zik6",
-       "pinyin": "zhí",
-       "english": "blunt, frank"
+      "chinese": "直",
+      "jyutping": "zik6",
+      "pinyin": "zhí",
+      "english": "blunt, frank"
     },
     {
-       "chinese": "勇",
-       "jyutping": "jung5",
-       "pinyin": "yǒng",
-       "english": "brave"
+      "chinese": "勇",
+      "jyutping": "jung5",
+      "pinyin": "yǒng",
+      "english": "brave"
     },
     {
-       "chinese": "嬾",
-       "chinese_variation": "懶", 
-       "jyutping": "laan5", 
-       "pinyin": "lǎn",
-       "english": "lazy"
+      "chinese": "嬾",
+      "chinese_variation": "懶",
+      "jyutping": "laan5",
+      "pinyin": "lǎn",
+      "english": "lazy"
     },
     {
-       "chinese": "怪",
-       "jyutping": "gwaai3",
-       "pinyin": "guài",
-       "english": "strange, weird"
+      "chinese": "怪",
+      "jyutping": "gwaai3",
+      "pinyin": "guài",
+      "english": "strange, weird"
     },
     {
-       "chinese": "傻",
-       "jyutping": "so4",
-       "pinyin": "shǎ",
-       "english": "stupid, silly, foolish"
+      "chinese": "傻",
+      "jyutping": "so4",
+      "pinyin": "shǎ",
+      "english": "stupid, silly, foolish"
     },
     {
-       "chinese": "乖",
-       "jyutping": "gwaai1",
-       "pinyin": "guāi",
-       "english": "(of a child) well-behaved, obedient, nice"
+      "chinese": "乖",
+      "jyutping": "gwaai1",
+      "pinyin": "guāi",
+      "english": "(of a child) well-behaved, obedient, nice"
     },
     {
-       "chinese": "自大",
-       "jyutping": "zi6 daai6",
-       "pinyin": "zì dà",
-       "english": "arrogant<br>(lit. self big)"
+      "chinese": "自大",
+      "jyutping": "zi6 daai6",
+      "pinyin": "zì dà",
+      "english": "arrogant<br>(lit. self big)"
     },
     {
-       "chinese": "自信",
-       "jyutping": "zi6 seon3",
-       "pinyin": "zì xìn",
-       "english": "confident<br>(lit. self trust)"
+      "chinese": "自信",
+      "jyutping": "zi6 seon3",
+      "pinyin": "zì xìn",
+      "english": "confident<br>(lit. self trust)"
     },
     {
-       "chinese": "黐線",
-       "jyutping": "ci1 sin3",
-       "pinyin": "chī xiàn",
-       "english": "crazy"
+      "chinese": "黐線",
+      "jyutping": "ci1 sin3",
+      "pinyin": "chī xiàn",
+      "english": "crazy"
     },
     {
-       "chinese": "殘忍",
-       "jyutping": "caan1 jan2",
-       "pinyin": "cán rěn",
-       "english": "cruel, merciless"
+      "chinese": "殘忍",
+      "jyutping": "caan1 jan2",
+      "pinyin": "cán rěn",
+      "english": "cruel, merciless"
     },
     {
-       "chinese": "好奇",
-       "jyutping": "hou2 gei1",
-       "pinyin": "hào qí",
-       "english": "curious"
+      "chinese": "好奇",
+      "jyutping": "hou2 gei1",
+      "pinyin": "hào qí",
+      "english": "curious"
     },
     {
-       "chinese": "外向",
-       "jyutping": "ngoi6 hoeng3",
-       "pinyin": "wài xiàng",
-       "english": "extroverted<br>(lit. out facing)"
+      "chinese": "外向",
+      "jyutping": "ngoi6 hoeng3",
+      "pinyin": "wài xiàng",
+      "english": "extroverted<br>(lit. out facing)"
     },
     {
-       "chinese": "内向",
-       "jyutping": "noi6 hoeng3",
-       "pinyin": "nèi xiàng",
-       "english": "interverted<br>(lit. inward facing)"
+      "chinese": "内向",
+      "jyutping": "noi6 hoeng3",
+      "pinyin": "nèi xiàng",
+      "english": "interverted<br>(lit. inward facing)"
     },
     {
-       "chinese": "冷靜",
-       "jyutping": "laang5 zing6",
-       "pinyin": "lěng jìng",
-       "english": "calm"
+      "chinese": "冷靜",
+      "jyutping": "laang5 zing6",
+      "pinyin": "lěng jìng",
+      "english": "calm"
     },
     {
-       "chinese": "善良",
-       "jyutping": "sin6 loeng4",
-       "pinyin": "shàn liáng",
-       "english": "kind"
+      "chinese": "善良",
+      "jyutping": "sin6 loeng4",
+      "pinyin": "shàn liáng",
+      "english": "kind"
     },
     {
-       "chinese": "創意",
-       "jyutping": "cong3 ji3",
-       "pinyin": "chuàng yì",
-       "english": "creative, creativity"
+      "chinese": "創意",
+      "jyutping": "cong3 ji3",
+      "pinyin": "chuàng yì",
+      "english": "creative, creativity"
+    },
+    {
+      "chinese": "懶惰",
+      "jyutping": "laan5 do6",
+      "pinyin": "lǎn duò",
+      "english": "lazy"
+    },
+    {
+      "chinese": "勤勞",
+      "jyutping": "kan4 lou4",
+      "pinyin": "qín láo",
+      "english": "hardworking, dilligent, industrious"
+    },
+    {
+      "chinese": "勤力",
+      "jyutping": "kan4 lik6",
+      "pinyin": "qín lì",
+      "english": "hardworking, dilligent"
     }
   ]
 }
