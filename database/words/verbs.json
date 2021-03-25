@@ -88,6 +88,7 @@
     },
     {
       "chinese": "畀",
+      "chinese_variation": "俾",
       "jyutping": "bei2",
       "pinyin": "bì",
       "english": "to give, to allow to let (spoken)"
@@ -1302,6 +1303,37 @@
       "jyutping": "ling1",
       "pinyin": "līn<br>līng",
       "english": "to take, to hold"
+    },
+    {
+      "chinese": "走音",
+      "jyutping": "zau2 jam1",
+      "pinyin": "zǒu yīn",
+      "english": "to be out of tune, to be off key"
+    },
+    {
+      "chinese": "闖禍",
+      "jyutping": "cong2 wo6",
+      "pinyin": "chuǎng huò",
+      "english": "to cause an accident, to get into trouble"
+    },
+    {
+      "chinese": "畀心機",
+      "chinese_variation": "俾心機",
+      "jyutping": "bei2 sam1 gei1",
+      "pinyin": "bì xīn​ jī",
+      "english": "to concentrate, to devote one's effort on (something)"
+    },
+    {
+      "chinese": "企",
+      "jyutping": "kei5",
+      "pinyin": "qǐ",
+      "english": "to stand"
+    },
+    {
+      "chinese": "落水",
+      "jyutping": "lok6 seoi2",
+      "pinyin": "luò shuǐ",
+      "english": "to rain"
     }
   ]
 }

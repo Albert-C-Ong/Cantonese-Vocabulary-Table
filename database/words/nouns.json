@@ -735,7 +735,7 @@
       "english": "edition, version"
     },
     {
-      "chinese": "標凖",
+      "chinese": "標準",
       "jyutping": "biu1 zeon2",
       "pinyin": "biāo​ zhǔn",
       "english": "standard, norm, criterion"
@@ -763,6 +763,36 @@
       "jyutping": "fu3 gwai3",
       "pinyin": "fù​ guì",
       "english": "riches and honor (social status)"
+    },
+    {
+      "chinese": "意外",
+      "jyutping": "ji3 ngoi6",
+      "pinyin": "yì wài",
+      "english": "acccident, mishap, mistake"
+    },
+    {
+      "chinese": "天分",
+      "jyutping": "tin1 fan6",
+      "pinyin": "tiān fèn",
+      "english": "talent, natural skill"
+    },
+    {
+      "chinese": "邊皮",
+      "jyutping": "bin1 pei4",
+      "pinyin": "biān pí",
+      "english": "edge, side"
+    },
+    {
+      "chinese": "皮",
+      "jyutping": "pei4",
+      "pinyin": "pí",
+      "english": "skin, hide, fur, leather"
+    },
+    {
+      "chinese": "寄口令",
+      "jyutping": "gap1 hau2 ling6",
+      "pinyin": "jí kǒu​ lìng",
+      "english": "tongue-twister"
     }
   ]
 }
