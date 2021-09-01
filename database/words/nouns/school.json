@@ -1,272 +1,278 @@
 {
-   "name": "School", 
-   "chinese": "學校", 
-   "words": [
-      {
-         "chinese": "班",
-         "jyutping": "baan1",
-         "pinyin": "bān",
-         "english": "class, group"
-      },
-      {
-         "chinese": "紙",
-         "jyutping": "zi2",
-         "pinyin": "zhǐ",
-         "english": "paper"
-      },
-      {
-         "chinese": "筆",
-         "jyutping": "bat1",
-         "pinyin": "bǐ",
-         "english": "pen, pencil"
-      },
-      {
-         "chinese": "筆刨",
-         "jyutping": "bat1 paau4",
-         "pinyin": "bǐ bào",
-         "english": "pencil sharpener"
-      },
-      {
-         "chinese": "學校",
-         "jyutping": "hok6 haau6",
-         "pinyin": "xué xiào",
-         "english": "school"
-      },
-      {
-         "chinese": "小學",
-         "jyutping": "siu2 hok6",
-         "pinyin": "xiǎo xué",
-         "english": "elementary school"
-      },
-      {
-         "chinese": "中學",
-         "jyutping": "zung1 hok6",
-         "pinyin": "zhōng xué",
-         "english": "middle school"
-      },
-      {
-         "chinese": "高中",
-         "jyutping": "gou1 zung1",
-         "pinyin": "gāo zhōng",
-         "english": "high school"
-      },
-      {
-         "chinese": "大學",
-         "jyutping": "daai6 hok6",
-         "pinyin": "dà xué",
-         "english": "university"
-      },
-      {
-         "chinese": "功課",
-         "jyutping": "gung1 fo3",
-         "pinyin": "gōng kè",
-         "english": "homework"
-      },
-      {
-         "chinese": "作業",
-         "jyutping": "zok3 jip6",
-         "pinyin": "zuò yè",
-         "english": "schoolwork, assignment, homework"
-      },
-      {
-         "chinese": "文章",
-         "jyutping": "man4 zoeng1",
-         "pinyin": "wén zhāng",
-         "english": "essay, composition"
-      },
-      {
-         "chinese": "報告",
-         "jyutping": "bou3 gou3",
-         "pinyin": "bào gào",
-         "english": "report, presentation, essay"
-      },
-      {
-         "chinese": "講課",
-         "jyutping": "gong2 fo3",
-         "pinyin": "jiǎng kè",
-         "english": "lecture"
-      },
-      {
-         "chinese": "測驗",
-         "jyutping": "cak1 jim6",
-         "pinyin": "cè yàn",
-         "english": "test, to test"
-      },
-      {
-         "chinese": "考試",
-         "chinese_variation": "攷試", 
-         "jyutping": "haau2 si3",
-         "pinyin": "kǎo shì",
-         "english": "exam, to take an exam"
-      },
-      {
-         "chinese": "研究",
-         "jyutping": "jin4 gau3",
-         "pinyin": "yán jiū",
-         "english": "research, to research"
-      },
-      {
-         "chinese": "課時",
-         "jyutping": "fo3 si4",
-         "pinyin": "kè shí",
-         "english": "class, period"
-      },
-      {
-         "chinese": "課室",
-         "jyutping": "fo3 sat1",
-         "pinyin": "kè shì",
-         "english": "classroom"
-      },
-      {
-         "chinese": "教授",
-         "jyutping": "gaau3 sau6",
-         "pinyin": "jiào shòu",
-         "english": "professor"
-      },
-      {
-         "chinese": "老師",
-         "jyutping": "lou5 si1",
-         "pinyin": "lǎo shī",
-         "english": "teacher"
-      },
-      {
-         "chinese": "導師",
-         "jyutping": "dou6 si1",
-         "pinyin": "dǎo shī",
-         "english": "tutor, teacher, mentor"
-      },
-      {
-         "chinese": "講師",
-         "jyutping": "gong2 si1",
-         "pinyin": "jiǎng shī",
-         "english": "instructor, lecturer"
-      },
-      {
-         "chinese": "教授",
-         "jyutping": "gaau3 sau6",
-         "pinyin": "jiào shòu",
-         "english": "professor"
-      },
-      {
-         "chinese": "學生",
-         "jyutping": "hok6 sang1",
-         "pinyin": "xué sheng",
-         "english": "student"
-      },
-      {
-         "chinese": "鉛筆",
-         "jyutping": "jyun4 bat1",
-         "pinyin": "qiān bǐ",
-         "english": "pencil"
-      },
-      {
-         "chinese": "擦膠",
-         "jyutping": "caat3 gaau1",
-         "pinyin": "cā jiāo",
-         "english": "eraser"
-      },
-      {
-         "chinese": "筆記",
-         "jyutping": "bat1 gei3",
-         "pinyin": "bǐ jì",
-         "english": "notebook"
-      },
-      {
-         "chinese": "課本",
-         "jyutping": "fo3 bun2",
-         "pinyin": "kè běn",
-         "english": "textbook"
-      },
-      {
-         "chinese": "書包",
-         "jyutping": "syu1 baau1",
-         "pinyin": "shū bāo",
-         "english": "backpack"
-      },
-      {
-         "chinese": "學費",
-         "jyutping": "hok6 fai3",
-         "pinyin": "xué fèi",
-         "english": "tution, tuition fee"
-      },
-      {
-         "chinese": "學家",
-         "jyutping": "hok6 gaa1",
-         "pinyin": "xué jiā",
-         "english": "scholar"
-      },
-      {
-         "chinese": "學期",
-         "jyutping": "hok6 kei4",
-         "pinyin": "xué qī",
-         "english": "semester, term"
-      },
-      {
-         "chinese": "主修",
-         "jyutping": "zyu2 sau1",
-         "pinyin": "zhǔ xiū",
-         "english": "major (of university)"
-      },
-      {
-         "chinese": "教學",
-         "jyutping": "gaau3 hok6",
-         "pinyin": "jiào xué",
-         "english": "teaching, education, instruction"
-      },
-      {
-         "chinese": "心得",
-         "jyutping": "sam1 dak1",
-         "pinyin": "xīn dé",
-         "english": "what one has learned, knowledge, understanding"
-      },
-      {
-         "chinese": "學分",
-         "jyutping": "hok6 fan1",
-         "pinyin": "xué fēn",
-         "english": "course credit"
-      },
-      {
-        "chinese": "學位",
-        "jyutping": "hok6 wai2",
-        "pinyin": "xué wèi",
-        "english": "academic degree"
-      },
-      {
-         "chinese": "期中考",
-         "chinese_variation": "期中攷", 
-         "jyutping": "kei4 zung1 haau2",
-         "pinyin": "qī zhōng kǎo",
-         "english": "midterm exam"
-      },
-      {
-         "chinese": "期末考",
-         "jyutping": "kei4 mut6 haau2",
-         "pinyin": "qī mò kǎo",
-         "english": "final exam"
-      },
-      {
-         "chinese": "幼稚園",
-         "jyutping": "jau3 zi6 jyun2",
-         "pinyin": "yòu zhì yuán",
-         "english": "kindergarten"
-      },
-      {
-         "chinese": "計數機",
-         "jyutping": "gai3 sou3 gei1",
-         "pinyin": "jì suàn jī",
-         "english": "calculator"
-      },
-      {
-         "chinese": "研究學院",
-         "jyutping": "jin4 gau3 hok6 jyun2",
-         "pinyin": "yán jiū shēng yuàn",
-         "english": "graduate school<br>(lit. research college)"
-      }, 
-      {
-         "chinese": "社區學院",
-         "jyutping": "se5 keoi1 hok6 jyun6",
-         "pinyin": "shè qū xué yuàn",
-         "english": "community college"
-      }
-   ]
+  "name": "School",
+  "chinese": "學校",
+  "words": [
+    {
+      "chinese": "班",
+      "jyutping": "baan1",
+      "pinyin": "bān",
+      "english": "class, group"
+    },
+    {
+      "chinese": "紙",
+      "jyutping": "zi2",
+      "pinyin": "zhǐ",
+      "english": "paper"
+    },
+    {
+      "chinese": "筆",
+      "jyutping": "bat1",
+      "pinyin": "bǐ",
+      "english": "pen, pencil"
+    },
+    {
+      "chinese": "筆刨",
+      "jyutping": "bat1 paau4",
+      "pinyin": "bǐ bào",
+      "english": "pencil sharpener"
+    },
+    {
+      "chinese": "學校",
+      "jyutping": "hok6 haau6",
+      "pinyin": "xué xiào",
+      "english": "school"
+    },
+    {
+      "chinese": "小學",
+      "jyutping": "siu2 hok6",
+      "pinyin": "xiǎo xué",
+      "english": "elementary school"
+    },
+    {
+      "chinese": "中學",
+      "jyutping": "zung1 hok6",
+      "pinyin": "zhōng xué",
+      "english": "middle school"
+    },
+    {
+      "chinese": "高中",
+      "jyutping": "gou1 zung1",
+      "pinyin": "gāo zhōng",
+      "english": "high school"
+    },
+    {
+      "chinese": "大學",
+      "jyutping": "daai6 hok6",
+      "pinyin": "dà xué",
+      "english": "university"
+    },
+    {
+      "chinese": "功課",
+      "jyutping": "gung1 fo3",
+      "pinyin": "gōng kè",
+      "english": "homework"
+    },
+    {
+      "chinese": "作業",
+      "jyutping": "zok3 jip6",
+      "pinyin": "zuò yè",
+      "english": "schoolwork, assignment, homework"
+    },
+    {
+      "chinese": "文章",
+      "jyutping": "man4 zoeng1",
+      "pinyin": "wén zhāng",
+      "english": "essay, composition"
+    },
+    {
+      "chinese": "報告",
+      "jyutping": "bou3 gou3",
+      "pinyin": "bào gào",
+      "english": "report, presentation, essay"
+    },
+    {
+      "chinese": "講課",
+      "jyutping": "gong2 fo3",
+      "pinyin": "jiǎng kè",
+      "english": "lecture"
+    },
+    {
+      "chinese": "測驗",
+      "jyutping": "cak1 jim6",
+      "pinyin": "cè yàn",
+      "english": "test, to test"
+    },
+    {
+      "chinese": "考試",
+      "chinese_variation": "攷試",
+      "jyutping": "haau2 si3",
+      "pinyin": "kǎo shì",
+      "english": "exam, to take an exam"
+    },
+    {
+      "chinese": "研究",
+      "jyutping": "jin4 gau3",
+      "pinyin": "yán jiū",
+      "english": "research, to research"
+    },
+    {
+      "chinese": "課時",
+      "jyutping": "fo3 si4",
+      "pinyin": "kè shí",
+      "english": "class, period"
+    },
+    {
+      "chinese": "課室",
+      "jyutping": "fo3 sat1",
+      "pinyin": "kè shì",
+      "english": "classroom"
+    },
+    {
+      "chinese": "教授",
+      "jyutping": "gaau3 sau6",
+      "pinyin": "jiào shòu",
+      "english": "professor"
+    },
+    {
+      "chinese": "老師",
+      "jyutping": "lou5 si1",
+      "pinyin": "lǎo shī",
+      "english": "teacher"
+    },
+    {
+      "chinese": "導師",
+      "jyutping": "dou6 si1",
+      "pinyin": "dǎo shī",
+      "english": "tutor, teacher, mentor"
+    },
+    {
+      "chinese": "講師",
+      "jyutping": "gong2 si1",
+      "pinyin": "jiǎng shī",
+      "english": "instructor, lecturer"
+    },
+    {
+      "chinese": "教授",
+      "jyutping": "gaau3 sau6",
+      "pinyin": "jiào shòu",
+      "english": "professor"
+    },
+    {
+      "chinese": "學生",
+      "jyutping": "hok6 sang1",
+      "pinyin": "xué sheng",
+      "english": "student"
+    },
+    {
+      "chinese": "鉛筆",
+      "jyutping": "jyun4 bat1",
+      "pinyin": "qiān bǐ",
+      "english": "pencil"
+    },
+    {
+      "chinese": "擦膠",
+      "jyutping": "caat3 gaau1",
+      "pinyin": "cā jiāo",
+      "english": "eraser"
+    },
+    {
+      "chinese": "筆記",
+      "jyutping": "bat1 gei3",
+      "pinyin": "bǐ jì",
+      "english": "notebook"
+    },
+    {
+      "chinese": "課本",
+      "jyutping": "fo3 bun2",
+      "pinyin": "kè běn",
+      "english": "textbook"
+    },
+    {
+      "chinese": "書包",
+      "jyutping": "syu1 baau1",
+      "pinyin": "shū bāo",
+      "english": "backpack"
+    },
+    {
+      "chinese": "學費",
+      "jyutping": "hok6 fai3",
+      "pinyin": "xué fèi",
+      "english": "tution, tuition fee"
+    },
+    {
+      "chinese": "學家",
+      "jyutping": "hok6 gaa1",
+      "pinyin": "xué jiā",
+      "english": "scholar"
+    },
+    {
+      "chinese": "學期",
+      "jyutping": "hok6 kei4",
+      "pinyin": "xué qī",
+      "english": "semester, term"
+    },
+    {
+      "chinese": "主修",
+      "jyutping": "zyu2 sau1",
+      "pinyin": "zhǔ xiū",
+      "english": "major (of university)"
+    },
+    {
+      "chinese": "教學",
+      "jyutping": "gaau3 hok6",
+      "pinyin": "jiào xué",
+      "english": "teaching, education, instruction"
+    },
+    {
+      "chinese": "心得",
+      "jyutping": "sam1 dak1",
+      "pinyin": "xīn dé",
+      "english": "what one has learned, knowledge, understanding"
+    },
+    {
+      "chinese": "學分",
+      "jyutping": "hok6 fan1",
+      "pinyin": "xué fēn",
+      "english": "course credit"
+    },
+    {
+      "chinese": "學位",
+      "jyutping": "hok6 wai2",
+      "pinyin": "xué wèi",
+      "english": "academic degree"
+    },
+    {
+      "chinese": "期中考",
+      "chinese_variation": "期中攷",
+      "jyutping": "kei4 zung1 haau2",
+      "pinyin": "qī zhōng kǎo",
+      "english": "midterm exam"
+    },
+    {
+      "chinese": "期末考",
+      "jyutping": "kei4 mut6 haau2",
+      "pinyin": "qī mò kǎo",
+      "english": "final exam"
+    },
+    {
+      "chinese": "幼稚園",
+      "jyutping": "jau3 zi6 jyun2",
+      "pinyin": "yòu zhì yuán",
+      "english": "kindergarten"
+    },
+    {
+      "chinese": "計數機",
+      "jyutping": "gai3 sou3 gei1",
+      "pinyin": "jì suàn jī",
+      "english": "calculator"
+    },
+    {
+      "chinese": "研究學院",
+      "jyutping": "jin4 gau3 hok6 jyun2",
+      "pinyin": "yán jiū shēng yuàn",
+      "english": "graduate school<br>(lit. research college)"
+    },
+    {
+      "chinese": "社區學院",
+      "jyutping": "se5 keoi1 hok6 jyun6",
+      "pinyin": "shè qū xué yuàn",
+      "english": "community college"
+    },
+    {
+      "chinese": "畢業生",
+      "jyutping": "bat1 jip6 saang1",
+      "pinyin": "bì​ yè​ shēng",
+      "english": "graduate"
+    }
+  ]
 }

@@ -1334,6 +1334,31 @@
       "jyutping": "lok6 seoi2",
       "pinyin": "luò shuǐ",
       "english": "to rain"
+    },
+    {
+      "chinese": "鬥",
+      "chinese_variation": "鬪",
+      "jyutping": "dau3",
+      "pinyin": "dòu",
+      "english": "to fight, to struggle"
+    },
+    {
+      "chinese": "祝賀",
+      "jyutping": "zuk1 ho6",
+      "pinyin": "zhù hè",
+      "english": "to congratulate"
+    },
+    {
+      "chinese": "睡醒",
+      "jyutping": "seoi6 seng2",
+      "pinyin": "shuì xǐng",
+      "english": "to wake up"
+    },
+    {
+      "chinese": "嫌棄",
+      "jyutping": "jim4 hei3",
+      "pinyin": "xián qì",
+      "english": "to avoid, to dislike, to shun"
     }
   ]
 }

@@ -13,7 +13,7 @@ import sys
 
 def write_to_json(filename, word_data):
 
-  filename = "words/" + filename
+  filename = "words/" + filename + ".json"
 
   if len(word_data) == 5:
     fields = ("chinese", 

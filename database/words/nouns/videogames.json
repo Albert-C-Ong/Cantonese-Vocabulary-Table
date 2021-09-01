@@ -1,36 +1,48 @@
 {
-   "name": "Videogames", 
-   "chinese": "電腦遊戲", 
-   "words": [
-      {
-         "chinese": "電子競技",
-         "jyutping": "din6 zi2 ging3 gei6",
-         "pinyin": "diàn zǐ jìng jì",
-         "english": "e-sports"
-      },
-      {
-         "chinese": "我的世界",
-         "jyutping": "ngo5 di1 sai3 gaai3",
-         "pinyin": "wǒ de shì jiè",
-         "english": "Minecraft<br>(lit. my world)"
-      },
-      {
-         "chinese": "英雄聯盟",
-         "jyutping": "jing1 hung4 lyun4 mang4",
-         "pinyin": "yīng xióng lián méng",
-         "english": "League of Legends<br>(lit. hero league)"
-      },
-      {
-         "chinese": "火焰之纹章",
-         "jyutping": "fo2 jim4 zi1 man4 zoeng1",
-         "pinyin": "huǒ yàn zhī wén zhāng",
-         "english": "Fire Emblem"
-      },
-      {
-         "chinese": "聯盟戰棋",
-         "jyutping": "lyun4 mang4 zin3 kei4",
-         "pinyin": "lián méng zhàn qí",
-         "english": "Teamfight Tactics<br>(lit. league battle chess)"
-      }
-   ]
+  "name": "Videogames",
+  "chinese": "電腦遊戲",
+  "words": [
+    {
+      "chinese": "電子競技",
+      "jyutping": "din6 zi2 ging3 gei6",
+      "pinyin": "diàn zǐ jìng jì",
+      "english": "e-sports"
+    },
+    {
+      "chinese": "我的世界",
+      "jyutping": "ngo5 di1 sai3 gaai3",
+      "pinyin": "wǒ de shì jiè",
+      "english": "Minecraft<br>(lit. my world)"
+    },
+    {
+      "chinese": "英雄聯盟",
+      "jyutping": "jing1 hung4 lyun4 mang4",
+      "pinyin": "yīng xióng lián méng",
+      "english": "League of Legends<br>(lit. hero league)"
+    },
+    {
+      "chinese": "火焰之纹章",
+      "jyutping": "fo2 jim4 zi1 man4 zoeng1",
+      "pinyin": "huǒ yàn zhī wén zhāng",
+      "english": "Fire Emblem"
+    },
+    {
+      "chinese": "聯盟戰棋",
+      "jyutping": "lyun4 mang4 zin3 kei4",
+      "pinyin": "lián méng zhàn qí",
+      "english": "Teamfight Tactics<br>(lit. league battle chess)"
+    },
+    {
+      "chinese": "任天堂",
+      "jyutping": "jam4 tin1 tong4",
+      "pinyin": "rèn ​tiān ​táng",
+      "english": "Nintendo"
+    },
+    {
+      "chinese": "任天堂明星大亂鬥系列",
+      "jyutping": "jam4 tin1 tong4 ming4 daai6 lyun6 dau3 sing1 hai6 lit6",
+      "pinyin": "rèn ​tiān ​táng míng​ xīng dà luàn dòu xì liè",
+      "english": "Super Smash Bros."
+    }
+  ]
 }
