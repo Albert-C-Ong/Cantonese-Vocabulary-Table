@@ -65,7 +65,7 @@ function print_categories($categories,
     $tail = "</li>" . str_repeat("</ul>", $tab);
     $incomplete_tag = ($incomplete ? "(incomplete)" : ""); 
     
-    echo "$head<a href='#$category_link'>$name ($chinese) $incomplete_tag</a>$tail\n";
+    echo "$head<a href='#$category_link'>$name ($chinese) $incomplete_tag $count</a>$tail\n";
     
     $count += 1; 
     
@@ -128,21 +128,51 @@ function print_words($categories,
     usort($sorted_words, "cmp_word"); 
     
     if ($name != "Resources") {
-      echo 
-      "<h$tab id='$formatted_name'>$name ($chinese)</h$tab>
-        <table>
-        <tr>
-          <th>Trad. Chinese <br>正體中文</th>
-          <th>Jyutping <br>粵拼</th>
-          <th>Pinyin <br>拼音 </th>
-          <th>English <br>英文</th>
-        </tr>"; 
+      //~ echo 
+      //~ "<h$tab id='$formatted_name'>$name ($chinese)</h$tab>
+        //~ <table>
+        //~ <tr>
+          //~ <th>Trad. Chinese <br>正體中文</th>
+          //~ <th>Jyutping <br>粵拼</th>
+          //~ <th>Pinyin <br>拼音 </th>
+          //~ <th>English <br>英文</th>
+        //~ </tr>"; 
 
       foreach ($sorted_words as $word) {
-        echo $word -> to_table_row(); 
+        
+        $chinese = $word -> chinese; 
+        $chinese_variation = $word -> chinese_variation; 
+        $chinese_variation = $chinese_variation != null ? "'$chinese_variation'" : "NULL"; 
+        $jyutping = $word -> jyutping; 
+        $pinyin = $word -> pinyin; 
+        $english = str_replace("'", "%27", $word -> english); 
+        
+        $word_category = "'$name'"; 
+        $subcategory = "NULL"; 
+        $subcategory2 = "NULL";
+        
+        
+        $parents_str = substr($directory, 17, -1);
+        
+        if ($parents_str != "") {
+          $parents = explode("/", substr($directory, 17, -1)); 
+          
+          if (sizeof($parents) == 2) {
+            $word_category = "'" . ucfirst($parents[1]) . "'";
+            $subcategory = "'$name'"; 
+          }
+          else {
+            $word_category = "'" . ucfirst($parents[1]) . "'";
+            $subcategory = "'" . ucfirst($parents[2]) . "'";
+            $subcategory2 = "'$name'";  
+          }
+        }
+        
+        //~ echo "('$chinese', $word_category), <br>";
+        echo "('$chinese', $chinese_variation, '$jyutping', '$pinyin', '$english', $word_category, $subcategory, $subcategory2),<br>"; 
       }
 
-      echo "</table>"; 
+      //~ echo "</table>"; 
     }
     
     else {

@@ -55,14 +55,65 @@ function print_category($category) {
   
   <?php
   
-  $database = $_GET["database"]; 
+  $db = new SQLite3('../database/database.db');
   
-  if ($database != "resources") {
-    $directory = "../database/words/" . str_replace(" ", "_", $database) . ".json"; 
-    $category_file = file_get_contents($directory);
-    $category = json_decode($category_file, true);
+  $category_name = $_GET["category_name"]; 
+  
+  $res = $db -> query("SELECT * FROM categories WHERE name IS '$category_name'");
+  
+  $category_data = $res -> fetchArray(); 
+  $category_chinese_name = $category_data[1];
+  $category_parent = $category_data[2];
+  
+  $category = $category_name; 
+  $subcategory = "NULL"; 
+  $subcategory2 = "NULL"; 
+  
+  if ($category_parent != NULL) {
+    
+    $category = $category_parent; 
+    $subcategory = "'$category_name'";
+    
+    $res = $db -> query("SELECT parent FROM categories WHERE name IS '$category_parent'");
+    $category_parent = $res -> fetchArray()[0];
+  }
+  
+  
+  if ($category_parent != NULL) {
+    $subcategory2 = "'$category_name'"; 
+    $subcategory = "'$category'";
+    $category = $category_parent; 
+  }
+  
+  
+  if ($category_name != "Resources") {
+    
+    echo 
+  "<h1>$category_name ($category_chinese_name)</h1>
+    <table>
+    <tr>
+      <th>Trad. Chinese <br>正體中文</th>
+      <th>Jyutping <br>粵拼</th>
+      <th>Pinyin <br>拼音 </th>
+      <th>English <br>英文</th>
+    </tr>"; 
+    
+    $res = $db -> query("SELECT * FROM vocabulary WHERE category IS '$category' AND subcategory IS $subcategory AND subcategory2 IS $subcategory2");
+    
+    while ($word = $res -> fetchArray()) {
+      
+      $chinese = $word[0];
+      $chinese_variation = $word[1] != null ? "<br>" . $word[1] : null; 
+      $jyutping = $word[2];
+      $pinyin = $word[3];
+      $english = $word[4]; 
 
-    print_category($category); 
+      echo "<tr> 
+              <td>$chinese$chinese_variation</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
+            </tr>";
+    }
+
+    echo "</table>";
   }
   
   else {
