@@ -145,7 +145,7 @@ function print_words($categories,
         $chinese_variation = $chinese_variation != null ? "'$chinese_variation'" : "NULL"; 
         $jyutping = $word -> jyutping; 
         $pinyin = $word -> pinyin; 
-        $english = str_replace("'", "%27", $word -> english); 
+        $english = str_replace("'", "[apostrophe]", $word -> english); 
         
         $word_category = "'$name'"; 
         $subcategory = "NULL"; 

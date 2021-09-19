@@ -85,7 +85,6 @@ function print_category($category) {
     $category = $category_parent; 
   }
   
-  
   if ($category_name != "Resources") {
     
     echo 
