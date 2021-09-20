@@ -4,6 +4,8 @@
 Personal vocabulary table; designed to store vocabulary while learning Cantonese. 
 
 ## Technologies and Tools
+**Design**
+* [Inkscape](https://inkscape.org/) // Art assets
 
 **Front-end**
 * [HTML](https://html.spec.whatwg.org/multipage/)
@@ -11,11 +13,12 @@ Personal vocabulary table; designed to store vocabulary while learning Cantonese
 * [PHP](https://www.php.net/)
 
 **Back-end**
-* [XML](https://www.w3.org/TR/REC-xml/)
+* [SQLite](https://sqlite.org)
 
 **Et Cetera**
 * [GitHub](https://github.com/) // Version Control
-* [Brackets](http://brackets.io/) // IDE
+* [Geany](https://www.geany.org/) // IDE
+* [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [Apache HTTP Server](https://httpd.apache.org/)
 
 ## Acknowledgement

@@ -80,8 +80,6 @@ function print_categories($categories, $count = 1, $tab = 0) {
 
 <body>
   
-  <a href="homepage2.php">← List</a>
-  
   <h1>Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
 
   <form method="GET">

@@ -97,7 +97,13 @@ function print_category($category) {
       <th>English <br>英文</th>
     </tr>"; 
     
-    $res = $db -> query("SELECT * FROM vocabulary WHERE category IS '$category' AND subcategory IS $subcategory AND subcategory2 IS $subcategory2");
+    $query = "SELECT * FROM vocabulary 
+              WHERE category IS '$category' 
+              AND subcategory IS $subcategory 
+              AND subcategory2 IS $subcategory2
+              ORDER BY length(chinese), jyutping";
+    
+    $res = $db -> query($query);
     
     while ($word = $res -> fetchArray()) {
       
