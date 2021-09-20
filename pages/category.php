@@ -101,7 +101,7 @@ function print_category($category) {
               WHERE category IS '$category' 
               AND subcategory IS $subcategory 
               AND subcategory2 IS $subcategory2
-              ORDER BY length(chinese), jyutping";
+              ORDER BY length(chinese), priority, jyutping";
     
     $res = $db -> query($query);
     
