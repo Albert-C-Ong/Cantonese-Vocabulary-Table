@@ -5,8 +5,6 @@
  * Written by Albert Ong
  */ 
 
-//~ include "word_class.php"; 
-
 
 function print_categories($categories, $count = 1, $tab = 0) {
   
@@ -74,6 +72,7 @@ function print_categories($categories, $count = 1, $tab = 0) {
 
 <head>
   <title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title> 
+  
   <link rel="stylesheet" type="text/css" href="../assets/master.css">
   <link rel="icon" type="image/png" href="../assets/favicon.png">
 </head>

@@ -1,6 +1,8 @@
 <?php
-
-include "word_class.php"; 
+/* category.php
+ *
+ * Written by Albert Ong
+ */ 
 
 function print_category($category) {
   
@@ -44,7 +46,8 @@ function print_category($category) {
 <html>
 
 <head>
-  <title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title> 
+  <title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title>
+  
   <link rel="stylesheet" type="text/css" href="../assets/master.css">
   <link rel="icon" type="image/png" href="../assets/favicon.png">
 </head>
@@ -101,7 +104,7 @@ function print_category($category) {
               WHERE category IS '$category' 
               AND subcategory IS $subcategory 
               AND subcategory2 IS $subcategory2
-              ORDER BY length(chinese), priority, jyutping";
+              ORDER BY length(chinese), priority DESC, jyutping";
     
     $res = $db -> query($query);
     
