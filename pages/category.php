@@ -78,27 +78,11 @@ function print_category($category) {
     $category = "'$category_parent'"; 
     $subcategory = "'$category_name'"; 
   }
-
-  
-  //~ if ($category_parent != NULL) {
-    
-    //~ $category = $category_parent; 
-    //~ $subcategory = "'$category_name'";
-    
-    //~ $res = $db -> query("SELECT parent FROM categories WHERE name IS '$category_parent'");
-    //~ $category_parent = $res -> fetchArray()[0];
-  //~ }
-  
-  //~ if ($category_parent != NULL) {
-    //~ $subcategory2 = "'$category_name'"; 
-    //~ $subcategory = "'$category'";
-    //~ $category = $category_parent; 
-  //~ }
   
   if ($category_name != "Resources") {
     
     echo 
-  "<h1>$category_name ($category_chinese_name) $category_parent $category_parent2</h1>
+  "<h1>$category_name ($category_chinese_name)</h1>
     <table>
     <tr>
       <th>Trad. Chinese <br>正體中文</th>
