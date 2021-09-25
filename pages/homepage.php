@@ -25,6 +25,7 @@ function print_categories($categories, $count = 1, $tab = 0) {
     $name = $row["name"];
     $chinese = $row["chinese"];
     $parent = $row["parent"];
+    $parent2 = $row["parent2"];
     $incomplete = $row["incomplete"];
     
     $dividing_indices = array();  
@@ -42,8 +43,10 @@ function print_categories($categories, $count = 1, $tab = 0) {
     $head = "        " . str_repeat("<ul>", $tab) . "<li>";
     $tail = "</li>" . str_repeat("</ul>", $tab);
     $incomplete_tag = ($incomplete ? "(incomplete)" : ""); 
-  
-    echo "$head<a href='category.php?category_name=$name'>$name ($chinese) $incomplete_tag</a>$tail\n"; 
+    
+    $category_vars = "name=$name&parent=$parent&parent2=$parent2&chinese=$chinese";
+    
+    echo "$head<a href='category.php?$category_vars'>$name ($chinese) $incomplete_tag</a>$tail\n"; 
 
     $res = $db -> query("SELECT COUNT(*) FROM categories WHERE parent is '$name'");
     $has_subcategories = $res -> fetchArray()[0] != 0;

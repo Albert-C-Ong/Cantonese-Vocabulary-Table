@@ -60,38 +60,45 @@ function print_category($category) {
   
   $db = new SQLite3('../database/database.db');
   
-  $category_name = $_GET["category_name"]; 
-  
-  $res = $db -> query("SELECT * FROM categories WHERE name IS '$category_name'");
-  
-  $category_data = $res -> fetchArray(); 
-  $category_chinese_name = $category_data[1];
-  $category_parent = $category_data[2];
+  $category_name = $_GET["name"]; 
+  $category_parent = $_GET["parent"]; 
+  $category_parent2 = $_GET["parent2"]; 
+  $category_chinese_name = $_GET["chinese"]; 
   
   $category = $category_name; 
   $subcategory = "NULL"; 
   $subcategory2 = "NULL"; 
   
-  if ($category_parent != NULL) {
-    
-    $category = $category_parent; 
-    $subcategory = "'$category_name'";
-    
-    $res = $db -> query("SELECT parent FROM categories WHERE name IS '$category_parent'");
-    $category_parent = $res -> fetchArray()[0];
-  }
-  
-  
-  if ($category_parent != NULL) {
+  if ($category_parent2 != NULL) {
+    $category = "'$category_parent2'"; 
+    $subcategory = "'$category_parent'"; 
     $subcategory2 = "'$category_name'"; 
-    $subcategory = "'$category'";
-    $category = $category_parent; 
   }
+  else {
+    $category = "'$category_parent'"; 
+    $subcategory = "'$category_name'"; 
+  }
+
+  
+  //~ if ($category_parent != NULL) {
+    
+    //~ $category = $category_parent; 
+    //~ $subcategory = "'$category_name'";
+    
+    //~ $res = $db -> query("SELECT parent FROM categories WHERE name IS '$category_parent'");
+    //~ $category_parent = $res -> fetchArray()[0];
+  //~ }
+  
+  //~ if ($category_parent != NULL) {
+    //~ $subcategory2 = "'$category_name'"; 
+    //~ $subcategory = "'$category'";
+    //~ $category = $category_parent; 
+  //~ }
   
   if ($category_name != "Resources") {
     
     echo 
-  "<h1>$category_name ($category_chinese_name)</h1>
+  "<h1>$category_name ($category_chinese_name) $category_parent $category_parent2</h1>
     <table>
     <tr>
       <th>Trad. Chinese <br>正體中文</th>
@@ -101,7 +108,7 @@ function print_category($category) {
     </tr>"; 
     
     $query = "SELECT * FROM vocabulary 
-              WHERE category IS '$category' 
+              WHERE category IS $category 
               AND subcategory IS $subcategory 
               AND subcategory2 IS $subcategory2
               ORDER BY length(chinese), priority DESC, jyutping";
