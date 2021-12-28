@@ -65,18 +65,23 @@ function print_category($category) {
   $category_parent2 = $_GET["parent2"]; 
   $category_chinese_name = $_GET["chinese"]; 
   
-  $category = $category_name; 
-  $subcategory = "NULL"; 
-  $subcategory2 = "NULL"; 
   
-  if ($category_parent2 != NULL) {
+  if ($category_parent == NULL AND $category_parent2 == NULL) {
+    $category = "'$category_name'"; 
+    $subcategory = "NULL"; 
+    $subcategory2 = "NULL"; 
+  }
+  
+  else if ($category_parent != NULL AND $category_parent2 == NULL){
+    $category = "'$category_parent'"; 
+    $subcategory = "'$category_name'";
+    $subcategory2 = "NULL";  
+  }
+  
+  else if ($category_parent != NULL AND $category_parent2 != NULL) {
     $category = "'$category_parent2'"; 
     $subcategory = "'$category_parent'"; 
     $subcategory2 = "'$category_name'"; 
-  }
-  else {
-    $category = "'$category_parent'"; 
-    $subcategory = "'$category_name'"; 
   }
   
   if ($category_name != "Resources") {
@@ -85,17 +90,24 @@ function print_category($category) {
   "<h1>$category_name ($category_chinese_name)</h1>
     <table>
     <tr>
-      <th>Trad. Chinese <br>正體中文</th>
-      <th>Jyutping <br>粵拼</th>
-      <th>Pinyin <br>拼音 </th>
-      <th>English <br>英文</th>
+      <th>Trad. Chinese<br>正體中文</th>
+      <th>Jyutping<br>粵拼</th>
+      <th>Pinyin<br>拼音 </th>
+      <th>English<br>英文</th>
     </tr>"; 
     
+    if ($subcategory2 == "'States'") {
+      $order = "priority ASC, english";
+    }
+    else {
+      $order = "length(chinese), priority DESC, jyutping";
+    }
+
     $query = "SELECT * FROM vocabulary 
               WHERE category IS $category 
               AND subcategory IS $subcategory 
               AND subcategory2 IS $subcategory2
-              ORDER BY length(chinese), priority DESC, jyutping";
+              ORDER BY $order";
     
     $res = $db -> query($query);
     

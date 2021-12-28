@@ -6,16 +6,15 @@ ORDER BY english;
 -- (chinese, chinese_variation, jyutping, pinyin, english, category, subcategory, subcategory2, priority)
 -- ("", NULL, "", "", "", "", "", NULL, NULL), 
 INSERT INTO vocabulary VALUES
-  ("鄉村音樂", NULL, "heong1 cyun1 jam1 ngok6", "xiāng​ cūn​ yīn​ yuè", "country music", "Nouns", "Music", "Genres", NULL), 
-  ("饒舌", NULL, "jiu4 sit6", "ráo shé", "rap (music)", "Nouns", "Music", "Genres", NULL), 
-  ("搖滾", NULL, "jiu4 gwan2", "yáo​ gǔn", "rock and roll (music)", "Nouns", "Music", "Genres", NULL), 
-  ("", NULL, "", "", "", "Nouns", "Music", "Genres", NULL), 
-  ("", NULL, "", "", "", "Nouns", "Music", "Genres", NULL), 
-  ("", NULL, "", "", "", "Nouns", "Music", "Genres", NULL), 
-  ("", NULL, "", "", "", "", "", NULL, NULL), 
-  ("", NULL, "", "", "", "", "", NULL, NULL), 
-  ("", NULL, "", "", "", "", "", NULL, NULL), 
-  ("", NULL, "", "", "", "", "", NULL, NULL), 
+  ("辣椒粉", NULL, "laat6 ziu1 fan2", "là​ jiāo fén", "chili powder", "Nouns", "Food", "Seasoning", NULL), 
+  ("香菜", NULL, "xiang1 cai4", "xiāng cài", "coriander", "Nouns", "Food", "Seasoning", NULL), 
+  ("孜然", NULL, "zi1 jin4", "zī rán", "cumin", "Nouns", "Food", "Seasoning", NULL), 
+  ("紅甜澆粉", NULL, "hung4 tim4 ziu1 fan2", "hóng​ tián​ jiāo​ fěn", "paprika", "Nouns", "Food", "Seasoning", NULL), 
+  ("蒔蘿", NULL, "si4 lo4", "shí luó", "dill", "Nouns", "Food", "Seasoning", NULL), 
+  ("", NULL, "", "", "", "Nouns", "Food", "Seasoning", NULL), 
+  ("", NULL, "", "", "", "Nouns", "Food", "Seasoning", NULL), 
+  ("", NULL, "", "", "", "Nouns", "Food", "Seasoning", NULL), 
+  ("", NULL, "", "", "", "Nouns", "Food", "Seasoning", NULL), 
   ("", NULL, "", "", "", "", "", NULL, NULL), 
   ("", NULL, "", "", "", "", "", NULL, NULL)
 ;
