@@ -52,7 +52,8 @@ function print_categories($categories, $count = 1, $tab = 0) {
     $has_subcategories = $res -> fetchArray()[0] != 0;
 
     if ($has_subcategories) {
-      $subcategories = $db -> query("SELECT * FROM categories WHERE parent is '$name'"); 
+      $subcategories = $db -> query("SELECT * FROM categories WHERE parent is '$name'
+                                     ORDER BY name"); 
       $count = print_categories($subcategories, $count + 1, $tab + 1); 
     }
     else {
