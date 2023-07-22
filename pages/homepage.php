@@ -82,25 +82,21 @@ function print_categories($categories, $count = 1, $tab = 0) {
 </head>
 
 <body>
-  
-  <h1>Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
+<h1>Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
 
-  <form method="GET">
-    <table class="table-of-contents">
-      <tr>
-        <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
-      </tr>
-      <tr>
-        <?php
-        $db = new SQLite3('../database/database.db');
-        
-        $categories = $db -> query("SELECT * FROM categories WHERE parent IS NULL");
-        print_categories($categories); 
-        ?>    
-      </tr>
-    </table>
-  </form>
-  
+<table class="table-of-contents">
+  <tr>
+    <td class="heading" colspan="4"><h2>Table of Contents (目錄)</h2></td>
+  </tr>
+  <tr>
+    <?php
+    $db = new SQLite3('../database/database.db');
+    
+    $categories = $db -> query("SELECT * FROM categories WHERE parent IS NULL");
+    print_categories($categories); 
+    ?>    
+  </tr>
+</table>
 </body>
 
 </html>
