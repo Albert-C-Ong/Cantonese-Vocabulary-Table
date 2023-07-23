@@ -1,4 +1,4 @@
 ## TODO
-* create search page
-* condense sub subcategories
+* search page and result page
+* implement bootstrap on homepage; rework master.css
 * experiment with running on docker
