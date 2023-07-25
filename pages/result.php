@@ -11,21 +11,11 @@
   <title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title>
   
   <link rel="icon" type="image/png" href="../assets/favicon.png">
+  <link rel="stylesheet" type="text/css" href="../assets/master.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
   <style>
-    .table-heading {
-        background-color: lightgray;
-    }
-    .text-black {
-      color: black;
-    }
-    .w-65 {
-      width: 65%;
-    }
-    h1 {
-      color: black;
-    }
+    
   </style>
 </head>
 
@@ -37,7 +27,7 @@
 <h1 class="text-center mt-3">Result</h1>
 
 <div class="container mt-4 w-65">
-  <table class="table table-bordered border-dark text-black rounded text-center">
+  <table class="table table-bordered border-dark text-black">
     <thead>
       <tr class="table-heading fs-6">
         <th>Trad. Chinese<br>正體中文</th>

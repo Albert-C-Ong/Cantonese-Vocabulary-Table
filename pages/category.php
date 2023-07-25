@@ -46,15 +46,29 @@ function print_category($category) {
 <html>
 
 <head>
-  <title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title>
-  
-  <link rel="stylesheet" type="text/css" href="../assets/master.css">
-  <link rel="icon" type="image/png" href="../assets/favicon.png">
+<title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="icon" type="image/png" href="../assets/favicon.png">
+
+<style>
+h1, h2, h3 {
+  color: black;
+  text-align: center;
+}
+
+.table-heading {
+  background-color: lightgray;
+}
+.text-black {
+  color: black;
+}
+</style>
 </head>
 
 <body>
-  
-  <a href="homepage.php">← Back</a>
+  <div class="mx-5 mt-4">
+    <a href="homepage.php">← Back</a>
+  </div>
   
   <?php
   
@@ -87,14 +101,15 @@ function print_category($category) {
   if ($category_name != "Resources") {
     
     echo 
-  "<h1>$category_name ($category_chinese_name)</h1>
-    <table>
-    <tr>
-      <th>Trad. Chinese<br>正體中文</th>
-      <th>Jyutping<br>粵拼</th>
-      <th>Pinyin<br>拼音 </th>
-      <th>English<br>英文</th>
-    </tr>"; 
+    "<div class='container mt-3 w-75'>
+      <h1>$category_name ($category_chinese_name)</h1>
+      <table class='table table-bordered border-dark text-black mt-4'>
+      <tr class='table-heading'>
+        <th>Trad. Chinese<br>正體中文</th>
+        <th>Jyutping<br>粵拼</th>
+        <th>Pinyin<br>拼音 </th>
+        <th>English<br>英文</th>
+      </tr>"; 
     
     if ($subcategory2 == "'States'") {
       $order = "priority ASC, english";
@@ -124,7 +139,7 @@ function print_category($category) {
             </tr>";
     }
 
-    echo "</table>";
+    echo "</table></div>";
   }
   
   else {
