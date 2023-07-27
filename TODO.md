@@ -1,4 +1,6 @@
 ## TODO
 * experiment with running on docker
-* convert resources section to bottom navbar
-* implement CSS for category.php
+* update README geany -> visual studio code
+* implement no result page
+* add category visibility to result page
+* rename school verbs category

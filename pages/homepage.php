@@ -34,7 +34,7 @@ function print_categories($categories, $count = 1, $tab = 0) {
     $columns = 4;
     
     for ($i = 1; $i < $columns; $i++) {
-      $dividing_index = (floor($total_categories / $columns) * $i) + 1; 
+      $dividing_index = (floor($total_categories / $columns) * $i) + 2; 
       array_push($dividing_indices, $dividing_index);
     }
     
@@ -44,11 +44,11 @@ function print_categories($categories, $count = 1, $tab = 0) {
         echo "$head</td>\n<td>$tail"; 
     } 
 
-    $incomplete_tag = ($incomplete ? "(incomplete)" : ""); 
+    $incomplete_tag = ($incomplete ? "<span title='incomplete'>*</span>" : ""); 
     
     $category_vars = "name=$name&parent=$parent&parent2=$parent2&chinese=$chinese";
     
-    echo "<li><a href='category.php?$category_vars'>$name ($chinese) $incomplete_tag</a></li>\n"; 
+    echo "<li><a href='category.php?$category_vars'>$name ($chinese)$incomplete_tag</a></li>\n"; 
 
     $res = $db -> query("SELECT COUNT(*) FROM categories WHERE parent is '$name'");
     $has_subcategories = $res -> fetchArray()[0] != 0;
@@ -92,18 +92,27 @@ h1, h2, h3 {
   text-align: center;
 }
 
-.table-heading {
+a {
+  text-decoration: none;
+}
+
+.bg-lightgray {
   background-color: lightgray;
 }
+
 .text-black {
   color: black;
 }
 
-ul {
+.navbar .navbar-text {
+  color: black;
+}
+
+.table ul {
   margin-left: -15px;
 }
 
-ul ul {
+.table ul ul {
   margin-left: -20px;
 }
 </style>
@@ -118,8 +127,8 @@ ul ul {
 <h1 class="mt-2">Cantonese Vocabulary Table<br>廣東話詞彙圖表</h1>
 
 <div class="container w-100">
-  <table class="table table-bordered border-dark text-black mt-5">
-    <tr class="table-heading">
+  <table class="table table-bordered border-dark text-black mt-4 mb-5">
+    <tr class="bg-lightgray">
       <td colspan="4"><h3>Table of Contents (目錄)</h3></td>
     </tr>
     <tr>
@@ -132,6 +141,24 @@ ul ul {
     </tr>
   </table>
 </div>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-lightgray h-25">
+  <div class="container align-bottom">
+    <div class="navbar-collapse ">
+        <ul>
+        Resources
+          <li><a target="_blank" href="http://www.cantonese.sheik.co.uk/">cantonese.sheik.co.uk</a></li>
+          <li><a target="_blank" href="https://www.mdbg.net/chinese/dictionary">mdbg.net</a></li>
+          <li><a target="_blank" href="http://mylanguages.org/learn_cantonese.php">mylanguages.org</a></li>
+          <li><a target="_blank" href="https://cantonese.ca/">cantonese.ca</a></li>
+        </ul>
+      <div class="text-end ms-auto">
+        <span title="testing testing 123">Created by Albert Ong</span><br>
+        <img src="../assets/github_icon.png" height="18px"><a target="_blank" href="https://github.com/Albert-C-Ong/Cantonese-Vocabulary-Table">GitHub</a>
+      </div>
+    </div>
+  </div>
+</nav>
 </body>
 
 </html>

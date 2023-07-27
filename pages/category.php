@@ -98,61 +98,48 @@ h1, h2, h3 {
     $subcategory2 = "'$category_name'"; 
   }
   
-  if ($category_name != "Resources") {
+  // if ($category_name != "Resources") {
     
-    echo 
-    "<div class='container mt-3 w-75'>
-      <h1>$category_name ($category_chinese_name)</h1>
-      <table class='table table-bordered border-dark text-black mt-4'>
-      <tr class='table-heading'>
-        <th>Trad. Chinese<br>正體中文</th>
-        <th>Jyutping<br>粵拼</th>
-        <th>Pinyin<br>拼音 </th>
-        <th>English<br>英文</th>
-      </tr>"; 
-    
-    if ($subcategory2 == "'States'") {
-      $order = "priority ASC, english";
-    }
-    else {
-      $order = "length(chinese), priority DESC, jyutping";
-    }
-
-    $query = "SELECT * FROM vocabulary 
-              WHERE category IS $category 
-              AND subcategory IS $subcategory 
-              AND subcategory2 IS $subcategory2
-              ORDER BY $order";
-    
-    $res = $db -> query($query);
-    
-    while ($word = $res -> fetchArray()) {
-      
-      $chinese = $word[0];
-      $chinese_variation = $word[1] != null ? "<br>" . $word[1] : null; 
-      $jyutping = $word[2];
-      $pinyin = $word[3];
-      $english = $word[4]; 
-
-      echo "<tr> 
-              <td>$chinese$chinese_variation</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
-            </tr>";
-    }
-
-    echo "</table></div>";
-  }
+  echo 
+  "<div class='container mt-3 w-75'>
+    <h1>$category_name ($category_chinese_name)</h1>
+    <table class='table table-bordered border-dark text-black mt-4 mb-5'>
+    <tr class='table-heading'>
+      <th>Trad. Chinese<br>正體中文</th>
+      <th>Jyutping<br>粵拼</th>
+      <th>Pinyin<br>拼音 </th>
+      <th>English<br>英文</th>
+    </tr>"; 
   
-  else {
-    echo 
-    "<h1>Resources (資源)</h1>
-     <ul>
-    <li><a target = '_blank' href='http://www.cantonese.sheik.co.uk/'>cantonese.sheik.co.uk</a></li>
-    <li><a target = '_blank' href='https://www.mdbg.net/chinese/dictionary'>mdbg.net</a></li>
-    <li><a target = '_blank' href='http://mylanguages.org/learn_cantonese.php'>mylanguages.org</a></li>
-    <li><a target = '_blank' href='https://cantonese.ca/'>cantonese.ca</a></li>
-    <li><a target = '_blank' href='https://www.cantoneseclass101.com/cantonese-dictionary/'>cantoneseclass101.com</a></li>
-    </ul>"; 
+  if ($subcategory2 == "'States'") {
+    $order = "priority ASC, english";
   }
+  else {
+    $order = "length(chinese), priority DESC, jyutping";
+  }
+
+  $query = "SELECT * FROM vocabulary 
+            WHERE category IS $category 
+            AND subcategory IS $subcategory 
+            AND subcategory2 IS $subcategory2
+            ORDER BY $order";
+  
+  $res = $db -> query($query);
+  
+  while ($word = $res -> fetchArray()) {
+    
+    $chinese = $word[0];
+    $chinese_variation = $word[1] != null ? "<br>" . $word[1] : null; 
+    $jyutping = $word[2];
+    $pinyin = $word[3];
+    $english = $word[4]; 
+
+    echo "<tr> 
+            <td>$chinese$chinese_variation</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
+          </tr>";
+  }
+
+  echo "</table></div>";
   ?>
 </body>
 

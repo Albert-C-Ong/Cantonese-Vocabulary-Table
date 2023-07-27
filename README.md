@@ -17,7 +17,7 @@ Personal vocabulary table; designed to store vocabulary while learning Cantonese
 
 **Et Cetera**
 * [GitHub](https://github.com/) // Version Control
-* [Geany](https://www.geany.org/) // IDE
+* [Visual Studio Code](https://code.visualstudio.com/) // IDE
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [Apache HTTP Server](https://httpd.apache.org/)
 
