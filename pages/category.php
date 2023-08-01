@@ -97,8 +97,6 @@ h1, h2, h3 {
     $subcategory = "'$category_parent'"; 
     $subcategory2 = "'$category_name'"; 
   }
-  
-  // if ($category_name != "Resources") {
     
   echo 
   "<div class='container mt-3 w-75'>
