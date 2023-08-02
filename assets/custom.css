@@ -1,0 +1,35 @@
+
+/* custom.css
+ *
+ * Written by Albert Ong
+ */
+
+h1, h2, h3 {
+  color: black;
+  text-align: center;
+}
+
+.bg-lightgray {
+  background-color: lightgray;
+}
+
+.logo {
+  height: 55px;
+}
+
+.mb-8 {
+  margin-bottom: 8rem;
+}
+
+.table-heading {
+  background-color: lightgray;
+}
+
+.text-black {
+  color: black;
+}
+
+.search-heading {
+  margin-left: 10px;
+  font-size: 45px;
+}

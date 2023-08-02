@@ -8,18 +8,13 @@
 <html>
 
 <head>
-  <title>Cantonese Vocabulary Table | 廣東話詞彙圖表</title>
+  <title>Cantonese Vocabulary Table | Result</title>
   
   <link rel="icon" type="image/png" href="../assets/favicon.png">
   <link rel="stylesheet" type="text/css" href="../assets/master.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
-  <style>
-  h1, h2, h3 {
-    color: black;
-    text-align: center;
-  }
-  </style>
+  <link rel="stylesheet" href="../assets/custom.css">
 </head>
 
 <body>
