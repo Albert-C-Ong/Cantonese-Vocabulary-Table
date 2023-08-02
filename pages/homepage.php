@@ -88,10 +88,6 @@ function print_categories($categories, $count = 1, $tab = 0) {
 <link rel="icon" type="image/png" href="../assets/favicon.png">
 <link rel="stylesheet" href="../assets/custom.css">
 <style>
-a {
-  text-decoration: none;
-}
-
 .navbar .navbar-text {
   color: black;
 }

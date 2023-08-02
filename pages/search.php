@@ -43,25 +43,6 @@
     </div>
   </div>
 </div>
-
-<!-- <div class="container">
-  <div class="row justify-content-center mt-10">
-    <div class="col-md-7">
-      <form action="result.php" method="get">
-        <div class="input-group">
-          <select class="form-select border" name="column">
-            <option value="english">English</option>
-            <option value="chinese">Chinese</option>
-          </select>
-          <input type="text" class="form-control border" name="search-word" placeholder="Search..." style="width: 65%" required>
-          <button type="submit" class="btn btn-light border">
-            <img src="../assets/search_icon.png" alt="search icon" height="20px">
-          </button>
-        </div>
-      </form>
-    </div>
-  </div>
-</div> -->
 </body>
 
 </html>
