@@ -4,6 +4,10 @@
  * Written by Albert Ong
  */
 
+body {
+  min-height: 100%;
+}
+
 h1, h2, h3 {
   color: black;
   text-align: center;
@@ -15,6 +19,10 @@ a {
 
 .bg-lightgray {
   background-color: lightgray;
+}
+
+.h-20 {
+  height: 20%;
 }
 
 .logo {

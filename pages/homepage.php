@@ -126,19 +126,22 @@ function print_categories($categories, $count = 1, $tab = 0) {
   </table>
 </div>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-lightgray h-25">
-  <div class="container align-bottom">
-    <div class="navbar-collapse ">
-        <ul>
-        Resources
-          <li><a target="_blank" href="http://www.cantonese.sheik.co.uk/">cantonese.sheik.co.uk</a></li>
-          <li><a target="_blank" href="https://www.mdbg.net/chinese/dictionary">mdbg.net</a></li>
-          <li><a target="_blank" href="http://mylanguages.org/learn_cantonese.php">mylanguages.org</a></li>
-          <li><a target="_blank" href="https://cantonese.ca/">cantonese.ca</a></li>
-        </ul>
-      <div class="text-end ms-auto">
-        <span title="testing testing 123">Created by Albert Ong</span><br>
-        <img src="../assets/github_icon.png" height="18px"><a target="_blank" href="https://github.com/Albert-C-Ong/Cantonese-Vocabulary-Table">GitHub</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-lightgray h-20 d-flex align-items-end" style="margin-top: 5%;">
+  <div class="container">
+    <div class="navbar-collapse">
+      <ul class="list-unstyled">
+      <li><strong>Resources</strong></li> 
+      <li>
+         <a target="_blank" href="http://www.cantonese.sheik.co.uk/">cantonese.sheik.co.uk</a>
+       • <a target="_blank" href="https://www.mdbg.net/chinese/dictionary">mdbg.net</a>
+       • <a target="_blank" href="http://mylanguages.org/learn_cantonese.php">mylanguages.org</a>
+       • <a target="_blank" href="https://cantonese.ca/">cantonese.ca</a>
+      </li>
+      </ul>
+      <div class="ms-auto mb-2 text-end">
+        <strong>Created by Albert Ong</strong><br>
+        <img src="../assets/github_icon.png" height="18px">
+        <a class="ml-5" target="_blank" href="https://github.com/Albert-C-Ong/Cantonese-Vocabulary-Table">GitHub</a>
       </div>
     </div>
   </div>

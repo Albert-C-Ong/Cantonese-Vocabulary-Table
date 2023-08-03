@@ -8,13 +8,13 @@
 <html>
 
 <head>
-  <title>Cantonese Vocabulary Table | Result</title>
-  
-  <link rel="icon" type="image/png" href="../assets/favicon.png">
-  <link rel="stylesheet" type="text/css" href="../assets/master.css">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
-  <link rel="stylesheet" href="../assets/custom.css">
+<title>Cantonese Vocabulary Table | Result</title>
+
+<link rel="icon" type="image/png" href="../assets/favicon.png">
+<link rel="stylesheet" type="text/css" href="../assets/master.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="../assets/custom.css">
 </head>
 
 <body>
@@ -43,7 +43,7 @@ $column = $_GET["column"];
 $search_word = $_GET["search-word"];
 
 $count_query = "SELECT COUNT(*) FROM vocabulary 
-                WHERE english LIKE '%$search_word%'";
+                WHERE $column LIKE '%$search_word%'";
 $count = $db -> query($count_query) -> fetchArray()[0];
 
 $has_result = $count != 0;
