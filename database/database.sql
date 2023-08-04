@@ -4,5 +4,6 @@
 INSERT INTO vocabulary VALUES
   ("", NULL, "", "", "", "", "", NULL, NULL), 
   ("", NULL, "", "", "", "", "", NULL, NULL), 
+  ("", NULL, "", "", "", "", "", NULL, NULL), 
   ("", NULL, "", "", "", "", "", NULL, NULL)
 ;
