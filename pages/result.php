@@ -65,35 +65,23 @@ if ($has_result) {
   $query = "SELECT * FROM vocabulary 
             WHERE $column LIKE '%$search_word%' 
             ORDER BY LENGTH(chinese), jyutping";
-
   $res = $db -> query($query);
 
   while ($word = $res -> fetchArray()) {
 
-    // TODO
-
-    // $column_names = array($chinese, $chinese_variation, $jyutping, $pinyin, 
-    //                       $english, $category, $subcategory, $subcategory2);
+    $column_names = array("chinese", "chinese_variation", "jyutping", 
+                          "pinyin", "english", "category", 
+                          "subcategory", "subcategory2");
     
-    // foreach ($column_names as $index => $column_name) {
+    foreach ($column_names as $index => $column_name) {
 
-    //   if ($column == "$chinese_variation") {
-    //     ${$column} = $word[$index] != null ? "<br>" . $word[$index] : null; 
-    //   }
-    //   else {
-    //     ${$column} = $word[$index];
-    //   }
-    // }
-
-    $chinese = $word[0];
-    $chinese_variation = $word[1] != null ? "<br>" . $word[1] : null; 
-    $jyutping = $word[2];
-    $pinyin = $word[3];
-    $english = $word[4]; 
-
-    $category = $word[5];
-    $subcategory = $word[6];
-    $subcategory2 = $word[7];
+      if ($column_name == "$chinese_variation") {
+        ${$column_name} = $word[$index] != null ? "<br>" . $word[$index] : null; 
+      }
+      else {
+        ${$column_name} = $word[$index];
+      }
+    }
 
     $categories = array_filter(array($category, $subcategory, $subcategory2));
     $categories_string = join(", ", $categories);

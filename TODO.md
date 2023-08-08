@@ -1,3 +1,4 @@
 ## TODO
 * experiment with running on docker
-* result.php -> create dynamic variables?
+* run on AWS again?
+* discrimination category is incomplete
