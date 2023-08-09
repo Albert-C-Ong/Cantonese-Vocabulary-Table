@@ -75,7 +75,7 @@ if ($has_result) {
     
     foreach ($column_names as $index => $column_name) {
 
-      if ($column_name == "$chinese_variation") {
+      if ($column_name == "chinese_variation") {
         ${$column_name} = $word[$index] != null ? "<br>" . $word[$index] : null; 
       }
       else {
