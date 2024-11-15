@@ -33,6 +33,8 @@
           <select class="form-select border" name="column">
             <option value="english">English</option>
             <option value="chinese">Chinese</option>
+            <option value="jyutping">Jyutping</option>
+            <option value="pinyin">Pinyin</option>
           </select>
           <input type="text" class="form-control border" name="search-word" placeholder="Search..." style="width: 65%" required>
           <button type="submit" class="btn btn-light border">

@@ -17,6 +17,13 @@
 <link rel="stylesheet" href="../assets/custom.css">
 </head>
 
+<?php
+$db = new SQLite3('../database/database.db');
+
+$column = $_GET["column"];
+$search_word = $_GET["search-word"];
+?>
+
 <body>
 <nav class="navbar navbar-expand-lg navbar-light pt-3">
   <div class="mx-5 mb-4">
@@ -25,8 +32,22 @@
   <form class="mt-3" action="result.php" method="get" style="width: 40%;">
     <div class="input-group" style="height: 45px;">
       <select class="form-select border" name="column">
-        <option value="english">English</option>
-        <option value="chinese">Chinese</option>
+        <option value="english" 
+          <?php if ($column == "english") echo "selected"; ?>>
+          English
+        </option>
+        <option value="chinese" 
+          <?php if ($column == "chinese") echo "selected"; ?>>
+          Chinese
+        </option>
+        <option value="jyutping" 
+          <?php if ($column == "jyutping") echo "selected"; ?>>
+          Jyutping
+        </option>
+        <option value="pinyin" 
+          <?php if ($column == "pinyin") echo "selected"; ?>>
+          Pinyin
+        </option>
       </select>
       <input type="text" class="form-control border w-50" name="search-word" placeholder="Search..." style="width: 65%" required>
       <button type="submit" class="btn btn-light border">
@@ -37,11 +58,6 @@
 </nav>
 
 <?php
-$db = new SQLite3('../database/database.db');
-
-$column = $_GET["column"];
-$search_word = $_GET["search-word"];
-
 $count_query = "SELECT COUNT(*) FROM vocabulary 
                 WHERE $column LIKE '%$search_word%'";
 $count = $db -> query($count_query) -> fetchArray()[0];
@@ -98,8 +114,8 @@ if ($has_result) {
 else {
   echo "<div class='text-center d-flex justify-content-center align-items-center h-50'>
           <div>
-            <h1 class='text-center'>‾\_(ツ)_/‾</h1>
-            <h3 class='text-center mt-3'>no results found</h3>
+            <h1 class='text-center m-4'>‾\_(ツ)_/‾</h1>
+            <h3 class='text-center'>no results found</h3>
           </div>
         </div>";
 }
