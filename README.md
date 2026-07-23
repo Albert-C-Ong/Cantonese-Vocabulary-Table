@@ -41,7 +41,7 @@ docker build -t cantonese-vocabulary-table:latest .
 ```
 Run a container
 ```
-docker run -d -p 80:80 --name cantonese-vocabulary-table cantonese-vocabulary-table
+docker run -d -p 80:80 --name cantonese-vocabulary-table --restart unless-stopped cantonese-vocabulary-table
 ```
 Verify that the container is running
 ```

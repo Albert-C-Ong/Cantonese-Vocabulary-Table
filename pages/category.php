@@ -64,6 +64,7 @@ $category_name = $_GET["name"];
 $category_parent = $_GET["parent"]; 
 $category_parent2 = $_GET["parent2"]; 
 $category_chinese_name = $_GET["chinese"]; 
+$category_icon = $_GET["icon"];
 
 
 if ($category_parent == NULL AND $category_parent2 == NULL) {
@@ -86,7 +87,7 @@ else if ($category_parent != NULL AND $category_parent2 != NULL) {
   
 echo 
 "<div class='container mt-3 w-75'>
-  <h1>$category_name ($category_chinese_name)</h1>
+  <h1>$category_icon $category_name $category_chinese_name</h1>
   <table class='table table-bordered border-dark text-black mt-4 mb-5'>
   <tr class='table-heading'>
     <th>Trad. Chinese<br>正體中文</th>

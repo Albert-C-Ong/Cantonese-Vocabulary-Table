@@ -29,6 +29,7 @@ function print_categories($categories, $count = 1, $tab = 0) {
     $parent = $row["parent"];
     $parent2 = $row["parent2"];
     $incomplete = $row["incomplete"];
+    $icon = $row["icon"];
     
     $dividing_indices = array();  
     $columns = 4;
@@ -46,7 +47,7 @@ function print_categories($categories, $count = 1, $tab = 0) {
 
     $incomplete_tag = ($incomplete ? "<span title='incomplete'>*</span>" : ""); 
     
-    $category_vars = "name=$name&parent=$parent&parent2=$parent2&chinese=$chinese";
+    $category_vars = "name=$name&parent=$parent&parent2=$parent2&chinese=$chinese&icon=$icon";
     
     echo "<li><a href='category.php?$category_vars'>$name ($chinese)$incomplete_tag</a></li>\n"; 
 
