@@ -4,6 +4,8 @@
  * Written by Albert Ong
  */ 
 
+require_once '../includes/functions.php';
+
 function print_category($category) {
   
   $name = $category["name"]; 
@@ -115,7 +117,7 @@ while ($word = $res -> fetchArray()) {
   
   $chinese = $word[0];
   $chinese_variation = $word[1] != null ? "<br>" . $word[1] : null; 
-  $jyutping = $word[2];
+  $jyutping = formatJyutpingTones($word[2]);
   $pinyin = $word[3];
   $english = $word[4]; 
 

@@ -58,6 +58,8 @@ $search_word = $_GET["search-word"];
 </nav>
 
 <?php
+require_once '../includes/functions.php';
+
 $count_query = "SELECT COUNT(*) FROM vocabulary 
                 WHERE $column LIKE '%$search_word%'";
 $count = $db -> query($count_query) -> fetchArray()[0];
@@ -101,6 +103,8 @@ if ($has_result) {
 
     $categories = array_filter(array($category, $subcategory, $subcategory2));
     $categories_string = join(", ", $categories);
+
+    $jyutping = formatJyutpingTones($jyutping);
   
     echo "<tr> 
             <td>$chinese$chinese_variation</td> 
