@@ -44,6 +44,36 @@ function print_category($category) {
 }
 ?>
 
+<script>
+async function playAudio(text, lang, btnElement) {
+  const originalText = btnElement.innerText;
+  btnElement.innerText = '⏳';
+  btnElement.disabled = true;
+
+  try {
+    const response = await fetch('generate_audio.php', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text: text, lang: lang })
+    });
+
+    const data = await response.json();
+
+    if (data.success) {
+      const audio = new Audio(data.audioUrl);
+      audio.play();
+    } else {
+      console.error('Audio generation error:', data.error);
+      alert('Failed to load audio.');
+    }
+  } catch (err) {
+    console.error('Network error:', err);
+  } finally {
+    btnElement.innerText = originalText;
+    btnElement.disabled = false;
+  }
+}
+</script>
 
 <html>
 
@@ -121,8 +151,21 @@ while ($word = $res -> fetchArray()) {
   $pinyin = $word[3];
   $english = $word[4]; 
 
+  $escapedChinese = htmlspecialchars($chinese, ENT_QUOTES);
+
+  $cantoneseBtn = "<div>$jyutping 
+    <button class='btn btn-light btn-sm shadow-none p-0 px-1 border-0' onclick=\"playAudio('$escapedChinese', 'cantonese', this)\">🔊</button>
+  </div>";
+
+  $mandarinBtn = "<div>$pinyin 
+    <button class='btn btn-light btn-sm shadow-none p-0 px-1 border-0' onclick=\"playAudio('$escapedChinese', 'mandarin', this)\">🔊</button>
+  </div>";
+
   echo "<tr> 
-          <td>$chinese$chinese_variation</td> <td>$jyutping</td> <td>$pinyin</td> <td>$english</td> 
+          <td>$chinese$chinese_variation</td> 
+          <td>$cantoneseBtn</td> 
+          <td>$mandarinBtn</td> 
+          <td>$english</td> 
         </tr>";
 }
 

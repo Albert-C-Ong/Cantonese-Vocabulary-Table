@@ -1,0 +1,5 @@
+*.pem
+database/*.sql
+/vendor/
+.env
+pages/audio/

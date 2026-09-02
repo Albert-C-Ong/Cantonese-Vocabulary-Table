@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/cloud-text-to-speech": "^2.8",
+        "vlucas/phpdotenv": "^5.7"
+    }
+}
